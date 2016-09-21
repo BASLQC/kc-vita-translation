@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_mapcellincentive_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_mapcellincentive>
+	<Id>161102000</Id>
+	<Mapcell_id>10</Mapcell_id>
+	<Event_id>2</Event_id>
+	<Success_level>0</Success_level>
+	<Incentive_no>0</Incentive_no>
+	<Choose_rate>0</Choose_rate>
+	<Material_id>1</Material_id>
+	<Material_count>100</Material_count>
+	<Req_item>68,75</Req_item>
+	<Req_item_point>20,10</Req_item_point>
+</mst_mapcellincentive>
+</mst_mapcellincentive_data>

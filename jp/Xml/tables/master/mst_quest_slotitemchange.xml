@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_quest_slotitemchange_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_quest_slotitemchange>
+	<Id>1</Id>
+	<New_slotitem_id>94</New_slotitem_id>
+	<Old_slotitem_id>93</Old_slotitem_id>
+	<Level_max>0</Level_max>
+	<Use_crew>0</Use_crew>
+</mst_quest_slotitemchange>
+<mst_quest_slotitemchange>
+	<Id>2</Id>
+	<New_slotitem_id>100</New_slotitem_id>
+	<Old_slotitem_id>99</Old_slotitem_id>
+	<Level_max>0</Level_max>
+	<Use_crew>0</Use_crew>
+</mst_quest_slotitemchange>
+<mst_quest_slotitemchange>
+	<Id>3</Id>
+	<New_slotitem_id>110</New_slotitem_id>
+	<Old_slotitem_id>109</Old_slotitem_id>
+	<Level_max>0</Level_max>
+	<Use_crew>0</Use_crew>
+</mst_quest_slotitemchange>
+<mst_quest_slotitemchange>
+	<Id>4</Id>
+	<New_slotitem_id>98</New_slotitem_id>
+	<Old_slotitem_id>16</Old_slotitem_id>
+	<Level_max>1</Level_max>
+	<Use_crew>1</Use_crew>
+</mst_quest_slotitemchange>
+<mst_quest_slotitemchange>
+	<Id>5</Id>
+	<New_slotitem_id>97</New_slotitem_id>
+	<Old_slotitem_id>23</Old_slotitem_id>
+	<Level_max>1</Level_max>
+	<Use_crew>1</Use_crew>
+</mst_quest_slotitemchange>
+<mst_quest_slotitemchange>
+	<Id>6</Id>
+	<New_slotitem_id>144</New_slotitem_id>
+	<Old_slotitem_id>143</Old_slotitem_id>
+	<Level_max>0</Level_max>
+	<Use_crew>0</Use_crew>
+</mst_quest_slotitemchange>
+<mst_quest_slotitemchange>
+	<Id>7</Id>
+	<New_slotitem_id>96</New_slotitem_id>
+	<Old_slotitem_id>20</Old_slotitem_id>
+	<Level_max>1</Level_max>
+	<Use_crew>1</Use_crew>
+</mst_quest_slotitemchange>
+<mst_quest_slotitemchange>
+	<Id>8</Id>
+	<New_slotitem_id>152</New_slotitem_id>
+	<Old_slotitem_id>96</Old_slotitem_id>
+	<Level_max>0</Level_max>
+	<Use_crew>0</Use_crew>
+</mst_quest_slotitemchange>
+<mst_quest_slotitemchange>
+	<Id>9</Id>
+	<New_slotitem_id>53</New_slotitem_id>
+	<Old_slotitem_id>22</Old_slotitem_id>
+	<Level_max>1</Level_max>
+	<Use_crew>0</Use_crew>
+</mst_quest_slotitemchange>
+<mst_quest_slotitemchange>
+	<Id>10</Id>
+	<New_slotitem_id>81</New_slotitem_id>
+	<Old_slotitem_id>79</Old_slotitem_id>
+	<Level_max>1</Level_max>
+	<Use_crew>0</Use_crew>
+</mst_quest_slotitemchange>
+</mst_quest_slotitemchange_data>

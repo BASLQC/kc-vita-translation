@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_maproute_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_maproute>
+	<No>2</No>
+	<Next>4,5,0,0</Next>
+</mst_maproute>
+<mst_maproute>
+	<No>6</No>
+	<Next>8,12,0,0</Next>
+</mst_maproute>
+</mst_maproute_data>

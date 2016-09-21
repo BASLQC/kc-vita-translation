@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_item_shop_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>1</Position_no>
+	<Item1>4,1</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>2</Position_no>
+	<Item1>4,2</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>3</Position_no>
+	<Item1>4,3</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>4</Position_no>
+	<Item1>4,4</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>5</Position_no>
+	<Item1>4,5</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>6</Position_no>
+	<Item1>4,6</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>7</Position_no>
+	<Item1>4,7</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>8</Position_no>
+	<Item1>4,8</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>9</Position_no>
+	<Item1>4,9</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>10</Position_no>
+	<Item1>4,10</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>11</Position_no>
+	<Item1>4,11</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>12</Position_no>
+	<Item1>4,12</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>13</Position_no>
+	<Item1>4,13</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>14</Position_no>
+	<Item1>4,14</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>15</Position_no>
+	<Item1>4,15</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>16</Position_no>
+	<Item1>4,16</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>17</Position_no>
+	<Item1>4,17</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>18</Position_no>
+	<Item1>4,18</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>19</Position_no>
+	<Item1>4,19</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>20</Position_no>
+	<Item1>4,20</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>21</Position_no>
+	<Item1>4,21</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>22</Position_no>
+	<Item1>4,22</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>1</Cabinet_no>
+	<Position_no>23</Position_no>
+	<Item1>4,23</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>1</Position_no>
+	<Item1>1,55</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>2</Position_no>
+	<Item1>1,57</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>3</Position_no>
+	<Item1>1,4</Item1>
+	<Item2>3,8</Item2>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>4</Position_no>
+	<Item1>1,58</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>5</Position_no>
+	<Item1>1,54</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>6</Position_no>
+	<Item1>1,56</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>7</Position_no>
+	<Item1>1,53</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>8</Position_no>
+	<Item1>1,66</Item1>
+	<Item2>2,145</Item2>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>9</Position_no>
+	<Item1>1,10</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>10</Position_no>
+	<Item1>1,12</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>11</Position_no>
+	<Item1>1,52</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>12</Position_no>
+	<Item1>1,59</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>13</Position_no>
+	<Item1>1,64</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>14</Position_no>
+	<Item1>1,67</Item1>
+	<Item2>2,146</Item2>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>15</Position_no>
+	<Item1>1,1</Item1>
+	<Item2>3,6</Item2>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>16</Position_no>
+	<Item1>1,2</Item1>
+	<Item2>3,5</Item2>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>17</Position_no>
+	<Item1>1,3</Item1>
+	<Item2>3,7</Item2>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>18</Position_no>
+	<Item1>1,49</Item1>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>19</Position_no>
+	<Item1>1,50</Item1>
+	<Item2>2,42</Item2>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>20</Position_no>
+	<Item1>1,51</Item1>
+	<Item2>2,43</Item2>
+</mst_item_shop>
+<mst_item_shop>
+	<Cabinet_no>3</Cabinet_no>
+	<Position_no>21</Position_no>
+	<Item1>1,70</Item1>
+</mst_item_shop>
+</mst_item_shop_data>

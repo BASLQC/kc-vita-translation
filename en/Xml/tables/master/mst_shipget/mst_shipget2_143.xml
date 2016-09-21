@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_shipget2_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_shipget2>
+	<Id>143100</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>163</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143101</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>425</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143102</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>161</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143103</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>81</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143104</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>138</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143105</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>116</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143106</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>74</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143107</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>78</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143108</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>86</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143109</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>79</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143110</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>85</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143111</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>62</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143112</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>66</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143113</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>67</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143114</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>75</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143115</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>92</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143116</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>21</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143117</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>22</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143118</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>23</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143119</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>53</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143120</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>68</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143121</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>69</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143122</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>63</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143123</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>64</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143124</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>65</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143125</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>51</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143126</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>52</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143127</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>38</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143128</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>39</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143129</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>40</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143130</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>41</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143131</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>17</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143132</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>18</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143133</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>19</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143134</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143135</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143136</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143137</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143138</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143139</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143140</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143141</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143142</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143143</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143144</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143145</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143146</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143147</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143148</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143149</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143150</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143151</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143152</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143153</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143154</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143155</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143156</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143157</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143158</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143159</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143160</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143161</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143162</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143163</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143164</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143165</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143166</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143167</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143168</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143169</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143170</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143171</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143172</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143173</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143174</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143175</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143176</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143177</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143178</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143179</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143180</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143181</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143182</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143183</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143184</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143185</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143186</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143187</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143188</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143189</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143190</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143191</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143192</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143193</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143194</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143195</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143196</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143197</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143198</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143199</Id>
+	<Type>1</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143200</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>163</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143201</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>425</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143202</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>111</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143203</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>161</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143204</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>80</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143205</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>81</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143206</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>111</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143207</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>110</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143208</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>91</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143209</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>90</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143210</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>110</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143211</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>138</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143212</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>116</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143213</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>74</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143214</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>78</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143215</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>86</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143216</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>79</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143217</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>85</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143218</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>77</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143219</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>87</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143220</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>62</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143221</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>66</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143222</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>67</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143223</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>75</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143224</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>92</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143225</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>76</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143226</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>68</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143227</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>69</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143228</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>63</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143229</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>64</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143230</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>65</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143231</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>74</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143232</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>21</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143233</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>22</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143234</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>23</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143235</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>53</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143236</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>25</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143237</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>93</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143238</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>15</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143239</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>94</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143240</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>16</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143241</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>51</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143242</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>52</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143243</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>38</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143244</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>39</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143245</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>40</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143246</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>41</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143247</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>17</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143248</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>18</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143249</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>19</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143250</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143251</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143252</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143253</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143254</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143255</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143256</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143257</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143258</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143259</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143260</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143261</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143262</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143263</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143264</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143265</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143266</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143267</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143268</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143269</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143270</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143271</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143272</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143273</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143274</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143275</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143276</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143277</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143278</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143279</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143280</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143281</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143282</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143283</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143284</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143285</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143286</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143287</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143288</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143289</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143290</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143291</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143292</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143293</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143294</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143295</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143296</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143297</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143298</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+<mst_shipget2>
+	<Id>143299</Id>
+	<Type>2</Type>
+	<Maparea_id>14</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Ship_id>0</Ship_id>
+</mst_shipget2>
+</mst_shipget2_data>

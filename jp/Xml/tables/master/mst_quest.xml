@@ -1,0 +1,2672 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_quest_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_quest>
+	<Id>101</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>601</Torigger>
+	<Name>はじめての「編成」！</Name>
+	<Details>2隻以上の艦で構成される「艦隊」を編成せよ！</Details>
+	<Get_1>11,1,10</Get_1>
+	<Mat>30,30,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>102</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>101</Torigger>
+	<Name>「駆逐隊」を編成せよ！</Name>
+	<Details>駆逐艦4隻以上で構成される「駆逐隊」を編成せよ！</Details>
+	<Get_1>1,1,5</Get_1>
+	<Mat>50,50,50,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>103</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>102</Torigger>
+	<Name>「水雷戦隊」を編成せよ！</Name>
+	<Details>軽巡洋艦を旗艦とし、数隻の駆逐艦で構成される「水雷戦隊」を編成せよ！</Details>
+	<Get_1>1,1,7</Get_1>
+	<Get_2>101,100,1</Get_2>
+	<Mat>60,60,0,30</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>104</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>103</Torigger>
+	<Name>大規模艦隊を編成せよ！</Name>
+	<Details>全6隻で構成される主力艦隊を編成せよ！</Details>
+	<Get_1>2,0,2</Get_1>
+	<Mat>70,0,70,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>105</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>103</Torigger>
+	<Name>軽巡2隻を擁する隊を編成せよ！</Name>
+	<Details>軽巡洋艦2隻を擁する高速艦隊を編成せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Mat>80,80,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>106</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>104,105</Torigger>
+	<Name>「重巡戦隊」を編成せよ！</Name>
+	<Details>重巡洋艦2隻を擁する重巡艦隊を編成せよ！</Details>
+	<Get_1>1,1,5</Get_1>
+	<Get_2>1,1,7</Get_2>
+	<Mat>0,100,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>107</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>106</Torigger>
+	<Name>「空母機動部隊」を編成せよ！</Name>
+	<Details>空母1隻以上を旗艦とし、その護衛艦艇と共に、空母機動部隊を編成せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Get_2>1,1,7</Get_2>
+	<Mat>100,0,100,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>108</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>105</Torigger>
+	<Name>「天龍」型軽巡姉妹の全２艦を編成せよ！</Name>
+	<Details>天龍型軽巡洋艦「天龍」「龍田」を同一艦隊に配属せよ！</Details>
+	<Get_1>1,2,5</Get_1>
+	<Get_2>101,100,1</Get_2>
+	<Mat>100,100,100,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>109</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>304,238</Torigger>
+	<Name>「川内」型軽巡姉妹の全３艦を編成せよ！</Name>
+	<Details>川内型軽巡洋艦「川内」「神通」「那珂」を同一艦隊に配属せよ！</Details>
+	<Get_1>2,0,5</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>0,0,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>110</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>109</Torigger>
+	<Name>「妙高」型重巡姉妹の全４隻を編成せよ！</Name>
+	<Details>妙高型重巡洋艦「妙高」「那智」「足柄」「羽黒」を同一艦隊に配属せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>1,1,6</Get_2>
+	<Mat>150,100,150,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>111</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>108</Torigger>
+	<Name>「扶桑」型戦艦姉妹の全２隻を編成せよ！</Name>
+	<Details>扶桑型戦艦「扶桑」「山城」を同一艦隊に配属せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>1,2,6</Get_2>
+	<Mat>200,200,200,200</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>112</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>111</Torigger>
+	<Name>「伊勢」型戦艦姉妹の全２隻を編成せよ！</Name>
+	<Details>伊勢型戦艦「伊勢」「日向」を同一艦隊に配属せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>1,2,6</Get_2>
+	<Mat>300,200,300,200</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>113</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>107</Torigger>
+	<Name>戦艦と重巡による主力艦隊を編成せよ！</Name>
+	<Details>戦艦1隻以上、重巡2隻以上を主力とした水上打撃艦隊を編成せよ！</Details>
+	<Get_1>1,2,5</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>0,200,200,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>114</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>113,118</Torigger>
+	<Name>「南雲機動部隊」を編成せよ！</Name>
+	<Details>一航戦「赤城」「加賀」二航戦「飛龍」「蒼龍」からなる第一機動部隊を編成せよ！</Details>
+	<Get_1>2,0,8</Get_1>
+	<Get_2>101,1000,1</Get_2>
+	<Mat>300,300,300,700</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>115</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>104</Torigger>
+	<Name>第2艦隊を編成せよ！</Name>
+	<Details>二つ目の艦隊、第2艦隊の旗艦を指定して、第2艦隊を編成せよ！</Details>
+	<Get_1>1,1,7</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>100,100,200,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>116</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>104</Torigger>
+	<Name>「水上機母艦」を配備せよ！</Name>
+	<Details>多数の水上偵察機を運用する「水上機母艦」を艦隊に配備せよ！</Details>
+	<Get_1>1,1,7</Get_1>
+	<Get_2>101,100,1</Get_2>
+	<Mat>0,0,0,200</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>117</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>215</Torigger>
+	<Name>第2艦隊で空母機動部隊を編成せよ！</Name>
+	<Details>第2艦隊に空母を配備して、空母機動部隊を編成せよ！</Details>
+	<Get_1>1,2,5</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>100,0,0,200</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>118</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>110,239</Torigger>
+	<Name>「金剛」型による高速戦艦部隊を編成せよ！</Name>
+	<Details>金剛型戦艦「金剛」「比叡」「榛名」「霧島」全4隻の高速戦艦を集中配備せよ！</Details>
+	<Get_1>2,0,7</Get_1>
+	<Get_2>101,400,1</Get_2>
+	<Mat>0,0,400,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>119</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>113</Torigger>
+	<Name>「三川艦隊」を編成せよ！</Name>
+	<Details>「鳥海」「青葉」「加古」「古鷹」「天龍」を含む高速艦隊を編成せよ！</Details>
+	<Get_1>1,3,6</Get_1>
+	<Get_2>101,400,1</Get_2>
+	<Mat>400,0,300,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>120</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>116</Torigger>
+	<Name>「第六駆逐隊」を編成せよ！</Name>
+	<Details>「暁」「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</Details>
+	<Get_1>12,1,42</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>150,150,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>121</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>119</Torigger>
+	<Name>「第四戦隊」を編成せよ！</Name>
+	<Details>「愛宕」「高雄」「鳥海」「摩耶」を基幹とした第四戦隊を編成せよ！</Details>
+	<Get_1>1,4,7</Get_1>
+	<Get_2>101,400,1</Get_2>
+	<Mat>300,150,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>122</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>121</Torigger>
+	<Name>「西村艦隊」を編成せよ！</Name>
+	<Details>「扶桑」「山城」「最上」「時雨」を基幹とした西村艦隊を編成せよ！</Details>
+	<Get_1>13,1,54</Get_1>
+	<Get_2>101,500,1</Get_2>
+	<Mat>200,200,200,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>123</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>122</Torigger>
+	<Name>「第五航空戦隊」を編成せよ！</Name>
+	<Details>「翔鶴」「瑞鶴」を基幹とし、駆逐艦2隻を加えた第五航空戦隊を編成せよ！</Details>
+	<Get_1>13,1,63</Get_1>
+	<Get_2>101,700,1</Get_2>
+	<Mat>500,0,0,500</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>124</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>121</Torigger>
+	<Name>新「三川艦隊」を編成せよ！</Name>
+	<Details>「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！</Details>
+	<Get_1>13,1,54</Get_1>
+	<Get_2>101,450,1</Get_2>
+	<Mat>300,0,300,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>125</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>121</Torigger>
+	<Name>潜水艦隊を編成せよ！</Name>
+	<Details>伊号潜水艦2隻からなる潜水艦隊を編成せよ！</Details>
+	<Get_1>12,1,42</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>150,150,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>126</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>122</Torigger>
+	<Name>航空水上打撃艦隊を編成せよ！</Name>
+	<Details>航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊を編成せよ！</Details>
+	<Get_1>12,2,26</Get_1>
+	<Get_2>101,400,1</Get_2>
+	<Mat>0,0,250,250</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>127</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>121</Torigger>
+	<Name>中規模潜水艦隊を編成せよ！</Name>
+	<Details>伊号潜水艦3隻以上からなる潜水艦隊を編成せよ！</Details>
+	<Get_1>13,1,59</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>150,150,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>128</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>120</Torigger>
+	<Name>「第六戦隊」を編成せよ！</Name>
+	<Details>「古鷹」「加古」「青葉」「衣笠」を基幹とした第六戦隊を編成せよ！</Details>
+	<Get_1>13,1,59</Get_1>
+	<Get_2>101,350,1</Get_2>
+	<Mat>300,300,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>129</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>121</Torigger>
+	<Name>「第五艦隊」を編成せよ！</Name>
+	<Details>「那智」「足柄」「多摩」「木曾」を中核とした「第五艦隊」を編成せよ！</Details>
+	<Get_1>1,3,6</Get_1>
+	<Get_2>101,350,1</Get_2>
+	<Mat>350,0,350,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>130</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>129</Torigger>
+	<Name>「第一水雷戦隊」を編成せよ！</Name>
+	<Details>「阿武隈」「曙」「潮」「霞」「不知火」を中核とした「第一水雷戦隊」を編成せよ！</Details>
+	<Get_1>12,1,42</Get_1>
+	<Get_2>101,350,1</Get_2>
+	<Mat>200,300,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>131</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>125</Torigger>
+	<Name>「第八駆逐隊」を編成せよ！</Name>
+	<Details>「朝潮」「満潮」「大潮」「荒潮」4隻による第八駆逐隊を編成せよ！</Details>
+	<Get_1>12,1,145</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>180,180,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>132</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>239</Torigger>
+	<Name>「第十八駆逐隊」を編成せよ！</Name>
+	<Details>「霞」「霰」「陽炎」「不知火」4隻による第十八駆逐隊を編成せよ！</Details>
+	<Get_1>12,1,145</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>180,180,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>133</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>131</Torigger>
+	<Name>「第三十駆逐隊(第一次)」を編成せよ！</Name>
+	<Details>「睦月」「如月」「弥生」「望月」4隻による第三十駆逐隊(第一次)を編成せよ！</Details>
+	<Get_1>12,1,145</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>230,230,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>134</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>306</Torigger>
+	<Name>式の準備！(その参)</Name>
+	<Details>第一艦隊旗艦に練度の高い(Lv.90以上～99以下)艦娘を配備して気持ちを整理せよ！</Details>
+	<Get_1>3,1,12</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>88,88,88,88</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>135</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>245</Torigger>
+	<Name>新たなる旅立ち！</Name>
+	<Details>第一艦隊旗艦に強い絆を結んだLv.100以上の艦娘を配備した6隻の艦隊を編成せよ！</Details>
+	<Get_1>12,1,43</Get_1>
+	<Mat>300,300,300,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>136</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>133</Torigger>
+	<Name>「第三十駆逐隊(第二次)」を編成せよ！</Name>
+	<Details>「睦月」「弥生」「卯月」「望月」4隻による第三十駆逐隊(第二次)を編成せよ！</Details>
+	<Get_1>12,1,42</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>230,230,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>137</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>248</Torigger>
+	<Name>「第五戦隊」を編成せよ！</Name>
+	<Details>「妙高」「那智」「羽黒」を基幹とした第五戦隊を編成せよ！</Details>
+	<Get_1>1,4,7</Get_1>
+	<Get_2>101,400,1</Get_2>
+	<Mat>0,350,350,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>138</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>128</Torigger>
+	<Name>新編「第二航空戦隊」を編成せよ！</Name>
+	<Details>「飛龍改二」(※旗艦)及び「蒼龍」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>101,700,1</Get_2>
+	<Mat>200,200,0,400</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>139</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>127</Torigger>
+	<Name>潜水艦隊「第六艦隊」を編成せよ！</Name>
+	<Details>「潜水母艦」と複数の潜水艦(4隻以上)からなる潜水艦隊「第六艦隊」を編成せよ！</Details>
+	<Get_1>13,1,59</Get_1>
+	<Get_2>101,400,1</Get_2>
+	<Mat>250,250,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>140</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>137</Torigger>
+	<Name>新型電探を配備せよ！</Name>
+	<Details>新型電探運用試験のため、第一艦隊の旗艦に「妙高改二」を配備せよ！</Details>
+	<Get_1>12,1,88</Get_1>
+	<Mat>300,0,0,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>141</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>250</Torigger>
+	<Name>再編成「第二航空戦隊」を強化せよ！</Name>
+	<Details>「蒼龍改二」(※旗艦)及び「飛龍改二」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！</Details>
+	<Get_1>1,4,7</Get_1>
+	<Get_2>101,800,1</Get_2>
+	<Mat>0,0,0,450</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>142</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>123</Torigger>
+	<Name>「新型正規空母」を配備せよ！</Name>
+	<Details>新型正規空母、雲龍型航空母艦を第一艦隊旗艦に配備せよ！</Details>
+	<Get_1>1,2,5</Get_1>
+	<Get_2>101,500,1</Get_2>
+	<Mat>100,100,100,400</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>143</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>132</Torigger>
+	<Name>主力戦艦部隊「第二戦隊」を編成せよ！</Name>
+	<Details>長門型2隻及び扶桑型2隻の計4隻の主力戦艦からなる第二戦隊を編成せよ！</Details>
+	<Get_1>1,3,6</Get_1>
+	<Get_2>101,800,1</Get_2>
+	<Mat>0,250,250,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>144</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>257</Torigger>
+	<Name>戦艦を主力とした水上打撃部隊を編成せよ！</Name>
+	<Details>大和型・長門型・伊勢型・扶桑型のいずれか3隻と軽巡1隻他の水上打撃部隊を配備せよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Get_2>101,400,1</Get_2>
+	<Mat>400,400,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>145</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>116,297</Torigger>
+	<Name>改修工廠を準備せよ！</Name>
+	<Details>第一艦隊の旗艦に工作艦「明石」を配備、改修工廠の準備を実施せよ！</Details>
+	<Get_1>1,5,8</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>100,0,100,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>146</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>137,224</Torigger>
+	<Name>「西村艦隊」を再編成せよ！</Name>
+	<Details>「扶桑」「山城」「最上」「時雨」「満潮」を基幹とした西村艦隊を編成せよ！</Details>
+	<Get_1>1,3,8</Get_1>
+	<Get_2>101,600,1</Get_2>
+	<Mat>300,300,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>147</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>123</Torigger>
+	<Name>軽快な「水上反撃部隊」を編成せよ！</Name>
+	<Details>駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！</Details>
+	<Get_1>1,3,6</Get_1>
+	<Get_2>1,3,7</Get_2>
+	<Mat>250,250,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>148</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>132</Torigger>
+	<Name>「第十一駆逐隊」を編成せよ！</Name>
+	<Details>特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！</Details>
+	<Get_1>12,1,145</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>110,110,110,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>149</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>266</Torigger>
+	<Name>「第二一駆逐隊」を編成せよ！</Name>
+	<Details>「初春」「子日」「若葉」「初霜」4隻による第二一駆逐隊を編成せよ！</Details>
+	<Get_1>12,1,145</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>210,210,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>150</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>270</Torigger>
+	<Name>「第二二駆逐隊」を編成せよ！</Name>
+	<Details>「皐月」「文月」「長月」他1隻計駆逐艦4隻による第二二駆逐隊を編成せよ！</Details>
+	<Get_1>12,1,145</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>220,220,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>151</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>136,227</Torigger>
+	<Name>「三川艦隊」を新編、突入準備せよ！</Name>
+	<Details>第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！</Details>
+	<Get_1>13,1,54</Get_1>
+	<Get_2>101,500,1</Get_2>
+	<Mat>300,300,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>152</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>111,273</Torigger>
+	<Name>「第十八戦隊」を新編成せよ！</Name>
+	<Details>軽巡洋艦「天龍」「龍田」を基幹戦力とした「第十八戦隊」を4隻以上で新編成せよ！</Details>
+	<Get_1>103,1,1</Get_1>
+	<Get_2>1,2,6</Get_2>
+	<Mat>180,180,0,180</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>153</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>227</Torigger>
+	<Name>海上突入部隊を編成せよ！</Name>
+	<Details>戦艦「比叡」「霧島」軽巡「長良」駆逐艦「暁」「雷」「電」による海上突入部隊を編成せよ！</Details>
+	<Get_1>12,1,43</Get_1>
+	<Get_2>101,550,1</Get_2>
+	<Mat>0,300,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>154</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>224</Torigger>
+	<Name>新編「第六駆逐隊」を編成せよ！</Name>
+	<Details>「暁改二」を旗艦とした「響」「雷」「電」4隻による第六駆逐隊を編成せよ！</Details>
+	<Get_1>12,1,74</Get_1>
+	<Mat>150,150,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>155</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>201,240</Torigger>
+	<Name>「第一水雷戦隊」北方突入準備！</Name>
+	<Details>「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Get_2>101,400,1</Get_2>
+	<Mat>200,200,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>156</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>309</Torigger>
+	<Name>「第一水雷戦隊」北方再突入準備！</Name>
+	<Details>「阿武隈改二」を旗艦として「響」「夕雲」「長波」「秋雲」「島風」の一水戦を再編成せよ！</Details>
+	<Get_1>1,3,6</Get_1>
+	<Get_2>101,500,1</Get_2>
+	<Mat>300,300,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>157</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>999</Torigger>
+	<Name>「赤城」に艦攻「村田隊」を配属せよ！</Name>
+	<Details>秘書艦を航空母艦「赤城」とし、同艦に艦攻「村田隊」を配属せよ！</Details>
+	<Get_1>12,2,43</Get_1>
+	<Get_2>13,1,54</Get_2>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>158</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>999</Torigger>
+	<Name>「翔鶴」に艦攻「村田隊」を配置転換せよ！</Name>
+	<Details>秘書艦を航空母艦「翔鶴」として、同艦に艦攻「村田隊」を配置転換せよ！</Details>
+	<Get_1>1,3,6</Get_1>
+	<Get_2>1,3,8</Get_2>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>159</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>282</Torigger>
+	<Name>空母機動部隊「第三艦隊」を編成せよ！</Name>
+	<Details>「翔鶴」を旗艦として、「瑞鶴」「瑞鳳」及び随伴艦を配備した第三艦隊を編成せよ！</Details>
+	<Get_1>1,4,8</Get_1>
+	<Get_2>101,1000,1</Get_2>
+	<Mat>300,300,0,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>160</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>263,123</Torigger>
+	<Name>「第五航空戦隊」を再編成せよ！</Name>
+	<Details>「翔鶴」「瑞鶴」と随伴駆逐艦「朧」「秋雲」を基幹とした第五航空戦隊を再編成せよ！</Details>
+	<Get_1>1,5,7</Get_1>
+	<Get_2>101,800,1</Get_2>
+	<Mat>300,0,0,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>161</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>151,262</Torigger>
+	<Name>新編「第二一戦隊」出撃準備！</Name>
+	<Details>「那智改二」「足柄改二」及び「多摩」「木曾」を基幹とした、第二一戦隊を編成せよ！</Details>
+	<Get_1>1,4,8</Get_1>
+	<Get_2>101,500,1</Get_2>
+	<Mat>210,210,210,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>162</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>216,109</Torigger>
+	<Name>「第十六戦隊」を編成せよ！</Name>
+	<Details>「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！</Details>
+	<Get_1>1,4,7</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>160,160,160,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>163</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>263,159</Torigger>
+	<Name>「第三航空戦隊」を編成せよ！</Name>
+	<Details>「瑞鶴改」を旗艦とし、航空母艦「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Get_2>13,1,70</Get_2>
+	<Mat>600,600,0,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>164</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>292</Torigger>
+	<Name>「第四航空戦隊」を編成せよ！</Name>
+	<Details>航空戦艦「伊勢改」及び「日向改」を基幹戦力とした第四航空戦隊を編成せよ！</Details>
+	<Get_1>12,1,79</Get_1>
+	<Get_2>1,3,8</Get_2>
+	<Mat>0,400,700,400</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>165</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>265,164</Torigger>
+	<Name>「小沢艦隊」を編成せよ！</Name>
+	<Details>「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！</Details>
+	<Get_1>1,5,7</Get_1>
+	<Get_2>13,1,70</Get_2>
+	<Mat>0,800,0,600</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>166</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>293,625</Torigger>
+	<Name>新航空戦隊を編成せよ！</Name>
+	<Details>改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！</Details>
+	<Get_1>13,2,59</Get_1>
+	<Get_2>13,1,70</Get_2>
+	<Mat>600,600,0,900</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>167</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>288</Torigger>
+	<Name>「第十六戦隊(第二次)」を編成せよ！</Name>
+	<Details>「名取」を旗艦として「五十鈴」「鬼怒」を擁する、第十六戦隊(第二次)を編成せよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Get_2>1,3,6</Get_2>
+	<Mat>300,300,300,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>168</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>294,286</Torigger>
+	<Name>「新編成航空戦隊」を編成せよ！</Name>
+	<Details>空母2隻+航空戦艦/航空巡洋艦2隻+駆逐艦2隻の新航空戦隊を編成せよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Get_2>1,3,8</Get_2>
+	<Mat>0,800,0,800</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>169</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>295,147</Torigger>
+	<Name>精強な「水上反撃部隊」を再編成せよ！</Name>
+	<Details>駆逐艦「霞」旗艦、「足柄」「大淀」「朝霜」「清霜」他の水上反撃部隊を再編成せよ！</Details>
+	<Get_1>1,3,6</Get_1>
+	<Get_2>12,3,145</Get_2>
+	<Mat>400,400,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>170</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>239,127</Torigger>
+	<Name>精強な「潜水艦隊」を編成せよ！</Name>
+	<Details>旗艦に練度80以上、僚艦も全て練度40以上の精鋭潜水艦隊を編成せよ！</Details>
+	<Get_1>12,1,67</Get_1>
+	<Get_2>1,3,7</Get_2>
+	<Mat>400,400,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>171</Id>
+	<Category>1</Category>
+	<Type>1</Type>
+	<Torigger>296,164</Torigger>
+	<Name>精強「航空戦艦」戦隊を編成せよ！</Name>
+	<Details>「伊勢改」「日向改」「扶桑改二」「山城改二」と直衛駆逐艦2隻の精強航空戦艦戦隊を編成せよ！</Details>
+	<Get_1>12,1,80</Get_1>
+	<Get_2>1,3,7</Get_2>
+	<Mat>300,0,0,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>201</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>204</Torigger>
+	<Name>敵艦隊を撃破せよ！</Name>
+	<Details>艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Mat>100,100,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>202</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>302</Torigger>
+	<Name>「艦娘」出撃！</Name>
+	<Details>艦隊を出撃させ、敵艦隊と交戦せよ！</Details>
+	<Get_1>1,1,7</Get_1>
+	<Mat>30,30,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>203</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>202</Torigger>
+	<Name>鎮守府正面海域を護れ！</Name>
+	<Details>鎮守府正面海域に艦隊を出撃させ、敵艦の跳梁を阻止せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Mat>50,50,50,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>204</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>203</Torigger>
+	<Name>鎮守府海域沖を警備せよ！</Name>
+	<Details>鎮守府海域沖に艦隊を出撃させ、同方面の警備を強化せよ！</Details>
+	<Get_1>103,1,1</Get_1>
+	<Get_2>3,1,10</Get_2>
+	<Mat>100,100,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>205</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>204</Torigger>
+	<Name>接近する「敵前衛艦隊」を迎撃せよ！</Name>
+	<Details>鎮守府海域沖に接近する「敵前衛艦隊」を捕捉、これを撃破せよ！</Details>
+	<Get_1>11,1,11</Get_1>
+	<Get_2>12,1,44</Get_2>
+	<Mat>100,0,100,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>206</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>205</Torigger>
+	<Name>「水雷戦隊」出撃せよ！</Name>
+	<Details>軽巡洋艦1隻を旗艦とし、複数の駆逐艦からなる水雷戦隊で出撃せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>101,100,1</Get_2>
+	<Mat>70,70,0,70</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>207</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>206,106</Torigger>
+	<Name>「重巡洋艦」出撃せよ！</Name>
+	<Details>重巡洋艦を旗艦とした艦隊を編成、これを出撃させよ！</Details>
+	<Get_1>2,0,3</Get_1>
+	<Get_2>101,150,1</Get_2>
+	<Mat>80,80,80,80</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>208</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>207</Torigger>
+	<Name>「戦艦」出撃せよ！</Name>
+	<Details>海上の覇者、戦艦を旗艦とした艦隊を編成、これを出撃させよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>0,160,160,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>209</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>208</Torigger>
+	<Name>「空母機動部隊」抜錨せよ！</Name>
+	<Details>空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>200,0,0,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>210</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>216</Torigger>
+	<Name>敵艦隊を全力邀撃せよ！</Name>
+	<Details>艦隊全力出撃！今月中に艦隊を8回以上出撃、遊弋する敵艦隊を邀撃せよ！</Details>
+	<Get_1>1,4,6</Get_1>
+	<Get_2>101,50,1</Get_2>
+	<Mat>250,250,250,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>211</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>201</Torigger>
+	<Name>敵空母を撃沈せよ！</Name>
+	<Details>艦隊の脅威となる敵空母群。これを捕捉し、同2隻を確実に撃沈せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Get_2>101,150,1</Get_2>
+	<Mat>150,150,150,450</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>212</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>201</Torigger>
+	<Name>敵輸送船団を叩け！</Name>
+	<Details>複数の輸送艦を撃沈し、敵の補給路を寸断せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>3,1,12</Get_2>
+	<Mat>0,600,300,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>213</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>216</Torigger>
+	<Name>海上通商破壊作戦</Name>
+	<Details>今月中に敵輸送艦を5隻以上撃沈せよ！</Details>
+	<Get_1>1,3,6</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>500,0,500,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>214</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>216</Torigger>
+	<Name>あ号作戦</Name>
+	<Details>今月中に全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Get_2>101,150,1</Get_2>
+	<Mat>400,400,400,200</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>215</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>115</Torigger>
+	<Name>新設第2艦隊、抜錨せよ！</Name>
+	<Details>新たに編成した「第2艦隊」を出撃させよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>3,1,12</Get_2>
+	<Mat>0,0,200,200</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>216</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>201</Torigger>
+	<Name>敵艦隊を邀撃、敵戦力の漸減を図れ！</Name>
+	<Details>艦隊を出撃させ、前衛艦隊を排除し、敵艦隊「主力」を捕捉！これを撃破せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>1,2,6</Get_2>
+	<Mat>100,100,100,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>217</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>117</Torigger>
+	<Name>敵機動部隊を撃破せよ！</Name>
+	<Details>敵機動部隊を捕捉し、これを邀撃、敵空母を撃沈せよ！</Details>
+	<Get_1>11,1,83</Get_1>
+	<Mat>0,0,0,200</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>218</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>210</Torigger>
+	<Name>敵補給ラインを寸断せよ！</Name>
+	<Details>艦隊を出撃させ、敵輸送艦を捕捉、これを3隻以上撃沈し、敵補給ラインを寸断せよ！</Details>
+	<Get_1>1,2,5</Get_1>
+	<Get_2>3,1,12</Get_2>
+	<Mat>300,50,300,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>219</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>119</Torigger>
+	<Name>「三川艦隊」出撃せよ！</Name>
+	<Details>新編成した「三川艦隊」で出撃せよ！</Details>
+	<Get_1>12,1,42</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>300,300,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>220</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>218</Torigger>
+	<Name>い号作戦</Name>
+	<Details>有力な母艦航空隊で全力出撃を行い、今月中に可能な限り多くの敵空母を撃滅せよ！</Details>
+	<Get_1>1,3,6</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>0,600,0,600</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>221</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>214</Torigger>
+	<Name>ろ号作戦</Name>
+	<Details>今月中に可能な限り敵輸送船団を捕捉、敵輸送艦を撃滅し、敵補給線を寸断せよ！</Details>
+	<Get_1>1,3,5</Get_1>
+	<Get_2>101,250,1</Get_2>
+	<Mat>400,0,800,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>222</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>213</Torigger>
+	<Name>「第六駆逐隊」出撃せよ！</Name>
+	<Details>「暁」「響」「雷」「電」による第六駆逐隊、出撃せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>200,0,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>223</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>121</Torigger>
+	<Name>「第四戦隊」出撃せよ！</Name>
+	<Details>「愛宕」「高雄」「鳥海」「摩耶」を基幹とする第四戦隊で、近海諸島防衛線の敵を撃滅せよ！</Details>
+	<Get_1>3,1,10</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>150,100,150,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>224</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>122</Torigger>
+	<Name>「西村艦隊」出撃せよ！</Name>
+	<Details>「扶桑」「山城」「最上」「時雨」を基幹とする西村艦隊で、南方航路西部の敵を撃破せよ！</Details>
+	<Get_1>13,1,63</Get_1>
+	<Get_2>101,400,1</Get_2>
+	<Mat>400,0,400,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>225</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>123</Torigger>
+	<Name>「第五航空戦隊」出撃せよ！</Name>
+	<Details>「翔鶴」「瑞鶴」を基幹とする第五航空戦隊で、沖ノ島海域の敵を邀撃せよ！</Details>
+	<Get_1>3,1,12</Get_1>
+	<Get_2>101,500,1</Get_2>
+	<Mat>200,200,0,700</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>226</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>218,235</Torigger>
+	<Name>南方連絡海域の制海権を確立せよ！</Name>
+	<Details>艦隊を南方連絡海域に全力出撃させ今月中に敵艦隊を撃滅、同方面の制海権を確立せよ！</Details>
+	<Get_1>1,3,6</Get_1>
+	<Get_2>101,150,1</Get_2>
+	<Mat>300,0,0,200</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>227</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>124</Torigger>
+	<Name>新「三川艦隊」出撃せよ！</Name>
+	<Details>完全編成した「三川艦隊」をもって、トラック泊地の警備を実施、同方面の制海権を確保せよ！</Details>
+	<Get_1>12,1,42</Get_1>
+	<Get_2>101,250,1</Get_2>
+	<Mat>100,150,100,150</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>228</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>220</Torigger>
+	<Name>海上護衛戦</Name>
+	<Details>有力な対潜能力を持つ海上護衛隊によって、可能な限り多くの敵潜水艦を撃滅せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>1,2,8</Get_2>
+	<Mat>600,300,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>229</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>228</Torigger>
+	<Name>トラック泊地を防衛せよ！</Name>
+	<Details>南方泊地海域方面に接近中敵艦隊を撃破、同方面及びトラック泊地を防衛せよ！</Details>
+	<Get_1>1,2,5</Get_1>
+	<Get_2>101,150,1</Get_2>
+	<Mat>400,0,0,700</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>230</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>226</Torigger>
+	<Name>敵潜水艦を制圧せよ！</Name>
+	<Details>対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Get_2>101,100,1</Get_2>
+	<Mat>300,30,300,30</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>231</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>125</Torigger>
+	<Name>「潜水艦隊」出撃せよ！</Name>
+	<Details>伊号潜水艦2隻以上からなる潜水艦隊でオリョール海西部の敵艦隊を撃破せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Get_2>101,150,1</Get_2>
+	<Mat>150,0,300,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>232</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>126</Torigger>
+	<Name>「航空水上打撃艦隊」出撃せよ！</Name>
+	<Details>航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊で、幌筵泊地沖の敵艦隊を邀撃せよ！</Details>
+	<Get_1>13,1,54</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>0,300,0,500</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>233</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>128</Torigger>
+	<Name>「第六戦隊」出撃せよ！</Name>
+	<Details>「第六戦隊」をもって出撃し、オリョール海東部の敵と交戦、これに「完全勝利」せよ！</Details>
+	<Get_1>12,1,42</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>400,200,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>234</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>206,109</Torigger>
+	<Name>北方海峡の警備を実施せよ！</Name>
+	<Details>有力な艦隊を北方海峡に展開、同海峡の警備を複数回実施せよ！</Details>
+	<Get_1>12,1,28</Get_1>
+	<Get_2>101,150,1</Get_2>
+	<Mat>300,0,300,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>235</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>207,237</Torigger>
+	<Name>南方連絡海域正面の制海権を確保せよ！</Name>
+	<Details>有力な艦隊を南方海域正面に展開、敵戦力を撃滅して同海域の制海権を確保せよ！</Details>
+	<Get_1>12,1,46</Get_1>
+	<Get_2>103,2,1</Get_2>
+	<Mat>400,0,200,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>236</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>235,316</Torigger>
+	<Name>トラック泊地周辺の対潜哨戒を実施せよ！</Name>
+	<Details>艦隊を南方泊地に進出させ、トラック泊地対潜哨戒を実施せよ！</Details>
+	<Get_1>11,1,89</Get_1>
+	<Get_2>101,150,1</Get_2>
+	<Mat>300,300,300,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>237</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>103,205</Torigger>
+	<Name>近海諸島防衛線を支援せよ！</Name>
+	<Details>艦隊を鎮守府海域外縁部に展開、近海諸島防衛線を支援せよ！</Details>
+	<Get_1>11,1,123</Get_1>
+	<Get_2>103,1,1</Get_2>
+	<Mat>200,0,200,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>238</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>235</Torigger>
+	<Name>南方連絡航路対潜哨戒を実施せよ！</Name>
+	<Details>有力な艦隊を南方海域正面に展開、敵戦力を撃滅して同海域の制海権を確保せよ！</Details>
+	<Get_1>2,0,4</Get_1>
+	<Get_2>103,2,1</Get_2>
+	<Mat>400,0,400,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>239</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>234</Torigger>
+	<Name>オリョール海西部に進出せよ！</Name>
+	<Details>有力な艦隊を中部西海域に展開、オリョール海進出を図れ！</Details>
+	<Get_1>2,0,6</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>400,400,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>240</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>132,279</Torigger>
+	<Name>「第十八駆逐隊」出撃せよ！</Name>
+	<Details>編成した「第十八駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</Details>
+	<Get_1>3,1,12</Get_1>
+	<Get_2>1,2,7</Get_2>
+	<Mat>0,200,0,400</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>241</Id>
+	<Category>2</Category>
+	<Type>7</Type>
+	<Torigger>228</Torigger>
+	<Name>敵北方艦隊主力を撃滅せよ！</Name>
+	<Details>北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Get_2>1,3,8</Get_2>
+	<Mat>500,300,500,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>242</Id>
+	<Category>2</Category>
+	<Type>7</Type>
+	<Torigger>229,285</Torigger>
+	<Name>敵東方中枢艦隊を撃破せよ！</Name>
+	<Details>西方海域カレー洋深部に突入し、敵秘匿泊地を攻撃、同泊地周辺の敵戦力を痛打せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,800,1</Get_2>
+	<Mat>800,0,800,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>243</Id>
+	<Category>2</Category>
+	<Type>7</Type>
+	<Torigger>258</Torigger>
+	<Name>南方海域珊瑚諸島沖の制空権を握れ！</Name>
+	<Details>南方海域珊瑚諸島沖に反復出撃し、敵機動部隊本隊を捕捉撃滅、制海権を確保せよ！</Details>
+	<Get_1>1,5,7</Get_1>
+	<Get_2>1,5,8</Get_2>
+	<Mat>0,600,0,800</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>244</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>133,279</Torigger>
+	<Name>「第三十駆逐隊」出撃せよ！</Name>
+	<Details>「第三十駆逐隊(第一次)」を含む艦隊で出撃し、キス島沖の主力艦隊と交戦せよ！</Details>
+	<Get_1>13,1,54</Get_1>
+	<Mat>200,200,200,500</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>245</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>134</Torigger>
+	<Name>式の準備！(最終)</Name>
+	<Details>練度の高い(Lv.90～99)第一艦隊旗艦で出撃し、オリョール海西部の暁に勝利を刻め！</Details>
+	<Get_1>13,1,55</Get_1>
+	<Mat>0,0,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>246</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>135,285</Torigger>
+	<Name>二人でする初めての任務！</Name>
+	<Details>強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！</Details>
+	<Get_1>14,1,183</Get_1>
+	<Mat>500,500,500,500</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>247</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>412,285</Torigger>
+	<Name>「航空戦艦」抜錨せよ！</Name>
+	<Details>航空戦艦2隻を基幹とする艦隊を西方海域カレー洋に展開、同海域の敵勢力を撃破せよ！</Details>
+	<Get_1>1,4,6</Get_1>
+	<Get_2>3,1,12</Get_2>
+	<Mat>0,500,500,900</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>248</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>136</Torigger>
+	<Name>「第三十駆逐隊」対潜哨戒！</Name>
+	<Details>「第三十駆逐隊(第二次)」は直ちに抜錨！南方トラック泊地の対潜哨戒を実施せよ！</Details>
+	<Get_1>13,1,52</Get_1>
+	<Get_2>3,1,12</Get_2>
+	<Mat>330,330,330,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>249</Id>
+	<Category>2</Category>
+	<Type>7</Type>
+	<Torigger>137</Torigger>
+	<Name>「第五戦隊」出撃せよ！</Name>
+	<Details>「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！</Details>
+	<Get_1>1,5,7</Get_1>
+	<Get_2>3,1,12</Get_2>
+	<Mat>550,550,550,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>250</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>138</Torigger>
+	<Name>新編「第二航空戦隊」出撃せよ！</Name>
+	<Details>新編「二航戦」を基幹とした艦隊で、珊瑚諸島沖に出撃、敵機動部隊を撃滅せよ！</Details>
+	<Get_1>13,1,54</Get_1>
+	<Get_2>3,1,12</Get_2>
+	<Mat>0,800,0,800</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>251</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>141,285</Torigger>
+	<Name>精鋭「第二航空戦隊」抜錨せよ！</Name>
+	<Details>錬成を終え再編成「二航戦」を基幹とした艦隊で、敵リランカ島を空襲、破砕せよ！</Details>
+	<Get_1>13,1,52</Get_1>
+	<Get_2>13,1,70</Get_2>
+	<Mat>800,0,800,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>252</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>142</Torigger>
+	<Name>「第六○一航空隊」発艦せよ！</Name>
+	<Details>雲龍型航空母艦旗艦の機動部隊で南方泊地沖で敵機動部隊を迎撃、これを撃滅せよ！</Details>
+	<Get_1>12,1,108</Get_1>
+	<Get_2>13,1,70</Get_2>
+	<Mat>0,300,0,900</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>253</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>105</Torigger>
+	<Name>「軽空母」戦隊、出撃せよ！</Name>
+	<Details>軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でバシー島の敵を撃滅せよ！</Details>
+	<Get_1>12,1,42</Get_1>
+	<Get_2>1,3,6</Get_2>
+	<Mat>0,300,0,500</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>254</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>206</Torigger>
+	<Name>「水雷戦隊」バシー島沖緊急展開</Name>
+	<Details>軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！</Details>
+	<Get_1>13,1,52</Get_1>
+	<Get_2>3,1,12</Get_2>
+	<Mat>300,500,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>255</Id>
+	<Category>2</Category>
+	<Type>6</Type>
+	<Torigger>254</Torigger>
+	<Name>「潜水艦隊」出撃せよ！</Name>
+	<Details>潜水艦戦力を中核とした艦隊で中部海域哨戒線へ反復出撃、敵戦力を漸減せよ！</Details>
+	<Get_1>13,1,59</Get_1>
+	<Get_2>3,1,12</Get_2>
+	<Mat>0,600,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>256</Id>
+	<Category>2</Category>
+	<Type>7</Type>
+	<Torigger>221</Torigger>
+	<Name>「水雷戦隊」南西へ！</Name>
+	<Details>軽巡旗艦の水雷戦隊(軽巡最大3隻他駆逐艦)を急派、近海諸島防衛線で敵を撃滅せよ！</Details>
+	<Get_1>13,1,59</Get_1>
+	<Get_2>1,3,8</Get_2>
+	<Mat>500,0,0,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>257</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>143</Torigger>
+	<Name>「第二戦隊」抜錨！</Name>
+	<Details>「第二戦隊」を基幹とした艦隊でカレー洋に進出、反復出撃により敵海上兵力を撃滅せよ！</Details>
+	<Get_1>12,1,116</Get_1>
+	<Mat>0,800,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>258</Id>
+	<Category>2</Category>
+	<Type>7</Type>
+	<Torigger>144</Torigger>
+	<Name>「水上打撃部隊」南方へ！</Name>
+	<Details>戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！</Details>
+	<Get_1>1,4,6</Get_1>
+	<Get_2>1,4,8</Get_2>
+	<Mat>400,400,800,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>259</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>258,279</Torigger>
+	<Name>「戦艦部隊」北方海域に突入せよ！</Name>
+	<Details>戦艦2隻と直援軽空母1隻(正規空母無し)基幹の艦隊で、北方キス島後方海域に突入せよ！</Details>
+	<Get_1>12,1,116</Get_1>
+	<Get_2>1,4,7</Get_2>
+	<Mat>0,600,0,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>260</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>238</Torigger>
+	<Name>南方連絡線制海権を確保せよ！</Name>
+	<Details>南方航路西部に主力艦隊を展開、敵戦力を撃破して同海域の制海権を確保せよ！</Details>
+	<Get_1>103,2,1</Get_1>
+	<Get_2>101,400,1</Get_2>
+	<Mat>400,400,400,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>261</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>146,224</Torigger>
+	<Name>「西村艦隊」南方海域へ進出せよ！</Name>
+	<Details>「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>1,5,8</Get_2>
+	<Mat>0,300,700,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>262</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>233</Torigger>
+	<Name>「第六戦隊」オリョール海へ出撃せよ！</Name>
+	<Details>「古鷹」「加古」「青葉」「衣笠」ら「第六戦隊」基幹の艦隊で、オリョール海東部の敵を撃滅せよ！</Details>
+	<Get_1>13,1,52</Get_1>
+	<Get_2>3,2,12</Get_2>
+	<Mat>600,600,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>263</Id>
+	<Category>2</Category>
+	<Type>7</Type>
+	<Torigger>221,239</Torigger>
+	<Name>「空母機動部隊」西へ！</Name>
+	<Details>航空母艦2隻(随伴駆逐艦2隻)を基幹とする機動部隊で、カレー洋の敵艦隊を撃滅せよ！</Details>
+	<Get_1>1,4,8</Get_1>
+	<Get_2>3,2,12</Get_2>
+	<Mat>0,0,800,800</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>264</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>260</Torigger>
+	<Name>資源地帯の制海権を確保せよ！</Name>
+	<Details>南西海域ズンダ海峡付近の敵戦力を撃破して同海峡を制圧、資源地帯の制海権を確保せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,600,1</Get_2>
+	<Mat>600,600,0,600</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>265</Id>
+	<Category>2</Category>
+	<Type>7</Type>
+	<Torigger>263,147</Torigger>
+	<Name>「水上反撃部隊」突入せよ！</Name>
+	<Details>駆逐艦旗艦の重巡1隻軽巡1隻駆逐艦2隻を含む水上反撃部隊を編成、沖ノ島沖に突入せよ！</Details>
+	<Get_1>1,4,7</Get_1>
+	<Get_2>1,5,8</Get_2>
+	<Mat>300,600,0,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>266</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>148</Torigger>
+	<Name>「第十一駆逐隊」出撃せよ！</Name>
+	<Details>「第十一駆逐隊」を含む艦隊で出撃し、中部西海域バシー島沖の敵艦隊を撃破せよ！</Details>
+	<Get_1>13,1,54</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>0,300,300,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>267</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>264</Torigger>
+	<Name>西南要塞を攻略せよ！</Name>
+	<Details>西南海域要塞沖に主力艦隊を投入、敵東洋艦隊を撃破した後、西南要塞攻略を実施せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,800,1</Get_2>
+	<Mat>800,800,400,400</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>268</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>149,279</Torigger>
+	<Name>「第二一駆逐隊」出撃せよ！</Name>
+	<Details>「第二一駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</Details>
+	<Get_1>13,1,56</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>300,300,300,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>269</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>150</Torigger>
+	<Name>「第二二駆逐隊」出撃せよ！</Name>
+	<Details>「第二二駆逐隊」を含む艦隊で近海諸島防衛線に出撃、敵主力艦隊を撃滅せよ！</Details>
+	<Get_1>13,2,59</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>0,200,0,400</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>270</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>249,268</Torigger>
+	<Name>「那智戦隊」抜錨せよ！</Name>
+	<Details>旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！</Details>
+	<Get_1>1,2,8</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>500,300,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>271</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>416</Torigger>
+	<Name>「改装防空重巡」出撃せよ！</Name>
+	<Details>摩耶改または摩耶改二及び駆逐3隻を含む艦隊で南方トラック泊地の警備を実施せよ！</Details>
+	<Get_1>12,1,35</Get_1>
+	<Get_2>12,1,40</Get_2>
+	<Mat>300,200,300,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>272</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>307</Torigger>
+	<Name>新編「三川艦隊」ソロモン方面へ！</Name>
+	<Details>第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>1,6,7</Get_2>
+	<Mat>700,700,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>273</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>120,216</Torigger>
+	<Name>「第六駆逐隊」対潜哨戒なのです！</Name>
+	<Details>「第六駆逐隊」を含む艦隊で南方連絡航路へ展開、同航路の対潜哨戒を実施せよ！</Details>
+	<Get_1>12,1,46</Get_1>
+	<Get_2>1,4,7</Get_2>
+	<Mat>200,200,200,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>274</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>152</Torigger>
+	<Name>抜錨！「第十八戦隊」</Name>
+	<Details>「天龍」「龍田」を基幹とした「第十八戦隊」を南方航路正面に展開、同海域警備を実施せよ！</Details>
+	<Get_1>13,1,52</Get_1>
+	<Get_2>1,4,6</Get_2>
+	<Mat>500,250,0,250</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>275</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>243,153</Torigger>
+	<Name>ソロモン海域に突入せよ！</Name>
+	<Details>「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方ソロモン海域への突入作戦を実施せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,600,1</Get_2>
+	<Mat>500,0,500,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>276</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>273,154</Torigger>
+	<Name>「第六駆逐隊」対潜哨戒を徹底なのです！</Name>
+	<Details>「第六駆逐隊」を含む対潜哨戒部隊で南方連絡航路へ再展開、敵潜水艦部隊を痛打せよ！</Details>
+	<Get_1>12,1,46</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>300,300,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>277</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>155,279</Torigger>
+	<Name>「第一水雷戦隊」ケ号作戦、突入せよ！</Name>
+	<Details>北方突入準備を完了した「一水戦」で北方キス島に突入！包囲網を破り、友軍を救出せよ！</Details>
+	<Get_1>1,4,6</Get_1>
+	<Get_2>13,1,52</Get_2>
+	<Mat>300,300,0,400</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>278</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>156</Torigger>
+	<Name>「第一水雷戦隊」北方ケ号作戦、再突入！</Name>
+	<Details>北方再突入準備の新編「一水戦」で北方キス島に再突入を敢行、同撤収作戦を完遂せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,400,1</Get_2>
+	<Mat>500,500,0,500</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>279</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>234</Torigger>
+	<Name>北方海域の哨戒を実施せよ！</Name>
+	<Details>艦隊を北方海域に展開、モーレイ海の哨戒を実施せよ！</Details>
+	<Get_1>1,3,6</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>300,300,0,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>280</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>279</Torigger>
+	<Name>陽動作戦！「AL作戦」を実施せよ！</Name>
+	<Details>北方AL海域において、「AL作戦」を実施せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,800,1</Get_2>
+	<Mat>600,600,0,800</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>281</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>280,267</Torigger>
+	<Name>発動！「MI作戦」</Name>
+	<Details>MI海域において「MI作戦」を実施、同作戦を完遂せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,2000,1</Get_2>
+	<Mat>880,880,880,880</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>282</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>281,285</Torigger>
+	<Name>西部方面派遣艦隊、出撃せよ！</Name>
+	<Details>西方海域に西部方面派遣艦隊を派遣し、同方面の再集結中の敵増援艦隊を叩け！</Details>
+	<Get_1>3,3,12</Get_1>
+	<Get_2>101,1000,1</Get_2>
+	<Mat>880,880,880,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>283</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>281,290</Torigger>
+	<Name>決戦！「FS作戦」、発動せよ！</Name>
+	<Details>FS海域方面の戦略拠点攻略を実施する。「FS作戦」を発動、これを完遂せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,3000,1</Get_2>
+	<Mat>0,900,0,900</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>284</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>230,264</Torigger>
+	<Name>機動部隊出撃！ポートワインを痛打せよ！</Name>
+	<Details>航空母艦を旗艦とした空母機動部隊をポートワイン沖に展開、同地敵戦力を痛打せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,500,1</Get_2>
+	<Mat>600,0,600,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>285</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>264</Torigger>
+	<Name>カレー洋作戦、開始せよ！</Name>
+	<Details>カレー洋正面海域に艦隊を展開、同海域の敵艦隊を撃破し、カレー洋作戦を実施せよ！</Details>
+	<Get_1>1,5,7</Get_1>
+	<Get_2>101,1000,1</Get_2>
+	<Mat>750,750,0,500</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>286</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>160</Torigger>
+	<Name>「第五航空戦隊」珊瑚諸島沖に出撃せよ！</Name>
+	<Details>再編成した「第五航空戦隊」を珊瑚諸島沖に展開、敵機動部隊を捕捉撃滅せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,500,1</Get_2>
+	<Mat>0,800,0,800</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>287</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>161</Torigger>
+	<Name>新編「第二一戦隊」北方へ出撃せよ！</Name>
+	<Details>新編「第二一戦隊」を基幹とする艦隊を展開、北方AL諸島沖を遊弋する敵を撃滅せよ！</Details>
+	<Get_1>13,1,56</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>500,500,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>288</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>162</Torigger>
+	<Name>「第十六戦隊(第一次)」出撃せよ！</Name>
+	<Details>「第十六戦隊」を幌筵泊地正面に展開、同泊地の警備を実施せよ！</Details>
+	<Get_1>12,1,129</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>500,0,500,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>289</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>131</Torigger>
+	<Name>「第八駆逐隊」出撃せよ！</Name>
+	<Details>編成した「第八駆逐隊」を含む艦隊で出撃し、オリョール海西部の敵艦隊を撃滅せよ！</Details>
+	<Get_1>3,2,12</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>200,200,400,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>290</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>243,236</Torigger>
+	<Name>「鉄底海峡」を越えて</Name>
+	<Details>ソロモン海域深部に艦隊を突入、同方面の敵艦隊を撃破、「鉄底海峡」を突破せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,1500,1</Get_2>
+	<Mat>900,900,900,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>291</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>283</Torigger>
+	<Name>深海運河戦略攻撃</Name>
+	<Details>深海運河に潜水空母艦隊等を派遣し、同運河への戦略攻撃を実施せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,3000,1</Get_2>
+	<Mat>900,900,0,900</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>292</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>163</Torigger>
+	<Name>「第三航空戦隊」近海諸島防衛線に出撃！</Name>
+	<Details>編成した「第三航空戦隊」を近海諸島防衛線に展開、敵侵攻艦隊を捕捉撃滅せよ！</Details>
+	<Get_1>1,4,6</Get_1>
+	<Get_2>13,3,59</Get_2>
+	<Mat>500,0,500,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>293</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>165</Torigger>
+	<Name>「小沢艦隊」出撃せよ！</Name>
+	<Details>「小沢艦隊」を中部西海域沖ノ島沖に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,700,1</Get_2>
+	<Mat>400,400,400,800</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>294</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>167</Torigger>
+	<Name>「第十六戦隊(第二次)」出撃せよ！</Name>
+	<Details>「第十六戦隊(第二次)」を西方海域ベーグル湾に展開、べーグル湾通商破壊戦を実施せよ！</Details>
+	<Get_1>13,2,54</Get_1>
+	<Get_2>3,2,12</Get_2>
+	<Mat>600,0,600,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>295</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>168</Torigger>
+	<Name>新編成航空戦隊、北方へ進出せよ！</Name>
+	<Details>「新編成航空戦隊」を北方アルフォンシーノ列島沖へ展開、同海域の敵艦隊を撃滅せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,700,1</Get_2>
+	<Mat>0,700,0,700</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>296</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>264,169</Torigger>
+	<Name>「礼号作戦」実施せよ！</Name>
+	<Details>精強な「水上反撃部隊」で、中部西海域オリョール海西部に突入！敵艦隊を撃滅せよ！</Details>
+	<Get_1>13,1,57</Get_1>
+	<Get_2>101,700,1</Get_2>
+	<Mat>800,800,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>297</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>236,109</Torigger>
+	<Name>トラック泊地周辺警備を実施せよ！</Name>
+	<Details>南方トラック泊地は前線の要だ。トラック泊地周辺警備を実施して、工作艦の前線投入を準備せよ！</Details>
+	<Get_1>11,1,182</Get_1>
+	<Get_2>101,150,1</Get_2>
+	<Mat>0,500,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>298</Id>
+	<Category>2</Category>
+	<Type>1</Type>
+	<Torigger>144,281</Torigger>
+	<Name>艦隊旗艦、戦艦「大和」出撃せよ！</Name>
+	<Details>旗艦「大和」出撃する！MI諸島近海に展開し、その巨砲で敵MI島基地守備隊を粉砕せよ！</Details>
+	<Get_1>12,1,128</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>0,800,800,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>301</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>101</Torigger>
+	<Name>はじめての「演習」！</Name>
+	<Details>はじめての演習！「艦隊行動演習」を実施せよ！</Details>
+	<Get_1>102,0,2</Get_1>
+	<Get_2>1,1,7</Get_2>
+	<Mat>30,30,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>302</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>301</Torigger>
+	<Name>「砲戦演習」を実施せよ！</Name>
+	<Details>艦隊戦の練度を向上させるため、「砲戦演習」を実施せよ！</Details>
+	<Get_1>102,0,3</Get_1>
+	<Mat>0,70,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>303</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>302</Torigger>
+	<Name>「雷撃戦演習」を実施せよ！</Name>
+	<Details>艦隊戦の練度を向上させるため、「雷撃戦演習」を実施せよ！</Details>
+	<Get_1>12,1,15</Get_1>
+	<Mat>80,0,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>304</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>302</Torigger>
+	<Name>「砲戦演習」を継続実施せよ！</Name>
+	<Details>艦隊戦の練度を向上させるため、「砲戦演習」を継続して実施せよ！</Details>
+	<Get_1>12,1,63</Get_1>
+	<Mat>0,100,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>305</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>303,304</Torigger>
+	<Name>「演習」を実施し、夜戦練度を高めよ！</Name>
+	<Details>「艦隊行動演習」及び「雷撃戦演習」を継続して実施せよ！</Details>
+	<Get_1>12,1,129</Get_1>
+	<Get_2>102,0,4</Get_2>
+	<Mat>100,100,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>306</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>611,317</Torigger>
+	<Name>式の準備！(その弐)</Name>
+	<Details>今月中に「対抗演習」を5回以上実施し、式への気持ちを整理しよう！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Mat>0,0,88,88</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>307</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>151,317</Torigger>
+	<Name>作戦前に艦隊練度向上を図れ！</Name>
+	<Details>作戦前に艦隊の練度向上を図る！今月中に「対抗演習」を3回以上実施せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Mat>0,0,300,300</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>308</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>418,317</Torigger>
+	<Name>演習を強化、艦隊の練度向上に努めよ！</Name>
+	<Details>艦隊のさらなる練度向上を図る！今月中に「対抗演習」を4回以上実施せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Get_2>1,1,8</Get_2>
+	<Mat>0,300,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>309</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>277,305</Torigger>
+	<Name>北方再突入に備え、練度向上に努めよ！</Name>
+	<Details>艦隊再突入に備え、艦隊練度向上を図る！「艦隊行動演習」を継続実施せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Get_2>1,2,8</Get_2>
+	<Mat>300,0,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>310</Id>
+	<Category>3</Category>
+	<Type>6</Type>
+	<Torigger>305</Torigger>
+	<Name>「砲戦演習」を強化せよ！</Name>
+	<Details>月月火水木金金！「砲戦演習」を継続して実施せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Mat>0,100,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>311</Id>
+	<Category>3</Category>
+	<Type>6</Type>
+	<Torigger>310,305</Torigger>
+	<Name>艦隊の夜戦練度向上に努めよ！</Name>
+	<Details>夜戦練度向上を図る！「艦隊行動演習」及び「雷撃戦演習」を継続実施せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Mat>100,100,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>312</Id>
+	<Category>3</Category>
+	<Type>6</Type>
+	<Torigger>310,316</Torigger>
+	<Name>「対潜戦演習」を強化せよ！</Name>
+	<Details>対潜水艦戦練度の向上を図る！「対潜戦演習」を継続実施せよ！</Details>
+	<Get_1>1,1,7</Get_1>
+	<Get_2>103,1,1</Get_2>
+	<Mat>200,0,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>313</Id>
+	<Category>3</Category>
+	<Type>6</Type>
+	<Torigger>311,319</Torigger>
+	<Name>艦隊の練度向上に努めよ！</Name>
+	<Details>艦隊の総合的な練度向上を図る！「総合演習」を継続実施せよ！</Details>
+	<Get_1>1,1,6</Get_1>
+	<Get_2>12,1,145</Get_2>
+	<Mat>0,200,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>314</Id>
+	<Category>3</Category>
+	<Type>6</Type>
+	<Torigger>312</Torigger>
+	<Name>「航空戦演習」を強化せよ！</Name>
+	<Details>艦隊の航空戦練度向上を図る！「航空戦演習」を継続実施せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Get_2>12,1,145</Get_2>
+	<Mat>0,0,0,200</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>315</Id>
+	<Category>3</Category>
+	<Type>6</Type>
+	<Torigger>310</Torigger>
+	<Name>艦隊同士の「対抗演習」を実施せよ！</Name>
+	<Details>艦隊同士の演習を実施する！今月中に「対抗演習」を5回以上実施せよ！</Details>
+	<Get_1>1,2,8</Get_1>
+	<Get_2>12,1,145</Get_2>
+	<Mat>200,200,200,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>316</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>311</Torigger>
+	<Name>「対潜戦演習」を実施せよ！</Name>
+	<Details>艦隊の対潜戦練度を向上させるため、「対潜戦演習」を実施せよ！</Details>
+	<Get_1>12,1,44</Get_1>
+	<Get_2>102,0,5</Get_2>
+	<Mat>80,0,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>317</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>104</Torigger>
+	<Name>「対抗演習」を実施せよ！</Name>
+	<Details>艦隊同士の模擬戦闘演習を実施する！「対抗演習」を実施せよ！</Details>
+	<Get_1>1,1,5</Get_1>
+	<Get_2>1,1,6</Get_2>
+	<Mat>0,0,80,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>318</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>316,317</Torigger>
+	<Name>「航空戦演習」を実施せよ！</Name>
+	<Details>艦隊の航空戦練度を向上させるため、「航空戦演習」を実施せよ！</Details>
+	<Get_1>12,1,96</Get_1>
+	<Get_2>102,0,6</Get_2>
+	<Mat>0,0,0,80</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>319</Id>
+	<Category>3</Category>
+	<Type>1</Type>
+	<Torigger>318</Torigger>
+	<Name>「総合演習」を実施せよ！</Name>
+	<Details>艦隊戦の練度を総合的に向上させるため、「総合演習」を実施せよ！</Details>
+	<Get_1>12,1,36</Get_1>
+	<Get_2>1,2,7</Get_2>
+	<Mat>100,100,100,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>401</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>105,602</Torigger>
+	<Name>はじめての「遠征」！</Name>
+	<Details>艦隊を「遠征」に出発させよ！</Details>
+	<Get_1>3,1,10</Get_1>
+	<Get_2>103,1,1</Get_2>
+	<Mat>50,50,50,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>402</Id>
+	<Category>4</Category>
+	<Type>6</Type>
+	<Torigger>401</Torigger>
+	<Name>艦隊の「遠征」を実施せよ！</Name>
+	<Details>今月中に「遠征」を３回成功させよ！</Details>
+	<Get_1>3,1,10</Get_1>
+	<Get_2>1,2,7</Get_2>
+	<Mat>100,100,100,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>403</Id>
+	<Category>4</Category>
+	<Type>6</Type>
+	<Torigger>402</Torigger>
+	<Name>「遠征」を継続して実施せよ！</Name>
+	<Details>今月中に「遠征」を継続実施、これを10回成功させよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Get_2>103,1,1</Get_2>
+	<Mat>200,200,200,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>404</Id>
+	<Category>4</Category>
+	<Type>6</Type>
+	<Torigger>401</Torigger>
+	<Name>南方からの資源輸送作戦を強化せよ！</Name>
+	<Details>今月中に南方からの「資源輸送系遠征」を継続実施、12回以上成功させよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>13,1,52</Get_2>
+	<Mat>300,100,400,200</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>405</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>127</Torigger>
+	<Name>第１次潜水艦派遣作戦</Name>
+	<Details>第１次潜水艦派遣作戦を実施、これを成功させよ！</Details>
+	<Get_1>12,1,42</Get_1>
+	<Get_2>101,150,1</Get_2>
+	<Mat>0,0,20,20</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>406</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>405</Torigger>
+	<Name>第２次潜水艦派遣作戦</Name>
+	<Details>第２次潜水艦派遣作戦を成功させよ！</Details>
+	<Get_1>12,1,64</Get_1>
+	<Get_2>1,3,7</Get_2>
+	<Mat>0,0,20,20</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>407</Id>
+	<Category>4</Category>
+	<Type>6</Type>
+	<Torigger>403</Torigger>
+	<Name>海上護衛・対潜作戦を強化せよ！</Name>
+	<Details>海上護衛遠征及び対潜作戦遠征を継続実施せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>12,1,42</Get_2>
+	<Mat>300,150,0,150</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>408</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>406</Torigger>
+	<Name>潜水艦派遣作戦による技術入手の継続！</Name>
+	<Details>第３次及び第４次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！</Details>
+	<Get_1>12,1,64</Get_1>
+	<Get_2>1,4,8</Get_2>
+	<Mat>0,0,0,800</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>409</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>408</Torigger>
+	<Name>潜水艦派遣による海外艦との接触作戦</Name>
+	<Details>有力な潜水艦隊派遣による海外艦との接触作戦を成功させよ！</Details>
+	<Get_1>11,1,174</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>150,150,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>410</Id>
+	<Category>4</Category>
+	<Type>6</Type>
+	<Torigger>130</Torigger>
+	<Name>南方海域への鼠輸送を実施せよ！</Name>
+	<Details>激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>3,1,12</Get_2>
+	<Mat>100,100,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>411</Id>
+	<Category>4</Category>
+	<Type>6</Type>
+	<Torigger>410</Torigger>
+	<Name>南方海域への鼠輸送を継続実施せよ！</Name>
+	<Details>「東京急行」系遠征を継続的に反復実施、今月中に鼠輸送を6回成功せさよ！</Details>
+	<Get_1>103,1,1</Get_1>
+	<Get_2>1,2,8</Get_2>
+	<Mat>400,400,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>412</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>239</Torigger>
+	<Name>「北号作戦」を実施せよ！</Name>
+	<Details>航空戦艦2隻を投入する強行資源輸送作戦、「北号作戦」を実施せよ！</Details>
+	<Get_1>12,1,79</Get_1>
+	<Get_2>101,500,1</Get_2>
+	<Mat>100,100,0,150</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>413</Id>
+	<Category>4</Category>
+	<Type>6</Type>
+	<Torigger>412</Torigger>
+	<Name>「北号作戦」を継続実施せよ！</Name>
+	<Details>航空戦艦2隻を投入する強行資源輸送作戦、「北号作戦」を継続実施せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>1,2,8</Get_2>
+	<Mat>150,150,100,250</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>414</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>139</Torigger>
+	<Name>中部西海域潜水艦哨戒を実施せよ！</Name>
+	<Details>「中部西海域潜水艦哨戒」を反復実施し、哨戒と潜水艦隊練度向上に努めよ！</Details>
+	<Get_1>12,1,95</Get_1>
+	<Mat>100,100,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>415</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>414</Torigger>
+	<Name>遠洋潜水艦作戦を実施せよ！</Name>
+	<Details>「遠洋潜水艦作戦」を反復実施し、潜水艦隊による敵艦隊漸減に努めよ！</Details>
+	<Get_1>12,1,95</Get_1>
+	<Mat>150,150,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>416</Id>
+	<Category>4</Category>
+	<Type>6</Type>
+	<Torigger>207</Torigger>
+	<Name>防空射撃演習を継続実施せよ！</Name>
+	<Details>「防空射撃演習」を反復実施し、艦隊の防空能力を高めよ！</Details>
+	<Get_1>12,1,39</Get_1>
+	<Get_2>1,2,7</Get_2>
+	<Mat>0,150,0,150</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>417</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>271</Torigger>
+	<Name>囮機動部隊支援作戦を実施せよ！</Name>
+	<Details>「囮機動部隊支援作戦」を実施し、これを成功させよ！</Details>
+	<Get_1>12,1,120</Get_1>
+	<Get_2>1,2,7</Get_2>
+	<Mat>300,300,0,500</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>418</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>137</Torigger>
+	<Name>観艦式予行を実施せよ！</Name>
+	<Details>観艦式を実施する。準備として「観艦式予行」を実施、これを2回成功させよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Mat>200,0,200,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>419</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>308</Torigger>
+	<Name>観艦式を敢行せよ！</Name>
+	<Details>練度の高い艦隊で「観艦式」本番を実施する。「観艦式」を成功させよ！</Details>
+	<Get_1>13,1,63</Get_1>
+	<Get_2>1,3,8</Get_2>
+	<Mat>200,0,800,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>420</Id>
+	<Category>4</Category>
+	<Type>6</Type>
+	<Torigger>410,286</Torigger>
+	<Name>空母機動部隊を積極運用せよ！</Name>
+	<Details>機動部隊で「MO作戦」及び「敵母港空襲作戦」を実施、これを成功させよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Get_2>1,2,8</Get_2>
+	<Mat>200,300,0,400</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>421</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>409,414</Torigger>
+	<Name>潜水艦派遣による技術入手を強化せよ！</Name>
+	<Details>潜水艦派遣作戦を継続して成功させ、他国製技術の導入に努めよ！</Details>
+	<Get_1>12,1,79</Get_1>
+	<Get_2>101,150,1</Get_2>
+	<Mat>50,50,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>422</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>160,421</Torigger>
+	<Name>潜水艦派遣作戦による海外艦救援！</Name>
+	<Details>有力な潜水艦隊派遣による海外艦との接触、同救援を継続的に実施せよ！</Details>
+	<Get_1>11,1,441</Get_1>
+	<Get_2>101,200,1</Get_2>
+	<Mat>200,200,200,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>423</Id>
+	<Category>4</Category>
+	<Type>1</Type>
+	<Torigger>419</Torigger>
+	<Name>遠洋練習航海を実施せよ！</Name>
+	<Details>「遠洋練習航海」及び「南洋方面遠洋練習航海」を実施、これを成功させよ！</Details>
+	<Get_1>11,1,465</Get_1>
+	<Mat>0,400,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>501</Id>
+	<Category>5</Category>
+	<Type>1</Type>
+	<Torigger>203</Torigger>
+	<Name>はじめての「補給」！</Name>
+	<Details>戦いで「補給」はとても重要です！燃料・弾薬を艦に「補給」せよ！</Details>
+	<Get_1>1,1,6</Get_1>
+	<Mat>50,50,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>502</Id>
+	<Category>5</Category>
+	<Type>1</Type>
+	<Torigger>204,501</Torigger>
+	<Name>艦娘を「入渠」で修理！</Name>
+	<Details>戦闘で傷ついた艦を「入渠」させて損傷部分の修理、次の出撃に備えよ！</Details>
+	<Get_1>1,1,6</Get_1>
+	<Get_2>1,1,7</Get_2>
+	<Mat>0,0,100,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>503</Id>
+	<Category>5</Category>
+	<Type>6</Type>
+	<Torigger>502</Torigger>
+	<Name>艦隊大整備！</Name>
+	<Details>今月中に艦を10隻以上ドック入りさせ、艦隊の大規模な整備を実施せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>1,2,6</Get_2>
+	<Mat>200,100,300,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>504</Id>
+	<Category>5</Category>
+	<Type>6</Type>
+	<Torigger>503</Torigger>
+	<Name>艦隊酒保祭り！</Name>
+	<Details>艦隊酒保祭り！今月中に各艦に延べ30回以上の補給を実施せよ！</Details>
+	<Get_1>1,2,6</Get_1>
+	<Get_2>1,2,5</Get_2>
+	<Mat>200,300,100,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>601</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Name>はじめての「建造」！</Name>
+	<Details>「工廠」で鋼材などの資材を使って、新しい艦を「建造」せよ！</Details>
+	<Get_1>1,1,7</Get_1>
+	<Get_2>1,2,5</Get_2>
+	<Mat>50,50,50,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>602</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>203</Torigger>
+	<Name>はじめての「開発」！</Name>
+	<Details>「工廠」でボーキサイトなどの資材を使って、新しい装備を「開発」せよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Mat>100,100,100,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>603</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>205,602</Torigger>
+	<Name>はじめての「解体」！</Name>
+	<Details>「工廠」で不要な艦の艤装を「解体」せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>103,1,1</Get_2>
+	<Mat>60,60,60,60</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>604</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>207,603</Torigger>
+	<Name>はじめての「廃棄」！</Name>
+	<Details>「工廠」で装備を「廃棄」せよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Get_2>1,1,6</Get_2>
+	<Mat>80,80,80,80</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>605</Id>
+	<Category>6</Category>
+	<Type>3</Type>
+	<Torigger>999</Torigger>
+	<Name>新装備「開発」指令</Name>
+	<Details>「工廠」で新たに装備の「開発」に挑戦せよ！</Details>
+	<Get_1>1,1,7</Get_1>
+	<Get_2>1,1,5</Get_2>
+	<Mat>0,0,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>606</Id>
+	<Category>6</Category>
+	<Type>3</Type>
+	<Torigger>999</Torigger>
+	<Name>新造艦「建造」指令</Name>
+	<Details>「工廠」で艦娘を新たに「建造」せよ！</Details>
+	<Get_1>1,1,7</Get_1>
+	<Get_2>1,1,6</Get_2>
+	<Mat>0,0,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>607</Id>
+	<Category>6</Category>
+	<Type>6</Type>
+	<Torigger>216,604</Torigger>
+	<Name>装備「開発」集中月間！</Name>
+	<Details>「工廠」で装備の「開発」を今月中に新たに5回実施せよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Get_2>1,2,6</Get_2>
+	<Mat>80,80,100,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>608</Id>
+	<Category>6</Category>
+	<Type>6</Type>
+	<Torigger>210,607</Torigger>
+	<Name>艦娘大規模「建造」計画！</Name>
+	<Details>艦隊強化のため、「工廠」で艦娘を今月中に新たに5隻「建造」せよ！</Details>
+	<Get_1>1,2,5</Get_1>
+	<Get_2>103,1,1</Get_2>
+	<Mat>200,200,300,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>609</Id>
+	<Category>6</Category>
+	<Type>6</Type>
+	<Torigger>221,608</Torigger>
+	<Name>軍縮条約対応！</Name>
+	<Details>少し艦隊規模が大きくなりすぎました！「工廠」で新たに艦を2隻「解体」せよ！</Details>
+	<Get_1>1,1,7</Get_1>
+	<Get_2>103,2,1</Get_2>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>610</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>704</Torigger>
+	<Name>「大型艦建造」の準備！(その弐)</Name>
+	<Details>大型艦建造の準備をします！「工廠」で任意の装備を5つ「廃棄」せよ！</Details>
+	<Get_1>4,0,0</Get_1>
+	<Get_2>101,700,1</Get_2>
+	<Mat>500,500,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>611</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>118</Torigger>
+	<Name>式の準備！(その壱)</Name>
+	<Details>式の準備をします！「工廠」で装備を3つ「廃棄」して身の回りの整理を！</Details>
+	<Get_1>1,1,7</Get_1>
+	<Mat>88,88,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>612</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>105</Torigger>
+	<Name>輸送用ドラム缶の準備</Name>
+	<Details>「工廠」で装備を3つ「廃棄」して、輸送用のドラム缶を準備せよ！</Details>
+	<Get_1>12,3,75</Get_1>
+	<Mat>0,0,30,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>613</Id>
+	<Category>6</Category>
+	<Type>6</Type>
+	<Torigger>228</Torigger>
+	<Name>資源の再利用</Name>
+	<Details>「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよ！</Details>
+	<Get_1>12,1,75</Get_1>
+	<Get_2>1,1,7</Get_2>
+	<Mat>0,0,120,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>614</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>250</Torigger>
+	<Name>機種転換</Name>
+	<Details>「九七式艦攻(友永隊)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「天山」を2つ廃棄せよ！</Details>
+	<Get_1>15,1,1</Get_1>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>615</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>250</Torigger>
+	<Name>機種転換</Name>
+	<Details>「九九式艦爆(江草隊)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「彗星」を2つ廃棄せよ！</Details>
+	<Get_1>15,1,2</Get_1>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>616</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>252</Torigger>
+	<Name>機種転換</Name>
+	<Details>「零戦52型丙(六〇一空)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「烈風」を2つ廃棄せよ！</Details>
+	<Get_1>15,1,3</Get_1>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>617</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>608</Torigger>
+	<Name>「伊良湖」の準備</Name>
+	<Details>「工廠」で不要な装備をいくつか「廃棄」して、新型給糧艦召喚の準備をしましょう！</Details>
+	<Get_1>13,4,59</Get_1>
+	<Get_2>101,300,1</Get_2>
+	<Mat>100,0,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>618</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>145</Torigger>
+	<Name>はじめての「装備改修」！</Name>
+	<Details>「改修工廠」で装備を改修せよ！工作艦明石さん、お願いします！</Details>
+	<Get_1>1,7,8</Get_1>
+	<Mat>0,0,100,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>619</Id>
+	<Category>6</Category>
+	<Type>6</Type>
+	<Torigger>608,618</Torigger>
+	<Name>装備の改修強化</Name>
+	<Details>「改修工廠」で装備の改修強化に努めよ！</Details>
+	<Get_1>1,2,8</Get_1>
+	<Mat>0,50,0,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>620</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>163,621</Torigger>
+	<Name>精鋭「艦攻」部隊の編成</Name>
+	<Details>要「熟練搭乗員」任務：第一艦隊旗艦に練度max「九七式艦攻」搭載空母を配備した状態で、「九七式艦攻」x2を廃棄せよ！</Details>
+	<Get_1>15,1,4</Get_1>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>621</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>211,625</Torigger>
+	<Name>精鋭「艦爆」部隊の編成</Name>
+	<Details>要「熟練搭乗員」任務：第一艦隊旗艦に練度max「九九式艦爆」搭載空母を配備した状態で、「九九式艦爆」x2を廃棄せよ！</Details>
+	<Get_1>15,1,5</Get_1>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>622</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>220,623</Torigger>
+	<Name>機種転換</Name>
+	<Details>「九七式艦攻(村田隊)」搭載「翔鶴」を第一艦隊旗艦にした状態で、新たに「天山」を2つ廃棄せよ！</Details>
+	<Get_1>15,1,6</Get_1>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>623</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>286</Torigger>
+	<Name>精鋭「九七式艦攻」部隊の編成</Name>
+	<Details>「翔鶴」または「赤城」を第一艦隊旗艦にした状態で、新たに「九七式艦攻」を3つ廃棄せよ！</Details>
+	<Get_1>12,1,143</Get_1>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>624</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>999</Torigger>
+	<Name>試作艤装の準備</Name>
+	<Details>「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備せよ！</Details>
+	<Get_1>13,1,59</Get_1>
+	<Mat>0,0,100,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>625</Id>
+	<Category>6</Category>
+	<Type>7</Type>
+	<Torigger>159,216</Torigger>
+	<Name>精鋭「艦戦」隊の新編成</Name>
+	<Details>要「熟練搭乗員」任務：練度max「零戦21型」搭載「鳳翔」を第一艦隊旗艦に配備し、「零戦21型」x2「九六艦戦」x1廃棄せよ！</Details>
+	<Get_1>15,1,7</Get_1>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>626</Id>
+	<Category>6</Category>
+	<Type>7</Type>
+	<Torigger>163,625</Torigger>
+	<Name>機種転換</Name>
+	<Details>「零戦21型(熟練)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「零戦52型」を2つ廃棄せよ！</Details>
+	<Get_1>15,1,8</Get_1>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>627</Id>
+	<Category>6</Category>
+	<Type>7</Type>
+	<Torigger>243,622</Torigger>
+	<Name>新型「艦戦」の改良</Name>
+	<Details>第一艦隊旗艦に練度max「烈風」搭載空母を配備した状態で、「烈風」x1「零戦52型」x1を廃棄せよ！</Details>
+	<Get_1>15,1,9</Get_1>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>628</Id>
+	<Category>6</Category>
+	<Type>1</Type>
+	<Torigger>626,171</Torigger>
+	<Name>精鋭「新型瑞雲」部隊の編成</Name>
+	<Details>第一艦隊旗艦に練度max「瑞雲(六三四空)」搭載艦を配備した状態で、「瑞雲12型」x1「瑞雲」x2を廃棄せよ！</Details>
+	<Get_1>15,1,10</Get_1>
+	<Mat>0,0,0,50</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>701</Id>
+	<Category>7</Category>
+	<Type>1</Type>
+	<Torigger>204,401</Torigger>
+	<Name>はじめての「近代化改修」！</Name>
+	<Details>任意の艦を近代化改修して、能力を強化せよ！</Details>
+	<Get_1>1,1,7</Get_1>
+	<Mat>0,0,60,30</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>702</Id>
+	<Category>7</Category>
+	<Type>6</Type>
+	<Torigger>701</Torigger>
+	<Name>「近代化改修」を実施せよ！</Name>
+	<Details>近代化改修を実施して、今月中に2回以上これを成功させよ！</Details>
+	<Get_1>1,2,7</Get_1>
+	<Mat>50,50,100,0</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>703</Id>
+	<Category>7</Category>
+	<Type>6</Type>
+	<Torigger>702</Torigger>
+	<Name>「近代化改修」を進め、戦備を整えよ！</Name>
+	<Details>近代化改修を継続実施し、今月中に10回改修を成功させよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Get_2>1,2,5</Get_2>
+	<Mat>200,200,300,100</Mat>
+</mst_quest>
+<mst_quest>
+	<Id>704</Id>
+	<Category>7</Category>
+	<Type>1</Type>
+	<Torigger>109</Torigger>
+	<Name>「大型艦建造」の準備！(その壱)</Name>
+	<Details>大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！</Details>
+	<Get_1>1,3,7</Get_1>
+	<Mat>0,0,300,300</Mat>
+</mst_quest>
+</mst_quest_data>

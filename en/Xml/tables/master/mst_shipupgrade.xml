@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_shipupgrade_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_shipupgrade>
+	<Id>72</Id>
+	<Original_ship_id>72</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>274</Id>
+	<Original_ship_id>72</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>189</Id>
+	<Original_ship_id>72</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>2</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>71</Id>
+	<Original_ship_id>71</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>273</Id>
+	<Original_ship_id>71</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>188</Id>
+	<Original_ship_id>71</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>2</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>171</Id>
+	<Original_ship_id>171</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>172</Id>
+	<Original_ship_id>171</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>173</Id>
+	<Original_ship_id>171</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>2</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>178</Id>
+	<Original_ship_id>171</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>3</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>184</Id>
+	<Original_ship_id>184</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>185</Id>
+	<Original_ship_id>184</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>318</Id>
+	<Original_ship_id>184</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>2</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>404</Id>
+	<Original_ship_id>404</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>406</Id>
+	<Original_ship_id>404</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>26</Id>
+	<Original_ship_id>26</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>286</Id>
+	<Original_ship_id>26</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>411</Id>
+	<Original_ship_id>26</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>2</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>27</Id>
+	<Original_ship_id>27</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>287</Id>
+	<Original_ship_id>27</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>412</Id>
+	<Original_ship_id>27</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>2</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>331</Id>
+	<Original_ship_id>331</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>429</Id>
+	<Original_ship_id>331</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>69</Id>
+	<Original_ship_id>69</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>272</Id>
+	<Original_ship_id>69</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>427</Id>
+	<Original_ship_id>69</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>2</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>332</Id>
+	<Original_ship_id>332</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>430</Id>
+	<Original_ship_id>332</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>441</Id>
+	<Original_ship_id>441</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>446</Id>
+	<Original_ship_id>441</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>442</Id>
+	<Original_ship_id>442</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>447</Id>
+	<Original_ship_id>442</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>114</Id>
+	<Original_ship_id>114</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>290</Id>
+	<Original_ship_id>114</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>200</Id>
+	<Original_ship_id>114</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>2</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>110</Id>
+	<Original_ship_id>110</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>288</Id>
+	<Original_ship_id>110</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>461</Id>
+	<Original_ship_id>110</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>2</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>466</Id>
+	<Original_ship_id>110</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>3</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>111</Id>
+	<Original_ship_id>111</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>0</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>112</Id>
+	<Original_ship_id>111</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>1</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>462</Id>
+	<Original_ship_id>111</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>2</Upgrade_level>
+	<Drawing_count>1</Drawing_count>
+</mst_shipupgrade>
+<mst_shipupgrade>
+	<Id>467</Id>
+	<Original_ship_id>111</Original_ship_id>
+	<Upgrade_type>1</Upgrade_type>
+	<Upgrade_level>3</Upgrade_level>
+	<Drawing_count>0</Drawing_count>
+</mst_shipupgrade>
+</mst_shipupgrade_data>

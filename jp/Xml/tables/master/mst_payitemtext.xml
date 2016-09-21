@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_payitemtext_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_payitemtext>
+	<Id>1</Id>
+	<Description>補給のお供に！\n燃料x300</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>2</Id>
+	<Description>補給のお供に！\n弾薬x300</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>3</Id>
+	<Description>艦娘の建造に！\n鋼材x200</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>4</Id>
+	<Description>航空機関連に！\nボーキサイトx100</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>5</Id>
+	<Description>装備の研究開発を！\n開発資材x4</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>6</Id>
+	<Description>修理、お待たせしません！\n高速修復材x4</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>7</Id>
+	<Description>建造、劇的に時間を短縮！\n高速建造材x4</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>8</Id>
+	<Description>油の一滴は…燃料不足解消に！\n燃料を1200入手します。</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>9</Id>
+	<Description>ジュラルミンで航空機大増産！\nボーキサイトを500入手します。</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>10</Id>
+	<Description>燃料x500  弾薬x500\n鋼材x300  高速修復材x1</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>11</Id>
+	<Description>燃料x200  弾薬x200\n鋼材x1000  高速建造材x1</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>12</Id>
+	<Description>ドック増設キーx1\n高速修復材x2 高速建造材x2</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>13</Id>
+	<Description>ダメージコントロール！\n応急修理要員x2</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>14</Id>
+	<Description>上級ダメコンを艦娘に！\n応急修理女神x2</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>15</Id>
+	<Description>特注家具を執務室に！\n特注家具要員x1</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>16</Id>
+	<Description>母港拡張！\n艦娘保有数+10拡張可能！(max{0}隻)</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>17</Id>
+	<Description>給糧艦「間宮」召喚！\n艦隊の疲労を甘味で回復！(2艦隊分)</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>18</Id>
+	<Description>給糧艦「伊良湖」召喚！\n何人かの艦娘の疲労を甘味で回復！(4回分)</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>19</Id>
+	<Description>レベルが99になった艦娘とケッコンカッコカリ！\n書類一式＆指輪(1回分)</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>20</Id>
+	<Description>明石さんの「改修工廠」で装備を改修！\n改修資材x8</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>21</Id>
+	<Description>激しい戦闘のお供に！\n心尽くしの「戦闘糧食」をどうぞ！x3</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>22</Id>
+	<Description>練度30以上の艦娘に！\n補強増設改修が可能です(1回分)</Description>
+</mst_payitemtext>
+<mst_payitemtext>
+	<Id>23</Id>
+	<Description>使用には「給油艦/補給艦」の運用が必要です。(2回分)</Description>
+</mst_payitemtext>
+</mst_payitemtext_data>

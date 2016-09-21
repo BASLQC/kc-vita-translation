@@ -1,0 +1,2245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_shipgraphbattle_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_shipgraphbattle>
+	<Id>1</Id>
+	<BattlePos>-71,-74,-40,-84,74,531,13,513,-112,532,-177,515,264,537,204,519,62,12,26,15,8,-2,-25,3,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>2</Id>
+	<BattlePos>-12,-86,30,-90,47,563,-25,550,-145,565,-212,551,236,570,171,553,91,-41,56,-28,26,-47,3,-35,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>3</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>4</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>5</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>6</Id>
+	<BattlePos>10,-144,11,-93,-25,427,-10,410,-213,429,-152,409,165,429,165,429,32,58,105,127,-19,55,-5,120,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>7</Id>
+	<BattlePos>-24,-141,82,-87,44,466,-32,470,-116,464,-179,476,250,464,180,476,68,31,106,68,21,15,55,57,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>8</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>9</Id>
+	<BattlePos>20,-79,20,-76,-59,585,-59,588,-242,591,-250,593,133,591,132,593,10,-41,10,-41,-38,-51,-38,-51,0.95</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>10</Id>
+	<BattlePos>-52,-88,-52,-88,16,583,16,583,-171,588,-171,588,206,590,206,590,13,-63,13,-63,-36,-70,-36,-70,0.95</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>11</Id>
+	<BattlePos>-43,-79,-43,-79,51,588,51,588,-139,593,-139,593,245,594,245,594,60,-48,60,-48,11,-56,11,-56,0.95</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>12</Id>
+	<BattlePos>-49,-74,-49,-74,20,604,20,604,-166,608,-166,608,210,608,210,608,22,-62,22,-62,-30,-69,-30,-69,0.95</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>13</Id>
+	<BattlePos>-37,-50,-37,-50,31,634,31,634,-160,637,-160,637,222,637,222,637,40,-66,40,-66,-7,-74,-7,-74,0.95</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>14</Id>
+	<BattlePos>-37,-50,-37,-50,29,635,29,635,-160,641,-160,641,218,641,218,641,41,-68,41,-68,-7,-75,-7,-75,0.95</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>15</Id>
+	<BattlePos>9,-39,9,-39,29,550,29,550,-127,552,-128,551,218,552,218,552,89,45,89,45,34,30,34,30,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>16</Id>
+	<BattlePos>-35,-49,-35,-54,50,569,50,569,-118,566,-123,568,261,566,261,566,85,14,85,14,33,0,33,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>17</Id>
+	<BattlePos>-75,-91,-75,-91,53,539,53,539,-137,544,-137,544,240,544,240,544,24,6,24,6,-25,-6,-25,-6,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>18</Id>
+	<BattlePos>-13,-92,-13,-92,8,592,8,592,-150,595,-150,595,199,595,199,595,52,-53,52,-53,-5,-63,-5,-63,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>19</Id>
+	<BattlePos>28,-79,28,-79,-10,590,-10,590,-184,593,-184,593,197,593,197,593,87,-30,87,-30,30,-40,30,-40,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>20</Id>
+	<BattlePos>-28,-17,0,-24,6,629,42,654,-184,630,-115,650,213,630,266,650,62,-14,125,-45,9,-27,50,-54,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>21</Id>
+	<BattlePos>0,-28,0,-28,5,689,5,689,-152,691,-152,691,194,691,199,691,55,-85,55,-85,5,-93,5,-93,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>22</Id>
+	<BattlePos>-12,-32,-12,-32,-9,678,-9,678,-165,678,-168,677,181,678,181,678,30,-77,31,-77,-19,-84,-19,-84,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>23</Id>
+	<BattlePos>55,-46,55,-46,-15,662,-15,662,-205,669,-205,669,173,669,173,669,90,-77,90,-77,38,-84,38,-84,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>24</Id>
+	<BattlePos>55,0,55,0,0,634,-2,632,-195,634,-195,636,187,634,189,636,102,20,102,20,54,10,54,10,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>25</Id>
+	<BattlePos>-21,-103,-21,-103,-18,432,-18,432,-170,434,-170,434,208,434,208,434,60,106,60,106,-44,89,-44,89,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>26</Id>
+	<BattlePos>-18,22,-18,22,28,711,23,711,-162,712,-163,715,219,715,218,718,55,-3,55,-3,4,-14,4,-14,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>27</Id>
+	<BattlePos>-90,22,-85,18,18,750,14,745,-170,752,-174,749,210,755,202,749,-24,-38,-24,-38,-34,-47,-34,-47,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>28</Id>
+	<BattlePos>52,-140,40,-54,-84,457,-5,453,-228,462,-166,458,109,462,206,458,22,29,101,122,-27,17,52,104,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>29</Id>
+	<BattlePos>55,-89,11,-141,-8,470,23,449,-196,470,-171,450,187,470,212,450,99,74,83,41,45,60,31,28,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>30</Id>
+	<BattlePos>11,-148,-39,-142,59,436,59,430,-107,437,-88,431,267,437,256,431,141,47,73,58,46,34,22,45,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>31</Id>
+	<BattlePos>-96,-137,27,-140,40,468,-55,440,-114,470,-189,441,232,470,127,441,-3,24,13,48,-52,13,-26,35,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>32</Id>
+	<BattlePos>-35,-53,-35,-53,24,613,24,613,-130,616,-130,616,212,616,212,616,37,-36,37,-36,-10,-45,-10,-45,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>33</Id>
+	<BattlePos>-90,-113,-90,-117,9,504,9,504,-160,507,-160,507,177,507,177,507,-50,17,-50,17,-90,5,-90,5,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>34</Id>
+	<BattlePos>-71,-141,7,-141,13,462,3,453,-138,459,-148,455,202,459,195,455,-4,25,65,35,-56,13,4,23,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>35</Id>
+	<BattlePos>17,-140,-41,-135,-37,431,20,442,-189,433,-166,442,145,433,213,442,29,58,29,52,-18,46,-21,40,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>36</Id>
+	<BattlePos>-9,-138,-9,-138,3,467,-5,435,-183,474,-192,440,194,474,184,440,46,24,40,57,-4,11,-10,44,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>37</Id>
+	<BattlePos>-9,-143,-35,-140,-31,442,-31,451,-227,448,-217,457,154,448,158,457,5,46,-20,42,-36,32,-51,30,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>38</Id>
+	<BattlePos>-38,-87,-38,-87,36,506,36,506,-128,507,-128,507,253,507,253,507,69,36,69,35,20,25,20,24,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>39</Id>
+	<BattlePos>-12,-93,-12,-93,53,440,53,440,-50,439,-50,439,277,439,277,439,142,98,142,98,42,84,42,84,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>40</Id>
+	<BattlePos>-25,-93,-2,-114,9,446,30,460,-170,449,-148,460,202,449,220,460,35,89,81,59,-11,75,27,45,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>41</Id>
+	<BattlePos>-51,-114,-19,-135,-26,468,65,421,-170,471,-100,417,166,471,281,417,-22,46,126,77,-62,33,29,61,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>42</Id>
+	<BattlePos>-90,-31,-90,-100,20,573,23,572,-139,574,-140,567,209,574,211,567,-17,21,-17,-43,-65,10,-66,-51,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>43</Id>
+	<BattlePos>-71,-128,-71,-128,70,485,77,485,-126,488,-126,488,255,490,255,490,51,2,51,2,8,-8,8,-8,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>44</Id>
+	<BattlePos>4,-127,4,-127,-6,531,-16,531,-197,536,-206,534,183,536,175,534,47,-42,37,-42,-1,-52,-12,-52,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>45</Id>
+	<BattlePos>49,-49,7,-49,-2,593,-2,593,-190,599,-185,601,187,599,195,601,96,-15,63,-15,45,-24,13,-24,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>46</Id>
+	<BattlePos>12,-118,12,-118,-38,566,-38,566,-229,574,-229,574,151,574,151,574,10,-72,17,-69,-40,-78,-33,-77,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>47</Id>
+	<BattlePos>108,-128,108,-128,-97,553,-97,553,-287,558,-287,558,96,558,96,558,54,-72,49,-72,3,-80,-1,-80,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>48</Id>
+	<BattlePos>-27,-71,-27,-71,8,547,8,547,-180,547,-180,547,196,547,196,547,32,14,32,14,-19,2,-19,2,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>49</Id>
+	<BattlePos>-11,-120,-11,-120,8,437,8,437,-98,438,-98,438,283,441,283,441,165,77,165,77,-3,61,-3,61,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>50</Id>
+	<BattlePos>50,-23,-15,-122,1,568,10,435,-145,561,-149,438,197,561,198,438,111,38,45,71,36,27,-6,57,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>51</Id>
+	<BattlePos>-57,-90,-57,-90,84,455,84,455,-25,459,-25,459,316,459,316,459,192,88,192,88,14,72,14,72,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>52</Id>
+	<BattlePos>-128,-132,-128,-132,75,426,75,426,-50,429,-50,429,254,429,254,429,-27,73,-27,73,-39,59,-39,59,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>53</Id>
+	<BattlePos>2,-61,-37,-61,-1,629,-1,629,-149,629,-149,629,146,629,155,629,47,-59,3,-59,3,-66,-13,-66,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>54</Id>
+	<BattlePos>-37,-45,-40,-38,-3,626,79,590,-162,636,-74,590,187,636,269,590,10,-41,102,1,-35,-51,56,-12,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>55</Id>
+	<BattlePos>-8,-45,2,-79,2,620,-36,556,-158,622,-226,563,194,622,128,563,46,-37,-17,1,-4,-45,-34,-10,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>56</Id>
+	<BattlePos>41,-48,-1,-44,-20,638,-3,608,-193,638,-169,608,170,638,197,608,72,-54,33,-20,20,-64,11,-28,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>57</Id>
+	<BattlePos>41,-26,41,-26,17,586,17,586,-152,584,-152,584,201,584,201,584,102,20,102,20,54,10,54,10,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>58</Id>
+	<BattlePos>-24,-138,-24,-138,17,390,17,390,-156,395,-156,395,210,395,210,395,60,106,60,106,-44,89,-44,89,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>59</Id>
+	<BattlePos>-11,-91,-11,-91,-12,556,-12,556,-169,564,-169,564,180,564,180,564,28,-16,28,-16,-19,-27,-19,-27,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>60</Id>
+	<BattlePos>-11,-84,-11,-84,18,549,18,549,-136,547,-136,547,212,547,212,547,63,5,63,5,-12,-6,-12,-6,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>61</Id>
+	<BattlePos>-21,-89,-21,-89,-42,536,-42,536,-206,541,-206,541,138,541,138,541,-25,7,-25,7,-32,-4,-32,-4,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>62</Id>
+	<BattlePos>-5,-31,-5,-15,-9,702,-20,707,-200,708,-219,710,177,708,151,710,33,-77,-35,-53,-16,-84,-13,-65,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>63</Id>
+	<BattlePos>50,1,35,-60,-9,730,-40,554,-201,735,-233,559,181,735,145,559,94,-68,39,19,41,-75,-5,6,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>64</Id>
+	<BattlePos>-57,-9,-8,-23,10,705,-59,670,-178,710,-252,676,199,710,130,676,1,-57,-15,-38,-46,-64,-24,-47,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>65</Id>
+	<BattlePos>-2,-56,-12,-6,4,630,-67,691,-183,635,-243,698,196,635,138,698,56,-33,-24,-40,-15,-43,-39,-48,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>66</Id>
+	<BattlePos>-22,-52,-22,-52,13,648,13,648,-173,651,-173,651,209,651,209,651,41,-43,41,-43,-8,-53,-8,-53,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>67</Id>
+	<BattlePos>-12,-59,-12,-59,10,640,10,640,-178,645,-178,645,199,645,199,645,46,-47,46,-47,-4,-55,-4,-55,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>68</Id>
+	<BattlePos>-67,-138,-67,-138,57,398,57,398,-111,404,-111,404,240,404,240,404,101,92,101,92,-14,77,-14,77,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>69</Id>
+	<BattlePos>-28,-76,-76,-76,-38,539,-38,539,-198,541,-160,542,164,541,197,542,-41,20,-41,20,-41,8,-41,8,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>70</Id>
+	<BattlePos>1,-26,1,-26,33,608,33,608,-156,613,-156,613,229,613,229,613,83,22,83,22,32,9,32,9,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>71</Id>
+	<BattlePos>-2,-27,-18,-61,15,659,41,591,-174,665,-131,597,205,665,252,600,62,-31,88,-6,12,-41,33,-17,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>72</Id>
+	<BattlePos>-5,0,60,-13,0,730,-35,699,-189,735,-228,702,190,735,163,702,44,-70,78,-54,2,-77,19,-62,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>73</Id>
+	<BattlePos>-37,-7,-37,-7,34,621,34,621,-153,631,-153,631,225,635,225,635,45,22,45,22,-5,10,-5,10,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>74</Id>
+	<BattlePos>25,22,-30,23,-1,655,3,744,-147,660,-200,748,217,660,180,748,109,41,9,-31,8,27,-25,-38,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>75</Id>
+	<BattlePos>5,-58,5,-58,24,633,24,634,-166,636,-165,637,215,636,217,639,77,-40,77,-40,25,-50,25,-50,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>76</Id>
+	<BattlePos>5,-94,5,-94,-53,549,-53,549,-210,552,-210,552,137,552,137,552,3,-12,3,-12,-47,-23,-47,-23,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>77</Id>
+	<BattlePos>29,-19,29,-19,-30,693,-30,693,-218,698,-218,698,163,698,163,698,55,-30,55,-30,0,-40,0,-40,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>78</Id>
+	<BattlePos>79,-30,10,-110,-12,664,1,427,-206,669,-112,430,155,669,268,433,116,-29,131,99,2,-38,-6,83,1.15</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>79</Id>
+	<BattlePos>36,-81,36,-81,-20,503,-20,503,-122,505,-122,505,239,507,239,507,172,66,172,66,-2,52,-2,52,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>80</Id>
+	<BattlePos>33,-1,-91,5,-28,736,133,737,-218,740,2,737,160,740,370,746,59,-48,124,-44,11,-57,17,-52,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>81</Id>
+	<BattlePos>-20,0,3,-67,39,729,-3,526,-142,733,-129,526,243,737,228,530,71,-43,108,61,16,-52,-7,46,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>82</Id>
+	<BattlePos>32,-17,32,-17,-34,696,-34,696,-224,700,-224,700,141,697,141,697,55,-30,55,-30,0,-40,0,-40,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>83</Id>
+	<BattlePos>-11,-9,-11,-9,10,702,10,702,-181,707,-181,707,202,707,202,707,46,-29,46,-29,0,-37,0,-37,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>84</Id>
+	<BattlePos>-54,35,-54,35,-25,712,-25,712,-215,716,-215,716,155,721,155,721,-41,4,-41,4,-32,-5,-32,-5,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>85</Id>
+	<BattlePos>13,-95,13,-95,60,568,60,568,-131,569,-131,569,250,569,250,569,115,-6,115,-6,11,-17,11,-17,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>86</Id>
+	<BattlePos>16,-38,16,-38,1,663,1,663,-191,667,-191,667,191,669,191,669,66,-50,66,-50,13,-58,13,-58,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>87</Id>
+	<BattlePos>-56,14,-56,14,22,703,22,703,-167,708,-167,708,212,708,212,708,12,-6,12,-6,-2,-18,-2,-18,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>88</Id>
+	<BattlePos>-62,-14,-62,-14,31,699,31,699,-158,701,-158,701,220,704,220,704,13,-30,13,-30,8,-40,8,-40,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>89</Id>
+	<BattlePos>-105,37,-105,37,16,681,16,681,-171,687,-171,687,211,688,211,688,-38,33,-38,33,-85,21,-85,21,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>90</Id>
+	<BattlePos>66,-44,66,-44,-40,616,-40,616,-301,620,-301,620,70,620,70,620,7,10,7,10,27,-3,27,-3,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>91</Id>
+	<BattlePos>-1,24,-1,24,-44,662,-44,662,-232,668,-232,668,149,668,149,668,12,42,12,42,-34,29,-34,29,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>92</Id>
+	<BattlePos>-12,-45,-7,-45,34,629,34,629,-130,636,-135,636,221,636,221,636,72,-48,72,-48,18,-55,18,-55,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>93</Id>
+	<BattlePos>22,-61,22,-61,-5,596,-5,596,-156,597,-156,597,180,597,180,597,65,-24,65,-24,38,-33,38,-33,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>94</Id>
+	<BattlePos>30,-48,26,-52,18,611,18,611,-174,614,-174,614,206,614,206,614,97,-30,94,-32,44,-39,41,-41,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>95</Id>
+	<BattlePos>9,-142,9,-142,-47,404,-47,404,-328,407,-328,407,27,404,27,404,-108,89,-108,89,-19,72,-19,72,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>96</Id>
+	<BattlePos>-14,-62,-14,-62,18,607,18,607,-171,609,-171,609,210,609,210,609,55,-37,55,-37,4,-45,4,-45,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>97</Id>
+	<BattlePos>1,-131,1,-131,4,462,4,462,-186,465,-186,465,192,467,192,467,55,35,55,35,-5,24,-5,24,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>98</Id>
+	<BattlePos>44,-89,44,-89,-32,600,-32,600,-200,609,-200,609,178,609,178,609,85,-62,85,-62,31,-70,31,-70,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>99</Id>
+	<BattlePos>44,-24,44,-24,-53,598,-53,598,-220,598,-220,598,161,598,161,598,65,33,65,33,-1,22,-1,22,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>100</Id>
+	<BattlePos>18,-93,18,-93,-36,521,-36,521,-227,526,-227,526,154,527,154,527,36,25,36,25,-10,14,-10,14,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>101</Id>
+	<BattlePos>-26,-70,-26,-70,2,560,2,560,-148,566,-148,566,190,566,190,566,21,2,21,2,-21,-10,-21,-10,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>102</Id>
+	<BattlePos>-16,-63,0,-66,1,637,-4,635,-188,642,-194,637,189,642,187,639,33,-48,45,-48,-15,-56,-2,-56,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>103</Id>
+	<BattlePos>-19,-62,-19,-23,30,621,27,637,-160,623,-161,639,194,627,222,642,56,-33,60,-6,1,-43,1,-18,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>104</Id>
+	<BattlePos>-28,-59,-29,-68,14,641,26,632,-175,645,-162,638,207,648,219,639,33,-48,45,-48,-15,-56,-2,-56,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>105</Id>
+	<BattlePos>-22,-32,-22,-36,28,638,30,622,-159,642,-158,625,196,644,221,628,56,-18,60,-6,1,-29,1,-18,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>106</Id>
+	<BattlePos>-29,-63,-29,-66,16,636,28,634,-174,640,-163,638,205,640,220,640,33,-48,45,-48,-15,-56,-2,-56,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>107</Id>
+	<BattlePos>-16,-37,-16,-37,21,633,22,619,-165,636,-163,623,216,639,215,626,56,-18,60,-6,1,-29,1,-18,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>108</Id>
+	<BattlePos>8,-42,-16,-44,22,647,9,641,-169,650,-182,644,213,650,199,645,77,-33,42,-33,77,-41,77,-40,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>109</Id>
+	<BattlePos>-18,-35,-18,-37,5,627,4,624,-185,631,-186,628,194,633,194,630,37,-11,37,-11,44,-19,44,-19,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>110</Id>
+	<BattlePos>2,-56,33,-56,-2,628,-49,622,-159,628,-205,629,186,628,139,629,50,-53,36,-50,-1,-62,-13,-59,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>111</Id>
+	<BattlePos>-31,-52,-42,-78,20,635,72,616,-141,636,-70,616,207,636,275,616,38,-56,100,-62,-7,-64,42,-57,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>112</Id>
+	<BattlePos>-31,-52,-42,-78,20,635,72,616,-141,636,-70,616,207,636,275,616,38,-56,102,-62,-7,-64,42,-57,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>113</Id>
+	<BattlePos>-4,-112,-4,-112,-7,528,-7,528,-124,530,-124,530,256,530,256,530,144,-23,144,-23,-20,-34,-20,-34,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>114</Id>
+	<BattlePos>-5,-115,-5,-115,-42,547,-42,547,-229,552,-229,552,151,552,151,552,3,-53,3,-53,-44,-62,-44,-62,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>115</Id>
+	<BattlePos>34,-63,34,-63,-6,597,-6,597,-164,595,-164,595,160,595,160,595,78,-32,78,-32,22,-40,22,-40,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>116</Id>
+	<BattlePos>19,-117,19,-117,20,546,20,546,-171,550,-171,550,211,552,211,552,91,-49,91,-49,39,-58,39,-58,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>117</Id>
+	<BattlePos>19,-117,19,-117,20,546,20,546,-171,550,-171,550,211,552,211,552,91,-49,91,-49,39,-58,39,-58,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>118</Id>
+	<BattlePos>24,-31,-5,-31,26,603,21,605,-163,609,-165,607,218,609,213,609,100,15,65,15,46,4,16,4,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>119</Id>
+	<BattlePos>-16,-42,14,-42,8,409,3,403,-181,414,-188,407,198,414,195,407,59,185,82,193,-24,166,-3,173,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>120</Id>
+	<BattlePos>-64,-14,-64,-14,-10,630,-10,630,-201,635,-201,635,180,635,180,635,-26,7,-26,7,-70,-4,-70,-4,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>121</Id>
+	<BattlePos>-64,-14,-64,-14,-10,630,-10,630,-201,635,-201,635,180,635,180,635,-18,7,-18,7,-62,-4,-62,-4,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>122</Id>
+	<BattlePos>122,-83,122,-83,-81,599,-81,599,-272,605,-272,605,109,605,109,605,98,-77,98,-77,13,-82,13,-82,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>123</Id>
+	<BattlePos>-3,-44,80,-44,6,619,-2,647,-144,599,-158,651,187,599,187,651,67,-34,128,-62,6,-30,74,-69,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>124</Id>
+	<BattlePos>23,-54,23,-54,2,665,-2,664,-149,668,-149,668,191,668,191,668,91,-87,91,-87,21,-94,21,-94,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>125</Id>
+	<BattlePos>9,-59,9,-59,-13,639,-13,639,-177,649,-177,649,200,649,200,649,70,-71,70,-71,1,-75,1,-75,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>126</Id>
+	<BattlePos>4,-173,4,-173,-10,380,-10,380,-244,384,-244,384,121,384,121,384,-38,80,-38,80,-17,65,-17,65,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>127</Id>
+	<BattlePos>9,-75,9,-75,-58,561,-58,561,-235,568,-235,568,112,568,112,568,-20,-11,-20,-11,-66,-18,-66,-18,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>128</Id>
+	<BattlePos>32,-217,32,-217,-52,294,-52,294,-223,300,-223,300,127,300,127,300,20,118,20,118,-17,101,-17,101,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>129</Id>
+	<BattlePos>-28,-54,20,-59,16,644,-25,626,-140,650,-158,630,202,650,180,630,35,-67,104,-56,-18,-76,1,-65,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>130</Id>
+	<BattlePos>13,-40,27,-77,22,627,-54,419,-169,628,-240,425,214,631,137,425,86,-24,24,128,33,-24,4,119,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>131</Id>
+	<BattlePos>54,-5,29,-79,-42,675,1,601,-213,678,-168,605,171,678,213,607,88,-2,96,-15,19,-13,11,-26,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>132</Id>
+	<BattlePos>-4,-88,-64,-152,14,498,53,440,-177,503,-215,444,202,504,165,444,60,30,-62,31,9,19,3,18,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>133</Id>
+	<BattlePos>-22,-64,54,-66,-12,575,-83,601,-201,580,-269,602,137,580,74,602,-24,-18,-10,-43,-66,-28,-48,-52,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>134</Id>
+	<BattlePos>18,-125,3,-130,10,443,-11,457,-167,448,-201,469,173,448,178,469,49,57,42,37,9,44,-9,24,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>135</Id>
+	<BattlePos>-28,-84,13,-142,12,573,-19,463,-146,577,-201,465,203,577,171,465,62,-28,44,24,5,-37,-2,13,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>136</Id>
+	<BattlePos>54,-5,29,-79,-42,675,1,601,-213,678,-168,605,171,678,213,607,88,1,96,-15,19,-13,11,-26,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>137</Id>
+	<BattlePos>-29,-11,-90,-47,14,690,14,683,-143,687,-142,675,203,687,208,675,34,-69,-20,-100,-16,-80,-69,-107,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>138</Id>
+	<BattlePos>79,-34,51,-55,-13,616,-20,656,-153,618,-182,656,195,618,147,656,167,-20,82,-82,69,-31,30,-87,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>139</Id>
+	<BattlePos>7,-27,13,-45,5,654,34,694,-177,658,-124,696,195,658,225,696,45,-50,94,-110,2,-57,45,-114,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>140</Id>
+	<BattlePos>-70,-47,-55,-57,28,651,45,643,-131,652,-114,638,218,652,248,638,9,-68,70,-77,-39,-75,12,-83,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>141</Id>
+	<BattlePos>5,-79,-12,-67,35,600,53,617,-153,606,-138,618,224,606,241,618,89,-50,89,-50,38,-59,38,-59,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>142</Id>
+	<BattlePos>132,-53,88,-41,-37,541,-76,661,-226,544,-266,668,156,544,118,668,170,51,69,-48,18,39,20,-57,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>143</Id>
+	<BattlePos>-17,-13,-61,-78,-8,666,108,534,-196,671,-83,538,181,671,299,544,28,-3,78,41,-5,-13,-1,30,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>144</Id>
+	<BattlePos>57,-82,1,-171,-35,605,17,337,-205,607,-171,340,154,607,187,340,90,-56,70,122,34,-63,17,105,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>145</Id>
+	<BattlePos>23,-79,45,-118,3,583,-67,483,-163,587,-226,477,188,587,125,477,75,-30,30,31,19,-41,-1,17,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>146</Id>
+	<BattlePos>-10,-56,-24,-64,6,612,6,604,-153,618,-186,607,194,618,194,607,42,-37,28,-37,-3,-48,-20,-48,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>147</Id>
+	<BattlePos>19,-130,48,-168,-31,463,-37,392,-221,466,-222,394,160,466,154,394,37,39,61,71,-13,26,13,57,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>148</Id>
+	<BattlePos>-17,-13,-61,-78,-8,666,108,534,-196,671,-83,538,181,671,299,544,28,-3,76,41,-5,-13,-3,30,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>149</Id>
+	<BattlePos>79,-42,59,-149,9,665,23,396,-180,665,-125,396,198,665,253,402,137,-49,164,85,80,-59,2,71,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>150</Id>
+	<BattlePos>-65,-23,-12,-16,-25,679,34,687,-216,686,-135,687,163,686,220,687,-42,-51,87,-46,-84,-53,-23,-55,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>151</Id>
+	<BattlePos>59,-65,164,-37,-36,615,-79,698,-203,618,-248,702,175,618,133,702,96,-8,163,-52,-13,-23,30,-61,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>152</Id>
+	<BattlePos>-40,-30,163,-81,-2,707,-140,641,-191,713,-332,650,190,714,55,646,9,-82,83,-71,31,-88,31,-78,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>153</Id>
+	<BattlePos>-13,-50,-28,-81,-44,653,-62,605,-229,656,-254,610,151,658,122,610,-4,-75,-67,-56,-17,-82,2,-64,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>154</Id>
+	<BattlePos>-40,-73,-2,-112,25,578,3,481,-163,580,-218,486,216,583,158,486,35,-3,8,48,-15,-12,8,33,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>155</Id>
+	<BattlePos>4,-60,4,-60,-2,654,4,654,-148,652,-148,652,186,652,186,652,52,-84,20,-93,7,-89,7,-89,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>156</Id>
+	<BattlePos>-13,-50,4,-86,-37,657,-102,602,-226,660,-288,606,155,660,87,606,1,-78,-71,-57,-47,-82,-9,-63,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>157</Id>
+	<BattlePos>66,-87,33,-211,-19,562,13,329,-208,567,-179,332,169,567,177,332,96,-21,93,84,14,-32,34,69,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>158</Id>
+	<BattlePos>24,-51,-17,-248,8,657,15,252,-148,663,-115,257,199,663,237,257,82,-80,78,125,30,-88,6,110,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>159</Id>
+	<BattlePos>-11,-57,10,-249,-6,643,59,264,-163,650,-74,263,183,650,248,263,33,-71,174,118,-18,-79,15,103,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>160</Id>
+	<BattlePos>-28,-51,-3,-230,2,635,-11,291,-191,637,-200,297,188,637,181,297,22,-56,35,110,-29,-64,-13,91,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>161</Id>
+	<BattlePos>39,-107,-17,-89,-14,555,27,597,-170,554,-130,603,170,554,212,603,65,-29,55,-52,20,-37,4,-59,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>162</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>163</Id>
+	<BattlePos>19,-99,46,-265,16,568,16,216,-140,568,-106,218,205,568,204,218,84,-33,152,148,33,-43,39,130,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>164</Id>
+	<BattlePos>88,-90,-6,-221,-54,552,-21,308,-218,550,-176,307,135,550,167,307,80,-8,22,100,27,-20,-26,85,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>165</Id>
+	<BattlePos>0,-85,0,-85,0,540,3,538,-153,534,-153,541,193,534,202,541,50,8,50,8,1,3,1,3,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>166</Id>
+	<BattlePos>54,-21,0,-96,-83,628,42,575,-145,634,-119,582,181,634,209,582,116,-20,92,-37,-36,-28,38,-48,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>167</Id>
+	<BattlePos>0,-44,63,-88,-12,641,-139,567,-183,648,-350,574,179,648,38,569,39,-15,-23,3,-11,-26,-18,-9,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>168</Id>
+	<BattlePos>111,-81,63,-87,-128,519,-151,459,-318,529,-343,468,62,523,42,462,45,40,-46,90,2,34,-31,74,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>169</Id>
+	<BattlePos>-24,-92,15,-197,0,565,-17,337,-170,571,-240,344,190,568,141,344,5,-7,1,91,-1,-20,-10,74,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>170</Id>
+	<BattlePos>0,-79,-10,-159,47,553,45,406,-142,556,-109,412,238,561,289,410,90,12,132,64,37,0,9,51,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>171</Id>
+	<BattlePos>97,-17,-22,-56,-98,588,-34,655,-290,592,-225,661,89,589,154,661,39,62,-22,-19,13,44,5,-27,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>172</Id>
+	<BattlePos>97,-17,-22,-56,-98,588,-34,655,-290,592,-225,661,89,589,154,661,39,62,-22,-19,13,44,5,-27,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>173</Id>
+	<BattlePos>97,-17,-22,-56,-98,588,-34,655,-290,592,-225,661,89,589,154,661,39,62,-22,-19,13,44,5,-27,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>174</Id>
+	<BattlePos>-48,-120,-8,-107,15,517,-19,530,-163,520,-175,533,191,520,172,533,-7,-15,23,-8,-11,-25,-24,-19,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>175</Id>
+	<BattlePos>-8,-103,-10,-126,-22,563,-26,511,-170,558,-181,518,191,558,168,518,33,-35,13,-2,-19,-43,-35,-15,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>176</Id>
+	<BattlePos>-23,-33,-17,-27,-7,672,2,687,-196,674,-189,692,186,674,188,692,22,-27,31,-35,-24,-37,-2,-45,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>177</Id>
+	<BattlePos>-23,-33,-17,-27,-7,672,2,687,-196,674,-189,692,186,674,188,692,30,-27,32,-35,-15,-37,-2,-45,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>178</Id>
+	<BattlePos>24,-20,38,-161,-30,696,-27,348,-220,702,-221,354,158,702,160,352,34,-37,62,121,-15,-44,7,105,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>179</Id>
+	<BattlePos>-48,-120,-8,-107,20,516,-16,529,-160,528,-169,533,201,528,176,533,-7,-15,23,-8,-26,-25,-22,-18,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>180</Id>
+	<BattlePos>-8,-103,-10,-126,-20,564,-23,513,-169,558,-177,519,195,558,167,519,33,-35,17,-3,-14,-44,-30,-15,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>181</Id>
+	<BattlePos>16,-58,16,-194,-18,625,10,377,-183,629,-156,380,178,629,183,380,38,-54,81,64,-6,-62,-6,46,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>182</Id>
+	<BattlePos>68,-78,108,-68,-35,552,-160,627,-227,558,-351,635,152,558,35,633,98,0,-3,-68,-3,-12,-2,-74,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>183</Id>
+	<BattlePos>-44,-18,152,-82,20,703,-149,632,-163,709,-338,639,214,712,51,635,30,-97,57,-85,-20,-101,4,-91,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>184</Id>
+	<BattlePos>-24,-37,-18,-163,-9,663,-6,434,-174,667,-145,441,198,667,227,441,16,-69,45,33,-32,-76,2,22,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>185</Id>
+	<BattlePos>64,-50,30,-188,-48,656,-8,366,-185,659,-170,370,195,659,203,370,93,-76,69,76,19,-83,19,61,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>186</Id>
+	<BattlePos>42,-119,37,-176,22,518,3,402,-147,523,-164,410,238,523,219,410,135,-4,109,49,69,-16,53,35,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>187</Id>
+	<BattlePos>-32,-71,-9,-173,80,632,12,436,-132,636,-177,441,257,636,205,441,85,-70,53,20,7,-79,3,8,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>188</Id>
+	<BattlePos>37,-85,-31,-197,-50,491,8,290,-240,496,-179,295,117,495,199,295,20,63,27,133,-15,49,-22,116,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>189</Id>
+	<BattlePos>-29,-59,30,-222,18,641,15,318,-141,644,-145,319,214,644,215,319,39,-70,96,90,-11,-79,44,75,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>190</Id>
+	<BattlePos>-52,-89,-52,-89,44,592,43,592,-116,595,-116,595,239,595,239,595,40,-49,40,-49,-11,-56,-11,-56,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>191</Id>
+	<BattlePos>-29,-206,-29,-206,-6,338,-6,337,-165,348,-159,345,186,348,184,345,14,86,14,86,-33,71,-33,71,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>192</Id>
+	<BattlePos>-67,-52,-6,-100,36,706,30,614,-143,706,-149,622,240,711,232,622,40,-201,95,-140,-6,-203,45,-144,0.8</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>193</Id>
+	<BattlePos>34,-107,72,-182,-44,605,-74,470,-235,611,-295,479,147,611,86,473,33,-139,-26,-45,-18,-143,-19,-53,0.8</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>194</Id>
+	<BattlePos>-49,-74,28,-248,57,609,37,245,-131,615,-104,245,247,615,261,245,57,-55,163,137,6,-62,30,120,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>195</Id>
+	<BattlePos>0,-44,0,-44,30,604,30,601,-151,609,-151,609,210,609,210,609,57,-23,57,-23,16,-30,16,-30,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>196</Id>
+	<BattlePos>-23,87,-23,87,-13,687,-14,685,-196,690,-196,690,176,690,176,690,-3,32,-3,32,-50,20,-50,20,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>197</Id>
+	<BattlePos>-12,51,-12,51,-10,632,-10,632,-200,636,-200,636,176,636,176,636,27,70,27,70,2,54,2,54,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>200</Id>
+	<BattlePos>-35,-57,-83,-76,39,618,44,599,-143,621,-129,599,233,621,231,604,53,-28,9,-32,3,-26,-26,-27,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>201</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>202</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>203</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>204</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>205</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>206</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>207</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>208</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>209</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>210</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>211</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>212</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>213</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>214</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>215</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>216</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>217</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>218</Id>
+	<BattlePos>-4,-37,-17,-74,7,688,-9,611,-182,692,-209,615,197,692,194,613,52,-97,48,-58,3,-86,-34,-48,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>219</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>220</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>221</Id>
+	<BattlePos>0,-67,-42,-48,0,625,0,642,-193,624,-193,647,188,625,185,647,46,-62,5,-65,3,-54,-15,-53,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>222</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>223</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>224</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>225</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>226</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>227</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>228</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>229</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>230</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>231</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>232</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>233</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>234</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>235</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>236</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>237</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>238</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>239</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>240</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>241</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>242</Id>
+	<BattlePos>-20,-63,2,-152,49,623,3,392,-128,628,-154,398,220,628,198,398,57,-57,57,88,10,-63,7,71,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>243</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>244</Id>
+	<BattlePos>59,-57,-24,-193,-33,613,30,259,-177,617,-145,263,181,617,186,263,98,-41,44,179,40,-50,30,159,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>245</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>246</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>247</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>248</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>249</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>250</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>251</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>252</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>253</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>254</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>255</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>256</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>257</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>258</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>259</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>260</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>261</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>262</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>263</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>264</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>265</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>266</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>267</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>268</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>269</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>270</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>271</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>272</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>273</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>274</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>275</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>276</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>277</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>278</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>279</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>280</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>281</Id>
+	<BattlePos>-69,-129,-11,-107,29,543,24,566,-162,546,-167,570,216,546,213,572,13,-57,67,-63,18,-66,12,-69,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>282</Id>
+	<BattlePos>4,-41,4,-228,-25,688,-17,320,-211,696,-207,326,164,696,149,320,31,-106,25,71,-21,-100,-33,69,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>283</Id>
+	<BattlePos>-38,-90,13,-94,46,587,-9,588,-145,591,-181,592,233,595,181,592,60,-67,73,-75,-20,-76,17,-82,0.9</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>284</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>285</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>286</Id>
+	<BattlePos>-23,27,36,28,35,726,10,733,-156,729,-176,737,225,730,201,739,57,-12,96,-14,6,-21,44,-25,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>287</Id>
+	<BattlePos>-70,33,-93,28,30,799,34,802,-161,804,-157,806,221,805,225,808,5,-66,-16,-74,2,-75,-14,-82,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>288</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>289</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>290</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>291</Id>
+	<BattlePos>23,-29,-8,-44,3,659,2,640,-184,661,-190,646,193,661,194,646,77,-34,41,-34,44,-25,34,-24,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>292</Id>
+	<BattlePos>-2,-27,-2,-20,-13,637,-11,643,-203,641,-203,648,179,641,180,648,35,-12,35,-11,38,-13,38,-12,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>293</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>294</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>295</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>296</Id>
+	<BattlePos>-6,-52,-39,-44,21,656,60,636,-170,659,-108,637,212,659,258,645,65,-55,90,-29,74,-61,90,-37,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>297</Id>
+	<BattlePos>-26,-28,-53,-22,33,648,9,648,-156,651,-182,653,225,653,195,653,58,-24,3,-16,64,-30,27,-25,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>300</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>301</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>302</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>303</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>304</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>305</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>306</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>307</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>308</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>309</Id>
+	<BattlePos>21,-85,-16,-188,-11,541,5,360,-208,543,-183,361,179,543,198,361,50,5,38,80,6,-2,-11,75,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>310</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>311</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>312</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>313</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>314</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>315</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>316</Id>
+	<BattlePos>0,-48,-4,-176,-5,622,22,375,-197,627,-161,375,193,627,230,375,41,-43,78,86,-2,-44,-14,77,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>317</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>318</Id>
+	<BattlePos>75,-33,31,-209,18,671,6,329,-149,675,-158,333,214,675,201,333,140,-75,83,92,88,-81,32,76,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>319</Id>
+	<BattlePos>-4,-48,117,-236,1,674,-72,302,-188,677,-230,302,199,677,143,302,46,-93,121,96,-4,-98,22,81,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>320</Id>
+	<BattlePos>-25,-35,43,-69,16,643,-85,589,-174,650,-334,596,207,650,57,594,38,-8,-21,4,-9,-19,-52,-5,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>321</Id>
+	<BattlePos>48,-30,12,-74,3,681,0,622,-168,691,-186,623,218,691,193,623,121,-84,59,-66,-4,-83,-12,-66,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>322</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>323</Id>
+	<BattlePos>-12,-94,30,-152,34,541,-5,281,-153,548,-149,282,225,548,212,285,71,4,114,189,5,-5,-6,167,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>324</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>325</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>326</Id>
+	<BattlePos>-60,-66,-60,-66,28,494,28,494,-136,495,-136,495,227,500,227,500,14,79,14,79,11,63,11,63,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>327</Id>
+	<BattlePos>-60,-88,30,-73,22,579,-11,619,-138,580,-175,627,215,580,175,627,11,-36,64,-50,-38,-43,12,-69,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>328</Id>
+	<BattlePos>-20,-48,-24,-207,48,587,37,346,-144,590,-129,389,242,590,235,389,80,0,60,81,7,-8,0,65,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>329</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>330</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>331</Id>
+	<BattlePos>7,-44,-29,-140,23,643,13,340,-168,646,-138,340,211,648,244,340,79,-33,110,148,27,-42,-4,130,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>332</Id>
+	<BattlePos>-5,-36,-13,-184,87,599,0,360,-104,600,-180,364,279,603,193,366,144,22,39,92,39,8,-8,77,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>333</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>334</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>335</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>336</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>337</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>338</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>339</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>340</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>341</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>342</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>343</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>344</Id>
+	<BattlePos>-55,-80,0,-206,18,566,0,317,-180,570,-148,319,204,573,251,321,11,-21,112,104,-15,-20,-2,100,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>345</Id>
+	<BattlePos>85,-120,-40,-155,-22,510,57,485,-202,513,-134,488,155,513,224,488,103,-1,41,-16,48,-2,-6,-13,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>346</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>347</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>348</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>349</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>350</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>351</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>352</Id>
+	<BattlePos>-41,-93,6,-195,48,588,0,379,-172,592,-219,387,250,592,201,387,7,-54,57,56,59,-56,7,54,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>353</Id>
+	<BattlePos>-25,-50,17,-118,18,650,61,435,-170,654,-125,439,208,657,252,441,44,-52,141,73,-5,-93,80,47,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>354</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>355</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>356</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>357</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>398</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>399</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>400</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>401</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>402</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>403</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>404</Id>
+	<BattlePos>94,-53,-23,-195,-56,627,0,368,-215,630,-189,370,170,630,192,370,120,-49,28,67,10,-57,-24,55,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>405</Id>
+	<BattlePos>-22,-97,-44,-165,46,500,24,305,-115,502,-140,306,239,502,215,306,72,35,28,158,17,23,-10,140,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>406</Id>
+	<BattlePos>61,-22,15,-90,-4,660,-22,573,-195,671,-187,581,191,671,194,581,104,-55,54,-34,8,-64,8,-43,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>407</Id>
+	<BattlePos>88,-120,-13,-221,-96,475,-3,249,-307,487,-190,256,83,487,195,256,25,34,37,159,-23,21,-12,142,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>408</Id>
+	<BattlePos>88,-11,-11,-83,8,690,16,609,-185,691,-172,613,198,691,209,613,144,-69,58,-58,4,-75,4,-67,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>409</Id>
+	<BattlePos>-15,-84,-15,-100,-22,528,-22,508,-185,534,-185,514,193,534,181,514,62,20,50,24,-21,8,-21,11,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>410</Id>
+	<BattlePos>-41,-127,-3,-241,4,468,-20,334,-191,469,-195,337,199,469,156,337,10,39,19,55,-37,25,-14,39,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>411</Id>
+	<BattlePos>21,-59,5,-210,27,630,-23,332,-138,633,-185,339,219,633,168,339,98,-59,31,85,45,-66,-17,71,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>412</Id>
+	<BattlePos>-28,-46,-21,-240,-19,618,0,273,-211,625,-255,281,173,625,126,281,1,-46,-39,108,0,-53,0,90,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>413</Id>
+	<BattlePos>-65,-88,33,-75,29,578,-35,618,-134,581,-180,625,218,581,175,625,11,-35,65,-49,-30,-43,28,-72,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>414</Id>
+	<BattlePos>24,-45,-36,-211,21,590,21,342,-184,585,-119,364,197,585,239,364,79,4,61,80,0,-5,0,66,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>415</Id>
+	<BattlePos>-25,-77,-85,-90,-3,595,67,592,-192,599,-106,592,188,599,271,592,22,-23,22,-23,-21,-30,-21,-30,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>416</Id>
+	<BattlePos>-21,-33,-3,-203,6,691,6,392,-179,705,-157,396,185,705,192,396,22,-105,50,41,0,-110,0,28,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>417</Id>
+	<BattlePos>5,-67,-34,-114,9,607,72,445,-207,613,-144,449,223,613,297,453,77,-50,103,65,21,-88,25,38,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>418</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>419</Id>
+	<BattlePos>54,-89,58,-161,-36,465,-95,289,-225,471,-239,292,155,471,99,292,67,66,10,171,16,52,-4,153,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>420</Id>
+	<BattlePos>117,-50,117,-50,-2,593,9,594,-192,601,-183,600,195,601,195,601,167,-25,176,-25,81,-35,89,-35,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>421</Id>
+	<BattlePos>81,-27,35,-113,-109,667,0,495,-301,672,-193,495,78,669,187,495,39,-16,83,57,-11,-24,14,42,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>422</Id>
+	<BattlePos>-19,-50,-15,-200,-5,649,38,368,-226,649,-161,368,191,649,256,368,27,-75,95,62,-24,-72,22,55,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>423</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>424</Id>
+	<BattlePos>114,-44,24,-59,-25,622,0,600,-218,626,-193,607,164,624,179,607,137,-12,71,-12,89,-24,18,-20,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>425</Id>
+	<BattlePos>-19,-78,19,-202,0,581,0,320,-150,583,-167,330,197,583,235,330,33,-22,115,109,-12,-31,12,93,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>426</Id>
+	<BattlePos>-72,-34,-72,-34,103,577,103,577,-65,577,-65,577,313,584,313,584,108,12,111,12,17,1,20,1,0.95</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>427</Id>
+	<BattlePos>-90,-85,-50,-189,10,602,-45,327,-160,606,-236,327,198,609,145,327,-21,-38,-37,111,-60,-46,-37,95,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>428</Id>
+	<BattlePos>-23,-100,0,-176,27,482,-6,358,-163,485,-197,364,218,486,180,364,29,58,22,93,0,43,-7,80,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>429</Id>
+	<BattlePos>-30,-58,79,-118,99,579,-101,507,-90,580,-292,510,290,584,93,510,129,11,36,14,14,0,36,14,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>430</Id>
+	<BattlePos>-46,-21,-138,-67,38,646,89,595,-153,650,-61,595,228,652,336,602,57,-13,86,-25,-11,-25,-56,-25,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>431</Id>
+	<BattlePos>69,-89,0,-187,-97,506,24,353,-310,514,-230,355,74,508,80,355,8,45,-56,89,-17,32,-22,75,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>432</Id>
+	<BattlePos>-25,-55,17,-112,18,644,60,442,-171,649,-108,446,210,651,253,446,45,-52,124,73,-7,-48,69,72,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>433</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>434</Id>
+	<BattlePos>32,-78,-8,-154,-19,550,4,345,-204,550,-187,348,173,550,194,351,68,18,47,128,16,12,-3,110,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>435</Id>
+	<BattlePos>-26,-69,-34,-211,-8,595,-10,295,-199,600,-200,301,180,599,184,301,35,-13,8,114,-15,-24,-40,98,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>436</Id>
+	<BattlePos>-45,-96,-30,-83,26,561,0,592,-160,565,-192,595,216,567,189,595,31,0,3,-25,-17,-12,-29,-35,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>437</Id>
+	<BattlePos>6,-118,16,-114,2,485,-6,471,-187,490,-195,478,192,490,186,478,58,35,62,45,5,30,9,45,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>438</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>439</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>440</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>441</Id>
+	<BattlePos>-9,-39,-32,-50,28,654,-9,640,-140,658,-197,640,244,660,193,641,85,-18,10,-14,13,-26,-1,-23,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>442</Id>
+	<BattlePos>-18,-56,-2,-145,-30,626,14,396,-221,630,-169,399,162,627,209,402,1,-11,63,91,-27,-20,13,78,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>443</Id>
+	<BattlePos>108,-102,-79,-144,-60,512,24,428,-260,518,-267,433,158,518,140,433,116,11,-73,57,50,-25,-28,26,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>444</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>445</Id>
+	<BattlePos>0,-63,68,-120,12,531,-25,399,-150,536,-215,404,221,537,167,403,82,37,96,119,9,24,46,94,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>446</Id>
+	<BattlePos>-9,-38,-24,-48,51,653,-11,638,-136,658,-201,638,244,658,181,641,87,-16,14,-12,28,-26,11,-22,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>447</Id>
+	<BattlePos>-17,-58,-2,-145,-13,623,9,394,-227,628,-176,398,150,628,203,401,-1,-11,58,90,-25,-22,-12,76,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>448</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>449</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>450</Id>
+	<BattlePos>0,-57,96,-132,27,538,-55,385,-135,542,-243,389,236,543,135,389,82,37,96,119,9,24,46,94,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>451</Id>
+	<BattlePos>-32,-52,-38,-62,14,614,29,611,-210,623,-199,619,220,623,232,619,36,-46,39,-49,-17,-39,-14,-42,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>452</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>453</Id>
+	<BattlePos>-10,-73,-7,-196,-43,603,20,373,-274,612,-200,379,179,612,213,379,13,-52,65,58,-58,-94,12,24,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>454</Id>
+	<BattlePos>-10,-44,3,-131,-27,636,2,412,-217,642,-184,415,165,642,194,415,14,-18,57,86,-38,-55,-15,59,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>455</Id>
+	<BattlePos>54,-40,13,-62,-48,621,-20,618,-214,624,-207,618,144,624,173,618,85,4,49,-15,14,4,-1,-17,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>456</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>457</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>458</Id>
+	<BattlePos>2,-83,14,-151,27,601,18,382,-172,604,-179,386,248,608,238,390,99,-55,90,90,30,-53,32,87,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>459</Id>
+	<BattlePos>-19,-84,1,-143,29,598,24,338,-209,603,-195,343,220,603,220,343,61,-57,71,141,8,-53,22,135,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>460</Id>
+	<BattlePos>-37,-110,6,-195,45,574,0,379,-176,577,-219,387,245,579,201,387,58,-57,57,56,8,-53,7,54,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>461</Id>
+	<BattlePos>44,-62,-78,-155,-15,637,5,421,-183,641,-185,425,178,641,202,426,100,-53,-21,51,48,-48,-84,51,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>462</Id>
+	<BattlePos>47,-79,106,-94,-10,609,-65,505,-198,611,-257,512,180,611,124,512,89,-42,94,36,36,-39,42,36,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>463</Id>
+	<BattlePos>-67,28,-57,-109,58,731,4,488,-126,733,-182,488,254,738,197,488,32,-19,0,48,-33,-18,-68,47,1.2</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>464</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>465</Id>
+	<BattlePos>15,-66,-26,-217,-16,601,13,256,-207,605,-174,262,171,605,207,262,48,-22,37,139,-2,-19,-13,134,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>466</Id>
+	<BattlePos>44,-70,-104,-205,-13,627,15,366,-205,630,-151,369,175,630,225,371,100,-53,-21,51,48,-48,-84,51,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>467</Id>
+	<BattlePos>47,-61,106,-92,-10,628,-66,508,-199,633,-257,511,180,633,124,511,89,-42,94,36,36,-39,42,36,1.1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>501</Id>
+	<BattlePos>0,0,0,0,22,495,0,0,236,501,0,0,0,0,0,0,182,202,0,0,6,180,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>502</Id>
+	<BattlePos>0,0,0,0,17,495,0,0,236,501,0,0,0,0,0,0,175,223,0,0,-3,200,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>503</Id>
+	<BattlePos>64,0,0,0,-37,487,0,0,227,497,0,0,0,0,0,0,113,211,0,0,28,179,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>504</Id>
+	<BattlePos>-16,0,0,0,40,419,0,0,151,474,0,0,0,0,0,0,111,272,0,0,27,180,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>505</Id>
+	<BattlePos>32,0,0,0,-20,440,0,0,228,455,0,0,0,0,0,0,99,208,0,0,-2,180,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>506</Id>
+	<BattlePos>0,0,0,0,3,501,0,0,179,459,0,0,0,0,0,0,4,127,0,0,-5,104,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>507</Id>
+	<BattlePos>-48,0,0,0,47,490,0,0,211,511,0,0,0,0,0,0,138,113,0,0,-8,91,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>508</Id>
+	<BattlePos>36,-64,0,0,-28,594,0,0,219,516,0,0,0,0,0,0,31,-27,0,0,3,-40,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>509</Id>
+	<BattlePos>24,-64,0,0,-1,532,0,0,175,533,0,0,0,0,0,0,86,35,0,0,5,23,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>510</Id>
+	<BattlePos>0,-64,0,0,-2,459,0,0,185,429,0,0,0,0,0,0,40,91,0,0,-7,76,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>511</Id>
+	<BattlePos>-4,-64,0,0,-8,574,0,0,159,577,0,0,0,0,0,0,39,-7,0,0,-11,-19,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>512</Id>
+	<BattlePos>80,-64,0,0,-7,518,0,0,160,522,0,0,0,0,0,0,123,47,0,0,70,35,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>513</Id>
+	<BattlePos>-16,-64,0,0,36,566,0,0,240,577,0,0,0,0,0,0,108,-4,0,0,51,-21,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>514</Id>
+	<BattlePos>0,0,0,0,57,492,0,0,275,489,0,0,0,0,0,0,220,202,0,0,43,180,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>515</Id>
+	<BattlePos>0,32,0,0,60,449,0,0,280,468,0,0,0,0,0,0,231,296,0,0,51,269,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>516</Id>
+	<BattlePos>64,0,0,0,-13,436,0,0,171,474,0,0,0,0,0,0,132,238,0,0,21,214,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>517</Id>
+	<BattlePos>-16,0,0,0,60,433,0,0,214,442,0,0,0,0,0,0,134,272,0,0,27,195,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>518</Id>
+	<BattlePos>32,-24,0,0,-30,411,0,0,162,397,0,0,0,0,0,0,99,208,0,0,-4,219,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>519</Id>
+	<BattlePos>-80,0,0,0,18,508,0,0,217,516,0,0,0,0,0,0,-72,127,0,0,-70,112,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>520</Id>
+	<BattlePos>-32,0,0,0,16,473,0,0,190,497,0,0,0,0,0,0,138,145,0,0,-8,117,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>521</Id>
+	<BattlePos>36,-48,0,0,-52,573,0,0,109,573,0,0,0,0,0,0,31,11,0,0,3,-1,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>522</Id>
+	<BattlePos>24,-64,0,0,-24,512,0,0,139,513,0,0,0,0,0,0,54,54,0,0,-27,40,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>523</Id>
+	<BattlePos>0,-64,0,0,14,415,0,0,179,432,0,0,0,0,0,0,55,103,0,0,13,79,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>524</Id>
+	<BattlePos>-4,-64,0,0,-7,543,0,0,158,549,0,0,0,0,0,0,39,21,0,0,-10,9,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>525</Id>
+	<BattlePos>102,-64,0,0,28,502,0,0,194,507,0,0,0,0,0,0,180,63,0,0,126,49,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>526</Id>
+	<BattlePos>-16,-64,0,0,28,597,0,0,265,600,0,0,0,0,0,0,111,-28,0,0,57,-44,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>527</Id>
+	<BattlePos>24,-64,0,0,17,473,0,0,182,477,0,0,0,0,0,0,94,93,0,0,11,77,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>528</Id>
+	<BattlePos>128,-40,0,0,15,486,0,0,184,489,0,0,0,0,0,0,193,105,0,0,137,89,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>529</Id>
+	<BattlePos>-4,-30,0,0,-6,573,0,0,159,577,0,0,0,0,0,0,39,26,0,0,-10,13,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>530</Id>
+	<BattlePos>-30,-317,0,0,25,207,0,0,201,205,0,0,0,0,0,0,62,210,0,0,-34,188,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>531</Id>
+	<BattlePos>40,-224,0,0,3,300,0,0,252,315,0,0,0,0,0,0,244,162,0,0,16,144,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>532</Id>
+	<BattlePos>-22,-285,0,0,12,232,0,0,186,220,0,0,0,0,0,0,65,232,0,0,-34,209,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>533</Id>
+	<BattlePos>40,-224,0,0,15,274,0,0,275,310,0,0,0,0,0,0,255,169,0,0,16,150,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>534</Id>
+	<BattlePos>-30,-317,0,0,18,206,0,0,172,205,0,0,0,0,0,0,64,212,0,0,-34,190,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>535</Id>
+	<BattlePos>40,-224,0,0,14,275,0,0,267,292,0,0,0,0,0,0,255,168,0,0,16,151,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>536</Id>
+	<BattlePos>36,0,0,0,-15,434,0,0,200,480,0,0,0,0,0,0,165,248,0,0,34,224,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>537</Id>
+	<BattlePos>24,0,0,0,-5,417,0,0,166,451,0,0,0,0,0,0,105,290,0,0,34,240,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>538</Id>
+	<BattlePos>56,0,0,0,19,535,0,0,198,535,0,0,0,0,0,0,201,177,0,0,47,122,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>539</Id>
+	<BattlePos>-24,-41,0,0,13,648,0,0,181,654,0,0,0,0,0,0,38,-61,0,0,-11,-68,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>540</Id>
+	<BattlePos>-52,-63,0,0,39,542,0,0,199,547,0,0,0,0,0,0,33,23,0,0,-18,11,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>541</Id>
+	<BattlePos>21,-87,0,0,52,593,0,0,214,597,0,0,0,0,0,0,122,-49,0,0,-52,-58,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>542</Id>
+	<BattlePos>32,-84,0,0,53,568,0,0,217,573,0,0,0,0,0,0,135,-22,0,0,-24,-33,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>543</Id>
+	<BattlePos>32,-84,0,0,53,570,0,0,214,575,0,0,0,0,0,0,134,-25,0,0,-24,-35,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>544</Id>
+	<BattlePos>16,-80,0,0,19,605,0,0,302,613,0,0,0,0,0,0,217,-57,0,0,8,-66,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>545</Id>
+	<BattlePos>-32,-32,0,0,-10,680,0,0,144,687,0,0,0,0,0,0,5,-83,0,0,8,-85,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>546</Id>
+	<BattlePos>48,-145,0,0,13,492,0,0,193,496,0,0,0,0,0,0,123,-8,0,0,36,-19,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>547</Id>
+	<BattlePos>51,-126,0,0,-11,542,0,0,190,549,0,0,0,0,0,0,101,-38,0,0,36,-50,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>548</Id>
+	<BattlePos>-5,-108,0,0,17,487,0,0,180,492,0,0,0,0,0,0,65,34,0,0,30,21,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>549</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>550</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>551</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>552</Id>
+	<BattlePos>32,32,0,0,14,451,0,0,263,449,0,0,0,0,0,0,244,291,0,0,51,262,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>553</Id>
+	<BattlePos>54,0,0,0,-26,416,0,0,158,450,0,0,0,0,0,0,117,264,0,0,21,242,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>554</Id>
+	<BattlePos>46,-32,0,0,-51,408,0,0,192,385,0,0,0,0,0,0,99,208,0,0,-7,204,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>555</Id>
+	<BattlePos>-52,-24,0,0,20,496,0,0,202,505,0,0,0,0,0,0,-49,118,0,0,-39,98,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>556</Id>
+	<BattlePos>4,-160,0,0,3,427,0,0,153,436,0,0,0,0,0,0,40,37,0,0,7,24,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>557</Id>
+	<BattlePos>-27,-134,0,0,8,430,0,0,171,433,0,0,0,0,0,0,6,64,0,0,0,51,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>558</Id>
+	<BattlePos>-16,-64,0,0,39,513,0,0,234,526,0,0,0,0,0,0,110,44,0,0,57,29,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>559</Id>
+	<BattlePos>36,-48,0,0,-62,536,0,0,122,536,0,0,0,0,0,0,23,46,0,0,-11,32,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>560</Id>
+	<BattlePos>0,-48,0,0,0,426,0,0,182,452,0,0,0,0,0,0,50,123,0,0,13,90,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>561</Id>
+	<BattlePos>-40,-30,0,0,4,628,0,0,192,634,0,0,0,0,0,0,13,-28,0,0,-34,-39,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>562</Id>
+	<BattlePos>60,-120,0,0,-39,529,0,0,151,536,0,0,0,0,0,0,71,-18,0,0,21,-29,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>563</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>564</Id>
+	<BattlePos>60,0,0,0,-47,467,0,0,200,491,0,0,0,0,0,0,223,199,0,0,43,180,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>565</Id>
+	<BattlePos>154,-21,0,0,-11,506,0,0,178,508,0,0,0,0,0,0,193,105,0,0,137,89,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>566</Id>
+	<BattlePos>24,-20,0,0,12,516,0,0,173,521,0,0,0,0,0,0,94,93,0,0,10,77,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>567</Id>
+	<BattlePos>-4,-44,0,0,-12,545,0,0,152,548,0,0,0,0,0,0,33,42,0,0,-15,29,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>568</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>569</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>570</Id>
+	<BattlePos>18,-219,0,0,-15,312,0,0,180,294,0,0,0,0,0,0,77,177,0,0,1,156,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>571</Id>
+	<BattlePos>18,-207,0,0,-51,306,0,0,173,295,0,0,0,0,0,0,72,182,0,0,-4,163,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>572</Id>
+	<BattlePos>18,-217,0,0,-64,278,0,0,146,284,0,0,0,0,0,0,70,180,0,0,-6,160,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>573</Id>
+	<BattlePos>49,-182,0,0,-89,328,0,0,95,327,0,0,0,0,0,0,0,120,0,0,-45,105,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>574</Id>
+	<BattlePos>0,-175,0,0,-7,390,0,0,139,380,0,0,0,0,0,0,32,64,0,0,-19,46,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>575</Id>
+	<BattlePos>0,0,0,0,14,501,0,0,239,527,0,0,0,0,0,0,178,190,0,0,-2,169,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>576</Id>
+	<BattlePos>0,0,0,0,10,482,0,0,236,511,0,0,0,0,0,0,177,226,0,0,1,199,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>577</Id>
+	<BattlePos>64,0,0,0,-41,456,0,0,130,498,0,0,0,0,0,0,109,211,0,0,28,199,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>578</Id>
+	<BattlePos>-16,0,0,0,16,455,0,0,212,477,0,0,0,0,0,0,91,272,0,0,27,180,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>579</Id>
+	<BattlePos>165,-70,0,0,-50,451,0,0,140,458,0,0,141,457,0,0,166,99,0,0,95,99,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>580</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>581</Id>
+	<BattlePos>-16,-205,0,0,1,247,0,0,191,290,0,0,0,0,0,0,36,182,0,0,-14,162,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>582</Id>
+	<BattlePos>-43,-92,0,0,20,455,0,0,207,461,0,0,0,0,0,0,25,82,0,0,-23,66,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>583</Id>
+	<BattlePos>8,-92,0,0,3,404,0,0,191,393,0,0,0,0,0,0,60,182,0,0,9,161,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>584</Id>
+	<BattlePos>16,-92,0,0,6,491,0,0,183,493,0,0,0,0,0,0,93,49,0,0,33,34,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>585</Id>
+	<BattlePos>6,-113,0,0,-37,495,0,0,135,468,0,0,0,0,0,0,30,25,0,0,30,12,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>586</Id>
+	<BattlePos>-20,-100,0,0,4,526,0,0,174,502,0,0,0,0,0,0,34,4,0,0,24,-3,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>587</Id>
+	<BattlePos>0,-92,0,0,13,381,0,0,154,374,0,0,0,0,0,0,79,205,0,0,14,184,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>588</Id>
+	<BattlePos>-43,-92,0,0,18,455,0,0,188,463,0,0,0,0,0,0,25,83,0,0,-24,69,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>589</Id>
+	<BattlePos>0,-92,0,0,13,432,0,0,215,420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>590</Id>
+	<BattlePos>-43,-92,0,0,8,516,0,0,215,530,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>591</Id>
+	<BattlePos>-7,-176,0,0,-3,463,0,0,166,440,0,0,0,0,0,0,41,-12,0,0,-11,-30,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>592</Id>
+	<BattlePos>-24,-140,0,0,21,486,0,0,161,490,0,0,0,0,0,0,43,0,0,0,-11,-12,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>593</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>594</Id>
+	<BattlePos>0,-87,0,0,28,484,0,0,237,489,0,0,0,0,0,0,212,54,0,0,4,41,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>595</Id>
+	<BattlePos>-5,-81,0,0,37,497,0,0,233,502,0,0,0,0,0,0,209,47,0,0,-11,34,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>596</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>597</Id>
+	<BattlePos>-14,-180,0,0,16,317,0,0,208,317,0,0,0,0,0,0,116,134,0,0,3,118,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>598</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>599</Id>
+	<BattlePos>-64,-155,0,0,-1,436,0,0,224,439,0,0,0,0,0,0,-23,40,0,0,-23,28,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>600</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>601</Id>
+	<BattlePos>15,-160,0,0,12,449,0,0,199,454,0,0,0,0,0,0,78,19,0,0,25,9,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>602</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>603</Id>
+	<BattlePos>0,-127,0,0,10,472,0,0,204,476,0,0,0,0,0,0,61,30,0,0,12,16,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>604</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>605</Id>
+	<BattlePos>-3,-222,0,0,2,287,0,0,199,293,0,0,0,0,0,0,76,118,0,0,18,100,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>606</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>607</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>608</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>609</Id>
+	<BattlePos>38,-155,0,0,15,464,0,0,189,469,0,0,0,0,0,0,103,9,0,0,-2,-2,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>610</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>611</Id>
+	<BattlePos>0,-204,0,0,-11,329,0,0,139,331,0,0,0,0,0,0,15,99,0,0,-32,83,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>612</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>613</Id>
+	<BattlePos>-49,-236,0,0,52,368,0,0,244,368,0,0,0,0,0,0,65,23,0,0,22,21,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>614</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>615</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>616</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>617</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>618</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>619</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>620</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>621</Id>
+	<BattlePos>-17,-250,0,0,53,214,0,0,245,268,0,0,0,0,0,0,183,187,0,0,14,138,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>622</Id>
+	<BattlePos>-26,-228,0,0,46,258,0,0,244,271,0,0,0,0,0,0,177,226,0,0,0,138,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>623</Id>
+	<BattlePos>-5,-106,0,0,87,368,0,0,274,368,0,0,0,0,0,0,155,215,0,0,66,120,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>624</Id>
+	<BattlePos>53,-156,0,0,-62,315,0,0,180,315,0,0,0,0,0,0,91,304,0,0,9,184,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>625</Id>
+	<BattlePos>0,-91,0,0,50,572,0,0,241,576,0,0,0,0,0,0,100,-35,0,0,29,-76,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>626</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>627</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>628</Id>
+	<BattlePos>44,-122,0,0,-71,379,0,0,88,385,0,0,0,0,0,0,-7,120,0,0,-8,114,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>629</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>630</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>631</Id>
+	<BattlePos>41,-118,0,0,-55,475,0,0,137,479,0,0,0,0,0,0,39,32,0,0,-13,0,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>632</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>633</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>634</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>635</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>636</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>641</Id>
+	<BattlePos>62,-45,0,0,33,644,0,0,233,653,0,0,0,0,0,0,153,-70,0,0,11,-62,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>642</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>643</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>644</Id>
+	<BattlePos>-21,-223,13,210,-28,245,-28,245,112,225,112,225,0,0,0,0,-43,239,-43,239,-91,136,-91,136,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>645</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>646</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>650</Id>
+	<BattlePos>5,-141,0,0,-82,479,0,0,109,481,0,0,0,0,0,0,-30,5,0,0,-75,7,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>651</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>652</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>653</Id>
+	<BattlePos>19,-73,0,0,1,461,0,0,206,467,0,0,0,0,0,0,107,98,0,0,-2,87,0,0,1</BattlePos>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>654</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>655</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>901</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>902</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>903</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>904</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>905</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>906</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>907</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>908</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>909</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>910</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>911</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>912</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>913</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>914</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>915</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>916</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>917</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>918</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>919</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>920</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>921</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>922</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>923</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>924</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>925</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>926</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>927</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>928</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>929</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>930</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>931</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>932</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>933</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>934</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>935</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>936</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>937</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>938</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>939</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>940</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>941</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>942</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>943</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>944</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>945</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>946</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>947</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>948</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>949</Id>
+</mst_shipgraphbattle>
+<mst_shipgraphbattle>
+	<Id>950</Id>
+</mst_shipgraphbattle>
+</mst_shipgraphbattle_data>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_radingtype_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_radingtype>
+	<Difficult>1</Difficult>
+	<Turn_value>961,-1</Turn_value>
+	<Rading_type>3</Rading_type>
+	<Rading_rate>30</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>1</Difficult>
+	<Turn_value>201,960</Turn_value>
+	<Rading_type>2</Rading_type>
+	<Rading_rate>30</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>1</Difficult>
+	<Turn_value>200,200</Turn_value>
+	<Rading_type>1</Rading_type>
+	<Rading_rate>30</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>2</Difficult>
+	<Turn_value>721,-1</Turn_value>
+	<Rading_type>3</Rading_type>
+	<Rading_rate>60</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>2</Difficult>
+	<Turn_value>161,720</Turn_value>
+	<Rading_type>2</Rading_type>
+	<Rading_rate>60</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>2</Difficult>
+	<Turn_value>100,160</Turn_value>
+	<Rading_type>1</Rading_type>
+	<Rading_rate>60</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>3</Difficult>
+	<Turn_value>481,-1</Turn_value>
+	<Rading_type>3</Rading_type>
+	<Rading_rate>80</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>3</Difficult>
+	<Turn_value>121,480</Turn_value>
+	<Rading_type>2</Rading_type>
+	<Rading_rate>80</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>3</Difficult>
+	<Turn_value>80,120</Turn_value>
+	<Rading_type>1</Rading_type>
+	<Rading_rate>80</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>4</Difficult>
+	<Turn_value>241,-1</Turn_value>
+	<Rading_type>3</Rading_type>
+	<Rading_rate>90</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>4</Difficult>
+	<Turn_value>81,240</Turn_value>
+	<Rading_type>2</Rading_type>
+	<Rading_rate>90</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>4</Difficult>
+	<Turn_value>60,80</Turn_value>
+	<Rading_type>1</Rading_type>
+	<Rading_rate>90</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>5</Difficult>
+	<Turn_value>121,-1</Turn_value>
+	<Rading_type>3</Rading_type>
+	<Rading_rate>100</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>5</Difficult>
+	<Turn_value>41,120</Turn_value>
+	<Rading_type>2</Rading_type>
+	<Rading_rate>100</Rading_rate>
+</mst_radingtype>
+<mst_radingtype>
+	<Difficult>5</Difficult>
+	<Turn_value>40,40</Turn_value>
+	<Rading_type>1</Rading_type>
+	<Rading_rate>100</Rading_rate>
+</mst_radingtype>
+</mst_radingtype_data>

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_payitem_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_payitem>
+	<Id>1</Id>
+	<Name>燃料増産</Name>
+	<Price>100</Price>
+	<Items>3,1,300</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>2</Id>
+	<Name>弾薬増産</Name>
+	<Price>100</Price>
+	<Items>3,2,300</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>3</Id>
+	<Name>鋼材増産</Name>
+	<Price>100</Price>
+	<Items>3,3,200</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>4</Id>
+	<Name>ボーキサイト増産</Name>
+	<Price>100</Price>
+	<Items>3,4,100</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>5</Id>
+	<Name>装備研究開発</Name>
+	<Price>200</Price>
+	<Items>3,7,4</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>6</Id>
+	<Name>修理工員増強</Name>
+	<Price>200</Price>
+	<Items>3,6,4</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>7</Id>
+	<Name>建造工員増強</Name>
+	<Price>200</Price>
+	<Items>3,5,4</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>8</Id>
+	<Name>タンカー徴用</Name>
+	<Price>300</Price>
+	<Items>3,1,1200</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>9</Id>
+	<Name>アルミ大量産</Name>
+	<Price>300</Price>
+	<Items>3,4,500</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>10</Id>
+	<Name>兵站強化</Name>
+	<Price>300</Price>
+	<Items>3,1,500</Items>
+	<Items>3,2,500</Items>
+	<Items>3,3,300</Items>
+	<Items>3,6,1</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>11</Id>
+	<Name>工廠強化</Name>
+	<Price>400</Price>
+	<Items>3,1,200</Items>
+	<Items>3,2,200</Items>
+	<Items>3,3,1000</Items>
+	<Items>3,5,1</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>12</Id>
+	<Name>ドック増設</Name>
+	<Price>800</Price>
+	<Items>3,6,2</Items>
+	<Items>3,5,2</Items>
+	<Items>1,49,1</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>13</Id>
+	<Name>応急修理要員</Name>
+	<Price>200</Price>
+	<Items>2,42,2</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>14</Id>
+	<Name>応急修理女神</Name>
+	<Price>400</Price>
+	<Items>2,43,2</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>15</Id>
+	<Name>特注家具職人</Name>
+	<Price>300</Price>
+	<Items>1,52,1</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>16</Id>
+	<Name>母港拡張</Name>
+	<Price>1000</Price>
+	<Items>1,53,1</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>17</Id>
+	<Name>給糧艦「間宮」</Name>
+	<Price>200</Price>
+	<Items>1,54,2</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>18</Id>
+	<Name>給糧艦「伊良湖」</Name>
+	<Price>300</Price>
+	<Items>1,59,4</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>19</Id>
+	<Name>書類一式＆指輪</Name>
+	<Price>700</Price>
+	<Items>1,55,1</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>20</Id>
+	<Name>装備改修強化</Name>
+	<Price>500</Price>
+	<Items>3,8,8</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>21</Id>
+	<Name>炊き出し</Name>
+	<Price>100</Price>
+	<Items>2,145,3</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>22</Id>
+	<Name>艦娘補強増設</Name>
+	<Price>500</Price>
+	<Items>1,64,1</Items>
+</mst_payitem>
+<mst_payitem>
+	<Id>23</Id>
+	<Name>洋上補給</Name>
+	<Price>300</Price>
+	<Items>2,146,2</Items>
+</mst_payitem>
+</mst_payitem_data>

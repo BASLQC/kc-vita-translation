@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_mapcell2_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_mapcell2>
+	<Id>7200</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>0</No>
+	<Color_no>0</Color_no>
+	<Link_no />
+	<Event_1>0</Event_1>
+	<Event_2>0</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>0</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>1</Next_no_1>
+	<Next_no_2>2</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate>50,50</Next_rate>
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7201</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>1</No>
+	<Color_no>3</Color_no>
+	<Link_no />
+	<Event_1>3</Event_1>
+	<Event_2>0</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>0</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>3</Next_no_1>
+	<Next_no_2>5</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate>50,50</Next_rate>
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>1</Item_no>
+	<Item_count>20</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7202</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>2</No>
+	<Color_no>4</Color_no>
+	<Link_no />
+	<Event_1>4</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>7201</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>4</Next_no_1>
+	<Next_no_2>7</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate>50,50</Next_rate>
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7203</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>3</No>
+	<Color_no>4</Color_no>
+	<Link_no />
+	<Event_1>6</Event_1>
+	<Event_2>0</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>0</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>0</Next_no_1>
+	<Next_no_2>0</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate />
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7204</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>4</No>
+	<Color_no>4</Color_no>
+	<Link_no />
+	<Event_1>6</Event_1>
+	<Event_2>0</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>0</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>6</Next_no_1>
+	<Next_no_2>0</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate />
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7205</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>5</No>
+	<Color_no>4</Color_no>
+	<Link_no />
+	<Event_1>4</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>7202</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>13</Next_no_1>
+	<Next_no_2>0</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate />
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7206</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>6</No>
+	<Color_no>4</Color_no>
+	<Link_no />
+	<Event_1>4</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>7203</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>8</Next_no_1>
+	<Next_no_2>0</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate />
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7207</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>7</No>
+	<Color_no>4</Color_no>
+	<Link_no>13</Link_no>
+	<Event_1>4</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>7204</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>9</Next_no_1>
+	<Next_no_2>14</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate>50,50</Next_rate>
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7208</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>8</No>
+	<Color_no>4</Color_no>
+	<Link_no>14</Link_no>
+	<Event_1>4</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>7205</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>10</Next_no_1>
+	<Next_no_2>12</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate>50,50</Next_rate>
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7209</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>9</No>
+	<Color_no>4</Color_no>
+	<Link_no />
+	<Event_1>4</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>7206</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>11</Next_no_1>
+	<Next_no_2>15</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate>50,50</Next_rate>
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7210</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>10</No>
+	<Color_no>4</Color_no>
+	<Link_no />
+	<Event_1>6</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>0</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>0</Next_no_1>
+	<Next_no_2>0</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate />
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7211</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>11</No>
+	<Color_no>4</Color_no>
+	<Link_no />
+	<Event_1>6</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>0</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>0</Next_no_1>
+	<Next_no_2>0</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate />
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7212</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>12</No>
+	<Color_no>5</Color_no>
+	<Link_no>15</Link_no>
+	<Event_1>5</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>7207</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>0</Next_no_1>
+	<Next_no_2>0</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate />
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7213</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>13</No>
+	<Color_no>4</Color_no>
+	<Link_no>7</Link_no>
+	<Event_1>4</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>7204</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>9</Next_no_1>
+	<Next_no_2>14</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate>50,50</Next_rate>
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7214</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>14</No>
+	<Color_no>4</Color_no>
+	<Link_no>8</Link_no>
+	<Event_1>4</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>7205</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>10</Next_no_1>
+	<Next_no_2>12</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate>50,50</Next_rate>
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>7215</Id>
+	<Map_no>72</Map_no>
+	<Maparea_id>7</Maparea_id>
+	<Mapinfo_no>2</Mapinfo_no>
+	<No>15</No>
+	<Color_no>5</Color_no>
+	<Link_no>12</Link_no>
+	<Event_1>5</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>7207</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>0</Next_no_1>
+	<Next_no_2>0</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate />
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+</mst_mapcell2_data>

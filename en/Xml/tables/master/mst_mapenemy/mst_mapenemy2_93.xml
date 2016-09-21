@@ -1,0 +1,1947 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_mapenemy2_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_mapenemy2>
+	<Id>930101</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9301</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>1</Deck_id>
+	<Deck_name>任務部隊C群 前衛部隊</Deck_name>
+	<Formation_id>1</Formation_id>
+	<E1_id>527</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>579</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>592</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>4</Geth>
+	<Experience>190</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930102</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9301</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>2</Deck_id>
+	<Deck_name>任務部隊C群 前衛部隊</Deck_name>
+	<Formation_id>1</Formation_id>
+	<E1_id>527</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>560</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>592</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>5</Geth>
+	<Experience>170</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930103</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9301</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>3</Deck_id>
+	<Deck_name>任務部隊C群 前衛部隊</Deck_name>
+	<Formation_id>1</Formation_id>
+	<E1_id>527</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>560</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>555</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>6</Geth>
+	<Experience>140</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930104</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9301</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>4</Deck_id>
+	<Deck_name>任務部隊C群 前衛部隊</Deck_name>
+	<Formation_id>1</Formation_id>
+	<E1_id>527</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>555</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>575</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>7</Geth>
+	<Experience>120</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930105</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9301</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>5</Deck_id>
+	<Deck_name>任務部隊C群 前衛部隊</Deck_name>
+	<Formation_id>1</Formation_id>
+	<E1_id>527</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>555</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>575</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>8</Geth>
+	<Experience>100</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930106</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9301</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>6</Deck_id>
+	<Deck_name>任務部隊C群 前衛部隊</Deck_name>
+	<Formation_id>1</Formation_id>
+	<E1_id>519</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>575</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>575</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>9</Geth>
+	<Experience>80</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930107</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9301</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>7</Deck_id>
+	<Deck_name>任務部隊C群 前衛部隊</Deck_name>
+	<Formation_id>2</Formation_id>
+	<E1_id>519</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>575</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>575</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>10</Geth>
+	<Experience>80</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930108</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9301</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>8</Deck_id>
+	<Deck_name>任務部隊C群 前衛部隊</Deck_name>
+	<Formation_id>2</Formation_id>
+	<E1_id>519</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>575</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>11</Geth>
+	<Experience>60</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930109</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9301</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>9</Deck_id>
+	<Deck_name>任務部隊C群 前衛部隊</Deck_name>
+	<Formation_id>2</Formation_id>
+	<E1_id>519</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>501</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>12</Geth>
+	<Experience>50</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930201</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9302</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>1</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 II群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>534</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>532</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>532</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>532</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>40</Geth>
+	<Experience>100</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930202</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9302</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>2</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 II群</Deck_name>
+	<Formation_id>5</Formation_id>
+	<E1_id>534</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>534</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>532</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>532</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>38</Geth>
+	<Experience>100</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930203</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9302</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>3</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 II群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>534</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>532</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>36</Geth>
+	<Experience>90</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930204</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9302</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>4</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 II群</Deck_name>
+	<Formation_id>5</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>34</Geth>
+	<Experience>70</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930205</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9302</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>5</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 II群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>32</Geth>
+	<Experience>70</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930206</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9302</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>6</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 II群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>530</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>30</Geth>
+	<Experience>60</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930207</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9302</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>7</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 II群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>530</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>30</Geth>
+	<Experience>55</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930208</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9302</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>8</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 II群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>530</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>0</E4_id>
+	<E4_lv>0</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>30</Geth>
+	<Experience>50</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930209</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9302</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>9</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 II群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>530</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>0</E3_id>
+	<E3_lv>0</E3_lv>
+	<E4_id>0</E4_id>
+	<E4_lv>0</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>30</Geth>
+	<Experience>40</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930301</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9303</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>1</Deck_id>
+	<Deck_name>任務部隊A群(第二波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>560</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>560</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>592</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>577</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>577</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>10</Geth>
+	<Experience>240</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930302</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9303</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>2</Deck_id>
+	<Deck_name>任務部隊A群(第二波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>560</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>560</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>592</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>576</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>576</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>8</Geth>
+	<Experience>200</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930303</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9303</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>3</Deck_id>
+	<Deck_name>任務部隊A群(第二波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>523</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>523</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>592</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>6</Geth>
+	<Experience>160</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930304</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9303</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>4</Deck_id>
+	<Deck_name>任務部隊A群(第二波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>528</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>523</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>523</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>591</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>4</Geth>
+	<Experience>140</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930305</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9303</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>5</Deck_id>
+	<Deck_name>任務部隊A群(第二波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>560</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>523</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>523</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>4</Geth>
+	<Experience>130</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930306</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9303</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>6</Deck_id>
+	<Deck_name>任務部隊A群(第二波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>523</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>523</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>523</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>4</Geth>
+	<Experience>110</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930307</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9303</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>7</Deck_id>
+	<Deck_name>任務部隊A群(第二波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>523</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>523</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>575</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>4</Geth>
+	<Experience>100</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930308</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9303</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>8</Deck_id>
+	<Deck_name>任務部隊A群(第二波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>523</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>510</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>4</Geth>
+	<Experience>85</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930309</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9303</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>9</Deck_id>
+	<Deck_name>任務部隊A群(第二波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>510</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>510</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>4</Geth>
+	<Experience>75</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930401</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9304</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>1</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 III群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>534</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>532</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>532</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>532</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>40</Geth>
+	<Experience>100</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930402</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9304</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>2</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 III群</Deck_name>
+	<Formation_id>5</Formation_id>
+	<E1_id>534</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>532</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>38</Geth>
+	<Experience>90</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930403</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9304</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>3</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 III群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>534</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>532</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>36</Geth>
+	<Experience>90</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930404</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9304</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>4</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 III群</Deck_name>
+	<Formation_id>5</Formation_id>
+	<E1_id>534</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>34</Geth>
+	<Experience>70</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930405</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9304</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>5</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 III群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>534</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>32</Geth>
+	<Experience>70</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930406</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9304</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>6</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 III群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>530</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>30</Geth>
+	<Experience>55</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930407</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9304</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>7</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 III群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>530</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>0</E4_id>
+	<E4_lv>0</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>30</Geth>
+	<Experience>50</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930408</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9304</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>8</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 III群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>530</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>530</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>0</E4_id>
+	<E4_lv>0</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>30</Geth>
+	<Experience>40</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930409</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9304</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>9</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 III群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>530</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>530</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>0</E3_id>
+	<E3_lv>0</E3_lv>
+	<E4_id>0</E4_id>
+	<E4_lv>0</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>30</Geth>
+	<Experience>30</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930501</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9305</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>1</Deck_id>
+	<Deck_name>任務部隊C群 機動部隊</Deck_name>
+	<Formation_id>2</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>579</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>592</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>0</Geth>
+	<Experience>280</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930502</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9305</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>2</Deck_id>
+	<Deck_name>任務部隊C群 機動部隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>528</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>592</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>2</Geth>
+	<Experience>280</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930503</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9305</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>3</Deck_id>
+	<Deck_name>任務部隊C群 機動部隊</Deck_name>
+	<Formation_id>2</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>525</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>592</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>8</Geth>
+	<Experience>260</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930504</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9305</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>4</Deck_id>
+	<Deck_name>任務部隊C群 機動部隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>528</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>525</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>592</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>10</Geth>
+	<Experience>160</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930505</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9305</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>5</Deck_id>
+	<Deck_name>任務部隊C群 機動部隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>528</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>523</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>522</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>10</Geth>
+	<Experience>110</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930506</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9305</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>6</Deck_id>
+	<Deck_name>任務部隊C群 機動部隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>560</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>523</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>522</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>10</Geth>
+	<Experience>100</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930507</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9305</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>7</Deck_id>
+	<Deck_name>任務部隊C群 機動部隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>560</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>522</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>10</Geth>
+	<Experience>90</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930508</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9305</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>8</Deck_id>
+	<Deck_name>任務部隊C群 機動部隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>523</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>522</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>10</Geth>
+	<Experience>80</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930509</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9305</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>9</Deck_id>
+	<Deck_name>任務部隊C群 機動部隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>523</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>509</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>10</Geth>
+	<Experience>70</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930601</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9306</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>1</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 I群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>535</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>534</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>534</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>532</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>532</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>0</Geth>
+	<Experience>150</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930602</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9306</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>2</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 I群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>535</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>534</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>534</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>532</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>0</Geth>
+	<Experience>130</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930603</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9306</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>3</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 I群</Deck_name>
+	<Formation_id>5</Formation_id>
+	<E1_id>535</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>534</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>534</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>532</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>0</Geth>
+	<Experience>130</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930604</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9306</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>4</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 I群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>535</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>532</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>0</Geth>
+	<Experience>110</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930605</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9306</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>5</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 I群</Deck_name>
+	<Formation_id>5</Formation_id>
+	<E1_id>535</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>532</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>0</Geth>
+	<Experience>110</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930606</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9306</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>6</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 I群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>532</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>1</Geth>
+	<Experience>100</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930607</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9306</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>7</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 I群</Deck_name>
+	<Formation_id>5</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>532</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>530</E5_id>
+	<E5_lv>50</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>2</Geth>
+	<Experience>100</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930608</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9306</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>8</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 I群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>532</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>530</E4_id>
+	<E4_lv>50</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>3</Geth>
+	<Experience>75</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930609</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9306</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>9</Deck_id>
+	<Deck_name>通商破壊潜水艦隊 I群</Deck_name>
+	<Formation_id>4</Formation_id>
+	<E1_id>532</E1_id>
+	<E1_lv>50</E1_lv>
+	<E2_id>530</E2_id>
+	<E2_lv>50</E2_lv>
+	<E3_id>530</E3_id>
+	<E3_lv>50</E3_lv>
+	<E4_id>0</E4_id>
+	<E4_lv>0</E4_lv>
+	<E5_id>0</E5_id>
+	<E5_lv>0</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>4</Geth>
+	<Experience>65</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930701</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9307</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>1</Deck_id>
+	<Deck_name>任務部隊 機動部隊本隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>579</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>560</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>592</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>577</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>577</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>0</Geth>
+	<Experience>280</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930702</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9307</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>2</Deck_id>
+	<Deck_name>任務部隊 機動部隊本隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>560</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>560</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>592</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>576</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>576</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>0</Geth>
+	<Experience>260</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930703</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9307</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>3</Deck_id>
+	<Deck_name>任務部隊 機動部隊本隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>523</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>523</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>592</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>0</Geth>
+	<Experience>240</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930704</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9307</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>4</Deck_id>
+	<Deck_name>任務部隊 機動部隊本隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>510</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>510</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>592</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>0</Geth>
+	<Experience>220</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930705</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9307</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>5</Deck_id>
+	<Deck_name>任務部隊 機動部隊本隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>510</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>510</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>591</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>0</Geth>
+	<Experience>210</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930706</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9307</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>6</Deck_id>
+	<Deck_name>任務部隊 機動部隊本隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>510</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>510</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>506</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>1</Geth>
+	<Experience>200</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930707</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9307</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>7</Deck_id>
+	<Deck_name>任務部隊 機動部隊本隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>528</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>510</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>510</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>506</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>1</Geth>
+	<Experience>150</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930708</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9307</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>8</Deck_id>
+	<Deck_name>任務部隊 機動部隊本隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>525</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>510</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>510</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>506</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>2</Geth>
+	<Experience>120</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930709</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9307</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>9</Deck_id>
+	<Deck_name>任務部隊 機動部隊本隊</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>525</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>510</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>513</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>3</Geth>
+	<Experience>90</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930801</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9308</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>1</Deck_id>
+	<Deck_name>任務部隊支援艦隊</Deck_name>
+	<Formation_id>1</Formation_id>
+	<E1_id>566</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>529</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>529</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>592</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>576</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>576</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>20</Geth>
+	<Experience>200</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930802</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9308</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>2</Deck_id>
+	<Deck_name>任務部隊支援艦隊</Deck_name>
+	<Formation_id>1</Formation_id>
+	<E1_id>527</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>529</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>529</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>591</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>18</Geth>
+	<Experience>160</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930803</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9308</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>3</Deck_id>
+	<Deck_name>任務部隊支援艦隊</Deck_name>
+	<Formation_id>2</Formation_id>
+	<E1_id>527</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>529</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>529</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>591</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>16</Geth>
+	<Experience>160</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930804</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9308</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>4</Deck_id>
+	<Deck_name>任務部隊支援艦隊</Deck_name>
+	<Formation_id>1</Formation_id>
+	<E1_id>527</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>524</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>520</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>14</Geth>
+	<Experience>110</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930805</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9308</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>5</Deck_id>
+	<Deck_name>任務部隊支援艦隊</Deck_name>
+	<Formation_id>2</Formation_id>
+	<E1_id>527</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>524</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>520</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>14</Geth>
+	<Experience>110</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930806</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9308</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>6</Deck_id>
+	<Deck_name>任務部隊支援艦隊</Deck_name>
+	<Formation_id>1</Formation_id>
+	<E1_id>522</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>522</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>520</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>12</Geth>
+	<Experience>90</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930807</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9308</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>7</Deck_id>
+	<Deck_name>任務部隊支援艦隊</Deck_name>
+	<Formation_id>2</Formation_id>
+	<E1_id>522</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>522</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>520</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>12</Geth>
+	<Experience>90</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930808</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9308</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>8</Deck_id>
+	<Deck_name>任務部隊支援艦隊</Deck_name>
+	<Formation_id>1</Formation_id>
+	<E1_id>522</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>520</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>10</Geth>
+	<Experience>75</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930809</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9308</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>9</Deck_id>
+	<Deck_name>任務部隊支援艦隊</Deck_name>
+	<Formation_id>2</Formation_id>
+	<E1_id>522</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>520</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>10</Geth>
+	<Experience>75</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930901</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9309</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>1</Deck_id>
+	<Deck_name>任務部隊A群(第一波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>579</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>560</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>592</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>577</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>577</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>13</Geth>
+	<Experience>210</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930902</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9309</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>2</Deck_id>
+	<Deck_name>任務部隊A群(第一波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>579</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>560</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>592</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>576</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>576</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>12</Geth>
+	<Experience>200</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930903</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9309</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>3</Deck_id>
+	<Deck_name>任務部隊A群(第一波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>579</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>523</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>592</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>11</Geth>
+	<Experience>180</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930904</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9309</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>4</Deck_id>
+	<Deck_name>任務部隊A群(第一波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>579</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>525</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>523</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>591</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>575</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>575</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>10</Geth>
+	<Experience>150</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930905</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9309</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>5</Deck_id>
+	<Deck_name>任務部隊A群(第一波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>528</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>525</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>591</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>575</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>9</Geth>
+	<Experience>130</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930906</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9309</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>6</Deck_id>
+	<Deck_name>任務部隊A群(第一波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>528</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>523</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>591</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>8</Geth>
+	<Experience>110</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930907</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9309</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>7</Deck_id>
+	<Deck_name>任務部隊A群(第一波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>523</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>523</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>591</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>7</Geth>
+	<Experience>100</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930908</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9309</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>8</Deck_id>
+	<Deck_name>任務部隊A群(第一波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>523</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>523</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>501</E6_id>
+	<E6_lv>1</E6_lv>
+	<Geth>7</Geth>
+	<Experience>90</Experience>
+</mst_mapenemy2>
+<mst_mapenemy2>
+	<Id>930909</Id>
+	<Maparea_id>9</Maparea_id>
+	<Mapinfo_no>3</Mapinfo_no>
+	<Enemy_list_id>9309</Enemy_list_id>
+	<Boss>0</Boss>
+	<Deck_id>9</Deck_id>
+	<Deck_name>任務部隊A群(第一波)</Deck_name>
+	<Formation_id>3</Formation_id>
+	<E1_id>523</E1_id>
+	<E1_lv>1</E1_lv>
+	<E2_id>510</E2_id>
+	<E2_lv>1</E2_lv>
+	<E3_id>501</E3_id>
+	<E3_lv>1</E3_lv>
+	<E4_id>501</E4_id>
+	<E4_lv>1</E4_lv>
+	<E5_id>501</E5_id>
+	<E5_lv>1</E5_lv>
+	<E6_id>0</E6_id>
+	<E6_lv>0</E6_lv>
+	<Geth>7</Geth>
+	<Experience>90</Experience>
+</mst_mapenemy2>
+</mst_mapenemy2_data>

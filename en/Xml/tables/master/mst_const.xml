@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_const_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_const>
+	<Id>1</Id>
+	<Key>boko_max_ships_def</Key>
+	<Int_value>200</Int_value>
+</mst_const>
+<mst_const>
+	<Id>2</Id>
+	<Key>boko_max_ships_sys</Key>
+	<Int_value>300</Int_value>
+</mst_const>
+<mst_const>
+	<Id>4</Id>
+	<Key>parallel_quest_max</Key>
+	<Int_value>10</Int_value>
+</mst_const>
+<mst_const>
+	<Id>5</Id>
+	<Key>book_max_ships</Key>
+	<Int_value>260</Int_value>
+</mst_const>
+<mst_const>
+	<Id>6</Id>
+	<Key>Strategy_point_def</Key>
+	<Int_value>30000</Int_value>
+</mst_const>
+<mst_const>
+	<Id>7</Id>
+	<Key>Strategy_point_sys</Key>
+	<Int_value>99999</Int_value>
+</mst_const>
+</mst_const_data>

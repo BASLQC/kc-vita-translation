@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_mapcell2_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_mapcell2>
+	<Id>8500</Id>
+	<Map_no>85</Map_no>
+	<Maparea_id>8</Maparea_id>
+	<Mapinfo_no>5</Mapinfo_no>
+	<No>0</No>
+	<Color_no>0</Color_no>
+	<Link_no />
+	<Event_1>0</Event_1>
+	<Event_2>0</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>0</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>1</Next_no_1>
+	<Next_no_2>0</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate />
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>8501</Id>
+	<Map_no>85</Map_no>
+	<Maparea_id>8</Maparea_id>
+	<Mapinfo_no>5</Mapinfo_no>
+	<No>1</No>
+	<Color_no>4</Color_no>
+	<Link_no />
+	<Event_1>4</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>8501</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>2</Next_no_1>
+	<Next_no_2>3</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate>50,50</Next_rate>
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>8502</Id>
+	<Map_no>85</Map_no>
+	<Maparea_id>8</Maparea_id>
+	<Mapinfo_no>5</Mapinfo_no>
+	<No>2</No>
+	<Color_no>4</Color_no>
+	<Link_no />
+	<Event_1>4</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>8502</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>0</Next_no_1>
+	<Next_no_2>0</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate />
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+<mst_mapcell2>
+	<Id>8503</Id>
+	<Map_no>85</Map_no>
+	<Maparea_id>8</Maparea_id>
+	<Mapinfo_no>5</Mapinfo_no>
+	<No>3</No>
+	<Color_no>5</Color_no>
+	<Link_no />
+	<Event_1>5</Event_1>
+	<Event_2>1</Event_2>
+	<Event_point_1>0</Event_point_1>
+	<Event_point_2>0</Event_point_2>
+	<Table_no1>8503</Table_no1>
+	<Table_no2>0</Table_no2>
+	<Next_no_1>0</Next_no_1>
+	<Next_no_2>0</Next_no_2>
+	<Next_no_3>0</Next_no_3>
+	<Next_no_4>0</Next_no_4>
+	<Next_rate />
+	<Next_rate_req />
+	<Req_ship_count>0</Req_ship_count>
+	<Req_shiptype />
+	<Item_no>0</Item_no>
+	<Item_count>0</Item_count>
+</mst_mapcell2>
+</mst_mapcell2_data>

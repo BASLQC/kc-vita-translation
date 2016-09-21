@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_questcount_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_questcount>
+	<Id>210</Id>
+	<Counter_id>2011</Counter_id>
+	<Clear_num>8</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>211</Id>
+	<Counter_id>2015</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>212</Id>
+	<Counter_id>2016</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>213</Id>
+	<Counter_id>2016</Counter_id>
+	<Clear_num>5</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>214</Id>
+	<Counter_id>2011,2012,2013,2014</Counter_id>
+	<Clear_num>16,12,8,4</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>216</Id>
+	<Counter_id>2013</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>217</Id>
+	<Counter_id>2005</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>218</Id>
+	<Counter_id>2016</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>220</Id>
+	<Counter_id>2015</Counter_id>
+	<Clear_num>8</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>221</Id>
+	<Counter_id>2016</Counter_id>
+	<Clear_num>8</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>226</Id>
+	<Counter_id>2007</Counter_id>
+	<Clear_num>4</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>228</Id>
+	<Counter_id>2017</Counter_id>
+	<Clear_num>8</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>229</Id>
+	<Counter_id>2018</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>230</Id>
+	<Counter_id>2017</Counter_id>
+	<Clear_num>4</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>234</Id>
+	<Counter_id>2901</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>241</Id>
+	<Counter_id>2201,2202</Counter_id>
+	<Clear_num>1,1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>243</Id>
+	<Counter_id>2203</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>255</Id>
+	<Counter_id>2204</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>257</Id>
+	<Counter_id>2205</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>280</Id>
+	<Counter_id>2206,2207</Counter_id>
+	<Clear_num>1,1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>281</Id>
+	<Counter_id>2208,2209,2210,2211</Counter_id>
+	<Clear_num>1,1,1,1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>282</Id>
+	<Counter_id>2212</Counter_id>
+	<Clear_num>4</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>301</Id>
+	<Counter_id>3001</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>302</Id>
+	<Counter_id>3002</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>303</Id>
+	<Counter_id>3003</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>304</Id>
+	<Counter_id>3002</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>305</Id>
+	<Counter_id>3001,3003</Counter_id>
+	<Clear_num>3,3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>306</Id>
+	<Counter_id>3008</Counter_id>
+	<Clear_num>5</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>307</Id>
+	<Counter_id>3008</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>308</Id>
+	<Counter_id>3008</Counter_id>
+	<Clear_num>4</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>309</Id>
+	<Counter_id>3001</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>310</Id>
+	<Counter_id>3002</Counter_id>
+	<Clear_num>5</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>311</Id>
+	<Counter_id>3001,3003</Counter_id>
+	<Clear_num>5,5</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>312</Id>
+	<Counter_id>3004</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>313</Id>
+	<Counter_id>3006</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>314</Id>
+	<Counter_id>3005</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>315</Id>
+	<Counter_id>3008</Counter_id>
+	<Clear_num>5</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>316</Id>
+	<Counter_id>3004</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>317</Id>
+	<Counter_id>3008</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>318</Id>
+	<Counter_id>3005</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>319</Id>
+	<Counter_id>3006</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>401</Id>
+	<Counter_id>4001</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>402</Id>
+	<Counter_id>4004</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>403</Id>
+	<Counter_id>4004</Counter_id>
+	<Clear_num>10</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>404</Id>
+	<Counter_id>4003</Counter_id>
+	<Clear_num>12</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>405</Id>
+	<Counter_id>4005</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>406</Id>
+	<Counter_id>4005</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>407</Id>
+	<Counter_id>4010</Counter_id>
+	<Clear_num>8</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>408</Id>
+	<Counter_id>4005</Counter_id>
+	<Clear_num>4</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>409</Id>
+	<Counter_id>4006</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>410</Id>
+	<Counter_id>4007,4008</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>411</Id>
+	<Counter_id>4007,4008</Counter_id>
+	<Clear_num>6</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>412</Id>
+	<Counter_id>4009</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>413</Id>
+	<Counter_id>4009</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>414</Id>
+	<Counter_id>4201</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>415</Id>
+	<Counter_id>4202</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>416</Id>
+	<Counter_id>4203</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>418</Id>
+	<Counter_id>4204</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>420</Id>
+	<Counter_id>4205,4206</Counter_id>
+	<Clear_num>1,1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>421</Id>
+	<Counter_id>4005</Counter_id>
+	<Clear_num>10</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>422</Id>
+	<Counter_id>4006</Counter_id>
+	<Clear_num>5</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>423</Id>
+	<Counter_id>4207,4208</Counter_id>
+	<Clear_num>1,1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>501</Id>
+	<Counter_id>5001</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>502</Id>
+	<Counter_id>5002</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>503</Id>
+	<Counter_id>5002</Counter_id>
+	<Clear_num>10</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>504</Id>
+	<Counter_id>5001</Counter_id>
+	<Clear_num>30</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>601</Id>
+	<Counter_id>6001</Counter_id>
+	<Clear_num>1</Clear_num>
+	<Reset_flag>1</Reset_flag>
+</mst_questcount>
+<mst_questcount>
+	<Id>602</Id>
+	<Counter_id>6002</Counter_id>
+	<Clear_num>1</Clear_num>
+	<Reset_flag>1</Reset_flag>
+</mst_questcount>
+<mst_questcount>
+	<Id>603</Id>
+	<Counter_id>6003</Counter_id>
+	<Clear_num>1</Clear_num>
+	<Reset_flag>1</Reset_flag>
+</mst_questcount>
+<mst_questcount>
+	<Id>604</Id>
+	<Counter_id>6004</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>605</Id>
+	<Counter_id>6002</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>606</Id>
+	<Counter_id>6001</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>607</Id>
+	<Counter_id>6102</Counter_id>
+	<Clear_num>5</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>608</Id>
+	<Counter_id>6101</Counter_id>
+	<Clear_num>5</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>609</Id>
+	<Counter_id>6003</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>610</Id>
+	<Counter_id>6201</Counter_id>
+	<Clear_num>5</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>611</Id>
+	<Counter_id>6202</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>612</Id>
+	<Counter_id>6203</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>613</Id>
+	<Counter_id>6005</Counter_id>
+	<Clear_num>20</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>614</Id>
+	<Counter_id>6800</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>615</Id>
+	<Counter_id>6801</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>616</Id>
+	<Counter_id>6802</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>617</Id>
+	<Counter_id>6204</Counter_id>
+	<Clear_num>10</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>618</Id>
+	<Counter_id>6006</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>619</Id>
+	<Counter_id>6007</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>620</Id>
+	<Counter_id>6803</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>621</Id>
+	<Counter_id>6804</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>622</Id>
+	<Counter_id>6805</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>623</Id>
+	<Counter_id>6205</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>624</Id>
+	<Counter_id>6206</Counter_id>
+	<Clear_num>7</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>625</Id>
+	<Counter_id>6806,6807</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>626</Id>
+	<Counter_id>6808</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>627</Id>
+	<Counter_id>6809,6810</Counter_id>
+	<Clear_num>1,1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>628</Id>
+	<Counter_id>6811,6812</Counter_id>
+	<Clear_num>3</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>701</Id>
+	<Counter_id>7001</Counter_id>
+	<Clear_num>1</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>702</Id>
+	<Counter_id>7002</Counter_id>
+	<Clear_num>2</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>703</Id>
+	<Counter_id>7002</Counter_id>
+	<Clear_num>10</Clear_num>
+</mst_questcount>
+<mst_questcount>
+	<Id>704</Id>
+	<Counter_id>7001</Counter_id>
+	<Clear_num>4</Clear_num>
+</mst_questcount>
+</mst_questcount_data>

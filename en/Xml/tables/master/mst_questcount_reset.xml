@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_questcount_reset_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_questcount_reset>
+	<Id>2007</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2011</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2012</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2013</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2014</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2015</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2016</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2017</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2018</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2901</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2201</Id>
+	<Type>4</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2202</Id>
+	<Type>4</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2203</Id>
+	<Type>4</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2204</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2205</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2206</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2207</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2208</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2209</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2210</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2211</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>2212</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>3001</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>3002</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>3003</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>3004</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>3005</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>3006</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>3008</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4003</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4004</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4005</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4006</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4007</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4008</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4009</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4010</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4201</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4202</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4203</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4204</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4205</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>4206</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>5001</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>5002</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6003</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6005</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6007</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6101</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6102</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6201</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6202</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6203</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6204</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6205</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6206</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6800</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6801</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6802</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6803</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6804</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6805</Id>
+	<Type>0</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6806</Id>
+	<Type>4</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6807</Id>
+	<Type>4</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6808</Id>
+	<Type>4</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6809</Id>
+	<Type>4</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>6810</Id>
+	<Type>4</Type>
+</mst_questcount_reset>
+<mst_questcount_reset>
+	<Id>7002</Id>
+	<Type>3</Type>
+</mst_questcount_reset>
+</mst_questcount_reset_data>

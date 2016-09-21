@@ -1,0 +1,1256 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_mapenemylevel_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>1</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15201</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>1</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>10</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>50</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15202</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>1</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>20</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>10</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>20</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15203</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>1</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15204</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>1</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>20</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>50</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>20</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>10</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>10</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15205</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>1</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>20</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>10</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>20</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>10</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>20</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>5</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>50</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15206</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>1</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>10</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>999</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15207</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>1</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15208</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>1</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>20</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>10</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>20</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>20</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>5</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>900</Turns>
+	<Choose_rate>15</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>730</Turns>
+	<Choose_rate>25</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>600</Turns>
+	<Choose_rate>50</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15209</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>1</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>5</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>20</Choose_rate>
+	<Deck_id>2</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>3</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>30</Choose_rate>
+	<Deck_id>4</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>4</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>800</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>5</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>40</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>3</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>800</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>6</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>7</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>50</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>2</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>800</Turns>
+	<Choose_rate>35</Choose_rate>
+	<Deck_id>8</Deck_id>
+</mst_mapenemylevel>
+<mst_mapenemylevel>
+	<Enemy_list_id>15210</Enemy_list_id>
+	<Difficulty>1</Difficulty>
+	<Turns>0</Turns>
+	<Choose_rate>-1</Choose_rate>
+	<Deck_id>9</Deck_id>
+</mst_mapenemylevel>
+</mst_mapenemylevel_data>

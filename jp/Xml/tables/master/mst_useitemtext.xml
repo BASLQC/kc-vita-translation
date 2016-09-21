@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_useitemtext_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_useitemtext>
+	<Id>1</Id>
+	<Description>入渠時間を短縮できる。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>2</Id>
+	<Description>建造時間を短縮できる。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>3</Id>
+	<Description>建造・開発を行うのに使用する資材。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>4</Id>
+	<Description>装備を改修する為の資材、「改修工廠」で使用します。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>5</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>6</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>7</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>8</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>9</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>10</Id>
+	<Description>開けると、中から少量の家具コインが出現する。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>11</Id>
+	<Description>開けると、中から中量の家具コインが出現する。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>12</Id>
+	<Description>開けると、中から大量の家具コインが出現する。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>13</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>14</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>15</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>16</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>17</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>18</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>19</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>20</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>21</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>22</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>23</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>24</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>25</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>26</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>27</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>28</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>29</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>30</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>31</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>32</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>33</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>34</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>35</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>36</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>37</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>38</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>39</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>40</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>41</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>42</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>43</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>44</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>45</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>46</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>47</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>48</Id>
+	<Description />
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>49</Id>
+	<Description>入渠ドックまたは工廠ドックを１個開放できるキー。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>50</Id>
+	<Description>艦のスロットに装備する。装備した艦は1度だけ撃沈を回避できる。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>51</Id>
+	<Description>応急修理要員がパワーアップ！撃沈回避時に出撃能力が全回復。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>52</Id>
+	<Description>特注家具を製作する職人さん。家具屋さんで使用する。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>53</Id>
+	<Description>最大保有艦娘数+10隻\n最大保有装備数+40装備\n(max:{0}隻/{1}装備)</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>54</Id>
+	<Description>艦隊全体の疲労度を回復する給糧艦。編成で使用可能。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>55</Id>
+	<Description>ケッコンカッコカリに必要な書類一式と指輪。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>56</Id>
+	<Description>艦娘から贈られたチョコ。開封して資源にするのもよし、保存しておくのもよし。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>57</Id>
+	<Description>暁の水平線に勝利を刻んだ提督に贈られる「証」。資源や改修資材、または複数集めて改装設計図と交換することも可能です。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>58</Id>
+	<Description>艦娘の「特別な改造」に使用する設計図。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>59</Id>
+	<Description>艦娘たちの士気を高揚させる新型給糧艦。編成で使用可能。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>60</Id>
+	<Description>特別な時期だけ発見が可能となる丁寧に包装された「プレゼント箱」。開封時に希望の中味を選択することが可能です。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>61</Id>
+	<Description>難易度の高い作戦を、精鋭の艦娘たちと共に攻略した提督のみに贈られる勝利の証。それが、「甲種勲章」。資材等に交換することも可能です。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>62</Id>
+	<Description>桃の節句の時期だけ発見が可能となる美味しい「菱餅」です。展開時に希望の中味を選択することが可能です。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>63</Id>
+	<Description>「任務」同時受託可能数を拡張することができる司令部要員です。使用すると、同時受託可能任務数が＋１拡張されます。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>64</Id>
+	<Description>艦娘(練度30以上必要)を補強増設改修できます。同改修により補強増設装備スロットが艦娘に増設されます。(1回分)</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>65</Id>
+	<Description>本格的な大型航空母艦を、より強力に改装するための、特殊な航空艤装です。ある型の正規空母の改二改装に使用します。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>66</Id>
+	<Description>腹が減ってはなんとやら……！この戦闘糧食を装備して、合戦前にしっかりと腹ごしらえを！(発動すると消滅します)</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>67</Id>
+	<Description>戦闘航海中の洋上で燃料弾薬を艦隊補給することが可能です。艦隊決戦のサポートにどうぞ！（発動すると消滅します）</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>68</Id>
+	<Description>漁場の安全を確保し、秋刀魚漁を支援することで入手した貴重な旬の「秋刀魚」です。※秋刀魚祭り終了時に消滅します。</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>69</Id>
+	<Description>旬の秋刀魚「蒲焼」缶詰です。単品はもちろん、おにぎり等と一緒に食すとより美味しい！(発動すると消滅します)</Description>
+</mst_useitemtext>
+<mst_useitemtext>
+	<Id>70</Id>
+	<Description>精鋭の航空部隊を新規編成するた\nめに必要な、熟練した技能を持つ、\n航空機搭乗員です。\n(※部隊編成時に消滅します)</Description>
+</mst_useitemtext>
+</mst_useitemtext_data>

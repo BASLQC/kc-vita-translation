@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_mapincentive_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_mapincentive>
+	<Id>9301</Id>
+	<Map_cleared>0</Map_cleared>
+	<Incentive_no>1</Incentive_no>
+	<Choose_rate>5</Choose_rate>
+	<Material_id>1</Material_id>
+	<Material_count>300</Material_count>
+</mst_mapincentive>
+<mst_mapincentive>
+	<Id>9302</Id>
+	<Map_cleared>0</Map_cleared>
+	<Incentive_no>2</Incentive_no>
+	<Choose_rate>10</Choose_rate>
+	<Material_id>1</Material_id>
+	<Material_count>200</Material_count>
+</mst_mapincentive>
+<mst_mapincentive>
+	<Id>9303</Id>
+	<Map_cleared>0</Map_cleared>
+	<Incentive_no>3</Incentive_no>
+	<Choose_rate>15</Choose_rate>
+	<Material_id>1</Material_id>
+	<Material_count>100</Material_count>
+</mst_mapincentive>
+<mst_mapincentive>
+	<Id>9304</Id>
+	<Map_cleared>0</Map_cleared>
+	<Incentive_no>4</Incentive_no>
+	<Choose_rate>5</Choose_rate>
+	<Material_id>2</Material_id>
+	<Material_count>300</Material_count>
+</mst_mapincentive>
+<mst_mapincentive>
+	<Id>9305</Id>
+	<Map_cleared>0</Map_cleared>
+	<Incentive_no>5</Incentive_no>
+	<Choose_rate>10</Choose_rate>
+	<Material_id>2</Material_id>
+	<Material_count>200</Material_count>
+</mst_mapincentive>
+<mst_mapincentive>
+	<Id>9306</Id>
+	<Map_cleared>0</Map_cleared>
+	<Incentive_no>6</Incentive_no>
+	<Choose_rate>15</Choose_rate>
+	<Material_id>2</Material_id>
+	<Material_count>100</Material_count>
+</mst_mapincentive>
+<mst_mapincentive>
+	<Id>9307</Id>
+	<Map_cleared>0</Map_cleared>
+	<Incentive_no>7</Incentive_no>
+	<Choose_rate>5</Choose_rate>
+	<Material_id>3</Material_id>
+	<Material_count>300</Material_count>
+</mst_mapincentive>
+<mst_mapincentive>
+	<Id>9308</Id>
+	<Map_cleared>0</Map_cleared>
+	<Incentive_no>8</Incentive_no>
+	<Choose_rate>10</Choose_rate>
+	<Material_id>3</Material_id>
+	<Material_count>200</Material_count>
+</mst_mapincentive>
+<mst_mapincentive>
+	<Id>9309</Id>
+	<Map_cleared>0</Map_cleared>
+	<Incentive_no>9</Incentive_no>
+	<Choose_rate>15</Choose_rate>
+	<Material_id>3</Material_id>
+	<Material_count>100</Material_count>
+</mst_mapincentive>
+<mst_mapincentive>
+	<Id>9310</Id>
+	<Map_cleared>0</Map_cleared>
+	<Incentive_no>10</Incentive_no>
+	<Choose_rate>10</Choose_rate>
+	<Material_id>4</Material_id>
+	<Material_count>100</Material_count>
+</mst_mapincentive>
+</mst_mapincentive_data>

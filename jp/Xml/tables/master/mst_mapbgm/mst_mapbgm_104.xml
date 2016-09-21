@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_mapbgm_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_mapbgm>
+	<Id>104</Id>
+	<Maparea_id>10</Maparea_id>
+	<No>4</No>
+	<Map_bgm>43</Map_bgm>
+	<Mapd_bgm_id>38</Mapd_bgm_id>
+	<Mapn_bgm_id>2</Mapn_bgm_id>
+	<Bossd_bgm_id>47</Bossd_bgm_id>
+	<Bossn_bgm_id>47</Bossn_bgm_id>
+</mst_mapbgm>
+</mst_mapbgm_data>
