@@ -82,19 +82,19 @@
 		<Id>3</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>4</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>5</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>6</Id>
@@ -178,7 +178,7 @@
 		<Id>8</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>9</Id>
@@ -6125,7 +6125,7 @@
 		<Id>162</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>163</Id>
@@ -11820,7 +11820,7 @@
 		<Id>315</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>316</Id>
@@ -12474,7 +12474,7 @@
 		<Id>333</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>334</Id>
@@ -12519,49 +12519,49 @@
 		<Id>335</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>336</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>337</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>338</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>339</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>340</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>341</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>342</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>343</Id>
@@ -13904,7 +13904,7 @@
 		<Id>418</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>419</Id>
@@ -14064,7 +14064,7 @@
 		<Id>423</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>424</Id>
@@ -14416,7 +14416,7 @@
 		<Id>433</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>434</Id>
@@ -14574,19 +14574,19 @@
 		<Id>438</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>439</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>440</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>441</Id>
@@ -14709,7 +14709,7 @@
 		<Id>444</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>445</Id>
@@ -14830,13 +14830,13 @@
 		<Id>448</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>449</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>450</Id>
@@ -14919,7 +14919,7 @@
 		<Id>452</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>453</Id>
@@ -15042,13 +15042,13 @@
 		<Id>456</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>457</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>458</Id>
@@ -15288,7 +15288,7 @@
 		<Id>464</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>465</Id>
@@ -17643,7 +17643,7 @@
 		<Id>563</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>564</Id>
@@ -17793,13 +17793,13 @@
 		<Id>568</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>569</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>570</Id>
@@ -18165,7 +18165,7 @@
 		<Id>580</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>581</Id>
@@ -18603,7 +18603,7 @@
 		<Id>593</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>594</Id>
@@ -18681,7 +18681,7 @@
 		<Id>596</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>None</Name>
+		<Name>なし</Name>
 	</mst_ship>
 	<mst_ship>
 		<Id>597</Id>

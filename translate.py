@@ -19,12 +19,13 @@ def ships(): # translate all ship names
 
 	# replace all names with corresponding unicode string
 	for item in shipxml['mst_ship_data']['mst_ship']:
-		if item['Name'] == 'なし': # None
-			item['Name'] = 'None'
-			print(item['Id'], item['Name'])
-			continue
+		# actually, don't rename Nashi, game crashes if it can't find it
+		#if item['Name'] == 'なし': # None
+			#item['Name'] = 'None'
+			#print(item['Id'], item['Name'])
+			#continue
 
-		# 650 運河棲姫 = Canal Princess
+		# 650 運河棲姫 = Canal Princess, unique to Vita
 		if item['Name'] == "運河棲姫":
 			item['Name'] = 'Canal Princess'
 			print(item['Id'], item['Name'])
@@ -160,8 +161,8 @@ def quotes():
 	# replace all names with corresponding unicode string
 	for item in xml['mst_shiptext_data']['mst_shiptext']:
 		# take kanji name (without trailing words) and match to translation
-		item['OrigGetMes'] = item['Getmes']
-		item['OrigSinfo'] = item['Sinfo'] # temporarily add original sinfo and getmessage to be sure
+		item['OrigGetMes'] = str(item['Getmes'])
+		item['OrigSinfo'] = str(item['Sinfo']) # temporarily add original sinfo and getmessage to be sure
 		
 		try:
 			item['Ship'] = shiplist[item['Id']]
@@ -169,9 +170,18 @@ def quotes():
 			item['Ship'] = 'Unknown'
 		
 		try:
-			item['Getmes'] = datalist[item['Id']]['1']
-			item['Sinfo'] = datalist[item['Id']]['25']
-			print(item['Id'], item['Ship'], '\n', item['Getmes'], '\n', item['Sinfo'], '\n')
+			if (item['Getmes'] == None) and (item['Sinfo'] == None):
+				continue
+			
+			print(item['Id'])
+			print(item['Ship'])
+			print(item['Getmes'])
+			print(item['Sinfo'])
+#			item['Getmes'] = datalist[item['Id']]['1']
+#			item['Sinfo'] = datalist[item['Id']]['25']
+			print(datalist[item['Id']]['1'])
+			print(datalist[item['Id']]['25'])
+
 		except KeyError: # ignore ship IDs with empty slots
 			pass
 	

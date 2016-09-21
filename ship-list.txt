@@ -1,0 +1,621 @@
+1 Mutsuki
+2 Kisaragi
+3 なし
+4 なし
+5 なし
+6 Nagatsuki
+7 Mikazuki
+8 なし
+9 Fubuki
+10 Shirayuki
+11 Miyuki
+12 Isonami
+13 Ayanami
+14 Shikinami
+15 Akebono
+16 Ushio
+17 Kagerou
+18 Shiranui
+19 Kuroshio
+20 Yukikaze
+21 Nagara
+22 Isuzu
+23 Yura
+24 Ooi
+25 Kitakami
+26 Fusou
+27 Yamashiro
+28 Satsuki
+29 Fumizuki
+30 Kikuzuki
+31 Mochizuki
+32 Hatsuyuki
+33 Murakumo
+34 Akatsuki
+35 Hibiki
+36 Ikazuchi
+37 Inazuma
+38 Hatsuharu
+39 Nenohi
+40 Wakaba
+41 Hatsushimo
+42 Shiratsuyu
+43 Shigure
+44 Murasame
+45 Yuudachi
+46 Samidare
+47 Suzukaze
+48 Arare
+49 Kasumi
+50 Shimakaze
+51 Tenryuu
+52 Tatsuta
+53 Natori
+54 Sendai
+55 Jintsuu
+56 Naka
+57 Ooi Kai
+58 Kitakami Kai
+59 Furutaka
+60 Kako
+61 Aoba
+62 Myoukou
+63 Nachi
+64 Ashigara
+65 Haguro
+66 Takao
+67 Atago
+68 Maya
+69 Choukai
+70 Mogami
+71 Tone
+72 Chikuma
+73 Mogami Kai
+74 Shouhou
+75 Hiyou
+76 Ryuujou
+77 Ise
+78 Kongou
+79 Haruna
+80 Nagato
+81 Mutsu
+82 Ise Kai
+83 Akagi
+84 Kaga
+85 Kirishima
+86 Hiei
+87 Hyuuga
+88 Hyuuga Kai
+89 Houshou
+90 Souryuu
+91 Hiryuu
+92 Junyou
+93 Oboro
+94 Sazanami
+95 Asashio
+96 Ooshio
+97 Michishio
+98 Arashio
+99 Kuma
+100 Tama
+101 Kiso
+102 Chitose
+103 Chiyoda
+104 Chitose Kai
+105 Chiyoda Kai
+106 Chitose A
+107 Chiyoda A
+108 Chitose-Kou
+109 Chiyoda-Kou
+110 Shoukaku
+111 Zuikaku
+112 Zuikaku Kai
+113 Kinu
+114 Abukuma
+115 Yuubari
+116 Zuihou
+117 Zuihou Kai
+118 Ooi Kai Ni
+119 Kitakami Kai Ni
+120 Mikuma
+121 Mikuma Kai
+122 Maikaze
+123 Kinugasa
+124 Suzuya
+125 Kumano
+126 I-168
+127 I-58
+128 I-8
+129 Suzuya Kai
+130 Kumano Kai
+131 Yamato
+132 Akigumo
+133 Yuugumo
+134 Makigumo
+135 Naganami
+136 Yamato Kai
+137 Agano
+138 Noshiro
+139 Yahagi
+140 Sakawa
+141 Isuzu Kai Ni
+142 Kinugasa Kai Ni
+143 Musashi
+144 Yuudachi Kai Ni
+145 Shigure Kai Ni
+146 Kiso Kai Ni
+147 Verniy
+148 Musashi Kai
+149 Kongou Kai Ni
+150 Hiei Kai Ni
+151 Haruna Kai Ni
+152 Kirishima Kai Ni
+153 Taihou
+154 Katori
+155 I-401
+156 Taihou Kai
+157 Ryuujou Kai Ni
+158 Sendai Kai Ni
+159 Jintsuu Kai Ni
+160 Naka Kai Ni
+161 Akitsumaru
+162 なし
+163 Maruyu
+164 Yayoi
+165 Uzuki
+166 Akitsumaru Kai
+167 Isokaze
+168 Urakaze
+169 Tanikaze
+170 Hamakaze
+171 Bismarck
+172 Bismarck Kai
+173 Bismarck zwei
+174 Z1
+175 Z3
+176 Prinz Eugen
+177 Prinz Eugen Kai
+178 Bismarck drei
+179 Z1 zwei
+180 Z3 zwei
+181 Amatsukaze
+182 Akashi
+183 Ooyodo
+184 Taigei
+185 Ryuuhou
+186 Tokitsukaze
+187 Akashi Kai
+188 Tone Kai Ni
+189 Chikuma Kai Ni
+190 Hatsukaze
+191 I-19
+192 Nachi Kai Ni
+193 Ashigara Kai Ni
+194 Haguro Kai Ni
+195 Ayanami Kai Ni
+196 Hiryuu Kai Ni
+197 Souryuu Kai Ni
+200 Abukuma Kai Ni
+201 Fubuki Kai
+202 Shirayuki Kai
+203 Hatsuyuki Kai
+204 Miyuki Kai
+205 Murakumo Kai
+206 Isonami Kai
+207 Ayanami Kai
+208 Shikinami Kai
+209 Kongou Kai
+210 Hiei Kai
+211 Haruna Kai
+212 Kirishima Kai
+213 Tenryuu Kai
+214 Tatsuta Kai
+215 Kuma Kai
+216 Tama Kai
+217 Kiso Kai
+218 Nagara Kai
+219 Isuzu Kai
+220 Yura Kai
+221 Natori Kai
+222 Sendai Kai
+223 Jintsuu Kai
+224 Naka Kai
+225 Kagerou Kai
+226 Shiranui Kai
+227 Kuroshio Kai
+228 Yukikaze Kai
+229 Shimakaze Kai
+230 Oboro Kai
+231 Akebono Kai
+232 Sazanami Kai
+233 Ushio Kai
+234 Akatsuki Kai
+235 Hibiki Kai
+236 Ikazuchi Kai
+237 Inazuma Kai
+238 Hatsuharu Kai
+239 Nenohi Kai
+240 Wakaba Kai
+241 Hatsushimo Kai
+242 Shiratsuyu Kai
+243 Shigure Kai
+244 Murasame Kai
+245 Yuudachi Kai
+246 Samidare Kai
+247 Suzukaze Kai
+248 Asashio Kai
+249 Ooshio Kai
+250 Michishio Kai
+251 Arashio Kai
+252 Arare Kai
+253 Kasumi Kai
+254 Mutsuki Kai
+255 Kisaragi Kai
+256 Satsuki Kai
+257 Fumizuki Kai
+258 Nagatsuki Kai
+259 Kikuzuki Kai
+260 Mikazuki Kai
+261 Mochizuki Kai
+262 Furutaka Kai
+263 Kako Kai
+264 Aoba Kai
+265 Myoukou Kai
+266 Nachi Kai
+267 Ashigara Kai
+268 Haguro Kai
+269 Takao Kai
+270 Atago Kai
+271 Maya Kai
+272 Choukai Kai
+273 Tone Kai
+274 Chikuma Kai
+275 Nagato Kai
+276 Mutsu Kai
+277 Akagi Kai
+278 Kaga Kai
+279 Souryuu Kai
+280 Hiryuu Kai
+281 Ryuujou Kai
+282 Shouhou Kai
+283 Hiyou Kai
+284 Junyou Kai
+285 Houshou Kai
+286 Fusou Kai
+287 Yamashiro Kai
+288 Shoukaku Kai
+289 Kinu Kai
+290 Abukuma Kai
+291 Chitose-Kou Kai
+292 Chiyoda-Kou Kai
+293 Yuubari Kai
+294 Maikaze Kai
+295 Kinugasa Kai
+296 Chitose-Kou Kai Ni
+297 Chiyoda-Kou Kai Ni
+300 Hatsukaze Kai
+301 Akigumo Kai
+302 Yuugumo Kai
+303 Makigumo Kai
+304 Naganami Kai
+305 Agano Kai
+306 Noshiro Kai
+307 Yahagi Kai
+308 Yayoi Kai
+309 Uzuki Kai
+310 Z1 Kai
+311 Z3 Kai
+312 Hamakaze Kai
+313 Tanikaze Kai
+314 Sakawa Kai
+315 なし
+316 Amatsukaze Kai
+317 Urakaze Kai
+318 Ryuuhou Kai
+319 Myoukou Kai Ni
+320 Isokaze Kai
+321 Ooyodo Kai
+322 Tokitsukaze Kai
+323 Harusame Kai
+324 Hayashimo Kai
+325 Kiyoshimo Kai
+326 Hatsuharu Kai Ni
+327 Asagumo Kai
+328 Yamagumo Kai
+329 Nowaki Kai
+330 Akizuki Kai
+331 Amagi
+332 Katsuragi
+333 なし
+334 U-511 Kai
+335 なし
+336 なし
+337 なし
+338 なし
+339 なし
+340 なし
+341 なし
+342 なし
+343 Katori Kai
+344 Asashimo Kai
+345 Takanami Kai
+346 Teruzuki Kai
+347 Libeccio Kai
+348 Mizuho Kai
+349 Kazagumo Kai
+350 Umikaze Kai
+351 Kawakaze Kai
+352 Hayasui Kai
+353 Graf Zeppelin Kai
+354 Arashi Kai
+355 Hagikaze Kai
+356 Kashima Kai
+357 Iowa Kai
+398 I-168 Kai
+399 I-58 Kai
+400 I-8 Kai
+401 I-19 Kai
+402 Maruyu Kai
+403 I-401 Kai
+404 Unryuu
+405 Harusame
+406 Unryuu Kai
+407 Ushio Kai Ni
+408 Junyou Kai Ni
+409 Hayashimo
+410 Kiyoshimo
+411 Fusou Kai Ni
+412 Yamashiro Kai Ni
+413 Asagumo
+414 Yamagumo
+415 Nowaki
+416 Furutaka Kai Ni
+417 Kako Kai Ni
+418 なし
+419 Hatsushimo Kai Ni
+420 Murakumo Kai Ni
+421 Akizuki
+422 Teruzuki
+423 なし
+424 Takanami
+425 Asashimo
+426 Fubuki Kai Ni
+427 Choukai Kai Ni
+428 Maya Kai Ni
+429 Amagi Kai
+430 Katsuragi Kai
+431 U-511
+432 Graf Zeppelin
+433 なし
+434 Mutsuki Kai Ni
+435 Kisaragi Kai Ni
+436 RO-500
+437 Akatsuki Kai Ni
+438 なし
+439 なし
+440 なし
+441 Littorio
+442 Roma
+443 Libeccio
+444 なし
+445 Akitsushima
+446 Italia
+447 Roma Kai
+448 なし
+449 なし
+450 Akitsushima Kai
+451 Mizuho
+452 なし
+453 Kazagumo
+454 Arashi
+455 Hagikaze
+456 なし
+457 なし
+458 Umikaze
+459 Kawakaze
+460 Hayasui
+461 Shoukaku Kai Ni
+462 Zuikaku Kai Ni
+463 Iowa
+464 なし
+465 Kashima
+466 Shoukaku Kai Ni A
+467 Zuikaku Kai Ni A
+501 Destroyer I-Class
+502 Destroyer Ro-Class
+503 Destroyer Ha-Class
+504 Destroyer Ni-Class
+505 Light Cruiser Ho-Class
+506 Light Cruiser He-Class
+507 Light Cruiser To-Class
+508 Torpedo Cruiser Chi-Class
+509 Heavy Cruiser Ri-Class
+510 Light Carrier Nu-Class
+511 Battleship Ru-Class
+512 Standard Carrier Wo-Class
+513 Transport Ship Wa-Class
+514 Destroyer I-Class
+515 Destroyer Ro-Class
+516 Destroyer Ha-Class
+517 Destroyer Ni-Class
+518 Light Cruiser Ho-Class
+519 Light Cruiser He-Class
+520 Light Cruiser To-Class
+521 Torpedo Cruiser Chi-Class
+522 Heavy Cruiser Ri-Class
+523 Light Carrier Nu-Class
+524 Battleship Ru-Class
+525 Standard Carrier Wo-Class
+526 Transport Ship Wa-Class
+527 Heavy Cruiser Ri-Class
+528 Standard Carrier Wo-Class
+529 Battleship Ru-Class
+530 Submarine Ka-Class
+531 Submarine Yo-Class
+532 Submarine Ka-Class
+533 Submarine Yo-Class
+534 Submarine Ka-Class
+535 Submarine Yo-Class
+536 Floating Fortress
+537 Floating Fortress
+538 Floating Fortress
+539 Anchorage Demon
+540 Anchorage Princess
+541 Battleship Ta-Class
+542 Battleship Ta-Class
+543 Battleship Ta-Class
+544 装 A空母鬼
+545 装 A空母姫
+546 Southern Demon
+547 Southern War Demon
+548 Southern War Princess
+549 Escort Fortress
+550 Escort Fortress
+551 Escort Fortress
+552 Destroyer Ro-Class
+553 Destroyer Ha-Class
+554 Light Cruiser Ho-Class
+555 Light Cruiser He-Class
+556 Airfield Princess
+557 Battleship Princess
+558 Transport Ship Wa-Class
+559 Torpedo Cruiser Chi-Class
+560 Light Carrier Nu-Class
+561 Battleship Re-Class
+562 Battleship Re-Class
+563 なし
+564 Destroyer I-Class
+565 Standard Carrier Wo-Class Kai
+566 Heavy Cruiser Ri-Class Kai
+567 Battleship Ru-Class Kai
+568 なし
+569 なし
+570 Submarine So-Class
+571 Submarine So-Class
+572 Submarine So-Class
+573 Harbour Princess
+574 Isolated Island Demon
+575 Destroyer I-Class Late Model
+576 Destroyer Ro-Class Late Model
+577 Destroyer Ha-Class Late Model
+578 Destroyer Ni-Class Late Model
+579 Standard Carrier Wo-Class
+580 なし
+581 Northern Princess
+582 Northern Princess
+583 Midway Princess
+584 Midway Princess
+585 Aircraft Carrier Demon
+586 Aircraft Carrier Princess
+587 Northern Princess
+588 Northern Princess
+589 Northern Princess
+590 Northern Princess
+591 Light Cruiser Tsu-Class
+592 Light Cruiser Tsu-Class
+593 なし
+594 Heavy Cruiser Ne-Class
+595 Heavy Cruiser Ne-Class
+596 なし
+597 Destroyer Princess
+598 Destroyer Princess
+599 Aircraft Carrier Water Demon
+600 Aircraft Carrier Water Demon
+601 Light Cruiser Demon
+602 Light Cruiser Demon
+603 Battleship Water Demon
+604 Battleship Water Demon
+605 Harbour Water Demon
+606 Harbour Water Demon
+607 Harbour Water Demon
+608 Harbour Water Demon
+609 Anchorage Water Demon
+610 Anchorage Water Demon
+611 Anchorage Water Demon
+612 Anchorage Water Demon
+613 Harbour Princess
+614 Standard Carrier Wo-Class
+615 Standard Carrier Wo-Class
+616 Standard Carrier Wo-Class Kai
+617 Standard Carrier Wo-Class Kai
+618 Standard Carrier Wo-Class Kai
+619 Aircraft Carrier Demon
+620 Aircraft Carrier Princess
+621 Destroyer I-Class Late Model
+622 Destroyer Ro-Class Late Model
+623 Destroyer Ha-Class Late Model
+624 Destroyer Ni-Class Late Model
+625 Seaplane Tender Princess
+626 Seaplane Tender Princess
+627 Seaplane Tender Princess
+628 Air Defense Princess
+629 Air Defense Princess
+630 Air Defense Princess
+631 Airfield Princess
+632 Airfield Princess
+633 Airfield Princess
+634 Isolated Island Demon
+635 Isolated Island Demon
+636 Isolated Island Demon
+641 Light Cruiser Princess
+642 Light Cruiser Princess
+643 Light Cruiser Princess
+644 Submarine Princess
+645 Submarine Princess
+646 Submarine Princess
+650 Canal Princess
+651 Canal Princess
+652 Canal Princess
+653 Central Princess
+654 Central Princess
+655 Central Princess
+901 Xmas Naka
+902 Xmas Naka Kai Ni
+903 Xmas Shigure Kai Ni
+904 Xmas Ryuujou
+905 Xmas Ryuujou Kai Ni
+906 Xmas Sazanami
+907 Year-end Akebono
+908 New Year Yuudachi Kai Ni
+909 New Year Akashi
+910 New Year Akashi Kai
+911 New Year Ooyodo
+912 New Year Ooyodo Kai
+913 Valentine Mutsuki
+914 Valentine Kisaragi
+915 Valentine Murakumo
+916 Valentine Shigure Kai Ni
+917 Valentine Hamakaze
+918 Rainy Season Shouhou
+919 Rainy Season Murasame Kai
+920 Rainy Season Takanami
+921 Summer Oboro
+922 Summer Akebono
+923 Summer Sazanami
+924 Summer Ushio
+925 Summer Ushio Kai Ni
+926 Summer Shiratsuyu Kai
+927 Summer Shigure Kai Ni
+928 Summer Yuudachi Kai Ni
+929 Summer Murasame Kai
+930 Summer Tenryuu
+931 Summer Tatsuta
+932 Summer Akashi Kai
+933 Summer Littorio
+934 Summer Italia
+935 Autumn Oboro
+936 Autumn Isokaze
+937 Autumn Isokaze Kai
+938 Autumn Urakaze
+939 Autumn Hamakaze
+940 Autumn Kawakaze
+941 Autumn Z1
+942 Autumn Ikazuchi
+943 Autumn Inazuma
+944 Autumn Nagara
+945 Autumn Natori
+946 Autumn Kuma
+947 Autumn Tama
+948 Autumn Ooyodo Kai
+949 Autumn Jintsuu Kai Ni
+950 Autumn Mizuho
