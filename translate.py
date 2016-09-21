@@ -4,6 +4,7 @@ import xmltodict
 
 # default dirs
 xml_dir = os.path.join("Xml", "tables", "master")
+jp_xml_dir = os.path.join("jp", xml_dir)
 en_xml_dir = os.path.join("en", xml_dir)
 kc3_trans_dir = os.path.join("kc3-translations", "data", "en")
 
@@ -11,7 +12,7 @@ kc3_trans_dir = os.path.join("kc3-translations", "data", "en")
 
 def ships(): # translate all ship names
 	# open xml
-	shipxml = xmltodict.parse(open(os.path.join(en_xml_dir, 'mst_ship.xml'), 'rb'))
+	shipxml = xmltodict.parse(open(os.path.join(jp_xml_dir, 'mst_ship.xml'), 'rb'))
 
 	# get KC3 JSON, kanji name as key and translation as value
 	shiplist = json.load(open(os.path.join(kc3_trans_dir, 'ships.json'), 'r'))
@@ -31,8 +32,8 @@ def ships(): # translate all ship names
 		
 		try:
 			# render Kai and Ni to romaji with space separation
-			# also render 甲 (corresponds to https://en.wikipedia.org/wiki/Celestial_stem ) as A, B, C, D...
-			item['Name'] = item['Name'].replace('改', ' Kai').replace('二', ' Ni')
+			# also render 甲 (corresponds to https://en.wikipedia.org/wiki/Celestial_stem ) as A... (in the future 乙: B, 丙: C, 丁: D)
+			item['Name'] = item['Name'].replace('改', ' Kai').replace('二', ' Ni').replace('甲', ' A')
 			
 			# since event specifics only start from ID 901, only start checking if it is greater than this
 			if int(item['Id']) >= 901:
@@ -64,13 +65,22 @@ def ships(): # translate all ship names
 		print(item['Id'], item['Name'])
 
 	# save changes to file
-	print("Saving changes shown above to :", en_xml_dir + 'mst_ship.xml')
+	print("Saving changes shown above to :", os.path.join(en_xml_dir, 'mst_ship.xml'))
 	with open(os.path.join(en_xml_dir, 'mst_ship.xml'), 'w') as f:
 		f.write(xmltodict.unparse(shipxml, pretty=True))
+	
+	# open file again and convert `<Yomi></Yomi>` to `<Yomi />`, which the program expects apparently
+	with open(os.path.join(en_xml_dir, 'mst_ship.xml'), 'r') as f:
+		filedata = f.read()
+	
+	filedata = filedata.replace('<Yomi></Yomi>', '<Yomi />') # in memory but should be small
+	
+	with open(os.path.join(en_xml_dir, 'mst_ship.xml'), 'w') as f:
+		f.write(filedata)
 
 def slot_items():
 	# open xml
-	itemxml = xmltodict.parse(open(os.path.join(en_xml_dir, 'mst_slotitem.xml'), 'rb'))
+	itemxml = xmltodict.parse(open(os.path.join(jp_xml_dir, 'mst_slotitem.xml'), 'rb'))
 
 	# get KC3 JSON, kanji name as key and translation as value
 	itemlist = json.load(open(os.path.join(kc3_trans_dir, 'items.json'), 'r'))
@@ -90,7 +100,7 @@ def slot_items():
 #def quests():
 	## open xml
 	#xml_fname = 'mst_quest.xml'
-	#xml = xmltodict.parse(open(os.path.join(en_xml_dir, xml_fname), 'rb'))
+	#xml = xmltodict.parse(open(os.path.join(jp_xml_dir, xml_fname), 'rb'))
 
 	## get KC3 JSON, id as key and translation as value
 	#list_fname = 'quests.json'
@@ -112,7 +122,7 @@ def slot_items():
 def stype():
 	# open xml
 	xml_fname = 'mst_stype.xml'
-	xml = xmltodict.parse(open(os.path.join(en_xml_dir, xml_fname), 'rb'))
+	xml = xmltodict.parse(open(os.path.join(jp_xml_dir, xml_fname), 'rb'))
 
 	# get KC3 JSON, id as key and translation as value
 	list_fname = 'stype.json'
@@ -132,7 +142,7 @@ def stype():
 def quotes():
 	# open xml
 	xml_fname = 'mst_shiptext.xml'
-	xml = xmltodict.parse(open(os.path.join(en_xml_dir, xml_fname), 'rb'))
+	xml = xmltodict.parse(open(os.path.join(jp_xml_dir, xml_fname), 'rb'))
 
 	# get KC3 JSON, id as key and translation as value
 	list_fname = 'quotes.json'
@@ -170,9 +180,9 @@ def quotes():
 #	with open(os.path.join(en_xml_dir, xml_fname), 'w') as f:
 #		f.write(xmltodict.unparse(xml, pretty=True))
 
-#ships()
+ships()
 #slot_items()
 #quests()
 #stype()
-quotes()
+#quotes()
 print("Changes compiled. To start over, replace the `Xml/` folder in `en/` with the one from `jp/`.")

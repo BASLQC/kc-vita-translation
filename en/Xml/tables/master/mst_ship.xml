@@ -3964,7 +3964,7 @@
 		<Id>106</Id>
 		<Sortno>99</Sortno>
 		<Bookno>99</Bookno>
-		<Name>千歳甲</Name>
+		<Name>Chitose A</Name>
 		<Yomi>ちとせ</Yomi>
 		<Stype>16</Stype>
 		<Ctype>15</Ctype>
@@ -4003,7 +4003,7 @@
 		<Id>107</Id>
 		<Sortno>100</Sortno>
 		<Bookno>100</Bookno>
-		<Name>千代田甲</Name>
+		<Name>Chiyoda A</Name>
 		<Yomi>ちよだ</Yomi>
 		<Stype>16</Stype>
 		<Ctype>15</Ctype>
@@ -15333,7 +15333,7 @@
 		<Id>466</Id>
 		<Sortno>247</Sortno>
 		<Bookno>247</Bookno>
-		<Name>Shoukaku Kai Ni甲</Name>
+		<Name>Shoukaku Kai Ni A</Name>
 		<Yomi>しょうかく</Yomi>
 		<Stype>18</Stype>
 		<Ctype>33</Ctype>
@@ -15372,7 +15372,7 @@
 		<Id>467</Id>
 		<Sortno>248</Sortno>
 		<Bookno>248</Bookno>
-		<Name>Zuikaku Kai Ni甲</Name>
+		<Name>Zuikaku Kai Ni A</Name>
 		<Yomi>ずいかく</Yomi>
 		<Stype>18</Stype>
 		<Ctype>33</Ctype>
@@ -16456,7 +16456,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Submarine Ka-Class</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -16492,7 +16492,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Submarine Yo-Class</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -16672,7 +16672,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Floating Fortress</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -16708,7 +16708,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Floating Fortress</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -16744,7 +16744,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Floating Fortress</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -16780,7 +16780,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Anchorage Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -16816,7 +16816,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Anchorage Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -16852,7 +16852,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Battleship Ta-Class</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>8</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -16959,8 +16959,8 @@
 		<Id>544</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Armored Carrier Demon</Name>
-		<Yomi></Yomi>
+		<Name>装 A空母鬼</Name>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -16995,8 +16995,8 @@
 		<Id>545</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Armored Carrier Princess</Name>
-		<Yomi></Yomi>
+		<Name>装 A空母姫</Name>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17032,7 +17032,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Southern Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17068,7 +17068,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Southern War Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17104,7 +17104,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Southern War Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17140,7 +17140,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Escort Fortress</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17176,7 +17176,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Escort Fortress</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17212,7 +17212,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Escort Fortress</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17392,7 +17392,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Airfield Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17428,7 +17428,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Battleship Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>9</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17572,7 +17572,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Battleship Re-Class</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17806,7 +17806,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Submarine So-Class</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17914,7 +17914,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Harbour Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17950,7 +17950,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Isolated Island Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -17986,7 +17986,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Destroyer I-Class Late Model</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18022,7 +18022,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Destroyer Ro-Class Late Model</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18058,7 +18058,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Destroyer Ha-Class Late Model</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18094,7 +18094,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Destroyer Ni-Class Late Model</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18172,7 +18172,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Northern Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18208,7 +18208,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Northern Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18244,7 +18244,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Midway Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18280,7 +18280,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Midway Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18316,7 +18316,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Aircraft Carrier Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18352,7 +18352,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Aircraft Carrier Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18388,7 +18388,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Northern Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18424,7 +18424,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Northern Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18460,7 +18460,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Northern Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18496,7 +18496,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Northern Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18532,7 +18532,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Light Cruiser Tsu-Class</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18610,7 +18610,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Heavy Cruiser Ne-Class</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>5</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18688,7 +18688,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Destroyer Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18724,7 +18724,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Destroyer Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18760,7 +18760,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Aircraft Carrier Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18796,7 +18796,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Aircraft Carrier Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18832,7 +18832,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Light Cruiser Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18868,7 +18868,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Light Cruiser Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18904,7 +18904,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Battleship Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>9</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18940,7 +18940,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Battleship Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>9</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -18976,7 +18976,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Harbour Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19012,7 +19012,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Harbour Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19048,7 +19048,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Harbour Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19084,7 +19084,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Harbour Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19120,7 +19120,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Anchorage Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19156,7 +19156,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Anchorage Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19192,7 +19192,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Anchorage Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19228,7 +19228,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Anchorage Water Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19264,7 +19264,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Harbour Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19480,7 +19480,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Aircraft Carrier Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19516,7 +19516,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Aircraft Carrier Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19696,7 +19696,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Seaplane Tender Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>16</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19732,7 +19732,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Seaplane Tender Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>16</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19768,7 +19768,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Seaplane Tender Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>16</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19804,7 +19804,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Air Defense Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19840,7 +19840,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Air Defense Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19876,7 +19876,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Air Defense Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19912,7 +19912,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Airfield Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19948,7 +19948,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Airfield Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -19984,7 +19984,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Airfield Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20020,7 +20020,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Isolated Island Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20056,7 +20056,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Isolated Island Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20092,7 +20092,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Isolated Island Demon</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20128,7 +20128,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Light Cruiser Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20164,7 +20164,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Light Cruiser Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20200,7 +20200,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Light Cruiser Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20236,7 +20236,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Submarine Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20272,7 +20272,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Submarine Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20308,7 +20308,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Submarine Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20344,7 +20344,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Canal Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20380,7 +20380,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Canal Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20416,7 +20416,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Canal Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20452,7 +20452,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Central Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20488,7 +20488,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Central Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
@@ -20524,7 +20524,7 @@
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
 		<Name>Central Princess</Name>
-		<Yomi></Yomi>
+		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
 		<Cnum>1</Cnum>
