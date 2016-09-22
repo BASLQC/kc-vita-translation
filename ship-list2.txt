@@ -1,0 +1,2039 @@
+1
+Mutsuki
+I'm Mutsuki. Let's work together!
+The first Imperial Navy destroyer to be loaded with the powerful large-type 61cm torpedoes, Mutsuki! While I'm an older model, I gave it my all on the frontlines!
+2
+Kisaragi
+My name is Kisaragi. Please keep me by your side.
+The second ship of Mutsuki-class, Kisaragi. At Wake Island, I fought bravely under the assault of annoying F4F Fighters. Nooo~ I mean it... the sea breeze will ruin my hair...
+3
+なし
+4
+なし
+5
+なし
+6
+Nagatsuki
+Nagatsuki here. Don't make light of me as destroyers. I'm useful.
+Eighth ship of the Mutsuki-class. After the occupation of Southeast Asia, I was assigned to escort duties. While unloading at Kolombangara, I had to fend off a surprise attack by the enemy fleet.
+7
+Mikazuki
+You're the commander, right? I'm Mikazuki. I hope you welcome me warmly into your fleet.
+I am Mikazuki, the Mutsuki class destroyer that participated in escorting light carriers and other fleets. I even sortied to that fierce battle of Solomon Islands. Although I'm an old model, utilizing my fast speed I even participated in some transport missions.
+8
+なし
+9
+Fubuki
+Nice to meet you! I'm Fubuki! Thanks for having me!
+The first of the Special Type destroyers designed under the Washington Naval Treaty, shocking the world with our capabilities relative to other ship classifications at the time, Fubuki here! Based on our design, many successive fleet-type destroyers were built. Aye! I'll do my best!
+10
+Shirayuki
+I'm Shirayuki. Thanks for having me.
+Special-type destroyer, second ship, Shirayuki. At the start of the war, I participated in many operations. After that, I was the flagship of the escort in Operation 81 that transported troop reinforcements.
+11
+Miyuki
+I'm Miyuki. Great to meet you!
+Fourth of the special-type destroyers, Miyuki-sama! During practice, I hit another destroyer and made a bit of scene. Eh, but I gotta do what I gotta do. Watch and see!
+12
+Isonami
+U-um... my name is Isonami. Pleased to meet you.
+Ninth ship of the special-type destroyers, Isonami. Though I participated in many different battles, after getting damaged, I ended up in the marine guard and rear patrol. I'll do my best!
+13
+Ayanami
+Nice to meet you. I'm Ayanami, a special class destroyer.
+Special class destroyer, Ayanami. I'm the first ship of the improved Fubuki class. In the Third Battle of the Solomon Sea, I showed an outstanding performance as a destroyer. I'll do my best!
+14
+Shikinami
+I'm Shikinami. I'll be in your care.
+Special Destroyer number II, Shikinami. Nice to meet you. After participating in Midway and the Battle of Solomon, I serve as a convoy escort. Being a convoy escort is really rough you know... Because it's important...
+15
+Akebono
+Special-type destroyer, 'Akebono'. Hey! Don't look at me, you shitty Admiral!
+Special-type destroyer number 18, eighth of the Ayanami-class, Akebono. I'm not a sumo wrestler. Remember that. I participated in the first naval air battle, the Coral Sea! But, I'm a bit uneasy around subs...
+16
+Ushio
+I'm the Special Type Ayanami-class destroyer, Ushio. It would be nice if I could be dismissed soon...
+I'm the tenth ship of the Ayanami-class, Ushio. I survived the Battle of Leyte Gulf and many other fierce battles. After that fateful day at Leyte, I fought on dutifully until the war's end at Yokosuka. U-Um... to all the enemy ships that that were sunk... I really wanted to save you. I mean it!
+17
+Kagerou
+We've finally met! I'm Kagerou. Treat me well!
+Constucted for the Circle-4 programe, Kagerou-class nameship, Kagerou. As the main power of the newly-made ships, staring off with the Hawaii attack force, I was in lots of varied battles! Treat me well!
+18
+Shiranui
+I'm Shiranui. I look forward to your guidance and encouragement.
+Second Kagerou-class destroyer, Shiranui. Along with the other Kageros I served as the escort for the Hawaii Operational Forces. In the fated Battle of Leyte Gulf, I was attached to Shima's fleet and rushed to the Surigao Strait.
+19
+Kuroshio
+I'm Kuroshio, nice to meet 'cha!
+Built in the Osaka Civilian Naval Yards, third of the Kagerou-class Destroyers, Kuroshio. Even though I look like this, I participated in such hard-fought battles as Surabaya, the South Pacific and the third Battle of Solomon, ya' know.
+20
+Yukikaze
+The eighth ship of Kagerou-class destroyer, I'm Yukikaze. I'll be in your care!
+I'm Yukikaze, eighth ship of the Kagerou-class destroyer. Among the destroyers of the main fleet, while taking part in over 10 major naval battles, I'm the only one to have survived the war with barely any damage. Miracle destroyer? Nope, it was no miracle!
+21
+Nagara
+Light Cruiser Nagara! Please take good care of me!
+Weighing in as a 5500 ton light cruiser, first ship of the Nagara-class, Nagara! I'm a bit of an old model, but I'm a high-speed torpedo-armed team-leading machine, so I'm just perfect to command destroyers, you know? I even fought hard in the difficult Battle of the Solomons!
+22
+Isuzu
+I'm Isuzu. Leave the torpedo squadrons to me. I'll bring victory to the admiral with all my power. Pleased to meet you.
+Isuzu was built in the Taisho period (1912-1926) as the second of the Nagara Class light cruisers. As you might expect my speed is top-rate; the admirals that commanded me in history include Admiral Yamamoto Isoroku, Admiral Yamaguchi Tamon, and many other pillars of the Navy. Amazing, huh?
+23
+Yura
+Fourth ship of the Nagara-class Light Cruisers, 'Yura'. Pleased to make your acquaintance!
+I'm Yura, the fourth ship of the Nagara-type Light Cruisers. I was the first out of all of us to be equipped with seaplanes. I've served as the flagship of torpedo and submarine squadrons. I'm not so good with Dauntless and B17 planes.
+24
+Ooi
+Hello. I'm Light Cruiser Ooi. Pleased to make your acquaintance.
+I'm Ooi, fourth ship in the Kuma-class light cruisers. I was born in Kobe. I'm an active practice ship at the Navy School, you know? Of course, I'll change into a torpedo cruiser if I need to fight for real. Nice to meet you!
+25
+Kitakami
+I'm light cruiser Kitakami, nice ta meet 'ya.
+It's Kitakami, the third ship of the Kuma class~. Hmm? Yeah, Ooi's my best pal. I heard I can go another step and become a torpedo crusier that machine guns out oxygen torpedos. Wanna try?
+26
+Fusou
+Of the two Fusou-class super-dreadnought battleships, I am the elder sister, Fusou. Please take care of me and my younger sister Yamashiro.
+The first of the Japanese designs for the super-dreadnought battleship class, Fusou. Please remember to take care of my younger sister, Yamashiro, as well. Leyte Gulf? Oh well, I would like to go there someday. Right?
+27
+Yamashiro
+Of the two Fusou-class battleships, I am the younger sister, Yamashiro. Umm... have you seen Fusou nee-sama?
+The second of the Fusou-class battleships, Yamashiro. "A faulty battleship." "A strange thing for the fleet to have." Everyone said things like that... but it was fine, as long as I could fight alongside Fusou nee-sama until the end...
+28
+Satsuki
+I'm Satsuki. Good to meet ya!
+I kept getting injured again and again on missions, but I fought bravely to the end as the fifth of the Mutsuki-class destroyers. After the war began, I did my best to escort the fleet and guard areas of the ocean. I really did!
+29
+Fumizuki
+I'm Fumizuki. Nice to meet you~
+I'm Fumizuki, the seventh ship of the Mutsuki-class Destroyers. I've been in many open-sea battles. I was once on a fleet escort mission when I collided with a large ship and... got really hurt. It was such a mess!
+30
+Kikuzuki
+I'm Kikuzuki, let's move out together
+I'm Kikuzuki, ninth of Mutsuki-class Destroyers. In the very early part of the war, I participated in lots of capture operations. And in the latter part, I engaged in fleet-guard. It may not look so, but fleet-guard is an important mission for certain.
+31
+Mochizuki
+Hmm? Ah, I'm Mochizuki.
+Mutsuki-class destroyer Mochizuki. I took part in several invasions as a member of the 30th Destroyer Squadron. I engaged in transport missions again and again while going through repeated repairs. Worked hard, didn't I?
+32
+Hatsuyuki
+I'm... Hatsuyuki... nice to meet you.
+Special-type destroyer... third ship... Hatsuyuki. At the start of the war... I participated a lot. Transport duties... yes... I'll work hard...
+33
+Murakumo
+So you're the commander, huh? Well, I expect you to work very hard.
+Fifth ship of the Special Type destroyers, Murakumo here. Huh? Never heard of me? You can't be serious. Don't even know a famous ship like me, who rescued Furutaka's crew, took part in the Southern Operations, and many other operations? Just how inept are you?!
+34
+Akatsuki
+I'm Akatsuki! Treat me like the fully-fledged lady I am!
+I'm the first of the Special Type-III destroyers, Akatsuki. I was based on the Fubuki-class, with improved cruising efficiency and range. I'm the most refined of destroyers! I'm quite the lady, as you can see! I-I really am...!
+35
+Hibiki
+I'm Hibiki. I'm also referred to as "The Phoenix" from my exploits.
+The sole surviving ship from a class of special-type destroyers, Hibiki. After many battles, I was being serviced, and could not accompany the suicidal Yamato Surface Special Attack Force. I was handed over to the Soviet Union as a war reparation, and given a name that means "reliable".
+36
+Ikazuchi
+I'm Ikazuchi! Don't read my name as 'Kaminari'! You'll do well to remember that!
+Together with my fellow destroyer Inazuma at the Battle of the Java Sea, we rescued the survivors of sunken enemy ships. I think that strength alone just isn't enough. Right, Commander?
+37
+Inazuma
+I'm Inazuma. How... nice to meet you!
+After helping to save the crew of an enemy ship sunk in the Battle of the Java Sea, I fought at Kiska, Solomon, New Guinea and Attu Island one after the other... I gave it my all.
+38
+Hatsuharu
+We are Hatsuharu. We thank you in advance.
+We are the first Hatsuharu-class destroyer, Hatsuharu. We were attached to the Northern Force. As the clouds of war gathers, we did our duty in the Northern seas at such places as Attu and Kiska. The seas around Hokkaido are our favourite, no? The Gulf of Manila and Ormoc... ah, we are weak to the heat.
+39
+Nenohi
+Hello, it's Nenohi. I hope my name wasn't hard to read, yes?
+I'm Nenohi, second ship of the Hatsuharu class built under the Maru-1 program. I'm working hard to organize many things for my 21st Destroyer Corps sister ships, such as Hatsuharu sister ships. What? Submarines ...? I REALLY hate them!
+40
+Wakaba
+Destroyer, Wakaba.
+Third of the Hatsuharu-class, Wakaba. I participated in the Attu and Kiska Island exit operations. Yes, the Northern forces. Ah, be careful of heavy fog. It's easy to get hit. Especially 'Hatsushimo', you need to watch out for her.
+41
+Hatsushimo
+Fourth ship of the Hatsuharu class, Hatsushimo. Everyone, I'm very pleased to meet you!
+Fourth of the Hatsuharu-class destroyers, Hatsushimo. I was in lots of hard battles like the Operation AL, the Battle of the Komandorski Islands, the occupation of Kiska, the Battle of the Philippine Sea, Operation Hoku-Go and Ten-Ichi-Gō! I really did my best!
+42
+Shiratsuyu
+First ship of the Shiratsuyu-class destroyers, 'Shiratsuyu'!. Yes, the first ship!
+Developed after the Hatsuharu-class destroyer, Shiratsuyu-class, number one, I'm Shiratsuyu! Yeah, number one, the first ship! With lots of upgrades, I'm a true fleet destroyer, you know! Eh? 'Don't be in such a rush that you'll hit a tanker'? Don't worry about it!
+43
+Shigure
+I'm Shigure, of the Shiratsuyu-class destroyers. Nice to meet you.
+I'm the second ship of the Shiratsuyu-class destroyers, Shigure. I participated in the Battle of Leyte Gulf under the Nishimura Fleet, in the fateful rush through Surigao Strait. Fusou and Yamashiro were amazing... Even if everyone forgets, I'll always remember them...
+44
+Murasame
+Yes ye~s! I'm the Shiratsuyu-class destroyer 'Murasame'! Everyone, nice to meet you!
+Third of the Shiratsuyu-class destroyers, Murasame! Aren't all the Rainy destroyers stylish? With my sister ship Yuudachi, we formed the 2nd DesDiv. 'Rat Transport?' Well, excuse me, I did great at the Guadalcanal transport runs, you know!
+45
+Yuudachi
+Hi. I'm the Shiratsuyu-class destroyer, Yuudachi. See you around!
+Fourth ship of the Shiratsuyu class, Yuudachi here. During the Third Battle of the Solomons, I stood up to them really poi, didn't I? But why does "Ironbottom Sound" give me the chills?
+46
+Samidare
+My name is Samidare! I look forward to working with you. Please leave any escort missions to me!
+I'm Samidare. My friends Murasame, Yuudachi and Harusame, we made up DesDiv2. Oh yeah, during a transport mission, I crashed into Shiratsuyu... Really, I'm... sorry for being clumsy... But, I'll do my best!
+47
+Suzukaze
+'ello! I'm Suzukaze. If I join the fleet it will be equivalent to 100 ships!
+I'm Suzukaze. As a Special-class destroyer, I participated in lots of capture mission. After that, I escorted battleships and carriers! You can rely on me! I'll fight until the last!
+48
+Arare
+Arare... I won't say 'ncha-'... Look after me...
+Arare, last destroyer constructed under the Maru-2 programme... Asashio-class series'... final ship but... there's more... After that.... Kagero-class...
+49
+Kasumi
+I'm Kasumi, charging forth. Follow me.
+I fought intensely as a main fleet destroyer in history. In the end, I fought alongside battleship Yamato in Operation Ten-go against the fierce attacks of American carrier-based aircraft. I won't lose!
+50
+Shimakaze
+I'm destroyer Shimakaze. When it comes to speed, I'm the best there is— swift like the island breeze!
+Fast and armed with heavy torpedoes, developed as the pinnacle of destroyers— the Shimakaze class. I can go even faster than 40 knots. But... I wasn't suitable for mass production, so I was the only one built.
+51
+Tenryuu
+My name is Tenryuu. Heheh, ya scared?
+First of the Tenryuu-class, Tenryuu. Along with some destroyers, I led raids in a torpedo squadron. My partner of the same class is Tatsuta. That girl... I wonder if she's alright? Well, whatever.
+52
+Tatsuta
+Nice to meet you, I'm Tatsuta~. I hope Tenryuu-chan hasn't been causing you trouble?
+Light cruiser Tatsuta, second of Tenryuu class. I come from Sasebo. I hope Tenryuu-chan hasn't been causing everybody trouble? You really can't take your eyes off that girl, right? Huh? Me? Well, I'm not particularly fond of submarines~
+53
+Natori
+I'm called Natori... I'll do my best not to trouble you!
+Third ship of the Nagara-class, Natori. I'm a bit of an older model, but there is much use for a high-speed light cruiser too... Y-yes, a Destroyer squadron, it'd be best if I was assigned to one, please. I-I'll do my best!
+54
+Sendai
+Sendai has arrived. Please leave the night battle to me.
+I am the culmination of the 5500-ton light cruisers, the Sendai-class. I'll fully teach you the appeal of a mature light cruiser. Of course, it'll be with a night battle!
+55
+Jintsuu
+Um... I'm light cruiser Jintsuu... how... nice to meet you...
+I'm Jintsuu. I received an upgrade and was assigned as the flagship of the Second Torpedo Squadron. I fought bravely as the vanguard in the Battle of Kolombangara Island. But... everybody... focused their fire on me... how cruel...
+56
+Naka
+The fleet's idol, Naka-chan!Nice to meet you!
+Selected as the Centre of DesRon 4, it's Naka-chan! Doing lots of work, from guarding transports to doing the Tokyo Express from Truk... Eh? Was it a Provincial tour, you ask? That is SO not what I was doing!
+57
+Ooi Kai
+I'm torpedo cruiser Ooi. By the way, I wonder where Kitakami-san is.
+It's Ooi, torpedo cruiser edition. My torpedo powers were counted in, but I didn't have much of the limelight. I'll show you what I'm made of this time. Keep your eyes open!
+58
+Kitakami Kai
+A brand new Kitakami... that's me, all right. I feel a lot more grown up, loaded to the brim with oxygen torpedoes.
+It's Super Kitakami-sama, equipped with type-93 oxygenated torpedos, with 20 firing tubes on each side. It's been said that I have overpowering strength, but I did not really get any chances to shine. Bah.
+59
+Furutaka
+I'm Furutaka. I'll be happy to show how all the good points of heavy cruisers.
+Heavy cruiser, Furutaka. Selected by Vice Admiral Mikawa to be a member of the eighth fleet, I took out a lot of enemies at the first Battle of Solomon! This is what a heavy cruiser can do!
+60
+Kako
+Second Furutaka Class Heavy Cruiser, name's Kako! Nice to meetcha!
+I'm the Second Furutaka Class Heavy Cruiser, Kako. I achieved quite a feat during the Battle of Savo Islands! Ah, the way back? Well, the verse "Going in is easy, but returning is scary" was no joke!
+61
+Aoba
+Hi, thanks for your time, I'm Aoba! Please can I have some words!
+I'm Aoba. Advancing into the Truk Islands area, I supported the Pacific Front. With a war correspondent on board, the staff also had reporting as part of their job. At my last moment, I was at Kure. Even without fuel, I did my best!
+62
+Myoukou
+I am Myoukou, of the Myoukou-class Heavy Cruisers. Let us work on this together.
+A heavy cruiser built under the auspices of the Washington Naval Treaty. I'm a first-class warship of the Japanese Navy designed by Yuzuru Hiraga. This name has also been passed on to Aegis destroyers of the modern MSDF.
+63
+Nachi
+You are my commander? I'm Nachi. I appreciate your contribution.
+Born at the Kure Naval Yards. I am the second of the Myoukou Heavy Cruisers, who was the guardian of Shanghai. I was rushed out to the Pacific front as a flagship of the fifth fleet. Carrier-based planes? Ah, I'm a bit bad with those.
+64
+Ashigara
+I'm Ashigara. My specialty is surface combat. Nice to meet you.
+I am the Ashigara that participated in the English fleet review, you know. I was acknowledged as the 'Hungry Wolf'. But of course! With this fearless body! Eh? That's got nothing to do with my sex appeal? And wasn't even a praise? There's... no way that's right!
+65
+Haguro
+I'm Haguro. I'm the youngest of the Myoukou-class heavy cruiser sisters. U-um... I'm sorry!
+I was born in Nagasaki. I participated in many battles, in the Battle of the Java Sea, the Battle of the Coral Sea, the Battle of Midway, the Battle of the Eastern Solomons, and the Battle of the Philippine Sea. Um... I try my best!
+66
+Takao
+Good morning. I'm Takao. It's great that you look like an excellent Admiral.
+If you're talking about cruisers, no matter how you look at it, it has to be me, Takao! Attached to Vice Admiral Kondo's fourth fleet, I participated in many naval battles. Overcoming these hard-fought conflicts, I concluded with a diligent defence of Singapore.
+67
+Atago
+I'm Atago. Admiral, please remember that, okay?
+Second of the Takao-class, Atago. Ufufu! I was born at the Kure Naval Arsenal. Don't I have a well-balanced and heavily armed body? At the decisive Battle of Leyte Gulf, I deployed as the flagship of the Central Force... Well, things happened, you know?
+68
+Maya
+Yo! Name's Maya, nice to meet you.
+Third of the Takao-class heavy cruisers, Maya-sama! Kobe-built. I went hard in the Southern Ops and Solomon battles! Haah? Leyte? Nah, I'm not great with subs.
+69
+Choukai
+I am Choukai. My best regards.
+Fourth of the Takao-class ships, Choukai. Deployed to Malaya, Solomon, Marianas and Leyte Gulf for many operations. My name is now given to a JSDF AEGIS-equipped escort vessel, fourth in its class.
+70
+Mogami
+I'm Mogami. It's alright, I won't collide with anyone this time. Really!
+I'm the heavy cruiser Mogami-class nameship, Mogami. Aren't Three-barreled main guns great? Yeah, yeah, I've got a habit of bumping into the other ships, I wonder why?
+71
+Tone
+I am Tone! With my addition to the fleet, there will be no problems searching out the enemy!
+The last completed heavy cruiser of the Japanese Navy, oldest sister of the Tone-class, Tone. At Pearl Harbor and Midway, as the eye for the fleet, I unceasingly watched the length and breadth of the ocean. I ended out the war protecting the Kure Naval Yards as a floating fortress, fighting until my blades were broken, arrows were depleted.
+72
+Chikuma
+Pleased to meet you. Second of the Tone-class, Chikuma.
+I'm Chikuma. Carrying 4 twin cannons on the foredeck, and with substantial reconnaissance capability, I am the second of the Tone-class heavy cruisers. Together with Tone nee-san, I acted as the important eyes of the Nagumo task force.
+73
+Mogami Kai
+We meet again, Admiral. It's Mogami. How's my flight deck? Does it suit me?
+First of the Mogami-class heavy cruisers. By taking off my stern cannons and replacing them with an aviation deck, the Aviation Cruiser was developed! Equal fire and air power, howzat!
+74
+Shouhou
+I'm the light aircraft carrier, Shouhou. Yes, I'm a little small, but please make a place for me on your fleet!
+First of the Shouhou-class aircraft carriers. Originally, a submarine tender. If it's not the flagship or the main fleet but a small task-force, then by all means use me! If you make use of me, I'll surely get good results!
+75
+Hiyou
+My name is Izumo Ma... No, Hiyou. I'm an aircraft carrier. Pleased to meet you, Admiral!
+I'm Hiyou! Converted from the Northern line passenger liner 'Izumo-maru' into a carrier. But, I was able to operate at the same level as a full aircraft carrier. It's the truth!
+76
+Ryuujou
+Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... launchin' carrier planes one after another is right proper for a carrier, ya know! You can count on me!
+I might be a light aircraft carrier, but I'm a carrier with a distinguished record, ya know? Ah, that Fourth Fleet incident thing, off Iwate? That one was right tough. The waves went and collapsed my bridge... Dang, I just couldn't believe☆ it.
+77
+Ise
+Super-dreadnought, first of the Ise-class, Ise. Setting off!
+Based on the Fusou-class battleships, the strong firepower super-dreadnought. Battleship, Ise. By taking off a few of the main cannons, I can be upgraded to the famous Aviation Battleship mode! I'm looking forward to it!
+78
+Kongou
+It's the English-born returnee, Kongou, desu! Nice to meet you!
+The super-dreadnought fitted with Western technology at Vickers in England, Kongou, desu! Here in the Pacific Theatre, I'll use the power of my speed to be of great use, desu! Look forward to it!
+79
+Haruna
+Fast battleship, Haruna, reporting for duty. You're the admiral, correct? I'm looking forward to working with you!
+I'm the fast battleship, Haruna. I was equipped with a set of four domestically-made 36 cm cannons. I stayed bravely watching the sky over Etajima village's Kure naval base 'til the very end. Please remember Haruna who, of all four fast battleship sisters, was able to fight 'til the bitter end, okay?.
+80
+Nagato
+I am the battleship Nagato. I'll be counting on you. Leave the enemy battleships to me.
+The first battleship born under the Eight-Eight Fleet Program and nameship of the Nagato-class battleships, Nagato here. Until the Yamato-class was commissioned, I served as the flagship of the Combined Fleet. I was known around the world as one of the "Big Seven".
+81
+Mutsu
+Battleship Nagato class's second ship, Mutsu. Pleased to meet you. Don't play with fire too much, okay? Please...
+Battleship Nagato class's second ship and from there (referring to her name), Mutsu. Of course, I'm part of the world's Big 7. Ehh? The gunpowder explosion accident? Well, can't cover it up anymore right? This time will be fine!
+82
+Ise Kai
+I'm the aviation battleship 'Ise'! With a rear-facing flight deck and 2 catapults, I can make use of the power of aviation!
+To obtain the power of marine aviation, a main cannon was removed, and in it's place a flight deck was installed, granting the aviation power of a light aircraft carrier. Aviation battleship, Ise. My name was taken up by the newly-developed DDH of the Marine Self Defence Force.
+83
+Akagi
+I'm the aircraft carrier, Akagi. If you're forming a carrier task force, just leave it to me.
+I'm the aircraft carrier, Akagi. As a mainstay of the Carrier Task Force, I support its forward advances. A combination of diligent training and many proud air wings has earned us a reputation as an "invincible fleet". Overconfident, you say...? Hmm... you may be right... I'll keep it in mind.
+84
+Kaga
+I'm Kaga, an aircraft carrier. Are you my admiral...? I will place my trust in your abilities.
+I, Kaga, was built as the third ship of the Eight-Eight Fleet. Eventually, in a twist of fate, I was completed as a large aircraft carrier. Along with Akagi-san, we are the main force of the glorious First Carrier Division, with myself as flagship.
+85
+Kirishima
+Is the microphone's volume good? Check, 1,2... Okay. NIce to meet you, I'm Kirishima.
+Kirishima here. I won't lose to my sister ship Haruna's brains! As a domestically-produced fast battleship, I'll work hard! One of the Aegis ships of the modern JMSDF succeeds my name.
+86
+Hiei
+I'm Hiei, Kongou Onee-sama's sister. I'm looking forward to gaining experience and getting closer to my sister's brilliance.
+The battlecruiser that Admiral Inoue loved, it's Hiei. Even though I'm a shiny Imperial ship, I'll work my hardest. I was even the test-ship for the Yamato class, didn't you know? Eh? The Battle of Guadalcanal? Yes, I fought hard.
+87
+Hyuuga
+You're the admiral? I see. Anyway, second ship of the Ise class— Hyuuga. Remember me, if you would.
+Second of the Ise-class battleships, Hyuuga. Ah yes, I became an aviation battleship together with Ise you know. That's originally because an accident happened on my fifth turret. I'm fighting till I am sunk at Kure.
+88
+Hyuuga Kai
+Ise-class Aviation Battleship, Hyuuga... Pushing forward.
+I'm Hyuuga. I got the ability of carrying aircrafts, and now I am an aviation battleship. I fought bravely in Battle of Leyte Gulf. An operation of transporting tactical goods "Operation Hoku-Go", it is one with a lot of memories for me. Ah yes, JMSDF's DDH "Hyuuga" succeeds to my name.
+89
+Houshou
+Aircraft carrier, Houshou here. Although I'm inexperienced, I look forward to your guidance.
+I am the aircraft carrier known as Houshou. I was designed as a carrier from the beginning and I am the world's first aircraft carrier. I may be petite for a ship, but I'll do my best.
+90
+Souryuu
+I'm the aircraft carrier, Souryuu. If you're making a carrier mobile fleet, you can count me in.
+I'm the aircraft carrier, Souryuu. Starting from the attack on Pearl Harbor, the crucial battle that opened the war, I participated as an important frontline carrier. Eh? What? Midway? What's that? Is it tasty?
+91
+Hiryuu
+Aircraft carrier Hiryuu here. Leave the carrier battles to me. I can fight on against any and all adversity.
+Hiryuu-class aircraft carrier, Hiryuu here. Hm? Aren't I an improved version of the Souryuu-class, you asked? Don't sweat the small stuff! More importantly, scouting is crucial. In carrier warfare, the first to strike wins! Don't be blinded by pride! Carefully but boldly fight on through!
+92
+Junyou
+Ex-merchant ship aircraft carrier, Junyo~! Woohoo!
+Wartime remodeling based on the Luxury liner, Kashiwara Maru. The renovated appearance is the aircraft carrier, Jun'you. I fought properly, and survived until the end. Ain't I surprisingly capable ?
+93
+Oboro
+I'm the Ayanami-class destroyer Oboro. I won't lose to anyone. Probably.
+Seventh ship of the Ayanami-class, Oboro. Laid down in the Sasebo Naval Arsenal. I participated in the Southern operations. Hot places are better, aren't they? Kiss...? No, not that, the cold Kiska Island... I don't want to get close to that... I hope.
+94
+Sazanami
+Ayanami-class Destroyer 'Sazanami', Master. You write it like this, but read it as 'Sazanami'
+Special-type destroyer number 19, ninth of the Ayanami-class, Sazanami. It's hard to read? Only you don't know that character, you know. I was with the Nagumo Task Force when Pearl Harbour was burbling, and headed off to bombard Midway. Wasn't that unexpectedly cool?
+95
+Asashio
+Destroyer Asashio here. I'm always prepared in case of a battle.
+Asashio-class destroyer nameship, Asashio. We were designed as a balanced mass production type of destroyer for supporting the front lines. My remodeled form served as the basis for the Kagerou-class, you know.
+96
+Ooshio
+Destroyer Ooshio reporting in! A small body with large torpedoes! Leave it to me.
+Second of the Asashio-class destroyers, Ooshio! After being sent to the frontlines, I mobilized to Guadalcanal for evacuation missions three times. I'll support you!
+97
+Michishio
+Michishio here. Why did I get assigned to such a fleet?
+I'm a destroyer, Michishio. I and my sisters Asashio, Ooshio, and Arashio were somehow assigned to the eighth destroyer squadron. But, we were separated in the end. Finally I broke into Leyte, as a member of Nishimura fleet.
+98
+Arashio
+Oh, I haven't introduced myself yet, have I? My name is Arashio.
+I'm the Kobe girl destroyer. Yes, I'm Arashio. My sisters and I worked hard in a lot of places. The only thing is, I really do dislike having my smokestack destroyed by bombers.
+99
+Kuma
+Kumaa. Nice to meet you, kuma.
+First ship of the Kuma-class light cruisers, Kuma kuma. Born in Sasebo kuma. I got some old parts, but I'll try my best, kumaa.
+100
+Tama
+Light cruiser, Tama. I'm not a cat, nya.
+Second of the Kuma-class light cruisers, Tama nya. I did my duty as a torpedo squadron flagship, nya! Nya? Tama's my name, but I'm not a cat!
+101
+Kiso
+It's Kiso. I'll bestow upon you absolute victory.
+5500 ton Kuma-class light cruiser, Kiso. My regards. Runways and catapults... forget it. Don't need 'em. Battle is all about bringing it up close and personal. Right?!
+102
+Chitose
+I'm Chitose. I'm the the first Japanese seaplane tender. Nice to meet you!
+I'm the Seaplane Tender, Chitose. Although I'm an exceptional ship capable of making use of seaplanes a lot, I was used as an oiler and supplied fuel to other ships. In the latter stages of the war, I was remodeled into an aircraft carrier and fought in the frontline.
+103
+Chiyoda
+Seaplane tender Chiyoda. My older sister Chitose isn't bothering you, is she?
+Laid down as a Seaplane Tender, second of the Chitose class, Chiyoda. I was able to make use of midget subs, you know. I'll do my best alongside Chitose-onee!
+104
+Chitose Kai
+I'm Chitose. I'm the the first Japanese seaplane tender. Nice to meet you!
+I'm the Seaplane Tender, Chitose. Although I'm an exceptional ship capable of making use of seaplanes a lot, I was used as an oiler and supplied fuel to other ships. In the latter stages of the war, I was remodeled into an aircraft carrier and fought in the frontline.
+105
+Chiyoda Kai
+Seaplane tender Chiyoda. My older sister Chitose isn't bothering you, is she?
+Laid down as a Seaplane Tender, second of the Chitose class, Chiyoda. I was able to make use of midget subs, you know. I'll do my best alongside Chitose-onee!
+106
+Chitose A
+I'm Chitose. I'm the the first Japanese seaplane tender. Nice to meet you!
+I'm the Seaplane Tender, Chitose. Although I'm an exceptional ship capable of making use of seaplanes a lot, I was used as an oiler and supplied fuel to other ships. In the latter stages of the war, I was remodeled into an aircraft carrier and fought in the frontline.
+107
+Chiyoda A
+Seaplane tender Chiyoda. My older sister Chitose isn't bothering you, is she?
+Laid down as a Seaplane Tender, second of the Chitose class, Chiyoda. I was able to make use of midget subs, you know. I'll do my best alongside Chitose-onee!
+108
+Chitose-Kou
+I'm the girl who took a diet and became an aircraft carrier, Chitose. I even got faster. Maybe I should write a book about it.
+Renovated from a seaplane carrier to a carrier, I'm Chitose. Slimming down my body by dieting. My legs even became faster. This will let me play a part in the Task Force! I'll do my best for you!
+109
+Chiyoda-Kou
+The girl that became an aircraft carrier, Chiyoda. Of course, I'll be assigned to Chitose-onee's fleet, yes?
+Heavily remodeled from a seaplane tender, I'm the job-changed aircraft carrier Chiyoda. I'm quite the carrier, no? I'll fight the enemy air force together with Chitose-onee!
+110
+Shoukaku
+I'm Shoukaku, the first of the Shoukaku-class carriers. I will try my best with Zuikaku to try and live up to the names of my seniors in the first and second aviation divisions.
+I'm Shoukaku, the first ship in the Shoukaku carrier series. I was designed and built as the first purpose-built large regular carrier to serve after the Washington Treaty was renounced. With my sister Zuikaku, we make the fifth carrier division. Following the tragedy, we followed in the footsteps of our seniors and continued to support the front lines.
+111
+Zuikaku
+Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it— I just fight with all my might... you see? As long as I still have planes, I won't lose!
+Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Mobile Fleet along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Mobile Fleet was completely annihilated...
+112
+Zuikaku Kai
+Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it— I just fight with all my might... you see? As long as I still have planes, I won't lose!
+Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Mobile Fleet along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Mobile Fleet was completely annihilated...
+113
+Kinu
+Yeah yeah yeah! Finally, Kinu has arrived!
+Born in Kobe, I'm Kinu! I trained well at the Maizuru School. After lots of dangerous things happened, I did my best in the Southwest... Well, that was bad too. Kuma-chan was suprisingly helpful too. But... Panay Island was seriously panai!
+114
+Abukuma
+H-hello, I'm Abukuma, a light cruiser.
+I'm Abukuma of Nagara-class light cruisers. Yes... to be honest, I don't like Kitakami. What's with her... but, I endured and fixed my beautiful bow! Ushio too, thanks.
+115
+Yuubari
+Oka~y, thanks for waiting! The experimental armament cruiser 'Yuubari' has arrived!
+A compact body enriched with heavy arms, the experimental light cruiser, Yuubari. The data that I left behind, those various newly-developed naval heavy weapons were certainly the cause! A shot in the engine room? What are you talking about? Really... how rude you are.
+116
+Zuihou
+I'm Zuihou. I'm a light carrier, but with proper experience, I'll be able to show you that I perform as good as an aircraft carrier.
+I'm the Shouhou-class light aircraft carrier, Zuihou. Originally planned as a high-speed refueling ship, then a submarine tender, but finally completed as a light aircraft carrier. Though my body is small, I fought bravely to the last day!
+117
+Zuihou Kai
+I'm Zuihou. How do my remodeled clothes look? I'll still do my best!
+I'm the Shouhou-class light aircraft carrier, Zuihou. Originally planned as a high-speed refueling ship, then a submarine tender, but finally completed as a light aircraft carrier. Though my body is small, I fought bravely to the last day!
+118
+Ooi Kai Ni
+I'm torpedo cruiser Ooi. By the way, I wonder where Kitakami-san is.
+It's Ooi, torpedo cruiser edition. My torpedo powers were counted in, but I didn't have much of the limelight. I'll show you what I'm made of this time. Keep your eyes open!
+119
+Kitakami Kai Ni
+A brand new Kitakami... that's me, all right. I feel a lot more grown up, loaded to the brim with oxygen torpedoes.
+It's Super Kitakami-sama, equipped with type-93 oxygenated torpedos, with 20 firing tubes on each side. It's been said that I have overpowering strength, but I did not really get any chances to shine. Bah.
+120
+Mikuma
+Greetings, I'm Mikuma. I wonder where Mogami could be hiding?
+I get along very well with Mogamin, the first ship in the Mogami class, but we get along too well sometimes and collide often... Yeah... literally... I do watch where I'm going, okay?
+121
+Mikuma Kai
+Admiral, I've attained a new form!
+I get along very well with Mogamin, the first ship in the Mogami class, but we get along too well sometimes and collide often... Yeah... literally... I do watch where I'm going, okay?
+122
+Maikaze
+Hello~! Kagerou-class destroyer, Maikaze! I'm not good in gloomy atmospheres!
+Kagerou-class destroyer Maikaze! From Midway to the Southern Operations, I continued to dance across the battlefield. I'm good friends with Nowaki, a fellow Kagerou-class. When Truk Island was attacked, I almost made it.
+123
+Kinugasa
+Ye~s, It's Miss Kinugasa's debut! Together with Aoba, take good care of me!
+First to have a catapult equipped, Miss Kinugasa! Great to meet you. I performed magnificently in the capture of Wake Island and the Battle of the Coral Sea, and even the Solomon's Ironbottom Sound! But... planes, you know? I'm not really a fan...
+124
+Suzuya
+I'm Suzuya! What a lively fleet this is. I'll be in your care!
+I'm Mogami-class heavy cruiser number three. I was born at the Yokosuka Naval Arsenal. Hmhm♪ See, cruiser names come from rivers, so "Suzuya" comes from the Suzuya river in Sakhalin. Did ya know that?
+125
+Kumano
+Good day to you. I am the heavy cruiser Kumano.
+The stylish Kobe-born heavy cruiser, why, it can only be myself, Kumano. At the famous Malaya, Midway, Solomon and Marianas hard-fought battles, I, of course, participated. I did want to return to Japan at the end however...
+126
+I-168
+I'm I-168. What? It's hard to say? OK, just call me Imuya. Nice to meet you!
+I am a submarine born and raised in Kure. After that battle of Midway, I managed to land the final blow to Yorktown who defeated Hiryuu! Our carriers were avenged! I also worked hard running transport missions to that terrible island.
+127
+I-58
+Hello! I-58 here! You can call me Goya. I'm not bitter!
+I have fought hard from the beginning to the end. Even when the war had became harsh, I managed to take down that heavy cruiser! After fulfilling my mission and everything was all over, I managed to make it back safely to Kure, my home port.
+128
+I-8
+Guten Tag ... ah, my mistake... sorry, please call me "hachi".
+I made it to Germany as the second submarine sent on the transoceanic voyage. Then, I received a U-boat. This operation was carried out 5 times, but because of mines and other events, I was the only one who was able to successfully complete the return trip... yeah, I really hate mines!
+129
+Suzuya Kai
+I'm Suzuya! What a lively fleet this is. I'll be in your care!
+I'm Mogami-class heavy cruiser number three. I was born at the Yokosuka Naval Arsenal. Hmhm♪ See, cruiser names come from rivers, so "Suzuya" comes from the Suzuya river in Sakhalin. Did ya know that?
+130
+Kumano Kai
+Good day to you. I am the heavy cruiser Kumano.
+The stylish Kobe-born heavy cruiser, why, it can only be myself, Kumano. At the famous Malaya, Midway, Solomon and Marianas hard-fought battles, I, of course, participated. I did want to return to Japan at the end however...
+131
+Yamato
+First of the Yamato-class battleships, Yamato. Heading forth!
+First of the Yamato-class battleships, Yamato.  As the trump card for the Decisive Battle, I was made in utmost secrecy at the Kure Naval Yard.  With the most up-to-date and sophisticated technology concentrated in my body, along with the second ship, Musashi, I will do my best as the centre of the combined fleet!
+132
+Akigumo
+Akigumo, reporting for duty~ Look after me Admiral~
+Yokosuka born and raised, I'm Akigumo! I'm in the the Kagerou-class, but my (overwhelming) cruising range caught the eye of Adm. Nagumo and so I joined the 1st CarDiv. I mean, I always thought I was a Yuugumo-class... (even our uniforms are the same)... *grumble, mutter*... ah, whatever. After that, I was assigned to guard the 5th CarDiv. I didn't get to finish drawing Shoukaku and Zuikaku, though...
+133
+Yuugumo
+First ship of the Yuugumo-class, Yuugumo, has arrived. Admiral, it's okay to spoil me a bit.
+First ship of the final mass-production destroyers. Laid down in Maizuru. My first battle was the ignominious defeat at Midway. It's okay, I don't mind. In the Tokyo Express to that island, Operation Ke, the Battle of the Santa Cruz Islands and the evacuation of Kiska, I fought bravely, no? *sigh*
+134
+Makigumo
+Yuugumo-class destroyer, I am Makigumo. Following Yuugumo-neesan's example, I'll do my best!
+I'm Makigumo, second ship of the Yuugumo-class Destroyers. While cleaning up after the Hornet, 'situation permitting, tow and capture it'... they said, but that was pretty much impossible... and now Akigumo's pointing and laughing at me. Seriously, what the heck?
+135
+Naganami
+I'm Naganami, the fourth ship of the Yuugumo-class destroyers. And off we go. Yeah!
+I'm Naganami, the fourth ship of the Yuugumo-class destroyers, built and launched during wartime under the maru-4 project. I rampaged all over as a member of the proud Second Torpedo Squadron. At Guadalcanal, we gave an enemy ambush a beat down under the famous command of Rear Admiral Raizo Tanaka.
+136
+Yamato Kai
+First of the Yamato-class battleships, Yamato. Now with much upgraded anti-air weaponry.
+First of the Yamato-class battleships, Yamato.  The armada's trump card, I was made in utmost secrecy at the Kure Naval Yard. With the most up-to-date and sophisticated technology concentrated in my body, along with the second ship, Musashi, I will do my best as the centre of the combined fleet!
+137
+Agano
+Hello~! I'm the latest light cruiser Agano~. *giggle*
+Designed and built as the next-generation of Torpedo squad flagships, Agano-class light cruiser, the eldest, is me, Agano! I've got the the high-end technology! Have a look, this refined body... This time, I'll certainly show off my special features!
+138
+Noshiro
+Second light cruiser of the Agano-class, Noshiro, has arrived. Glad to meet you!
+Second of the newly-developed Agano-class Light Cruisers, Noshiro. The lone aircraft rail is my charmpoint. Even in Leyte Gulf, I did my best as a main member of Kurita's task force!
+139
+Yahagi
+Light Cruiser Yahagi, reporting for duty. Let's work at it together to the end, Admiral!
+Yahagi, the third ship of the Agano-class light cruisers. I've participated in most of the major sea battles during the latter part of the war, including the Mariana Straits, Leyte Gulf, and Bonomisaki. That's right, I fought it out to the very end. I wonder what happened to Yamato, after my memories trailed off. Oh well... This time, I'm going to protect everything!
+140
+Sakawa
+Pyan♪ The fourth Agano class Light Cruiser, Sakawa! Commander, nice to meet you!
+I'm Sakawa, the fourth ship and the youngest of the Agano-class light cruiser sisters. I was born too late, so I couldn't go outside much. I wanted to go together with Yahagi-chan... but I ended up guarding Maizuru.
+141
+Isuzu Kai Ni
+It's Isuzu, remodelled. Leave anti-submarine and anti-air roles to me!
+Isuzu was built in the Taisho period (1912-1926) as the second of the Nagara Class light cruisers. As you might expect my speed is top-rate; the admirals that commanded me in history include Admiral Yamamoto Isoroku, Admiral Yamaguchi Tamon, and many other pillars of the Navy. Amazing, huh?
+142
+Kinugasa Kai Ni
+Ye~s, It's Miss Kinugasa's debut! Together with Aoba, take good care of me!
+First to have a catapult equipped, Miss Kinugasa! Great to meet you. I performed magnificently in the capture of Wake Island and the Battle of the Coral Sea, and even the Solomon's Ironbottom Sound! But... planes, you know? I'm not really a fan...
+143
+Musashi
+Hmpf, it seems that I've kept you waiting ... Second of the Yamato-class battleships, Musashi, has arrived!
+Second of the Yamato-class battleships, Musashi. Laid down in Nagasaki. My best regards to you. As with my sister ships Yamato and Shinano, I was constructed under strict secrecy. Ah, I really want to be able to shoot these main cannons... I ask of you, may I? Excellent!
+144
+Yuudachi Kai Ni
+Hi. I'm the Shiratsuyu-class destroyer, Yuudachi. See you around!
+Fourth ship of the Shiratsuyu class, Yuudachi here. During the Third Battle of the Solomons, I stood up to them really poi, didn't I? But why does "Ironbottom Sound" give me the chills?
+145
+Shigure Kai Ni
+I'm Shigure, of the Shiratsuyu-class destroyers. Nice to meet you.
+I'm the second ship of the Shiratsuyu-class destroyers, Shigure. I participated in the Battle of Leyte Gulf under the Nishimura Fleet, in the fateful rush through Surigao Strait. Fusou and Yamashiro were amazing... Even if everyone forgets, I'll always remember them...
+146
+Kiso Kai Ni
+You're still worried? It's fine. Leave it to me.
+It's Kiso. I'll bestow upon you absolute victory.
+5500 ton Kuma-class light cruiser, Kiso. My regards. Runways and catapults... forget it. Don't need 'em. Battle is all about bringing it up close and personal. Right?!
+147
+Verniy
+I'm Hibi- Verniy. It's a name that means "reliable".
+The sole surviving ship from a class of special-type destroyers, Hibiki. After many battles, I was being serviced, and could not accompany the suicidal Yamato Surface Special Attack Force. I was handed over to the Soviet Union as a war reparation, and given a name that means "reliable".
+148
+Musashi Kai
+The second ship of the Yamato-class battleships, Musashi... Barging in! What do you think of this color? Does this look suit me as well?
+Second of the Yamato-class battleships, Musashi. Laid down in Nagasaki. My best regards to you. As with my sister ships Yamato and Shinano, I was constructed under strict secrecy. Ah, I really want to be able to shoot these main cannons... I ask of you, may I? Excellent!
+149
+Kongou Kai Ni
+It's the English-born returnee, Kongou, desu! Nice to meet you!
+The super-dreadnought fitted with Western technology at Vickers in England, Kongou, desu! Here in the Pacific Theatre, I'll use the power of my speed to be of great use, desu! Look forward to it!
+150
+Hiei Kai Ni
+I'm Hiei, Kongou Onee-sama's sister. I'm looking forward to gaining experience and getting closer to my sister's brilliance.
+The battlecruiser that Admiral Inoue loved, it's Hiei. Even though I'm a shiny Imperial ship, I'll work my hardest. I was even the test-ship for the Yamato class, didn't you know? Eh? The Battle of Guadalcanal? Yes, I fought hard.
+151
+Haruna Kai Ni
+Fast battleship, Haruna, reporting for duty. You're the admiral, correct? I'm looking forward to working with you!
+I'm the fast battleship, Haruna. I was equipped with a set of four domestically-made 36 cm cannons. I stayed bravely watching the sky over Etajima village's Kure naval base 'til the very end. Please remember Haruna who, of all four fast battleship sisters, was able to fight 'til the bitter end, okay?.
+152
+Kirishima Kai Ni
+Is the microphone's volume good? Check, 1,2... Okay. NIce to meet you, I'm Kirishima.
+Kirishima here. I won't lose to my sister ship Haruna's brains! As a domestically-produced fast battleship, I'll work hard! One of the Aegis ships of the modern JMSDF succeeds my name.
+153
+Taihou
+Yes... I am Taihou. Thank you for your reception. Admiral... I shall bring victory to you and your task force!
+I'm the Armoured Carrier, Taihou. I'm the newest and most advanced standard carrier that is armed with a flight deck. Aren't these enclosed hangars great? Hmm? You say that gas builds up easily? How rude. I-it'll be fine this time!
+154
+Katori
+I'm Katori, a Training Cruiser. Don't you worry... I'll be gentle in teaching you various things.
+First of the Katori-class training cruisers, Katori. Right, leave the ocean navigation training to me. I believe I'll be a great help in furthering what the fleet attains out of it's drills, for sure. Eh, my firepower in comparison to a battleship... is it? I wonder, tactics-wise, how it is.
+155
+I-401
+Good day, Admiral. I'm I-401, the second ship in the special submarine series. Just call me Shioi.
+I'm I-401, the second ship in the I-400 submarine series. I'm a submarine carrier capable of making a round trip around the world, and carries 3 units of the special attack plane "Seiran". Yes, it's a secret strategic weapon... it's a secret, okay?
+156
+Taihou Kai
+Good morning! It's the remodelled Taihou! Reinforced deck armour! Even higher defence! An increase in open-air planes to boost capacity just for you, Admiral!
+I am aircraft carrier Taihou. State of the art carrier with reinforced armour all round, including the flight deck. My enclosed hangers and Hurricane Bow look good don't they? My armoured flight deck has also been redecorated. How does it look? Do you think it suits me?
+157
+Ryuujou Kai Ni
+Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... launchin' carrier planes one after another is right proper for a carrier, ya know! You can count on me!
+I might be a light aircraft carrier, but I'm a carrier with a distinguished record, ya know? Ah, that Fourth Fleet incident thing, off Iwate? That one was right tough. The waves went and collapsed my bridge... Dang, I just couldn't believe☆ it.
+158
+Sendai Kai Ni
+Sendai has arrived. Please leave the night battle to me.
+I am the culmination of the 5500-ton light cruisers, the Sendai-class. I'll fully teach you the appeal of a mature light cruiser. Of course, it'll be with a night battle!
+159
+Jintsuu Kai Ni
+Um... I'm light cruiser Jintsuu... how... nice to meet you...
+I'm Jintsuu. I received an upgrade and was assigned as the flagship of the Second Torpedo Squadron. I fought bravely as the vanguard in the Battle of Kolombangara Island. But... everybody... focused their fire on me... how cruel...
+160
+Naka Kai Ni
+Naka-chan here! I've become more wonderful! Kyaha♪
+Selected as the Centre of DesRon 4, it's Naka-chan! Doing lots of work, from guarding transports to doing the Tokyo Express from Truk... Eh? Was it a Provincial tour, you ask? That is SO not what I was doing!
+161
+Akitsumaru
+I'm Akitsu Maru, sir. It is an honour to be part of this fleet, sir.
+I am the class-3 of Army's special transport 'Akitsu Maru', sir. Please leave transportation and landing combat to me, sir. My pride is this Daihatsu, sir. I'm different from the mouse and mole, sir.
+162
+なし
+163
+Maruyu
+Nice to meet you... Maruyu, reporting for duty. Huh? You haven’t heard about it? ...Oh no...!
+Maruyu isn’t from the Navy shipyards, so I don’t have any friends from home. I’m a little different from everyone else... I mean, the first thing Kiso-san said to me was “What are you. Can you actually go underwater?”... I'm starting to wonder if Maruyu can survive out here…
+164
+Yayoi
+Yayoi, reporting for duty... Pleased to meet you. Please don't be too concerned about me...
+Third of the Mutsuki-class destroyers, 'Yayoi'. I was born at Uraga, Yokosuka. Mutsuki, Mochizuki and I did our best as a task force. I dislike dive bombers. Please take good care of me.
+165
+Uzuki
+Yay~! I arrived-pyon! My name is Uzuki, you can call me U-chan!
+Fourth of the Mutsuki-class destroyers, 'Uzuki'-pyon. From convoy escorting to capture operations, I worked re~ally hard! Near the end I was loaded up with lots of machine-guns to down them all! U-chan won't be sunk by bombers!
+166
+Akitsumaru Kai
+I have enhanced myself for air combat potential, sir. I am now a carrier, sir.
+I am Akitsu Maru, of the Army's Hei class, sir. I was the pioneer of the modern amphibious assault vessel, able to operate new weapons such as auto-gyros, sir. We may not do so well in anti-submarine warfare. I most humbly look forward to working with you sir.
+167
+Isokaze
+12th Kagerou-class destroyer, Isokaze. Don't worry, I will protect you.
+12th Kagerou-class destroyer, Isokaze. If it's about combat experience, I won't fall behind that Yukikaze. I've fought again and again, participated in decisive battles, and fought to the bitter end. Yamato, Musashi, Kongou, Taihou... their last moments have been etched into my eyes. This time... I will protect them.
+168
+Urakaze
+It's me, Urakaze, nice to meet 'ya!
+Osaka-born, attached to Kure. I saw action from Pearl Harbor to Guadalcanal. My last moments were escorting Kongou nee-san at the Taiwan Strait. Anyway, there's nothing that can be done anymore...
+169
+Tanikaze
+Admiral, I'm Tanikaze! I'll be in your care from now on.
+Madam Tanikaze here! I was helpin' out Hiryuu during the Battle of Midway, damn enemy planes were dropping bombs on us like rain... Back then, C'mmander Katsumi was amazin' like seriously.
+170
+Hamakaze
+I'm destroyer Hamakaze. Henceforth I shall be assigned to your fleet.
+I am Hamakaze. I participated in many fierce battles. At Leyte, I was a part of Kongou's ring formation. Futhermore, I burned into my memory the final moments of Musashi, Kongou and Shinano. At the fateful Bounomisaki, I, Yukikaze and many others struggled to protect Yamato.
+171
+Bismarck
+Good day. I am Bismarck, the nameship of the Bismarck-class battleships. You should remember it well.
+It is I, the pride of Deutschland, the nameship of the Bismarck super dreadnoughts. Germanic designs are just beautiful and dignified, no? It's alright, you can praise me more. I shall be operating far and wide throughout this ocean. You can expect much from me!
+172
+Bismarck Kai
+Good day. I am Bismarck, the nameship of the Bismarck-class battleships. You should remember it well.
+It is I, the pride of Deutschland, the nameship of the Bismarck super dreadnoughts. Germanic designs are just beautiful and dignified, no? It's alright, you can praise me more. I shall be operating far and wide throughout this ocean. You can expect much from me!
+173
+Bismarck zwei
+Good day. I am Bismarck, the nameship of the Bismarck-class battleships. You should remember it well.
+It is I, the pride of Deutschland, the nameship of the Bismarck super dreadnoughts. Germanic designs are just beautiful and dignified, no? It's alright, you can praise me more. I shall be operating far and wide throughout this ocean. You can expect much from me!
+174
+Z1
+Good morning. I'm Leberecht Maass. Lebe is fine, yep.
+The German-born destroyer, the first genuine large-type. This shifted high temperature, high pressure engine, it could only have been designed in the country of technical skills! I'm not so great at open-sea warfare though... I'll do my best!
+175
+Z3
+Good day. I am the Destroyer Max Schultz. But, Max is fine. Pleased to meet you.
+Zerstörer 1934 program, third ship. I was designed with good survivability, but... these new turbines have a small issue with maintenance. This time... I shall be alright.
+176
+Prinz Eugen
+Guten morgen! I'm the heavy cruiser, Prinz Eugen. Take care!
+Woah! You startled me! Ah... I am the German-born heavy cruiser, Prinz Eugen. Admiral Hipper-class, third ship. Along with Bismarck onee-sama, I took part in Operation Rheinübung. A lucky ship... ...me? I'll be fighting in this sea, too!
+177
+Prinz Eugen Kai
+178
+Bismarck drei
+Good day. I am Bismarck, the nameship of the Bismarck-class battleships. You should remember it well.
+It is I, the pride of Deutschland, the nameship of the Bismarck super dreadnoughts. Germanic designs are just beautiful and dignified, no? It's alright, you can praise me more. I shall be operating far and wide throughout this ocean. You can expect much from me!
+179
+Z1 zwei
+Good morning. I'm Leberecht Maass. Lebe is fine, yep.
+The German-born destroyer, the first genuine large-type. This shifted high temperature, high pressure engine, it could only have been designed in the country of technical skills! I'm not so great at open-sea warfare though... I'll do my best!
+180
+Z3 zwei
+Good day. I am the Destroyer Max Schultz. But, Max is fine. Pleased to meet you.
+Zerstörer 1934 program, third ship. I was designed with good survivability, but... these new turbines have a small issue with maintenance. This time... I shall be alright.
+181
+Amatsukaze
+Is a good breeze on the way? I, the next-generation destroyer prototype, Amatsukaze, shall make my debut.
+Kagerou-class destroyer, ninth ship, Amatsukaze here. I participated as the testbed of a new type of high-temperature, high-pressure boiler intended for the next generation of destroyers. When the data proved reliable, it was passed over to Shimakaze. I was in many tight spots, but I held on and overcame them. It was really tough!
+182
+Akashi
+I'm Repair ship Akashi. If you take a little damage, I can fix you up in the base. Just leave it to me!
+I'm Akashi, the only dedicated repair ship in the combined fleet. I was in charge of repairing ships damaged in the front lines when I was stationed in the Truk Anchorage. I supported the fleet from behind right up until the destruction of the Anchorage. Pleased to meet you.
+183
+Ooyodo
+Admiral, Light Cruiser Ooyodo has joined the battle lines. Please leave the fleet administration & supervision to me.
+Designed as a cutting edge C&C flagship, the newest light cruiser, Ooyodo. There was a problem with the installation of the specified new model recon, & the battle situation changed, so I wasn't really able to undertake my role as the combined fleet flagship. However, I participated in the Northern Operation & the Operation Rei-Go. I, too, will do my best on the front lines.
+184
+Taigei
+Good day, I'm Submarine Tender Taigei. I may be inexperienced, but I am glad to be of service.
+I'm Submarine Tender Taigei. I serve as flagship of submarine fleets in order to support operations through supplies and usage of scout planes. I have also been designed as a carrier backup to be converted if it is needed. I'll do my best!
+185
+Ryuuhou
+Carrier Ryuuhou, remodeled from a Submarine Tender. I'll once again try my best as a carrier!
+Carrier Ryuuhou, remodeled from a Submarine Tender. My speed was not up to plan specifications as there were issues with changing the boilers, but I have an enhanced flight deck and armaments as this Light Carrier class. Carrier Ryuuhou, giving it her all!
+186
+Tokitsukaze
+Kagerou-class Destroyer tenth ship. Tokitsukaze... has arrived!
+Tenth Kagerou-class Destroyer, Tokitsukaze. I worked hard in the 16th Destroyer Division with my friends Yukikaze, Hatsukaze, and Amatsukaze. I was also in the Second Torpedo Squadron you know, really, really. But...an uncontrolled sea seems...kinda unpleasant.
+187
+Akashi Kai
+Repair Ship Akashi, at your service! Leave the emergency maintenance at the base to me! I'll support the girls in the front lines!
+I'm Akashi, the only dedicated repair ship in the combined fleet. I was in charge of repairing ships damaged in the front lines when I was stationed in the Truk Anchorage. I supported the fleet from behind right up until the destruction of the Anchorage. Pleased to meet you.
+188
+Tone Kai Ni
+I am Tone! With my addition to the fleet, there will be no problems searching out the enemy!
+The last completed heavy cruiser of the Japanese Navy, oldest sister of the Tone-class, Tone. At Pearl Harbor and Midway, as the eye for the fleet, I unceasingly watched the length and breadth of the ocean. I ended out the war protecting the Kure Naval Yards as a floating fortress, fighting until my blades were broken, arrows were depleted.
+189
+Chikuma Kai Ni
+Second ship of the Tone-class, aviation-cruiser Chikuma. I'll do my best with nee-san.
+I'm Chikuma. Carrying 4 twin cannons on the foredeck, and with substantial reconnaissance capability, I am the second of the Tone-class heavy cruisers. Together with Tone nee-san, I acted as the important eyes of the Nagumo task force.
+190
+Hatsukaze
+I'm Hatsukaze, nice to meet you. Admiral, how many of me did you have before me, I wonder?
+Kagerou-class destroyer, Hatsukaze. Myoukou-neesan and I crashed into each other off Bougainville, and my bow got torn off... Crippled and unable to move, I was the target of concentrated fire and then... I'm scared....I'm so scared, Myoukou-neesan...
+191
+I-19
+Such a great admiral makes me happy. I'm I-19. Yep, calling me 'Iku' is fine!
+I'm the submarine I-19. Yes, Iku! I sunk the carrier Wasp with my pride and joy, my oxygen torpedoes! I was even able to hit a battleship and destroyer that was waaaay ahead of the carrier! Don't you forget Iku, Sniper of the Ocean's great abilities... 'kay?
+192
+Nachi Kai Ni
+You're.. still on combat duty? Alright, this Nachi will again, go on the battlefields with you!
+Born at the Kure Naval Yards. I am the second of the Myoukou Heavy Cruisers, who was the guardian of Shanghai. I was rushed out to the Pacific front as a flagship of the fifth fleet. Carrier-based planes? Ah, I'm a bit bad with those.
+193
+Ashigara Kai Ni
+I'm heavy cruiser, Ashigara. If it's surface combat, leave it to me! Let's achieve victory together!
+I am the Ashigara that participated in the English fleet review, you know. I was acknowledged as the 'Hungry Wolf'. But of course! With this fearless body! Eh? That's got nothing to do with my sex appeal? And wasn't even a praise? There's... no way that's right!
+194
+Haguro Kai Ni
+Fourth ship of the Myoukou-class heavy cruisers, Haguro. Together with everyone, I will support the front lines!
+I was born in Nagasaki. I participated in many battles, in the Battle of the Java Sea, the Battle of the Coral Sea, the Battle of Midway, the Battle of the Eastern Solomons, and the Battle of the Philippine Sea. Um... I try my best!
+195
+Ayanami Kai Ni
+Nice to meet you. I'm Ayanami, a special class destroyer.
+Special class destroyer, Ayanami. I'm the first ship of the improved Fubuki class. In the Third Battle of the Solomon Sea, I showed an outstanding performance as a destroyer. I'll do my best!
+196
+Hiryuu Kai Ni
+Aircraft carrier Hiryuu here. Leave the carrier battles to me. I'll show you I can counter any and all adversity!
+Aircraft carrier Hiryuu here. Leave the carrier battles to me. I can fight on against any and all adversity.
+Hiryuu-class aircraft carrier, Hiryuu here. Hm? Aren't I an improved version of the Souryuu-class, you asked? Don't sweat the small stuff! More importantly, scouting is crucial. In carrier warfare, the first to strike wins! Don't be blinded by pride! Carefully but boldly fight on through!
+197
+Souryuu Kai Ni
+I'm the aircraft carrier, Souryuu. If you're making a carrier mobile fleet, you can count me in.
+I'm the aircraft carrier, Souryuu. Starting from the attack on Pearl Harbor, the crucial battle that opened the war, I participated as an important frontline carrier. Eh? What? Midway? What's that? Is it tasty?
+200
+Abukuma Kai Ni
+My turn to shine? That's gotta be it! Abukuma, sortieing!
+I'm Abukuma of Nagara-class light cruisers. Yes... to be honest, I don't like Kitakami. What's with her... but, I endured and fixed my beautiful bow! Ushio too, thanks.
+201
+Fubuki Kai
+Fubuki here! Thanks for having me today!
+Nice to meet you! I'm Fubuki! Thanks for having me!
+The first of the Special Type destroyers designed under the Washington Naval Treaty, shocking the world with our capabilities relative to other ship classifications at the time, Fubuki here! Based on our design, many successive fleet-type destroyers were built. Aye! I'll do my best!
+202
+Shirayuki Kai
+I'm Shirayuki. I'll be in your care today as well.
+Special-type destroyer, second ship, Shirayuki. At the start of the war, I participated in many operations. After that, I was the flagship of the escort in Operation 81 that transported troop reinforcements.
+203
+Hatsuyuki Kai
+I'm... Hatsuyuki. What? I'll do... starting tomorrow.
+Special-type destroyer... third ship... Hatsuyuki. At the start of the war... I participated a lot. Transport duties... yes... I'll work hard...
+204
+Miyuki Kai
+It's the great Miyuki! Nice to meet you again, Commander!
+Fourth of the special-type destroyers, Miyuki-sama! During practice, I hit another destroyer and made a bit of scene. Eh, but I gotta do what I gotta do. Watch and see!
+205
+Murakumo Kai
+So you're the commander, huh? Well, I expect you to work very hard.
+Fifth ship of the Special Type destroyers, Murakumo here. Huh? Never heard of me? You can't be serious. Don't even know a famous ship like me, who rescued Furutaka's crew, took part in the Southern Operations, and many other operations? Just how inept are you?!
+206
+Isonami Kai
+U-um... my name is Isonami. Pleased to meet you.
+Ninth ship of the special-type destroyers, Isonami. Though I participated in many different battles, after getting damaged, I ended up in the marine guard and rear patrol. I'll do my best!
+207
+Ayanami Kai
+Nice to meet you. I'm Ayanami, a special class destroyer.
+Special class destroyer, Ayanami. I'm the first ship of the improved Fubuki class. In the Third Battle of the Solomon Sea, I showed an outstanding performance as a destroyer. I'll do my best!
+208
+Shikinami Kai
+I'm Shikinami. I'll be in your care.
+Special Destroyer number II, Shikinami. Nice to meet you. After participating in Midway and the Battle of Solomon, I serve as a convoy escort. Being a convoy escort is really rough you know... Because it's important...
+209
+Kongou Kai
+It's the English-born returnee, Kongou, desu! Nice to meet you!
+The super-dreadnought fitted with Western technology at Vickers in England, Kongou, desu! Here in the Pacific Theatre, I'll use the power of my speed to be of great use, desu! Look forward to it!
+210
+Hiei Kai
+I'm Hiei, Kongou Onee-sama's sister. I'm looking forward to gaining experience and getting closer to my sister's brilliance.
+The battlecruiser that Admiral Inoue loved, it's Hiei. Even though I'm a shiny Imperial ship, I'll work my hardest. I was even the test-ship for the Yamato class, didn't you know? Eh? The Battle of Guadalcanal? Yes, I fought hard.
+211
+Haruna Kai
+Fast battleship, Haruna, reporting for duty. You're the admiral, correct? I'm looking forward to working with you!
+I'm the fast battleship, Haruna. I was equipped with a set of four domestically-made 36 cm cannons. I stayed bravely watching the sky over Etajima village's Kure naval base 'til the very end. Please remember Haruna who, of all four fast battleship sisters, was able to fight 'til the bitter end, okay?.
+212
+Kirishima Kai
+Is the microphone's volume good? Check, 1,2... Okay. NIce to meet you, I'm Kirishima.
+Kirishima here. I won't lose to my sister ship Haruna's brains! As a domestically-produced fast battleship, I'll work hard! One of the Aegis ships of the modern JMSDF succeeds my name.
+213
+Tenryuu Kai
+My name is Tenryuu. Heheh, ya scared?
+First of the Tenryuu-class, Tenryuu. Along with some destroyers, I led raids in a torpedo squadron. My partner of the same class is Tatsuta. That girl... I wonder if she's alright? Well, whatever.
+214
+Tatsuta Kai
+Nice to meet you, I'm Tatsuta~. I hope Tenryuu-chan hasn't been causing you trouble?
+Light cruiser Tatsuta, second of Tenryuu class. I come from Sasebo. I hope Tenryuu-chan hasn't been causing everybody trouble? You really can't take your eyes off that girl, right? Huh? Me? Well, I'm not particularly fond of submarines~
+215
+Kuma Kai
+Kumaa. Nice to meet you, kuma.
+First ship of the Kuma-class light cruisers, Kuma kuma. Born in Sasebo kuma. I got some old parts, but I'll try my best, kumaa.
+216
+Tama Kai
+Light cruiser, Tama. I'm not a cat, nya.
+Second of the Kuma-class light cruisers, Tama nya. I did my duty as a torpedo squadron flagship, nya! Nya? Tama's my name, but I'm not a cat!
+217
+Kiso Kai
+It's Kiso. I'll bestow upon you absolute victory.
+5500 ton Kuma-class light cruiser, Kiso. My regards. Runways and catapults... forget it. Don't need 'em. Battle is all about bringing it up close and personal. Right?!
+218
+Nagara Kai
+Light Cruiser Nagara! Please take good care of me!
+Weighing in as a 5500 ton light cruiser, first ship of the Nagara-class, Nagara! I'm a bit of an old model, but I'm a high-speed torpedo-armed team-leading machine, so I'm just perfect to command destroyers, you know? I even fought hard in the difficult Battle of the Solomons!
+219
+Isuzu Kai
+I'm Isuzu. Leave the torpedo squadrons to me. I'll bring victory to the admiral with all my power. Pleased to meet you.
+Isuzu was built in the Taisho period (1912-1926) as the second of the Nagara Class light cruisers. As you might expect my speed is top-rate; the admirals that commanded me in history include Admiral Yamamoto Isoroku, Admiral Yamaguchi Tamon, and many other pillars of the Navy. Amazing, huh?
+220
+Yura Kai
+Fourth ship of the Nagara-class Light Cruisers, 'Yura'. Pleased to make your acquaintance!
+I'm Yura, the fourth ship of the Nagara-type Light Cruisers. I was the first out of all of us to be equipped with seaplanes. I've served as the flagship of torpedo and submarine squadrons. I'm not so good with Dauntless and B17 planes.
+221
+Natori Kai
+I'm called Natori... I'll do my best not to trouble you!
+Third ship of the Nagara-class, Natori. I'm a bit of an older model, but there is much use for a high-speed light cruiser too... Y-yes, a Destroyer squadron, it'd be best if I was assigned to one, please. I-I'll do my best!
+222
+Sendai Kai
+Sendai has arrived. Please leave the night battle to me.
+I am the culmination of the 5500-ton light cruisers, the Sendai-class. I'll fully teach you the appeal of a mature light cruiser. Of course, it'll be with a night battle!
+223
+Jintsuu Kai
+Um... I'm light cruiser Jintsuu... how... nice to meet you...
+I'm Jintsuu. I received an upgrade and was assigned as the flagship of the Second Torpedo Squadron. I fought bravely as the vanguard in the Battle of Kolombangara Island. But... everybody... focused their fire on me... how cruel...
+224
+Naka Kai
+The fleet's idol, Naka-chan!Nice to meet you!
+Selected as the Centre of DesRon 4, it's Naka-chan! Doing lots of work, from guarding transports to doing the Tokyo Express from Truk... Eh? Was it a Provincial tour, you ask? That is SO not what I was doing!
+225
+Kagerou Kai
+We've finally met! I'm Kagerou. Treat me well!
+Constucted for the Circle-4 programe, Kagerou-class nameship, Kagerou. As the main power of the newly-made ships, staring off with the Hawaii attack force, I was in lots of varied battles! Treat me well!
+226
+Shiranui Kai
+I'm Shiranui. I look forward to your guidance and encouragement.
+Second Kagerou-class destroyer, Shiranui. Along with the other Kageros I served as the escort for the Hawaii Operational Forces. In the fated Battle of Leyte Gulf, I was attached to Shima's fleet and rushed to the Surigao Strait.
+227
+Kuroshio Kai
+I'm Kuroshio, nice to meet 'cha!
+Built in the Osaka Civilian Naval Yards, third of the Kagerou-class Destroyers, Kuroshio. Even though I look like this, I participated in such hard-fought battles as Surabaya, the South Pacific and the third Battle of Solomon, ya' know.
+228
+Yukikaze Kai
+The eighth ship of Kagerou-class destroyer, I'm Yukikaze. I'll be in your care!
+I'm Yukikaze, eighth ship of the Kagerou-class destroyer. Among the destroyers of the main fleet, while taking part in over 10 major naval battles, I'm the only one to have survived the war with barely any damage. Miracle destroyer? Nope, it was no miracle!
+229
+Shimakaze Kai
+I'm destroyer Shimakaze. When it comes to speed, I'm the best there is— swift like the island breeze!
+Fast and armed with heavy torpedoes, developed as the pinnacle of destroyers— the Shimakaze class. I can go even faster than 40 knots. But... I wasn't suitable for mass production, so I was the only one built.
+230
+Oboro Kai
+I'm the Ayanami-class destroyer Oboro. I won't lose to anyone. Probably.
+Seventh ship of the Ayanami-class, Oboro. Laid down in the Sasebo Naval Arsenal. I participated in the Southern operations. Hot places are better, aren't they? Kiss...? No, not that, the cold Kiska Island... I don't want to get close to that... I hope.
+231
+Akebono Kai
+Special-type destroyer, 'Akebono'. Hey! Don't look at me, you shitty Admiral!
+Special-type destroyer number 18, eighth of the Ayanami-class, Akebono. I'm not a sumo wrestler. Remember that. I participated in the first naval air battle, the Coral Sea! But, I'm a bit uneasy around subs...
+232
+Sazanami Kai
+Ayanami-class Destroyer 'Sazanami', Master. You write it like this, but read it as 'Sazanami'
+Special-type destroyer number 19, ninth of the Ayanami-class, Sazanami. It's hard to read? Only you don't know that character, you know. I was with the Nagumo Task Force when Pearl Harbour was burbling, and headed off to bombard Midway. Wasn't that unexpectedly cool?
+233
+Ushio Kai
+I'm the Special Type Ayanami-class destroyer, Ushio. It would be nice if I could be dismissed soon...
+I'm the tenth ship of the Ayanami-class, Ushio. I survived the Battle of Leyte Gulf and many other fierce battles. After that fateful day at Leyte, I fought on dutifully until the war's end at Yokosuka. U-Um... to all the enemy ships that that were sunk... I really wanted to save you. I mean it!
+234
+Akatsuki Kai
+I'm Akatsuki! Treat me like the fully-fledged lady I am!
+I'm the first of the Special Type-III destroyers, Akatsuki. I was based on the Fubuki-class, with improved cruising efficiency and range. I'm the most refined of destroyers! I'm quite the lady, as you can see! I-I really am...!
+235
+Hibiki Kai
+I'm Hibiki. I'm also referred to as "The Phoenix" from my exploits.
+The sole surviving ship from a class of special-type destroyers, Hibiki. After many battles, I was being serviced, and could not accompany the suicidal Yamato Surface Special Attack Force. I was handed over to the Soviet Union as a war reparation, and given a name that means "reliable".
+236
+Ikazuchi Kai
+I'm Ikazuchi! Don't read my name as 'Kaminari'! You'll do well to remember that!
+Together with my fellow destroyer Inazuma at the Battle of the Java Sea, we rescued the survivors of sunken enemy ships. I think that strength alone just isn't enough. Right, Commander?
+237
+Inazuma Kai
+I'm Inazuma. How... nice to meet you!
+After helping to save the crew of an enemy ship sunk in the Battle of the Java Sea, I fought at Kiska, Solomon, New Guinea and Attu Island one after the other... I gave it my all.
+238
+Hatsuharu Kai
+We are Hatsuharu. We thank you in advance.
+We are the first Hatsuharu-class destroyer, Hatsuharu. We were attached to the Northern Force. As the clouds of war gathers, we did our duty in the Northern seas at such places as Attu and Kiska. The seas around Hokkaido are our favourite, no? The Gulf of Manila and Ormoc... ah, we are weak to the heat.
+239
+Nenohi Kai
+Ye~s! It's Nenohi. Have you memorized my name? hey? Hey~!
+I'm Nenohi, second ship of the Hatsuharu class built under the Maru-1 program. I'm working hard to organize many things for my 21st Destroyer Corps sister ships, such as Hatsuharu sister ships. What? Submarines ...? I REALLY hate them!
+240
+Wakaba Kai
+Destroyer, Wakaba.
+Third of the Hatsuharu-class, Wakaba. I participated in the Attu and Kiska Island exit operations. Yes, the Northern forces. Ah, be careful of heavy fog. It's easy to get hit. Especially 'Hatsushimo', you need to watch out for her.
+241
+Hatsushimo Kai
+Fourth ship of the Hatsuharu class, Hatsushimo. Everyone, I'm very pleased to meet you!
+Fourth of the Hatsuharu-class destroyers, Hatsushimo. I was in lots of hard battles like the Operation AL, the Battle of the Komandorski Islands, the occupation of Kiska, the Battle of the Philippine Sea, Operation Hoku-Go and Ten-Ichi-Gō! I really did my best!
+242
+Shiratsuyu Kai
+First ship of the Shiratsuyu-class destroyers, 'Shiratsuyu'!. Yes, the first ship!
+Developed after the Hatsuharu-class destroyer, Shiratsuyu-class, number one, I'm Shiratsuyu! Yeah, number one, the first ship! With lots of upgrades, I'm a true fleet destroyer, you know! Eh? 'Don't be in such a rush that you'll hit a tanker'? Don't worry about it!
+243
+Shigure Kai
+I'm Shigure, of the Shiratsuyu-class destroyers. Nice to meet you.
+I'm the second ship of the Shiratsuyu-class destroyers, Shigure. I participated in the Battle of Leyte Gulf under the Nishimura Fleet, in the fateful rush through Surigao Strait. Fusou and Yamashiro were amazing... Even if everyone forgets, I'll always remember them...
+244
+Murasame Kai
+Yes ye~s! I'm the Shiratsuyu-class destroyer 'Murasame'! Everyone, nice to meet you!
+Third of the Shiratsuyu-class destroyers, Murasame! Aren't all the Rainy destroyers stylish? With my sister ship Yuudachi, we formed the 2nd DesDiv. 'Rat Transport?' Well, excuse me, I did great at the Guadalcanal transport runs, you know!
+245
+Yuudachi Kai
+Hi. I'm the Shiratsuyu-class destroyer, Yuudachi. See you around!
+Fourth ship of the Shiratsuyu class, Yuudachi here. During the Third Battle of the Solomons, I stood up to them really poi, didn't I? But why does "Ironbottom Sound" give me the chills?
+246
+Samidare Kai
+My name is Samidare! I look forward to working with you. Please leave any escort missions to me!
+I'm Samidare. My friends Murasame, Yuudachi and Harusame, we made up DesDiv2. Oh yeah, during a transport mission, I crashed into Shiratsuyu... Really, I'm... sorry for being clumsy... But, I'll do my best!
+247
+Suzukaze Kai
+'ello! I'm Suzukaze. If I join the fleet it will be equivalent to 100 ships!
+I'm Suzukaze. As a Special-class destroyer, I participated in lots of capture mission. After that, I escorted battleships and carriers! You can rely on me! I'll fight until the last!
+248
+Asashio Kai
+Destroyer Asashio here. I'm always prepared in case of a battle.
+Asashio-class destroyer nameship, Asashio. We were designed as a balanced mass production type of destroyer for supporting the front lines. My remodeled form served as the basis for the Kagerou-class, you know.
+249
+Ooshio Kai
+Destroyer Ooshio reporting in! A small body with large torpedoes! Leave it to me.
+Second of the Asashio-class destroyers, Ooshio! After being sent to the frontlines, I mobilized to Guadalcanal for evacuation missions three times. I'll support you!
+250
+Michishio Kai
+Michishio here. Why did I get assigned to such a fleet?
+I'm a destroyer, Michishio. I and my sisters Asashio, Ooshio, and Arashio were somehow assigned to the eighth destroyer squadron. But, we were separated in the end. Finally I broke into Leyte, as a member of Nishimura fleet.
+251
+Arashio Kai
+Oh, I haven't introduced myself yet, have I? My name is Arashio.
+I'm the Kobe girl destroyer. Yes, I'm Arashio. My sisters and I worked hard in a lot of places. The only thing is, I really do dislike having my smokestack destroyed by bombers.
+252
+Arare Kai
+Arare... I won't say 'ncha-'... Look after me...
+Arare, last destroyer constructed under the Maru-2 programme... Asashio-class series'... final ship but... there's more... After that.... Kagero-class...
+253
+Kasumi Kai
+I'm Kasumi, charging forth. Follow me.
+I fought intensely as a main fleet destroyer in history. In the end, I fought alongside battleship Yamato in Operation Ten-go against the fierce attacks of American carrier-based aircraft. I won't lose!
+254
+Mutsuki Kai
+I'm Mutsuki. Let's work together!
+The first Imperial Navy destroyer to be loaded with the powerful large-type 61cm torpedoes, Mutsuki! While I'm an older model, I gave it my all on the frontlines!
+255
+Kisaragi Kai
+My name is Kisaragi. Please keep me by your side.
+The second ship of Mutsuki-class, Kisaragi. At Wake Island, I fought bravely under the assault of annoying F4F Fighters. Nooo~ I mean it... the sea breeze will ruin my hair...
+256
+Satsuki Kai
+I'm Satsuki. Good to meet ya!
+I kept getting injured again and again on missions, but I fought bravely to the end as the fifth of the Mutsuki-class destroyers. After the war began, I did my best to escort the fleet and guard areas of the ocean. I really did!
+257
+Fumizuki Kai
+I'm Fumizuki. Nice to meet you~
+I'm Fumizuki, the seventh ship of the Mutsuki-class Destroyers. I've been in many open-sea battles. I was once on a fleet escort mission when I collided with a large ship and... got really hurt. It was such a mess!
+258
+Nagatsuki Kai
+Nagatsuki here. Don't make light of me as destroyers. I'm useful.
+Eighth ship of the Mutsuki-class. After the occupation of Southeast Asia, I was assigned to escort duties. While unloading at Kolombangara, I had to fend off a surprise attack by the enemy fleet.
+259
+Kikuzuki Kai
+I'm Kikuzuki, let's move out together
+I'm Kikuzuki, ninth of Mutsuki-class Destroyers. In the very early part of the war, I participated in lots of capture operations. And in the latter part, I engaged in fleet-guard. It may not look so, but fleet-guard is an important mission for certain.
+260
+Mikazuki Kai
+You're the commander, right? I'm Mikazuki. I hope you welcome me warmly into your fleet.
+I am Mikazuki, the Mutsuki class destroyer that participated in escorting light carriers and other fleets. I even sortied to that fierce battle of Solomon Islands. Although I'm an old model, utilizing my fast speed I even participated in some transport missions.
+261
+Mochizuki Kai
+Hmm? Ah, I'm Mochizuki.
+Mutsuki-class destroyer Mochizuki. I took part in several invasions as a member of the 30th Destroyer Squadron. I engaged in transport missions again and again while going through repeated repairs. Worked hard, didn't I?
+262
+Furutaka Kai
+I'm Furutaka. I'll be happy to show how all the good points of heavy cruisers.
+Heavy cruiser, Furutaka. Selected by Vice Admiral Mikawa to be a member of the eighth fleet, I took out a lot of enemies at the first Battle of Solomon! This is what a heavy cruiser can do!
+263
+Kako Kai
+Second Furutaka Class Heavy Cruiser, name's Kako! Nice to meetcha!
+I'm the Second Furutaka Class Heavy Cruiser, Kako. I achieved quite a feat during the Battle of Savo Islands! Ah, the way back? Well, the verse "Going in is easy, but returning is scary" was no joke!
+264
+Aoba Kai
+Hi, thanks for your time, I'm Aoba! Please can I have some words!
+I'm Aoba. Advancing into the Truk Islands area, I supported the Pacific Front. With a war correspondent on board, the staff also had reporting as part of their job. At my last moment, I was at Kure. Even without fuel, I did my best!
+265
+Myoukou Kai
+I am Myoukou, of the Myoukou-class Heavy Cruisers. Let us work on this together.
+A heavy cruiser built under the auspices of the Washington Naval Treaty. I'm a first-class warship of the Japanese Navy designed by Yuzuru Hiraga. This name has also been passed on to Aegis destroyers of the modern MSDF.
+266
+Nachi Kai
+You are my commander? I'm Nachi. I appreciate your contribution.
+Born at the Kure Naval Yards. I am the second of the Myoukou Heavy Cruisers, who was the guardian of Shanghai. I was rushed out to the Pacific front as a flagship of the fifth fleet. Carrier-based planes? Ah, I'm a bit bad with those.
+267
+Ashigara Kai
+I'm Ashigara. My specialty is surface combat. Nice to meet you.
+I am the Ashigara that participated in the English fleet review, you know. I was acknowledged as the 'Hungry Wolf'. But of course! With this fearless body! Eh? That's got nothing to do with my sex appeal? And wasn't even a praise? There's... no way that's right!
+268
+Haguro Kai
+I'm Haguro. I'm the youngest of the Myoukou-class heavy cruiser sisters. U-um... I'm sorry!
+I was born in Nagasaki. I participated in many battles, in the Battle of the Java Sea, the Battle of the Coral Sea, the Battle of Midway, the Battle of the Eastern Solomons, and the Battle of the Philippine Sea. Um... I try my best!
+269
+Takao Kai
+Good morning. I'm Takao. It's great that you look like an excellent Admiral.
+If you're talking about cruisers, no matter how you look at it, it has to be me, Takao! Attached to Vice Admiral Kondo's fourth fleet, I participated in many naval battles. Overcoming these hard-fought conflicts, I concluded with a diligent defence of Singapore.
+270
+Atago Kai
+I'm Atago. Admiral, please remember that, okay?
+Second of the Takao-class, Atago. Ufufu! I was born at the Kure Naval Arsenal. Don't I have a well-balanced and heavily armed body? At the decisive Battle of Leyte Gulf, I deployed as the flagship of the Central Force... Well, things happened, you know?
+271
+Maya Kai
+Yo, Admiral! Working hard? Cause today is another day for me to kick some ass!
+Third of the Takao-class heavy cruisers, Maya-sama! Kobe-built. I went hard in the Southern Ops and Solomon battles! Haah? Leyte? Nah, I'm not great with subs.
+272
+Choukai Kai
+I am Choukai. My best regards.
+Fourth of the Takao-class ships, Choukai. Deployed to Malaya, Solomon, Marianas and Leyte Gulf for many operations. My name is now given to a JSDF AEGIS-equipped escort vessel, fourth in its class.
+273
+Tone Kai
+I am Tone! With my addition to the fleet, there will be no problems searching out the enemy!
+The last completed heavy cruiser of the Japanese Navy, oldest sister of the Tone-class, Tone. At Pearl Harbor and Midway, as the eye for the fleet, I unceasingly watched the length and breadth of the ocean. I ended out the war protecting the Kure Naval Yards as a floating fortress, fighting until my blades were broken, arrows were depleted.
+274
+Chikuma Kai
+Pleased to meet you. Second of the Tone-class, Chikuma.
+I'm Chikuma. Carrying 4 twin cannons on the foredeck, and with substantial reconnaissance capability, I am the second of the Tone-class heavy cruisers. Together with Tone nee-san, I acted as the important eyes of the Nagumo task force.
+275
+Nagato Kai
+I, Nagato, am not about to lose to some newcomers.
+I am the battleship Nagato. I'll be counting on you. Leave the enemy battleships to me.
+The first battleship born under the Eight-Eight Fleet Program and nameship of the Nagato-class battleships, Nagato here. Until the Yamato-class was commissioned, I served as the flagship of the Combined Fleet. I was known around the world as one of the "Big Seven".
+276
+Mutsu Kai
+Battleship Nagato class's second ship, Mutsu. Pleased to meet you. Don't play with fire too much, okay? Please...
+Battleship Nagato class's second ship and from there (referring to her name), Mutsu. Of course, I'm part of the world's Big 7. Ehh? The gunpowder explosion accident? Well, can't cover it up anymore right? This time will be fine!
+277
+Akagi Kai
+I'm the aircraft carrier, Akagi. If you're forming a carrier task force, just leave it to me.
+I'm the aircraft carrier, Akagi. As a mainstay of the Carrier Task Force, I support its forward advances. A combination of diligent training and many proud air wings has earned us a reputation as an "invincible fleet". Overconfident, you say...? Hmm... you may be right... I'll keep it in mind.
+278
+Kaga Kai
+I'm Kaga, an aircraft carrier. Are you my admiral...? I will place my trust in your abilities.
+I, Kaga, was built as the third ship of the Eight-Eight Fleet. Eventually, in a twist of fate, I was completed as a large aircraft carrier. Along with Akagi-san, we are the main force of the glorious First Carrier Division, with myself as flagship.
+279
+Souryuu Kai
+I'm the aircraft carrier, Souryuu. If you're making a carrier mobile fleet, you can count me in.
+I'm the aircraft carrier, Souryuu. Starting from the attack on Pearl Harbor, the crucial battle that opened the war, I participated as an important frontline carrier. Eh? What? Midway? What's that? Is it tasty?
+280
+Hiryuu Kai
+Aircraft carrier Hiryuu here. Leave the carrier battles to me. I can fight on against any and all adversity.
+Hiryuu-class aircraft carrier, Hiryuu here. Hm? Aren't I an improved version of the Souryuu-class, you asked? Don't sweat the small stuff! More importantly, scouting is crucial. In carrier warfare, the first to strike wins! Don't be blinded by pride! Carefully but boldly fight on through!
+281
+Ryuujou Kai
+Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... launchin' carrier planes one after another is right proper for a carrier, ya know! You can count on me!
+I might be a light aircraft carrier, but I'm a carrier with a distinguished record, ya know? Ah, that Fourth Fleet incident thing, off Iwate? That one was right tough. The waves went and collapsed my bridge... Dang, I just couldn't believe☆ it.
+282
+Shouhou Kai
+I'm the light aircraft carrier, Shouhou. Yes, I'm a little small, but please make a place for me on your fleet!
+First of the Shouhou-class aircraft carriers. Originally, a submarine tender. If it's not the flagship or the main fleet but a small task-force, then by all means use me! If you make use of me, I'll surely get good results!
+283
+Hiyou Kai
+My name is Izumo Ma... No, Hiyou. I'm an aircraft carrier. Pleased to meet you, Admiral!
+I'm Hiyou! Converted from the Northern line passenger liner 'Izumo-maru' into a carrier. But, I was able to operate at the same level as a full aircraft carrier. It's the truth!
+284
+Junyou Kai
+Ex-merchant ship aircraft carrier, Junyo~! Woohoo!
+Wartime remodeling based on the Luxury liner, Kashiwara Maru. The renovated appearance is the aircraft carrier, Jun'you. I fought properly, and survived until the end. Ain't I surprisingly capable ?
+285
+Houshou Kai
+Aircraft carrier, Houshou here. Although I'm inexperienced, I look forward to your guidance.
+I am the aircraft carrier known as Houshou. I was designed as a carrier from the beginning and I am the world's first aircraft carrier. I may be petite for a ship, but I'll do my best.
+286
+Fusou Kai
+Of the two Fusou-class super-dreadnought battleships, I am the elder sister, Fusou. Please take care of me and my younger sister Yamashiro.
+The first of the Japanese designs for the super-dreadnought battleship class, Fusou. Please remember to take care of my younger sister, Yamashiro, as well. Leyte Gulf? Oh well, I would like to go there someday. Right?
+287
+Yamashiro Kai
+Of the two Fusou-class battleships, I am the younger sister, Yamashiro. Umm... have you seen Fusou nee-sama?
+The second of the Fusou-class battleships, Yamashiro. "A faulty battleship." "A strange thing for the fleet to have." Everyone said things like that... but it was fine, as long as I could fight alongside Fusou nee-sama until the end...
+288
+Shoukaku Kai
+I'm Shoukaku, the first of the Shoukaku-class carriers. I will try my best with Zuikaku to try and live up to the names of my seniors in the first and second aviation divisions.
+I'm Shoukaku, the first ship in the Shoukaku carrier series. I was designed and built as the first purpose-built large regular carrier to serve after the Washington Treaty was renounced. With my sister Zuikaku, we make the fifth carrier division. Following the tragedy, we followed in the footsteps of our seniors and continued to support the front lines.
+289
+Kinu Kai
+Yeah yeah yeah! Finally, Kinu has arrived!
+Born in Kobe, I'm Kinu! I trained well at the Maizuru School. After lots of dangerous things happened, I did my best in the Southwest... Well, that was bad too. Kuma-chan was suprisingly helpful too. But... Panay Island was seriously panai!
+290
+Abukuma Kai
+H-hello, I'm Abukuma, a light cruiser.
+I'm Abukuma of Nagara-class light cruisers. Yes... to be honest, I don't like Kitakami. What's with her... but, I endured and fixed my beautiful bow! Ushio too, thanks.
+291
+Chitose-Kou Kai
+I'm the girl who took a diet and became an aircraft carrier, Chitose. I even got faster. Maybe I should write a book about it.
+Renovated from a seaplane carrier to a carrier, I'm Chitose. Slimming down my body by dieting. My legs even became faster. This will let me play a part in the Task Force! I'll do my best for you!
+292
+Chiyoda-Kou Kai
+The girl that became an aircraft carrier, Chiyoda. Of course, I'll be assigned to Chitose-onee's fleet, yes?
+Heavily remodeled from a seaplane tender, I'm the job-changed aircraft carrier Chiyoda. I'm quite the carrier, no? I'll fight the enemy air force together with Chitose-onee!
+293
+Yuubari Kai
+Oka~y, thanks for waiting! The experimental armament cruiser 'Yuubari' has arrived!
+A compact body enriched with heavy arms, the experimental light cruiser, Yuubari. The data that I left behind, those various newly-developed naval heavy weapons were certainly the cause! A shot in the engine room? What are you talking about? Really... how rude you are.
+294
+Maikaze Kai
+Hello~! Kagerou-class destroyer, Maikaze! I'm not good in gloomy atmospheres!
+Kagerou-class destroyer Maikaze! From Midway to the Southern Operations, I continued to dance across the battlefield. I'm good friends with Nowaki, a fellow Kagerou-class. When Truk Island was attacked, I almost made it.
+295
+Kinugasa Kai
+Ye~s, It's Miss Kinugasa's debut! Together with Aoba, take good care of me!
+First to have a catapult equipped, Miss Kinugasa! Great to meet you. I performed magnificently in the capture of Wake Island and the Battle of the Coral Sea, and even the Solomon's Ironbottom Sound! But... planes, you know? I'm not really a fan...
+296
+Chitose-Kou Kai Ni
+I'm the girl who took a diet and became an aircraft carrier, Chitose. I even got faster. Maybe I should write a book about it.
+Renovated from a seaplane carrier to a carrier, I'm Chitose. Slimming down my body by dieting. My legs even became faster. This will let me play a part in the Task Force! I'll do my best for you!
+297
+Chiyoda-Kou Kai Ni
+The girl that became an aircraft carrier, Chiyoda. Of course, I'll be assigned to Chitose-onee's fleet, yes?
+Heavily remodeled from a seaplane tender, I'm the job-changed aircraft carrier Chiyoda. I'm quite the carrier, no? I'll fight the enemy air force together with Chitose-onee!
+300
+Hatsukaze Kai
+I'm Hatsukaze, nice to meet you. Admiral, how many of me did you have before me, I wonder?
+Kagerou-class destroyer, Hatsukaze. Myoukou-neesan and I crashed into each other off Bougainville, and my bow got torn off... Crippled and unable to move, I was the target of concentrated fire and then... I'm scared....I'm so scared, Myoukou-neesan...
+301
+Akigumo Kai
+Akigumo, reporting for duty~ Look after me Admiral~
+Yokosuka born and raised, I'm Akigumo! I'm in the the Kagerou-class, but my (overwhelming) cruising range caught the eye of Adm. Nagumo and so I joined the 1st CarDiv. I mean, I always thought I was a Yuugumo-class... (even our uniforms are the same)... *grumble, mutter*... ah, whatever. After that, I was assigned to guard the 5th CarDiv. I didn't get to finish drawing Shoukaku and Zuikaku, though...
+302
+Yuugumo Kai
+First ship of the Yuugumo-class, Yuugumo, has arrived. Admiral, it's okay to spoil me a bit.
+First ship of the final mass-production destroyers. Laid down in Maizuru. My first battle was the ignominious defeat at Midway. It's okay, I don't mind. In the Tokyo Express to that island, Operation Ke, the Battle of the Santa Cruz Islands and the evacuation of Kiska, I fought bravely, no? *sigh*
+303
+Makigumo Kai
+Yuugumo-class destroyer, I am Makigumo. Following Yuugumo-neesan's example, I'll do my best!
+I'm Makigumo, second ship of the Yuugumo-class Destroyers. While cleaning up after the Hornet, 'situation permitting, tow and capture it'... they said, but that was pretty much impossible... and now Akigumo's pointing and laughing at me. Seriously, what the heck?
+304
+Naganami Kai
+I'm Naganami, the fourth ship of the Yuugumo-class destroyers. And off we go. Yeah!
+I'm Naganami, the fourth ship of the Yuugumo-class destroyers, built and launched during wartime under the maru-4 project. I rampaged all over as a member of the proud Second Torpedo Squadron. At Guadalcanal, we gave an enemy ambush a beat down under the famous command of Rear Admiral Raizo Tanaka.
+305
+Agano Kai
+Hello~! I'm the latest light cruiser Agano~. *giggle*
+Designed and built as the next-generation of Torpedo squad flagships, Agano-class light cruiser, the eldest, is me, Agano! I've got the the high-end technology! Have a look, this refined body... This time, I'll certainly show off my special features!
+306
+Noshiro Kai
+Second light cruiser of the Agano-class, Noshiro, has arrived. Glad to meet you!
+Second of the newly-developed Agano-class Light Cruisers, Noshiro. The lone aircraft rail is my charmpoint. Even in Leyte Gulf, I did my best as a main member of Kurita's task force!
+307
+Yahagi Kai
+Light Cruiser Yahagi, reporting for duty. Let's work at it together to the end, Admiral!
+Yahagi, the third ship of the Agano-class light cruisers. I've participated in most of the major sea battles during the latter part of the war, including the Mariana Straits, Leyte Gulf, and Bonomisaki. That's right, I fought it out to the very end. I wonder what happened to Yamato, after my memories trailed off. Oh well... This time, I'm going to protect everything!
+308
+Yayoi Kai
+Yayoi, reporting for duty... Pleased to meet you. Please don't be too concerned about me...
+Third of the Mutsuki-class destroyers, 'Yayoi'. I was born at Uraga, Yokosuka. Mutsuki, Mochizuki and I did our best as a task force. I dislike dive bombers. Please take good care of me.
+309
+Uzuki Kai
+Yay~! I arrived-pyon! My name is Uzuki, you can call me U-chan!
+Fourth of the Mutsuki-class destroyers, 'Uzuki'-pyon. From convoy escorting to capture operations, I worked re~ally hard! Near the end I was loaded up with lots of machine-guns to down them all! U-chan won't be sunk by bombers!
+310
+Z1 Kai
+Good morning. I'm Leberecht Maass. Lebe is fine, yep.
+The German-born destroyer, the first genuine large-type. This shifted high temperature, high pressure engine, it could only have been designed in the country of technical skills! I'm not so great at open-sea warfare though... I'll do my best!
+311
+Z3 Kai
+Good day. I am the Destroyer Max Schultz. But, Max is fine. Pleased to meet you.
+Zerstörer 1934 program, third ship. I was designed with good survivability, but... these new turbines have a small issue with maintenance. This time... I shall be alright.
+312
+Hamakaze Kai
+I'm destroyer Hamakaze. Henceforth commencing fleet duties.
+I'm destroyer Hamakaze. Henceforth I shall be assigned to your fleet.
+I am Hamakaze. I participated in many fierce battles. At Leyte, I was a part of Kongou's ring formation. Futhermore, I burned into my memory the final moments of Musashi, Kongou and Shinano. At the fateful Bounomisaki, I, Yukikaze and many others struggled to protect Yamato.
+313
+Tanikaze Kai
+Admiral, I'm Tanikaze! I'll be in your care from now on.
+Madam Tanikaze here! I was helpin' out Hiryuu during the Battle of Midway, damn enemy planes were dropping bombs on us like rain... Back then, C'mmander Katsumi was amazin' like seriously.
+314
+Sakawa Kai
+Pyan♪ The fourth Agano class Light Cruiser, Sakawa! Commander, nice to meet you!
+I'm Sakawa, the fourth ship and the youngest of the Agano-class light cruiser sisters. I was born too late, so I couldn't go outside much. I wanted to go together with Yahagi-chan... but I ended up guarding Maizuru.
+315
+なし
+316
+Amatsukaze Kai
+Is a good breeze on the way? I, the next-generation destroyer prototype, Amatsukaze, shall make my debut.
+Kagerou-class destroyer, ninth ship, Amatsukaze here. I participated as the testbed of a new type of high-temperature, high-pressure boiler intended for the next generation of destroyers. When the data proved reliable, it was passed over to Shimakaze. I was in many tight spots, but I held on and overcame them. It was really tough!
+317
+Urakaze Kai
+It's me, Urakaze, nice to meet 'ya!
+Osaka-born, attached to Kure. I saw action from Pearl Harbor to Guadalcanal. My last moments were escorting Kongou nee-san at the Taiwan Strait. Anyway, there's nothing that can be done anymore...
+318
+Ryuuhou Kai
+Carrier Ryuuhou, remodeled from a Submarine Tender. I'll once again try my best as a carrier!
+Carrier Ryuuhou, remodeled from a Submarine Tender. My speed was not up to plan specifications as there were issues with changing the boilers, but I have an enhanced flight deck and armaments as this Light Carrier class. Carrier Ryuuhou, giving it her all!
+319
+Myoukou Kai Ni
+Myoukou-class Heavy Cruiser, Myoukou. Let's do our best together until the end.
+A heavy cruiser built under the auspices of the Washington Naval Treaty. I'm a first-class warship of the Japanese Navy designed by Yuzuru Hiraga. This name has also been passed on to Aegis destroyers of the modern MSDF.
+320
+Isokaze Kai
+12th Kagerou-class destroyer, Isokaze. Commander, let's proceed together. You do not need to worry.　
+12th Kagerou-class destroyer, Isokaze. If it's about combat experience, I won't fall behind that Yukikaze. I've fought again and again, participated in decisive battles, and fought to the bitter end. Yamato, Musashi, Kongou, Taihou... their last moments have been etched into my eyes. This time... I will protect them.
+321
+Ooyodo Kai
+Admiral, I, Flagship Ooyodo shall accompany you. Please leave the front line fleet administration to me.
+Designed as a cutting edge C&C flagship, the newest light cruiser, Ooyodo. There was a problem with the installation of the specified new model recon, & the battle situation changed, so I wasn't really able to undertake my role as the combined fleet flagship. However, I participated in the Northern Operation & the Operation Rei-Go. I, too, will do my best on the front lines.
+322
+Tokitsukaze Kai
+Kagerou-class Destroyer tenth ship. Tokitsukaze... has arrived!
+Tenth Kagerou-class Destroyer, Tokitsukaze. I worked hard in the 16th Destroyer Division with my friends Yukikaze, Hatsukaze, and Amatsukaze. I was also in the Second Torpedo Squadron you know, really, really. But...an uncontrolled sea seems...kinda unpleasant.
+323
+Harusame Kai
+Fifth Shiratsuyu-class destroyer, Harusame, yes. Leave the transport missions to me... desu.
+Fifth Shiratsuyu-class destroyer, Harusame. Delicious... wait! that's a different kind of Harusame! With Murasame and big sis Yuudachi we cruised the sea as Destroyer Division 2! I'm a bit good at transport and guarding mission, yes!
+324
+Hayashimo Kai
+I've... come again, to these seas. Yuugumo-class destroyer, Hayashimo... reporting for duty.
+I'm the 17th of the Yuugumo-class Destroyer, Hayashimo. I was born in the Maizuru Naval Base Factory, to times of impending troubles. I launched for the Battle of Leyte Gulf from the Lingga Naval Anchorage... And I've seen many things.
+325
+Kiyoshimo Kai
+Hello! Last of the Yuugumo-class, it's Kiyoshimo! I'm a bit late, but I'll be in your care!
+I'm Kiyoshimo, the 19th and last of the Yuugumo class destroyers. I was born in Uraga dontcha know. And goodness, what a horrible situation it was that I was born into too. I wasn't around for long but I took part in several fleet actions. Leyte was, of course, apalling to see but I even took part in Operation Rei-gou! How's that?
+326
+Hatsuharu Kai Ni
+We are Hatsuharu. With us following, thou wilt be fine!
+We are the first Hatsuharu-class destroyer, Hatsuharu. We were attached to the Northern Force. As the clouds of war gathers, we did our duty in the Northern seas at such places as Attu and Kiska. The seas around Hokkaido are our favourite, no? The Gulf of Manila and Ormoc... ah, we are weak to the heat.
+327
+Asagumo Kai
+Asashio-class destroyer, Asagumo, armed and ready! Yes, Commander? Then let's get to work!
+Asashio-class destroyer number 5, Asagumo. Together with my sworn friend Yamagumo, we made it through many battlefields. That's right, the 9th DesDiv. Famous, right? Eh, you haven't heard of us? You know, I don't really like jokes. Remember that!
+328
+Yamagumo Kai
+Good morning~~. Asashio Destroyer number six, Yamagumo. Please treat me well!
+I'm the sixth Asashio-class destroyer, Yamagumo~ I was born in Osaka and raised in Yokosuka~ Uh-huh, I'll have to watch out for sea mines~ I was active in escort and patrol missions, then deployed to the Marianas and also Leyte Gulf as part of the Nishimura fleet~
+329
+Nowaki Kai
+Kagerou-class Destroyer, Nowaki, reporting in. Well, Commander. Let us proceed.
+Kagerou-class destroyer number 15, Nowaki. Born in Maizuru. I was with Maikaze in the 4th DesDiv. At the start of the war, I participated in the Southern Operation in the Fourth Torpedo Squadron under Naka-san, as well as Midway, Mariana, and Leyte. I will do my best with whatever I can.
+330
+Akizuki Kai
+Akizuki-class anti-air destroyer, first ship, Akizuki. I'm reporting in here. Please leave it to me!
+Designed for the fleet's anti-air, Type-B first class destroyer, Akizuki-class first destroyer, Akizuki. As an anti-air ship equipped with 4x 8-barrel Long 10cm guns and anti-aircraft fire director, along with Hatsuzuki and the others, we formed the 61st DesDiv. I'll do my best!
+331
+Amagi
+I'm Amagi, an Unryuu-class Carrier. Thanks for your recruitment, Admiral. Amagi will concentrate!
+I'm Amagi, second Carrier of the Unryuu Class. My construction following the Rapid Naval Armaments Supplement Program. Even though I couldn't join the Mobile Striking Force, I did my best in the air raid at Kure Naval base.
+332
+Katsuragi
+I'm Katsuragi, the third ship of the Unryuu-Class Carriers! Eh? 'A floating anti-air gun platform'? I-It's not like that...! What are you saying!
+I'm Katsuragi, the third ship of the Unryuu-Class Carriers!  Yes, a standard aircraft carrier. Looks like I was late. But after the battle was over, I was working at full power. In a sense, I am the best. It's the truth! Really it's true!
+333
+なし
+334
+U-511 Kai
+Submarine U-511 of the German Navy, please call me Yuu.<br />I've come a long way, so I'll be in your care...
+I'm the... German Navy U-Boat, U-511.<br />I worked hard to come here.<br />If I could be friends... with everyone... and get acquainted with this place's culture... I think that'd be nice.
+335
+なし
+336
+なし
+337
+なし
+338
+なし
+339
+なし
+340
+なし
+341
+なし
+342
+なし
+343
+Katori Kai
+I'm Katori, a Training Cruiser. Don't you worry... I'll be gentle in teaching you various things.
+First of the Katori-class training cruisers, Katori. Right, leave the ocean navigation training to me. I believe I'll be a great help in furthering what the fleet attains out of it's drills, for sure. Eh, my firepower in comparison to a battleship... is it? I wonder, tactics-wise, how it is.
+344
+Asashimo Kai
+Yo! It's the 16th Destroyer of the Yuugumo class, Asashimo. Always ready, never stop rampaging! Eh Commander?
+I'm the 16th Destroyer of the Yuugumo Class, Asashimo. Remember it well. I made my debut when the war situation got worse. I ran about freely at the front lines of the end stage. I did...all I could!
+345
+Takanami Kai
+Destroyer Takanami of the Yuugumo-class will give her best this time! Really, probably!
+I'm Takanami, the sixth Yuugumo-class Destroyer. Born in Uraga.  I was assigned to the 31st Destroyer Division, and I had done my part well.  On a fateful night battle at Lunga Point, as the Leadship of the Lookouts squad, our crew first spotted the enemy fleet... and that may have brought victory to the battle... Yup!
+346
+Teruzuki Kai
+I am Teruzuki, the second ship of Akizuki-class Anti-air Destroyer! I can carry out anything from escorting battleships to supply transport missions!
+Second of Akizuki-class Anti-air Destroyer, Teruzuki. With Akizuki-nee, we're organized as Destroyer Squadron 61. In the Battle of Solomon, we fought together with Hiei-san and Kirishima-san! What? The supply drum transport? Ah... that's.... that's...
+347
+Libeccio Kai
+Buongiorno! I'm Libeccio, a Maestrale-class destroyer! Just Libe is fine. Nice to meet you Admiral!
+Italian Navy Destroyer, third Maestrale-class, Libeccio. Admiral, Nice to meet you!  What, Battle of Taranto? That's easy! Although I wanted to do my best in escort fleet, I want to quit in the middle of the rescue.
+348
+Mizuho Kai
+Admiral, thank you for your hard work. Seaplane Tender Mizuho has now arrived. It is a pleasure to meet you.
+I am a seaplane tender, Mizuho. Together with Chitose and Chiyoda, I am capable of utilizing the Kouhyouteki midget submarine. Although I was not bestowed with the latest model engine, I manage to participate at the start of the Southern Operations. I shall do my best to meet your expectations.
+349
+Kazagumo Kai
+Third ship of the Yuugumo class destroyers, Kazagumo. So you're the admiral. Roger. Well then, your orders!
+Fleet type destroyer, Yuugumo class, Kazagumo. Regards. From Midway to Solomon, I advanced around the main battlefields. On that fateful night, I looked upon the burning aircraft carrier. I'll never forget the dragon's last moments.
+350
+Umikaze Kai
+I am Umikaze, the Seventh of the Shiratsuyu-class Destroyer, and the First of the Revised Shiratsuyu-class. I'll be in your care, Admiral!
+I am Umikaze, the Seventh of the Shiratsuyu Class Destroyer, and the First of the Revised Shiratsuyu Class. I was built according to the second Naval Armaments Supplement Program. I participated in the Battle of Guadalcanal, as part of the Second Torpedo Squadron. I will be in your care, Admiral.
+351
+Kawakaze Kai
+The ninth Shiratsuyu-class Destroyer, Kawakaze of the revised Shiratsuyu-class. Nice to meet you! Ah, about the reading of my name, do not get it wrong!
+Ninth ship of the Shiratsuyu-class, the revised Shiratsuyu-class destroyer, Kawakaze. Well now, I was built under the Maru 2 program, the same as Umikaze and our big sisters. Maaan, that was some hard, hard work! We sailed the Solomon's seas many times over. My last moments were during night battle. The enemy's radar... really, what foul play!
+352
+Hayasui Kai
+Good morning. Aircraft carrying oiler, Hayasui, will do her best. Preparations for sortie of aircraft are perfect!
+Fleet escort oiler, Hayasui. Best regards! I'm a multi-purpose refuel vessel that can supply a variety of different materials and am also designed to carry carrier-based aircraft. With a change of plans after the Battle of Midway, I also became able to launch Ryuusei.
+353
+Graf Zeppelin Kai
+Guten morgen. Aircraft carrier Graf Zeppelin, reporting for duty. Admiral, I shall rely on you for today.
+354
+Arashi Kai
+Commander, take care of me, 'kay! It's great 'ta meet 'ya!
+I'm the 16th ship in the Kagerou-class Destroyer line. I was part of the Fourth Destroyer Squadron, and was an asset to the Fourth Torpedo Squadron. At Midway, I was assigned as an escort to the Nagumo Carrier Task Force. After that, I also did occasional stints at the frontline as needed......Remember me... and my comrades of the Fourth Destroyer Squadron. Please.
+355
+Hagikaze Kai
+Hagikaze, Fourth Destroyer Division, in position. Commander, please give me your orders!
+I am Hagikaze, the 17th ship of the Kagerou-class Destroyer. I was born in Uraga. I worked diligently as part of the Fourth Destroyer Division with Arashi. Being the escort of the Nagumo Taskforce, I took part in the unforgiving battle in the Solomon Islands. I was with Arashi on my last night to. Please remember us, the Fourth Destroyer Division.
+356
+Kashima Kai
+Mr. Admiral, thanks for your hard work. Kashima here. Let's do our best again today. I'm counting on you.
+Mr. Admiral, thanks for the hard work. Training cruiser, Kashima, checking in! Ufufu!
+Second of the Katori-class training cruisers— the little sister, Kashima. I was built at a time of peaceful waters in order to raise a new generation of capable fleet ships. The time spent on my original duty wasn't long, but I gave my very best both as a fleet flagship and escort. After the battle ended, for the sake of the future, I worked very hard! Please don't forget about my services, okay?
+357
+Iowa Kai
+Hi! I am the Iowa-class battleship, Iowa. You're the admiral of this fleet? Hmm... not bad! The pleasure is all mine!
+Hi! I'm the name ship of the Iowa-class battleships, Iowa. Although I'm a high-speed battleship, I'm heavily armed, and could be said to be the penultimate form of battleship. As the last of the battleship classes born in the USA, I will work hard for the fleet. Take good care of me!
+398
+I-168 Kai
+I'm I-168. What? It's hard to say? OK, just call me Imuya. Nice to meet you!
+I am a submarine born and raised in Kure. After that battle of Midway, I managed to land the final blow to Yorktown who defeated Hiryuu! Our carriers were avenged! I also worked hard running transport missions to that terrible island.
+399
+I-58 Kai
+Hello! I-58 here! You can call me Goya. I'm not bitter!
+I have fought hard from the beginning to the end. Even when the war had became harsh, I managed to take down that heavy cruiser! After fulfilling my mission and everything was all over, I managed to make it back safely to Kure, my home port.
+400
+I-8 Kai
+Guten Tag ... ah, my mistake... sorry, please call me "hachi".
+I made it to Germany as the second submarine sent on the transoceanic voyage. Then, I received a U-boat. This operation was carried out 5 times, but because of mines and other events, I was the only one who was able to successfully complete the return trip... yeah, I really hate mines!
+401
+I-19 Kai
+Such a great admiral makes me happy. I'm I-19. Yep, calling me 'Iku' is fine!
+I'm the submarine I-19. Yes, Iku! I sunk the carrier Wasp with my pride and joy, my oxygen torpedoes! I was even able to hit a battleship and destroyer that was waaaay ahead of the carrier! Don't you forget Iku, Sniper of the Ocean's great abilities... 'kay?
+402
+Maruyu Kai
+Sir, please let Maruyu keep working hard.
+Maruyu isn’t from the Navy shipyards, so I don’t have any friends from home. I’m a little different from everyone else… I mean, the first thing Kiso-san said to me was “What are you. Can you actually go underwater?”... I'm starting to wonder if Maruyu can survive out here...
+403
+I-401 Kai
+A good day to you, Admiral. It's the upgraded I-401, of the special submarine class.
+I'm I-401, the second ship in the I-400 submarine series. I'm a submarine carrier capable of making a round trip around the world, and carries 3 units of the special attack plane "Seiran". Yes, it's a secret tactical weapon... it's a secret, okay?
+404
+Unryuu
+Unryuu class aircraft carrier, Unryuu, has arrived. Admiral, it's nice to meet you.
+I am the elder sister of the Unryuu class aircraft carriers built under the Rapid Naval Armaments Supplement Programme during wartime. We are the improved mass-production version of the medium-sized carrier masterpiece, Hiryuu. I'll show you the immense potential of the main force of the reborn Mobile Task Force.
+405
+Harusame
+Fifth Shiratsuyu-class destroyer, Harusame, yes. Leave the transport missions to me... desu.
+Fifth Shiratsuyu-class destroyer, Harusame. Delicious... wait! that's a different kind of Harusame! With Murasame and big sis Yuudachi we cruised the sea as Destroyer Division 2! I'm a bit good at transport and guarding mission, yes!
+406
+Unryuu Kai
+Unryuu class aircraft carrier, Unryuu is here. Admiral, please leave the future of the task force to me.
+I am the elder sister of the Unryuu class aircraft carriers built under the Rapid Naval Armaments Supplement Programme during wartime. We are the improved mass-production version of the medium-sized carrier masterpiece, Hiryuu. I'll show you the immense potential of the main force of the reborn Mobile Task Force.
+407
+Ushio Kai Ni
+I'm the Special Type Ayanami-class destroyer, Ushio. It would be nice if I could be dismissed soon...
+I'm the tenth ship of the Ayanami-class, Ushio. I survived the Battle of Leyte Gulf and many other fierce battles. After that fateful day at Leyte, I fought on dutifully until the war's end at Yokosuka. U-Um... to all the enemy ships that that were sunk... I really wanted to save you. I mean it!
+408
+Junyou Kai Ni
+Ex-merchant ship aircraft carrier, Junyo~! Woohoo!
+Wartime remodeling based on the Luxury liner, Kashiwara Maru. The renovated appearance is the aircraft carrier, Jun'you. I fought properly, and survived until the end. Ain't I surprisingly capable ?
+409
+Hayashimo
+I've... come again, to these seas. Yuugumo-class destroyer, Hayashimo... reporting for duty.
+I'm the 17th of the Yuugumo-class Destroyer, Hayashimo. I was born in the Maizuru Naval Base Factory, to times of impending troubles. I launched for the Battle of Leyte Gulf from the Lingga Naval Anchorage... And I've seen many things.
+410
+Kiyoshimo
+Hello! Last of the Yuugumo-class, it's Kiyoshimo! I'm a bit late, but I'll be in your care!
+I'm Kiyoshimo, the 19th and last of the Yuugumo class destroyers. I was born in Uraga dontcha know. And goodness, what a horrible situation it was that I was born into too. I wasn't around for long but I took part in several fleet actions. Leyte was, of course, apalling to see but I even took part in Operation Rei-gou! How's that?
+411
+Fusou Kai Ni
+Of the two Fusou-class super-dreadnought battleships, I am the elder sister, Fusou. Please take care of me and my younger sister Yamashiro.
+The first of the Japanese designs for the super-dreadnought battleship class, Fusou. Please remember to take care of my younger sister, Yamashiro, as well. Leyte Gulf? Oh well, I would like to go there someday. Right?
+412
+Yamashiro Kai Ni
+Of the two Fusou-class battleships, I am the younger sister, Yamashiro. Umm... have you seen Fusou nee-sama?
+The second of the Fusou-class battleships, Yamashiro. "A faulty battleship." "A strange thing for the fleet to have." Everyone said things like that... but it was fine, as long as I could fight alongside Fusou nee-sama until the end...
+413
+Asagumo
+Asashio-class destroyer, Asagumo, reporting in! So you're the commander... huh. Hmm. Well, it's fine. I'll do it!
+Asashio-class destroyer number 5, Asagumo. Together with my sworn friend Yamagumo, we made it through many battlefields. That's right, the 9th DesDiv. Famous, right? Eh, you haven't heard of us? You know, I don't really like jokes. Remember that!
+414
+Yamagumo
+Good morning~~. Asashio Destroyer number six, Yamagumo. Please treat me well!
+I'm the sixth Asashio-class destroyer, Yamagumo~ I was born in Osaka and raised in Yokosuka~ Uh-huh, I'll have to watch out for sea mines~ I was active in escort and patrol missions, then deployed to the Marianas and also Leyte Gulf as part of the Nishimura fleet~
+415
+Nowaki
+Kagerou-class Destroyer, Nowaki, reporting in. Well, Commander. Let us proceed.
+Kagerou-class destroyer number 15, Nowaki. Born in Maizuru. I was with Maikaze in the 4th DesDiv. At the start of the war, I participated in the Southern Operation in the Fourth Torpedo Squadron under Naka-san, as well as Midway, Mariana, and Leyte. I will do my best with whatever I can.
+416
+Furutaka Kai Ni
+I'm Furutaka! I'm a little small for a heavy cruiser but... Heavy cruiser Furutaka will do her best today too!
+Heavy cruiser, Furutaka. Selected by Vice Admiral Mikawa to be a member of the eighth fleet, I took out a lot of enemies at the first Battle of Solomon! This is what a heavy cruiser can do!
+417
+Kako Kai Ni
+Second Furutaka Class Heavy Cruiser, name's Kako! Ah, you know, hello again!
+I'm the Second Furutaka Class Heavy Cruiser, Kako. I achieved quite a feat during the Battle of Savo Islands! Ah, the way back? Well, the verse "Going in is easy, but returning is scary" was no joke!
+418
+なし
+419
+Hatsushimo Kai Ni
+Fourth ship of the Hatsuharu-class, Hatsushimo. Let's go and give it our all!
+Fourth of the Hatsuharu-class destroyers, Hatsushimo. I was in lots of hard battles like the Operation AL, the Battle of the Komandorski Islands, the occupation of Kiska, the Battle of the Philippine Sea, Operation Hoku-Go and Ten-Ichi-Gō! I really did my best!
+420
+Murakumo Kai Ni
+Commander... well, do your best today. I'll do what I can to help.
+So you're the commander, huh? Well, I expect you to work very hard.
+Fifth ship of the Special Type destroyers, Murakumo here. Huh? Never heard of me? You can't be serious. Don't even know a famous ship like me, who rescued Furutaka's crew, took part in the Southern Operations, and many other operations? Just how inept are you?!
+421
+Akizuki
+Akizuki-class anti-air destroyer, first ship, Akizuki. I'm reporting in here. Please leave it to me!
+Designed for the fleet's anti-air, Type-B first class destroyer, Akizuki-class first destroyer, Akizuki. As an anti-air ship equipped with 4x 8-barrel Long 10cm guns and anti-aircraft fire director, along with Hatsuzuki and the others, we formed the 61st DesDiv. I'll do my best!
+422
+Teruzuki
+I am Teruzuki, the second ship of Akizuki-class Anti-air Destroyer! As with Akizuki-neesan, it is a great honor to be in your care!
+Second of Akizuki-class Anti-air Destroyer, Teruzuki. With Akizuki-nee, we're organized as Destroyer Squadron 61. In the Battle of Solomon, we fought together with Hiei-san and Kirishima-san! What? The supply drum transport? Ah... that's.... that's...
+423
+なし
+424
+Takanami
+I'm the sixth of the Yuugumo-class destroyers, Takanami. E-ehm, I will do my best! Really, probably!
+I'm Takanami, the sixth Yuugumo-class Destroyer. Born in Uraga.  I was assigned to the 31st Destroyer Division, and I had done my part well.  On a fateful night battle at Lunga Point, as the Leadship of the Lookouts squad, our crew first spotted the enemy fleet... and that may have brought victory to the battle... Yup!
+425
+Asashimo
+Yo! I'm Asashimo, 16th Destroyer of the Yuugumo Class. Please remember. Don't forget about me... ok?
+I'm the 16th Destroyer of the Yuugumo Class, Asashimo. Remember it well. I made my debut when the war situation got worse. I ran about freely at the front lines of the end stage. I did...all I could!
+426
+Fubuki Kai Ni
+Thanks for the hard work! Fubuki here! Aye, I'll do my best!
+Nice to meet you! I'm Fubuki! Thanks for having me!
+The first of the Special Type destroyers designed under the Washington Naval Treaty, shocking the world with our capabilities relative to other ship classifications at the time, Fubuki here! Based on our design, many successive fleet-type destroyers were built. Aye! I'll do my best!
+427
+Choukai Kai Ni
+Choukai has come back! I'll give my best today too.
+Fourth of the Takao-class ships, Choukai. Deployed to Malaya, Solomon, Marianas and Leyte Gulf for many operations. My name is now given to a JSDF AEGIS-equipped escort vessel, fourth in its class.
+428
+Maya Kai Ni
+Yo, Admiral! Working hard? Cause today is another day for me to kick some ass!
+Third of the Takao-class heavy cruisers, Maya-sama! Kobe-built. I went hard in the Southern Ops and Solomon battles! Haah? Leyte? Nah, I'm not great with subs.
+429
+Amagi Kai
+I'm Amagi, an Unryuu-class Carrier! Admiral, this time Amagi can play an active role!
+I'm Amagi, second Carrier of the Unryuu Class. My construction following the Rapid Naval Armaments Supplement Program. Even though I couldn't join the Mobile Striking Force, I did my best in the air raid at Kure Naval base.
+430
+Katsuragi Kai
+Aircraft carrier Katsuragi, heading forth! Watch what a true standard aircraft carrier is capable of!
+I'm Katsuragi, the third ship of the Unryuu-Class Carriers!  Yes, a standard aircraft carrier. Looks like I was late. But after the battle was over, I was working at full power. In a sense, I am the best. It's the truth! Really it's true!
+431
+U-511
+Submarine U-511 of the German Navy, please call me Yuu.<br />I've come a long way, so I'll be in your care...
+I'm the... German Navy U-Boat, U-511.<br />I worked hard to come here.<br />If I could be friends... with everyone... and get acquainted with this place's culture... I think that'd be nice.
+432
+Graf Zeppelin
+Guten Morgen. I am the aircraft carrier, Graf Zeppelin. You are the admiral overseeing this fleet, yes? Is that so? Roger.
+First of the Graf Zeppelin-class carriers, Graf Zeppelin. Capable of undertaking three-dimensional commerce raiding, I am a heavily armed and full-scale carrier. It seems that the technology used in the Japanese carrier, Akagi, was also referenced in my construction. A Japanese fleet, huh. I'm looking forward to it.
+433
+なし
+434
+Mutsuki Kai Ni
+I'm Mutsuki. Let's work together!
+The first Imperial Navy destroyer to be loaded with the powerful large-type 61cm torpedoes, Mutsuki! While I'm an older model, I gave it my all on the frontlines!
+435
+Kisaragi Kai Ni
+My name is Kisaragi. Please keep me by your side.
+The second ship of Mutsuki-class, Kisaragi. At Wake Island, I fought bravely under the assault of annoying F4F Fighters. Nooo~ I mean it... the sea breeze will ruin my hair...
+436
+RO-500
+Submarine RO500, formerly U-boat U-511. I'm Ro, formerly called Yuu! Admiral? I will be in your care
+I'm RO-500, the Kriegsmarine U-boat U-511 remodeled for use by the Japanese Navy. I was operated from my home port of Maizuru. I may not have seen actual battle, but I did train hard with a counter-submarine fleet, yes!
+437
+Akatsuki Kai Ni
+I'm Akatsuki! Treat me like the fully-fledged lady I am!
+I'm the first of the Special Type-III destroyers, Akatsuki. I was based on the Fubuki-class, with improved cruising efficiency and range. I'm the most refined of destroyers! I'm quite the lady, as you can see! I-I really am...!
+438
+なし
+439
+なし
+440
+なし
+441
+Littorio
+The second ship of the Vittorio Veneto-class battleships, Littorio. I have confidence in my speed and firepower. Nice to meet ya ~
+I was born in the country of Pasta. Second ship of the Vittorio Veneto class battleship, Littorio. Armed with high speed armaments and a state-of-the-art fast battleship. I have my sister, Roma, with me. It's a pleasure to meet you.
+442
+Roma
+I'm the fourth battleship of the Vittorio Veneto-class, Roma. Nice to meet you. What? Please don't stare at me, okay?
+The Italian-made, state of the art warship. Fourth of the Vittorio Veneto class battleships, Roma. Yes, I was together with my elder sister at that time. The day those monsters were dropped. I won't forget that pain. I absolutely won't forget it.
+443
+Libeccio
+Buongiorno! I'm Libeccio, a Maestrale-class destroyer! Just Libe is fine. Nice to meet you Admiral!
+Italian Navy Destroyer, third Maestrale-class, Libeccio. Admiral, Nice to meet you!  What, Battle of Taranto? That's easy! Although I wanted to do my best in escort fleet, I want to quit in the middle of the rescue.
+444
+なし
+445
+Akitsushima
+I'm Seaplane Tender Akitsushima! Make sure to remember me along with this Taitei-chan, alright!
+I'm the Seaplane Tender Akitsushima! That's right, I'm a Flying Boat Tender constructed for the sake of assisting Large-sized Flying Boat and refueling at sea, among other things! Eh? Is my "makeup" too heavy? You're rude, maybe! I'm not letting you have Type 2 Taitei-chan, kay!
+446
+Italia
+The second ship of the Vittorio Veneto-class battleships, Littorio. I have confidence in my speed and firepower. Nice to meet ya ~
+I was born in the country of Pasta. Second ship of the Vittorio Veneto class battleship, Littorio. Armed with high speed armaments and a state-of-the-art fast battleship. I have my sister, Roma, with me. It's a pleasure to meet you.
+447
+Roma Kai
+I'm the fourth battleship of the Vittorio Veneto-class, Roma. Nice to meet you. What? Please don't stare at me, okay?
+The Italian-made, state of the art warship. Fourth of the Vittorio Veneto class battleships, Roma. Yes, I was together with my elder sister at that time. The day those monsters were dropped. I won't forget that pain. I absolutely won't forget it.
+448
+なし
+449
+なし
+450
+Akitsushima Kai
+I'm Seaplane Tender Akitsushima! Have you already remembered Taitei-chan and I?
+I'm the Seaplane Tender Akitsushima! That's right, I'm a Flying Boat Tender constructed for the sake of assisting Large-sized Flying Boat and refueling at sea, among other things! Eh? Is my "makeup" too heavy? You're rude, maybe! I'm not letting you have Type 2 Taitei-chan, kay!
+451
+Mizuho
+Admiral, thank you for your hard work. Seaplane Tender Mizuho has now arrived. It is a pleasure to meet you.
+I am a seaplane tender, Mizuho. Together with Chitose and Chiyoda, I am capable of utilizing the Kouhyouteki midget submarine. Although I was not bestowed with the latest model engine, I manage to participate at the start of the Southern Operations. I shall do my best to meet your expectations.
+452
+なし
+453
+Kazagumo
+Third ship of the Yuugumo class destroyers, Kazagumo. So you're the admiral. Roger. Well then, your orders!
+Fleet type destroyer, Yuugumo class, Kazagumo. Regards. From Midway to Solomon, I advanced around the main battlefields. On that fateful night, I looked upon the burning aircraft carrier. I'll never forget the dragon's last moments.
+454
+Arashi
+Yo, I'm the 16th Kagerou-class Destroyer, Arashi!
+I'm the 16th ship in the Kagerou-class Destroyer line. I was part of the Fourth Destroyer Squadron, and was an asset to the Fourth Torpedo Squadron. At Midway, I was assigned as an escort to the Nagumo Carrier Task Force. After that, I also did occasional stints at the frontline as needed......Remember me... and my comrades of the Fourth Destroyer Squadron. Please.
+455
+Hagikaze
+Hagikaze, 17th Ship of the Kagerou-class Destroyer, reporting! Commander, please give me your orders!
+I am Hagikaze, the 17th ship of the Kagerou-class Destroyer. I was born in Uraga. I worked diligently as part of the Fourth Destroyer Division with Arashi. Being the escort of the Nagumo Taskforce, I took part in the unforgiving battle in the Solomon Islands. I was with Arashi on my last night to. Please remember us, the Fourth Destroyer Division.
+456
+なし
+457
+なし
+458
+Umikaze
+I am Umikaze, the Seventh of the Shiratsuyu-class Destroyer, and the First of the Revised Shiratsuyu-class. I'll be in your care, Admiral!
+I am Umikaze, the Seventh of the Shiratsuyu Class Destroyer, and the First of the Revised Shiratsuyu Class. I was built according to the second Naval Armaments Supplement Program. I participated in the Battle of Guadalcanal, as part of the Second Torpedo Squadron. I will be in your care, Admiral.
+459
+Kawakaze
+The ninth Shiratsuyu-class Destroyer, Kawakaze of the revised Shiratsuyu-class. Nice to meet you! Ah, about the reading of my name, do not get it wrong!
+Ninth ship of the Shiratsuyu-class, the revised Shiratsuyu-class destroyer, Kawakaze. Well now, I was built under the Maru 2 program, the same as Umikaze and our big sisters. Maaan, that was some hard, hard work! We sailed the Solomon's seas many times over. My last moments were during night battle. The enemy's radar... really, what foul play!
+460
+Hayasui
+Good morning!　I'm Hayasui, an oiler equipped with seaplanes!　I'll do my best to support everyone!
+Fleet escort oiler, Hayasui. Best regards! I'm a multi-purpose refuel vessel that can supply a variety of different materials and am also designed to carry carrier-based aircraft. With a change of plans after the Battle of Midway, I also became able to launch Ryuusei.
+461
+Shoukaku Kai Ni
+I'm Shoukaku, the first of the Shoukaku-class carriers. Alongside Zuikaku as remodeled Shoukaku-class, I'm hoping to be a useful source of strength for the admiral.
+I'm Shoukaku, the first ship in the Shoukaku carrier series. I was designed and built as the first purpose-built large regular carrier to serve after the Washington Treaty was renounced. With my sister Zuikaku, we make the fifth carrier division. Following the tragedy, we followed in the footsteps of our seniors and continued to support the front lines. And now, having gotten over Mariana, I wish to continue taking a leap forward with the admiral.
+462
+Zuikaku Kai Ni
+The carrier whose rigging was completely modernized, Zuikaki here. Don't confuse me for your average aircraft carrier!
+Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Mobile Fleet along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Mobile Fleet was completely annihilated. ...However, this time will be different! I will show you the strength and potential of a fully remodeled aircraft carrier! Shoukaku-nee, let's do this!
+463
+Iowa
+Hi! I am the Iowa-class battleship, Iowa. You're the admiral of this fleet? Hmm... not bad! The pleasure is all mine!
+Hi! I'm the name ship of the Iowa-class battleships, Iowa. Although I'm a high-speed battleship, I'm heavily armed, and could be said to be the penultimate form of battleship. As the last of the battleship classes born in the USA, I will work hard for the fleet. Take good care of me!
+464
+なし
+465
+Kashima
+Mr. Admiral, thanks for the hard work. Training cruiser, Kashima, checking in! Ufufu!
+Second of the Katori-class training cruisers— the little sister, Kashima. I was built at a time of peaceful waters in order to raise a new generation of capable fleet ships. The time spent on my original duty wasn't long, but I gave my very best both as a fleet flagship and escort. After the battle ended, for the sake of the future, I worked very hard! Please don't forget about my services, okay?
+466
+Shoukaku Kai Ni A
+I'm Shoukaku, the first of the Shoukaku-class carriers. Alongside Zuikaku as remodeled Shoukaku-class, I'm hoping to be a useful source of strength for the admiral.
+I'm Shoukaku, the first ship in the Shoukaku carrier series. I was designed and built as the first purpose-built large regular carrier to serve after the Washington Treaty was renounced. With my sister Zuikaku, we make the fifth carrier division. Following the tragedy, we followed in the footsteps of our seniors and continued to support the front lines. And now, having gotten over Mariana, I wish to continue taking a leap forward with the admiral.
+467
+Zuikaku Kai Ni A
+Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it— I just fight with all my might... you see? As long as I still have planes, I won't lose!
+Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Mobile Fleet along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Mobile Fleet was completely annihilated...
+501
+Destroyer I-Class
+502
+Destroyer Ro-Class
+503
+Destroyer Ha-Class
+504
+Destroyer Ni-Class
+505
+Light Cruiser Ho-Class
+506
+Light Cruiser He-Class
+507
+Light Cruiser To-Class
+508
+Torpedo Cruiser Chi-Class
+509
+Heavy Cruiser Ri-Class
+510
+Light Carrier Nu-Class
+511
+Battleship Ru-Class
+512
+Standard Carrier Wo-Class
+513
+Transport Ship Wa-Class
+514
+Destroyer I-Class
+515
+Destroyer Ro-Class
+516
+Destroyer Ha-Class
+517
+Destroyer Ni-Class
+518
+Light Cruiser Ho-Class
+519
+Light Cruiser He-Class
+520
+Light Cruiser To-Class
+521
+Torpedo Cruiser Chi-Class
+522
+Heavy Cruiser Ri-Class
+523
+Light Carrier Nu-Class
+524
+Battleship Ru-Class
+525
+Standard Carrier Wo-Class
+526
+Transport Ship Wa-Class
+527
+Heavy Cruiser Ri-Class
+528
+Standard Carrier Wo-Class
+529
+Battleship Ru-Class
+530
+Submarine Ka-Class
+531
+Submarine Yo-Class
+532
+Submarine Ka-Class
+533
+Submarine Yo-Class
+534
+Submarine Ka-Class
+535
+Submarine Yo-Class
+536
+Floating Fortress
+537
+Floating Fortress
+538
+Floating Fortress
+539
+Anchorage Demon
+540
+Anchorage Princess
+541
+Battleship Ta-Class
+542
+Battleship Ta-Class
+543
+Battleship Ta-Class
+544
+装 A空母鬼
+545
+装 A空母姫
+546
+Southern Demon
+547
+Southern War Demon
+548
+Southern War Princess
+549
+Escort Fortress
+550
+Escort Fortress
+551
+Escort Fortress
+552
+Destroyer Ro-Class
+553
+Destroyer Ha-Class
+554
+Light Cruiser Ho-Class
+555
+Light Cruiser He-Class
+556
+Airfield Princess
+557
+Battleship Princess
+558
+Transport Ship Wa-Class
+559
+Torpedo Cruiser Chi-Class
+560
+Light Carrier Nu-Class
+561
+Battleship Re-Class
+562
+Battleship Re-Class
+563
+なし
+564
+Destroyer I-Class
+565
+Standard Carrier Wo-Class Kai
+566
+Heavy Cruiser Ri-Class Kai
+567
+Battleship Ru-Class Kai
+568
+なし
+569
+なし
+570
+Submarine So-Class
+571
+Submarine So-Class
+572
+Submarine So-Class
+573
+Harbour Princess
+574
+Isolated Island Demon
+575
+Destroyer I-Class Late Model
+576
+Destroyer Ro-Class Late Model
+577
+Destroyer Ha-Class Late Model
+578
+Destroyer Ni-Class Late Model
+579
+Standard Carrier Wo-Class
+580
+なし
+581
+Northern Princess
+582
+Northern Princess
+583
+Midway Princess
+584
+Midway Princess
+585
+Aircraft Carrier Demon
+586
+Aircraft Carrier Princess
+587
+Northern Princess
+588
+Northern Princess
+589
+Northern Princess
+590
+Northern Princess
+591
+Light Cruiser Tsu-Class
+592
+Light Cruiser Tsu-Class
+593
+なし
+594
+Heavy Cruiser Ne-Class
+595
+Heavy Cruiser Ne-Class
+596
+なし
+597
+Destroyer Princess
+598
+Destroyer Princess
+599
+Aircraft Carrier Water Demon
+600
+Aircraft Carrier Water Demon
+601
+Light Cruiser Demon
+602
+Light Cruiser Demon
+603
+Battleship Water Demon
+604
+Battleship Water Demon
+605
+Harbour Water Demon
+606
+Harbour Water Demon
+607
+Harbour Water Demon
+608
+Harbour Water Demon
+609
+Anchorage Water Demon
+610
+Anchorage Water Demon
+611
+Anchorage Water Demon
+612
+Anchorage Water Demon
+613
+Harbour Princess
+614
+Standard Carrier Wo-Class
+615
+Standard Carrier Wo-Class
+616
+Standard Carrier Wo-Class Kai
+617
+Standard Carrier Wo-Class Kai
+618
+Standard Carrier Wo-Class Kai
+619
+Aircraft Carrier Demon
+620
+Aircraft Carrier Princess
+621
+Destroyer I-Class Late Model
+622
+Destroyer Ro-Class Late Model
+623
+Destroyer Ha-Class Late Model
+624
+Destroyer Ni-Class Late Model
+625
+Seaplane Tender Princess
+626
+Seaplane Tender Princess
+627
+Seaplane Tender Princess
+628
+Air Defense Princess
+629
+Air Defense Princess
+630
+Air Defense Princess
+631
+Airfield Princess
+632
+Airfield Princess
+633
+Airfield Princess
+634
+Isolated Island Demon
+635
+Isolated Island Demon
+636
+Isolated Island Demon
+641
+Light Cruiser Princess
+642
+Light Cruiser Princess
+643
+Light Cruiser Princess
+644
+Submarine Princess
+645
+Submarine Princess
+646
+Submarine Princess
+650
+Canal Princess
+651
+Canal Princess
+652
+Canal Princess
+653
+Central Princess
+654
+Central Princess
+655
+Central Princess
+901
+Xmas Naka
+902
+Xmas Naka Kai Ni
+903
+Xmas Shigure Kai Ni
+904
+Xmas Ryuujou
+905
+Xmas Ryuujou Kai Ni
+906
+Xmas Sazanami
+907
+Year-end Akebono
+908
+New Year Yuudachi Kai Ni
+909
+New Year Akashi
+910
+New Year Akashi Kai
+911
+New Year Ooyodo
+912
+New Year Ooyodo Kai
+913
+Valentine Mutsuki
+914
+Valentine Kisaragi
+915
+Valentine Murakumo
+916
+Valentine Shigure Kai Ni
+917
+Valentine Hamakaze
+918
+Rainy Season Shouhou
+919
+Rainy Season Murasame Kai
+920
+Rainy Season Takanami
+921
+Summer Oboro
+922
+Summer Akebono
+923
+Summer Sazanami
+924
+Summer Ushio
+925
+Summer Ushio Kai Ni
+926
+Summer Shiratsuyu Kai
+927
+Summer Shigure Kai Ni
+928
+Summer Yuudachi Kai Ni
+929
+Summer Murasame Kai
+930
+Summer Tenryuu
+931
+Summer Tatsuta
+932
+Summer Akashi Kai
+933
+Summer Littorio
+934
+Summer Italia
+935
+Autumn Oboro
+936
+Autumn Isokaze
+937
+Autumn Isokaze Kai
+938
+Autumn Urakaze
+939
+Autumn Hamakaze
+940
+Autumn Kawakaze
+941
+Autumn Z1
+942
+Autumn Ikazuchi
+943
+Autumn Inazuma
+944
+Autumn Nagara
+945
+Autumn Natori
+946
+Autumn Kuma
+947
+Autumn Tama
+948
+Autumn Ooyodo Kai
+949
+Autumn Jintsuu Kai Ni
+950
+Autumn Mizuho
+Saving changes shown above to : en/Xml/tables/master/mst_shiptext.xml
+Changes compiled. To start over, replace the `Xml/` folder in `en/` with the one from `jp/`.

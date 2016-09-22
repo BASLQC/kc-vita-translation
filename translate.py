@@ -1,4 +1,5 @@
 import os
+import re
 import json
 import xmltodict
 
@@ -24,6 +25,18 @@ def ships(): # translate all ship names
 			#item['Name'] = 'None'
 			#print(item['Id'], item['Name'])
 			#continue
+
+		# 544 装甲空母鬼 = Armored Carrier Demon
+		if item['Name'] == "装甲空母鬼":
+			item['Name'] = 'Armored Carrier Demon'
+			print(item['Id'], item['Name'])
+			continue
+
+		# 545 装甲空母姫 = Armored Carrier Priness
+		if item['Name'] == "装甲空母姫":
+			item['Name'] = 'Armored Carrier Princess'
+			print(item['Id'], item['Name'])
+			continue
 
 		# 650 運河棲姫 = Canal Princess, unique to Vita
 		if item['Name'] == "運河棲姫":
@@ -75,7 +88,7 @@ def ships(): # translate all ship names
 		filedata = f.read()
 	
 	filedata = filedata.replace('<Yomi></Yomi>', '<Yomi />') # in memory but should be small
-	
+
 	with open(os.path.join(en_xml_dir, 'mst_ship.xml'), 'w') as f:
 		f.write(filedata)
 
@@ -153,46 +166,67 @@ def quotes():
 	shipxml_fname = 'mst_ship.xml'
 	shipxml = xmltodict.parse(open(os.path.join(en_xml_dir, shipxml_fname), 'rb'))
 
-	# compile a shiphash table by processing shiplist XML
+	# compile a shiphash table with Id as key by processing shiplist XML
 	shiplist = {}
 	for item in shipxml['mst_ship_data']['mst_ship']:
 		shiplist[item['Id']] = item['Name']
 
+	# compile a shiphash table with Name as key
+	shipnames = {}
+	for item in shipxml['mst_ship_data']['mst_ship']:
+		shipnames[item['Name']] = item['Id']
+
 	# replace all names with corresponding unicode string
 	for item in xml['mst_shiptext_data']['mst_shiptext']:
-		# take kanji name (without trailing words) and match to translation
-		item['OrigGetMes'] = str(item['Getmes'])
-		item['OrigSinfo'] = str(item['Sinfo']) # temporarily add original sinfo and getmessage to be sure
+		if (item['Id'] == '147'): # Verniy
+			item['Getmes'] = datalist['147']['1'] # retain original getmessage
+			item['Sinfo'] = datalist['35']['25']
+			continue
+		elif (item['Id'] == '357') or (item['Id'] == '463'): # Iowa
+			item['Getmes'] = datalist['440']['1']
+			item['Sinfo'] = datalist['440']['25']
+			continue
+		
+		# Skip null shiptext IDs
+		if (item['Getmes'] == None) and (item['Sinfo'] == None):
+			continue
 		
 		try:
-			item['Ship'] = shiplist[item['Id']]
-		except KeyError:
-			item['Ship'] = 'Unknown'
-		
-		try:
-			if (item['Getmes'] == None) and (item['Sinfo'] == None):
-				continue
-			
-			print(item['Id'])
-			print(item['Ship'])
-			print(item['Getmes'])
-			print(item['Sinfo'])
-#			item['Getmes'] = datalist[item['Id']]['1']
-#			item['Sinfo'] = datalist[item['Id']]['25']
-			print(datalist[item['Id']]['1'])
-			print(datalist[item['Id']]['25'])
-
-		except KeyError: # ignore ship IDs with empty slots
+			item['Getmes'] = datalist[item['Id']]['1']
+		except KeyError: # if get message not found, check if kai
 			pass
+		
+		try:
+			item['Sinfo'] = datalist[item['Id']]['25']
+		except KeyError: # ignore ship IDs with empty slots
+			# if Sinfo is missing, get base name to find and insert base ship text
+			fullname = shiplist[item['Id']].split()
+			
+			try:
+				base_id = shipnames[fullname[0]] # find basename ID
+				item['Getmes'] = datalist[base_id]['1']
+				item['Sinfo'] = datalist[base_id]['25']
+			except KeyError:
+				pass
+
 	
 	# save changes to file
 	print("Saving changes shown above to :", os.path.join(en_xml_dir, xml_fname))
-#	with open(os.path.join(en_xml_dir, xml_fname), 'w') as f:
-#		f.write(xmltodict.unparse(xml, pretty=True))
+	with open(os.path.join(en_xml_dir, xml_fname), 'w') as f:
+		f.write(xmltodict.unparse(xml, pretty=True))
 
-ships()
+	# open file again and convert `<Yomi></Yomi>` to `<Yomi />`, which the program expects apparently
+	with open(os.path.join(en_xml_dir, xml_fname), 'r') as f:
+		filedata = f.read()
+	
+	filedata = re.sub(r'\<(\w+)\>\</(\w+)\>', r'<\1 />', filedata) # in memory but should be small
+
+	with open(os.path.join(en_xml_dir, xml_fname), 'w') as f:
+		f.write(filedata)
+
+#ships()
 #slot_items()
 #quests()
 #stype()
-#quotes()
+quotes()
 print("Changes compiled. To start over, replace the `Xml/` folder in `en/` with the one from `jp/`.")
