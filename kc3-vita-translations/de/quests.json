@@ -1,0 +1,1106 @@
+{
+    "101": {
+        "name": "Meine erste Flotte!",
+        "desc": "Habe mindestens 2 Schiffe in deiner Hauptflotte."
+    },
+    "102": {
+        "name": "Bilde eine Zerstörerflotte!",
+        "desc": "Habe mindestens vier Zerstörer in deiner Hauptflotte."
+    },
+    "103": {
+        "name": "Bilde ein Torpedobootgeschwader!",
+        "desc": "Habe einen leichten Kreuzer als Flaggschiff und fünf Zerstörer in deiner Hauptflotte."
+    },
+    "104": {
+        "name": "Bilde eine Flotte mit sechs Schiffen!",
+        "desc": "Habe sechs Schiffe in deiner Hauptflotte."
+    },
+    "105": {
+        "name": "Bilde ein Geschwader mit zwei leichten Kreuzern!",
+        "desc": "Habe zwei leichte Kreuzer in deiner Hauptflotte."
+    },
+    "106": {
+        "name": "Bilde ein schweres Kreuzergeschwader!",
+        "desc": "Habe zwei schwere Kreuzer in deiner Hauptflotte."
+    },
+    "107": {
+        "name": "Bilde eine Flugzeugträger-Kriegsflotte!",
+        "desc": "Habe einen leichten oder Stundard-Flugzeugträger als Flaggschiff und drei Zerstörer in deiner Hauptflotte."
+    },
+    "108": {
+        "name": "Stelle die Tenryuu-Klasse zusammen!",
+        "desc": "Habe Tenryuu (\u5929\u9f8d) und Tatsuta (\u9f8d\u7530) in deiner Hauptflotte."
+    },
+    "109": {
+        "name": "Stelle die Sendai-Klasse zusammen!",
+        "desc": "Habe Sendai (\u5ddd\u5185), Jintsuu (\u795e\u901a) und Naka (\u90a3\u73c2) in deiner Hauptflotte."
+    },
+    "110": {
+        "name": "Stelle die Myoukou-Klasse zusammen!",
+        "desc": "Habe Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4) und Haguro (\u7fbd\u9ed2) in deiner Hauptflotte."
+    },
+    "111": {
+        "name": "Stelle die Fusou-Klasse zusammen!",
+        "desc": "Habe Fusou (\u6276\u6851) und Yamashiro (\u5c71\u57ce) in deiner Hauptflotte."
+    },
+    "112": {
+        "name": "Stelle die Ise-Klasse zusammen!",
+        "desc": "Habe Ise (\u4f0a\u52e2) und Hyuuga (\u65e5\u5411) in deiner Hauptflotte."
+    },
+    "113": {
+        "name": "Bilde eine Hauptflotte mit Schlachtschiffen und schweren Kreuzern!",
+        "desc": "Habe ein Schlachtschiff und zwei schwere Kreuezr in deiner Hauptflotte."
+    },
+    "114": {
+        "name": "Bilde die Nagumo-Trägerflotte!",
+        "desc": "Habe ausschließlich Akagi (\u8d64\u57ce), Kaga (\u52a0\u8cc0), Hiryuu (\u98db\u9f8d) und Souryuu (\u84bc\u9f8d) in deiner Hauptflotte."
+    },
+    "115": {
+        "name": "Erstelle die zweite Flotte!",
+        "desc": "Habe ein Flaggschiff in deiner zweiten Flotte."
+    },
+    "116": {
+        "name": "Sende einen Seeflugzeugträger aus!",
+        "desc": "Habe an AV in deiner Hauptflotte."
+    },
+    "117": {
+        "name": "Bilde eine Flugzeugträger-Einsatzgruppe in der zweiten Flotte!",
+        "desc": "Habe eine leichten oder Standard-Flugzeugträger und drei Zerstörer in deiner zweiten Flotte."
+    },
+    "118": {
+        "name": "Stelle die Kongou-Klasse zusammen!",
+        "desc": "Habe Kongou (\u91d1\u525b), Hiei (\u6bd4\u53e1), Haruna (\u699b\u540d) und Kirishima (\u9727\u5cf6) in deiner Hauptflotte."
+    },
+    "119": {
+        "name": "Bilde die Mikawa-Flotte!",
+        "desc": "Habe Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9), Tenryuu (\u5929\u9f8d) und ein SCHNELLES Schiff in deiner Hauptflotte."
+    },
+    "120": {
+        "name": "Bilde die 6. Zerstörer-Division!",
+        "desc": "Habe ausschließlich Akatsuki (\u6681), Hibiki (\u97ff), Inazuma (\u96f7) und Ikazuchi (\u96fb) in deiner Hauptflotte."
+    },
+    "121": {
+        "name": "Bilde die 4. Kreuzer-Division!",
+        "desc": "Habe Atago (\u611b\u5b95), Takao (\u9ad8\u96c4), Choukai (\u9ce5\u6d77) und Maya (\u6469\u8036) in deiner Hauptflotte."
+    },
+    "122": {
+        "name": "Bilde die Nishimura-Flotte!",
+        "desc": "Habe Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a) und Shigure (\u6642\u96e8) in deiner Hauptflotte."
+    },
+    "123": {
+        "name": "Bilde die 5. Flugzeugträger-Division!",
+        "desc": "Habe Shoukaku (\u7fd4\u9db4), Zuikaku (\u745e\u9db4) und 2 DD in deiner Hauptflotte."
+    },
+    "124": {
+        "name": "Bilde die neue Mikawa-Flotte!",
+        "desc": "Habe Choukai (\u9ce5\u6d77), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9) und Tenryuu (\u5929\u9f8d) in deiner Hauptflotte."
+    },
+    "125": {
+        "name": "Bilde eine U-Boot-Flotte!",
+        "desc": "Habe zwei U-Boote in deiner Hauptflotte."
+    },
+    "126": {
+        "name": "Bilde eine Marineflieger-Flotte!",
+        "desc": "Habe zwei Hybridflugzeugträger und zwei Flugdeckkreuzer in deiner Hauptflotte."
+    },
+    "127": {
+        "name": "Bilde eine mittelgroße U-Boot-Flotte!",
+        "desc": "Habe drei U-Boote in deiner Hauptflotte."
+    },
+    "128": {
+        "name": "Bilde die 6. Kreuzer-Division!",
+        "desc": "Habe Furutaka (\u53e4\u9df9), Kako(\u52a0\u53e4), Aoba (\u9752\u8449) und Kinugasa (\u8863\u7b20) in deiner Hauptflotte."
+    },
+    "129": {
+        "name": "Bilde die 5. Kreuzer-Division!",
+        "desc": "Habe Nachi (\u90a3\u667a), Ashigara (\u8db3\u67c4), Tama (\u591a\u6469), und Kiso (\u6728\u66fe) in deiner Flotte."
+    },
+    "130": {
+        "name": "Bilde das erste Torpedobootgeschwader!",
+        "desc": "Habe Abukuma (\u963f\u6b66\u9688), Akebono (\u66d9), Ushio (\u6f6e), Kasumi (\u971e) und Shiranui (\u4e0d\u77e5\u706b) in deiner Flotte."
+    },
+    "131": {
+        "name": "Bilde die 8. Zerstörer-Division!",
+        "desc": "Habe Asashio (\u671d\u6f6e), Michishio (\u6e80\u6f6e), Ooshio (\u5927\u6f6e) und Arashio (\u8352\u6f6e) in deiner Flotte."
+    },
+    "132": {
+        "name": "Bilde die 18. Zerstörerflotte!",
+        "desc": "Habe ausschließlich Kasumi (\u971e), Arare (\u9730), Kagerou (\u967d\u708e) und Shiranui (\u4e0d\u77e5\u706b) in deiner Flotte."
+    },
+    "133": {
+        "name": "Bilde die 30. Zerstörerflotte (erste Generation)!",
+        "desc": "Habe ausschließlich Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f) und Mochizuki (\u671b\u6708) in deiner Flotte."
+    },
+    "134": {
+        "name": "Im Namen der Liebe! (Teil 3)",
+        "desc": "Bereite dich schon mal emotional vor und schicke deine Flotte mit einem Lv.90~99 Flaggschiff los!"
+    },
+    "135": {
+        "name": "Eine neue Reise!",
+        "desc": "Erstelle eine Flotte mit sechs Schiffen und deinem ganz besonderen Schiff als Lv.100+ Flaggschiff!"
+    },
+    "136": {
+        "name": "Bilde die 30. Zerstörerflotte (zweite Generation)",
+        "desc": "Habe ausschließlich Mutsuki (\u7766\u6708), Yayoi (\u5f25\u751f), Uzuki (\u536f\u6708) und Mochizuki (\u671b\u6708) in deiner Flotte."
+    },
+    "137": {
+        "name": "Bilde die 5. Kreuzer-Division",
+        "desc": "Habe Myoukou (\u5999\u9ad8), Nachi (\u90a3\u667a) und Haguro (\u7fbd\u9ed2) in deiner Flotte."
+    },
+    "138": {
+        "name": "Bilde die neue zweite Flugzeugträgerflotte!",
+        "desc": "Habe Hiryuu Kai-2 (\u98db\u9f8d\u6539\u4e8c, as the Flaggschiff), Souryuu (\u84bc\u9f8d) und zwei Zerstörer in deiner Flotte."
+    },
+    "139": {
+        "name": "Bilde die sechste U-Boot-Flotte",
+        "desc": "Habe ein U-Boot-Begleitschiff und mindestens vier U-Boote in deiner Flotte."
+    },
+    "140": {
+        "name": "Teste den neuen Radar!",
+        "desc": "Habe Myoukou Kai-2 als Flaggschiff in deiner Flotte."
+    },
+    "141": {
+        "name": "Verbessere die neu organisierte zweite Flugzeugträger-Division!",
+        "desc": "Habe Souryuu Kai-2 (\u84bc\u9f8d\u6539\u4e8c) as Flaggschiff with Hiryuu Kai-2 (\u98db\u9f8d\u6539\u4e8c) und zwei Zerstörer in deiner Flotte."
+    },
+    "142": {
+        "name": "Bilde die 3. Elite Schlachtschiff-Division",
+        "desc": "Habe alle vier Schlachschiffe der Kongou-Klasse als Kai-2 in deiner Hauptflotte."
+    },
+    "143": {
+        "name": "Setze den neuen Standard-Flugzeugträger ein",
+        "desc": "Habe Unryuu (\u96f2\u9f8d) als Flaggschiff in deiner Hauptflotte."
+    },
+    "144": {
+        "name": "Bilde die 2. Schlachtschiff-Division!",
+        "desc": "Habe alle Schlachtschiffe der Nagato- und Fusou-Klasse (und keine anderen Schiffe) in deiner Hauptflotte."
+    },
+    "145": {
+        "name": "Erstelle eine Kampfflotte, die größtenteils aus Schlachtschiffen besteht!",
+        "desc": "Habe drei Schlachtschiffe aus der Nagato-, Fusou-, Ise- oder Yamato-Klasse und einen leichten Kreuzer in deiner Flotte."
+    },
+    "146": {
+        "name": "Bereite die Verbesserungsfabrik vor!",
+        "desc": "Habe Akashi (\u660e\u77f3) als Flaggschiff in deiner Hauptflotte."
+    },
+    "147": {
+        "name": "Bilde die Nishimura-Flotte",
+        "desc": "Habe Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8) und Michishio (\u6e80\u6f6e) in deiner Hauptflotte."
+    },
+    "148": {
+        "name": "Organisiere ein Gegenangriffsgeschwader",
+        "desc": "Habe Kasumi (\u971e) als Flaggschiff, Ashigara (\u8db3\u67c4), einen leichten Kreuzer und drei weitere Zerstörer in deiner Hauptflotte."
+    },
+    "149": {
+        "name": "Bilde die 11. Zerstörer-Division",
+        "desc": "Habe die vier Zerstörer der Fubuki-Klasse: Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) und Murakumo(\u53e2\u96f2) in deiner Hauptflotte. Eine von denen sollte das Flaggschiff sein."
+    },
+    "150": {
+        "name": "Bilde die 21. Zerstörer-Division",
+        "desc": "Habe ausschließlich Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) und Hatsushimo (\u521d\u971c) in deiner Hauptflotte."
+    },
+    "151": {
+        "name": "Bilde die 22. Zerstörer-Division",
+        "desc": "Habe ausschließlich Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708) und einen weiteren Zerstörer in deiner Hauptflotte."
+    },
+    "152": {
+        "name": "Bilde die erneuerte Mikawa-Flotte",
+        "desc": "Habe Choukai Kai-2 als Flaggschiff und von Aoba, Kinugasa, Kako, Furutaka, Tenryuu und Yuubari fünf beliebige Schiffe in deiner Hauptflotte."
+    },
+    "153": {
+        "name": "Bilde die 18. Kreuzer-Division neu!",
+        "desc": "Habe Tenryuu, Tatsuta und mindestens zwei weitere Schiffe in deiner Flotte."
+    },
+	"154": {
+        "name": "Bilde eine Oberflächenflotte!",
+        "desc": "Habe Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi und Inazuma in deiner Flotte."
+    },
+	"155": {
+        "name": "Bilde die neue 6. Zerstörer-Division!",
+        "desc": "Habe Akatsuki Kai-2 als Flaggschiff zusammen mit Hibiki/Верный, Ikazuchi und Inazuma in deiner Flotte."
+    },
+	"156": {
+        "name": "Vorbereitung des ersten Torpedobootgeschwaders für einen Ausfall in die nördlichen Gewässer!",
+        "desc": "Habe Abukuma als Flaggschiff zusammen mit Hibiki/Верный, Hatsushimo, Wakaba, Samidare und Shimakaze in deiner Flotte."
+    },
+	"157": {
+        "name": "Vorbereitung des ersten Torpedobootgeschwaders für einen erneuten Ausfall in die nördlichen Gewässer!",
+        "desc": "Habe Abukuma Kai-2 als Flaggschiff zusammen mit Hibiki/Верный, Yuugumo, Naganami, Akigumo und Shimakaze in deiner Flotte."
+    },
+	"161": {
+        "name": "Stelle die 5. Flugzeugträger-Division neu zusammen!",
+        "desc": "Habee Shoukaku, Zuikaku, Oboro und Akigumo in deiner Flotte."
+    },
+  "162": {
+        "name": "Bereite die neue 21. Kreuzer-Division für einen Ausfall vor!",
+        "desc": "Habe Nachi Kai-2, Ashigara Kai-2, Tama und Kiso in deiner Flotte."
+    },
+  "163": {
+        "name": "Stelle die 16. Kreuzer-Division (Erste Generation) zusammen!",
+        "desc": "Habe Ashigara als Flaggschiff zusammen mit Kuma und Nagara in deiner Flotte."
+    },
+	"164": {
+		"code": "A59",
+        "name": "Organisiere die 3. Flugzeugträgerdivision",
+        "desc": "Habe Zuikaku Kai als Flaggschiff und Zuihou, Chitose (beide CVL) in deiner Hauptflotte"
+    },
+	"165": {
+		"code": "A60",
+        "name": "Organisiere die 4. Flugzeugträgerdivision",
+        "desc": "Habe Ise Kai und Hyuuga Kai in deiner Haupflotte"
+    },
+	"166": {
+		"code": "A61",
+        "name": "Organisiere Ozawas Flotte",
+        "desc": "Habe Zuikaku Kai als Flaggschiff und Zuihou, Chitose (beide CVL) in deiner Hauptflotte"
+    },
+    "167": {
+		"code": "A62",
+        "name": "Organisiere eine neue Flugzeugträgerdivision",
+        "desc": "Habe Zuikaku Kai Ni, Shoukaku Kai Ni und zwei Zerstörer in deiner Hauptfltte"
+    },
+	"168": {
+		"code": "A63",
+        "name": "Organisiere das 16. Geschwader (zweite Generation)",
+        "desc": "Habe Natori als Flaggschiff und Isuzu und Kinu in deiner Flotte"
+    },
+	"169": {
+		"code": "A64",
+        "name": "Organisiere eine neue Flugzeugträgerdivision",
+        "desc": "Habe 2 CV, 2 BBV/CAV und 2 DD in deiner Flotte"
+    },
+	"170": {
+		"code": "A65",
+        "name": "Verstärke den Oberflächengegenangriff",
+        "desc": "Habe Kasumi als Flaggschiff und Ashigara, Ooyodo und Kiyoshimo in deiner Flotte"
+    },
+	
+	
+	
+	
+    "202": {
+        "name": "Mein erster Einsatz!",
+        "desc": "Schicke deine Flotte in ein beliebiges Level."
+    },
+    "203": {
+        "name": "Beschütze die Gewässer vor dem Marinestützpunkt!",
+        "desc": "Schicke deine Flotte zu Welt [W1-1] Deploy to Welt [W1-1] und clear the stage."
+    },
+    "204": {
+        "name": "Mache einen Ausfall zu den Ryūkyū-Inseln!",
+        "desc": "Schicke deine Flotte zu Welt [W1-2] und gewinne gegen die Bossgegner-Flotte."
+    },
+    "205": {
+        "name": "Fange die feindliche Vorhutsflotte ab!",
+        "desc": "Schicke deine Flotte zu Welt [W1-2] nachdem du gegen die Bossgegner-Flotte bereits gewonnen hast und besiege sie nochmal."
+    },
+    "206": {
+        "name": "Sende ein Torpedobootgeschwader aus!",
+        "desc": "Schicke eine Flotte mit einem leichten Kreuzer als Flaggschiff und drei Zerstörern als Eskorte in ein beliebiges Level."
+    },
+    "207": {
+        "name": "Sende einen schweren Kreuzer aus!",
+        "desc": "Schicke eine Flotte mit einem schweren Kreuzer als Flaggschiff in beliebiges Level."
+    },
+    "208": {
+        "name": "Sende ein Schlachtschiff aus!",
+        "desc": "Schicke eine Flotte mit einem Schlachtschiff als Flaggschiff in ein beliebiges. Hybrid-Flugzeugträger zählen nicht als Schlachtschiff."
+    },
+    "209": {
+        "name": "Sende eine Flugzeugträger-Einsatzgruppe aus!",
+        "desc": "Schicke eine Flotte mit einem kleinen oder Standard-Flugzeugträger als Flagschiff und fünf Zerstörern/leichten Kreuzern/Seeflugzeugträgern als Eskortschiffe in ein beliebiges Level."
+    },
+    "215": {
+        "name": "Zweite Flotte, ausschwärmen!",
+        "desc": "Schicke deine zweite Flotte in ein beliebiges Level."
+    },
+    "217": {
+        "name": "Versenke einen feindlichen Flugzeugträger!",
+        "desc": "Versenke einen Flugzeugträger."
+    },
+    "219": {
+        "name": "Sende die Mikawa-Flotte aus!",
+        "desc": "Schicke eine Flotte mit Choukai, Aoba, Kako, Furutaka, Tenryuu und einem weiteren schnellen Schiff in ein beliebiges Level."
+    },
+    "222": {
+        "name": "Sende die 6. Zerstörer-Division aus!",
+        "desc": "Schicke eine Flotte mit ausschließlich Akatsuki, Hibiki, Inazuma und Ikazuchi in ein beliebiges Level."
+    },
+    "223": {
+        "name": "Sende die 4. Kreuzer-Division aus!",
+        "desc": "Schicke eine Flotte mit Atago, Takao, Choukai, Maya und zwei weiteren Schiffen zu Welt [W2-2] und gewinne gegen die Bossgegner-Flotte."
+    },
+    "224": {
+        "name": "Sende die Nishimura-Flotte aus!",
+        "desc": "Schicke eine Flotte mit Fusou, Yamashiro, Mogami, Shigure und zwei weiteren Schiffen zu Welt [W2-3] und gewinne gegen die Bossgegner-Flotte."
+    },
+    "225": {
+        "name": "Sende die 5. Flugzeugträger-Division aus!",
+        "desc": "Schicke eine Flotte mit Shoukaku, Zuikaku und vier weiteren zu Welt [W3-1] und gewinne gegen die Bossgegner-Flotte."
+    },
+    "227": {
+        "name": "Sende die neue Mikawa-Flotte aus!",
+        "desc": "Schicke eine Flotte mit Choukai, Aoba, Kinugasa, Kako, Furutaka und Tenryuu zu Welt [W2-3] und gewinne gegen die Bossgegner-Flotte."
+    },
+    "231": {
+        "name": "Sende eine U-Bott-Flotte aus!",
+        "desc": "Schicke eine Flotte mit zwei U-Booten und vier weiteren Schiffen zu Welt [W2-3] und gewinne gegen die Bossgegner-Flotte."
+    },
+    "232": {
+        "name": "Sende eine Marineflieger-Einsatzgruppe aus!",
+        "desc": "Schicke eine Flotte mit zwei Hybrid-Flugzeugträgern, zwei Flugdeckkreuzern und zwei weiteren Schiffen zu Welt [W4-2] und gewinne gegen die Bossgegner-Flotte."
+    },
+    "233": {
+        "name": "Sende die 6. Kreuzer-Division aus!",
+        "desc": "Schicke eine Flotte mit Furutaka, Kako, Kinugasa, Aoba und zwei weiteren Schiffen zu Welt [W2-3] und erziele einen S-Rang gegen die Bossgegner-Flotte."
+    },
+    "239": {
+        "name": "Sende die 8. Zerstörer-Division aus!",
+        "desc": "Schicke eine Flotte mit Asashio, Michishio, Ooshio, Arashio und zwei weiteren Schiffen zu Welt [W2-3] und gewinne gegen die Bossgegner-Flotte."
+    },
+    "240": {
+        "name": "Sende die 18. Zerstörer-Division aus!",
+        "desc": "Schicke eine Flotte mit Kasumi, Arare, Kagerou, Shiranui und zwei weiteren Schiffen zu Welt [W3-1] und gewinne gegen die Bossgegner-Flotte."
+    },
+    "244": {
+        "name": "Sende die 30. Zerstörer-Division (erste Generation) aus!",
+        "desc": "Schicke eine Flotte mit Mutsuki (\u7766\u6708), Kisaragi (\u5982\u6708), Yayoi (\u5f25\u751f), Mochizuki (\u671b\u6708) und bis zu zwei weiteren Zerstörern zu Welt [W3-2] und erziele mindestens einen C-Rang bei der Bossgegner-Flotte."
+    },
+    "245": {
+        "name": "Im Namen der Liebe! (Finale)",
+        "desc": "Schicke eine Flotte mit einem Lv.90~99 Flaggschiff zu Welt [W2-3] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "246": {
+        "name": "Unsere erste Mission zusammen!",
+        "desc": "Schicke eine Flotte mit einem Lv.100+ Flaggschiff zu Welt [W4-3] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "247": {
+        "name": "Sende eine Hybrid-Flugzeugträgerflotte aus!",
+        "desc": "Schicke deine Hauptflotte mit zwei Hybrid-Flugzeugträgern und bis zu vier weiteren Schiffen zu Welt [W4-4] and gewinne gegen die Bossgegner-Flotte."
+    },
+    "248": {
+        "name": "Die 30. Zerstörer-Division auf Anti-U-Boot Patroullie",
+        "desc": "Schicke Mutsuki, Yayoi, Uzuki und Mochizuki zu Welt [W1-5] und erziele mindestens einen C-Rang bei der Bossgegner-Flotte."
+    },
+    "250": {
+        "name": "Sende die 2. Flugzeugträger-Division aus",
+        "desc": "Schicke Hiryuu Kai-2 (\u98db\u9f8d\u6539\u4e8c) als Flaggschiff, Souryuu (\u84bc\u9f8d) , zwei Zerstörer und bis zu zwei weitere Schiffe zu Welt [W5-2] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "251": {
+        "name": "Sende die 2. Elite Flugzeugträger-Division aus",
+        "desc": "Schicke Souryuu Kai-2 (\u84bc\u9f8d\u6539\u4e8c) als Flaggschiff, Hiryuu Kai-2 (\u98db\u9f8d\u6539\u4e8c) , zwei Zerstörer und bis zu zwei weitere Schiffe zu Welt [W4-3] und erziele einen S-Rang gegen die Bossgegner-Flotte."
+    },
+    "252": {
+        "name": "Sende eine von Haruna angeführte Flotte aus",
+        "desc": "Schicke eine Flotte mit Haruna Kai-2 (\u699b\u540d\u6539\u4e8c) als Flaggschiff und bis zu fünf weiteren Schiffen zu Welt [W5-1] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "253": {
+        "name": "Sende die Flugzeuggruppe 601 aus",
+        "desc": "Schicke eine Flotte mit Unryuu Kai (\u96f2\u9f8d\u6539) als Flaggschiff zu Welt [W5-2] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "254": {
+        "name": "Sende ein leichtes Flugzeugträger-Geschwader aus",
+        "desc": "Schicke eine Flotte mit einem/zwei leichten Flugzeugträgern, einem leichten Kreuzer und drei/vier Zerstörern zu Welt [W2-1] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "255": {
+        "name": "Sende ein Torpedobootgeschwader zu den Bashi-Inseln",
+        "desc": "Schicke eine Flotte  einem/zwei leichten Kreuzer(n) (einer muss das Flaggschiff sein) und vier/fünf Zerstörern zu Welt [W2-2]. Versenke das Flaggschiff der Bossgegner-Flotte."
+    },
+    
+   
+    "258": {
+        "name": "Sende die 2. Schlachtschiff-Division aus",
+        "desc": "Schicke Nagato (\u9577\u9580), Mutsu (\u9678\u5965), Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce) und bis zu zwei weitere Schiffen zu Welt [W4-2] und erziele zweimal einen S-Rang bei der Bossgegner-Flotte."
+    },
+   
+    "260": {
+        "name": "Sende ein Schlachtschiff-Geschwader  in die nördlichen Gewässer",
+        "desc": "Schicke eine Flotte mit zwei Schlachtschiffen, einem leichten Flugzeugträger und bis zu drei weiteren Schiffen zu Welt [W3-5] und erziele einen S-Rang bei der Bossgegner-Flotte. Zwei Schlachtschiffe und ein leichter Flugzeugträger, nicht mehr und nicht weniger. Standard-Flugzeugträger sind nicht erlaubt. Hybrid-Flugzeugträger zählen nicht als Schlachtschiffe."
+    },
+    
+    "262": {
+        "name": "Sende die Nishimura-Flotte in die südlichen Gewässer",
+        "desc": "Schicke eine Flotte mit Fusou (\u6276\u6851), Yamashiro (\u5c71\u57ce), Mogami (\u6700\u4e0a), Shigure (\u6642\u96e8), Michishio (\u6e80\u6f6e) und einem zusätzlichen Schiff zu Welt [W5-1] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "263": {
+        "name": "Sende die 6. Kreuzer-Division in die südwestlichen Gewässer",
+        "desc": "Schicke eine Flotte mit Furutaka (\u53e4\u9df9), Kako (\u52a0\u53e4), Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20) und bis zu zwei weiteren Schiffen zu Welt [W2-5] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "267": {
+        "name": "Sende die 11. Zerstörer-Division aus",
+        "desc": "Sende eine Flotte mit Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea), Murakumo(\u53e2\u96f2) und bis zu zwei weiteren Schiffen zu Welt [W2-3] und gewinne gegen die Bossgegner-Flotte."
+    },
+    "268": {
+        "name": "Die 11. Zerstörer-Division auf Anti-U-Boot Patrouille",
+        "desc": "Deploy Fubuki (\u5439\u96ea), Shirayuki(\u767d\u96ea), Hatsuyuki (\u521d\u96ea) und Murakumo(\u53e2\u96f2) to Welt [W1-5] und get a score of at least C at the boss node."
+    },
+    "269": {
+        "name": "Sende die 21. Zerstörer-Division aus",
+        "desc": "Schicke eine Flotte mit Hatsuharu (\u521d\u6625), Nenohi (\u5b50\u65e5), Wakaba (\u82e5\u8449) und Hatsushimo (\u521d\u971c) und bis zu zwei weiteren Schiffen zu Welt [W3-1] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "270": {
+        "name": "Sende die 22. Zerstörer-Division aus",
+        "desc": "Schicke eine Flotte mit Satsuki (\u7690\u6708), Fumizuki (\u6587\u6708), Nagatsuki (\u9577\u6708), einem weiteren Zerstörer und bis zu zwei weiteren Schiffen zu Welt [W1-4] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "271": {
+        "name": "Sende Nachis Geschwader aus",
+        "desc": "Schicke eine Flotte mit Nachi (\u90a3\u667a) als Flaggschiff, Hatsushimo (\u521d\u971c), Kasumi (\u971e), Ushio (\u6f6e), Akebono (\u66d9) und einem weiteren Schiff zu Welt [W2-2] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "272": {
+        "name": "Sende den schweren Luftabwehr-Kreuzer aus",
+        "desc": "Schicke eine Flotte mit Maya (\u6469\u8036) Kai or Kai2, einem leichten Kreuzer, zwei Zerstörern und bis zu zwei weiteren Schiffen zu Welt [W2-3] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "273": {
+        "name": "Sende die Mikawa Flotte zu den Solomon Inseln",
+        "desc": "Erstelle eine Flotte mit Choukai Kai-2 (\u9ce5\u6d77\u6539\u30cb) als Flaggschiff und suche dir von den Schiffen Aoba (\u9752\u8449), Kinugasa (\u8863\u7b20), Kako (\u52a0\u53e4), Furutaka (\u53e4\u9df9), Tenryuu (\u5929\u9f8d), Yuubari (\u5915\u5f35) fünf als Begleitschiffe aus. Schicke diese Flotte zu Welt [W5-1] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "274": {
+        "name": "Die 6. Zerstörer-Division auf Anti-U-Boot Patrouille",
+        "desc": "Schicke eine Flotte mit Akatsuki (\u6681), Hibiki (\u97ff or \u0412\u0435\u0440\u043d\u044b\u0439), Inazuma (\u96f7) und Ikazuchi (\u96fb) zu Welt [W1-5] und erziele mindestens einen C-Rang bei der Bossgegner-Flotte."
+    },
+    "275": {
+        "name": "Sende die 18. Kreuzer-Division aus",
+        "desc": "Schicke eine Flotte mit Tenryuu, Tatsuta, und mindestens zwei weiteren Schiffen zu Welt [W2-3] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+	"276": {
+        "name": "Sende die Ausfallflotte aus!",
+        "desc": "Schicke eine Flotte Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi & Inazuma zu Welt [W5-1] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+	"277": {
+        "name": "Die 6. Zerstörer-Division auf gründlicher Anti-U-Boot Patrouille!",
+        "desc": "Schicke eine Flotte mit Akatsuki Kai-2 , Hibiki/Верный, Ikazuchi & Inazuma zu Welt [W1-5] und erziele mindestens einen A-Rang bei der Bossgegner-Flotte."
+    },
+	"278": {
+        "name": "Sende das erste Torpedobootgeschwader zu Operation Ke-Go",
+        "desc": "Schicke eine Flotte mit Abukuma als Flagschiff zusammen mit Hibiki/Верный, Hatsushimo, Wakaba, Samidare and Shimakaze zu Welt [W3-2] und erziele mindestens einen B-Rang bei der Bossgegner-Flotte."
+    },
+	"279": {
+        "name": "Sende das erste Torpedobootgeschwader erneut für Operation Ke-Go in die nördlichen Gewässer!",
+        "desc": "Schicke eine Flotte mit Abukuma Kai-2 als Flaggschiff zusammen with Hibiki/Берный, Yuugumo, Naganami, Akigumo und Shimakaze zu Welt [W3-2] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+	"285": {
+        "name": "Flugzeugträger-Einsatzgruppe, stoße in die nördlichen Gewässer vor!",
+        "desc": "Schicke eine Flotte mit einem Flugzeugträger als Flaggschiff zu Welt [W3-5] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+	"286": {
+        "name": "Verstärke die Anti-U-Boot Patrouille vor der Marinebasis!",
+        "desc": "Schicke eine Flotte zu Welt [W1-5] und erziele viermal mindestends einen A-Rang bei der Bossgegner-Flotte."
+    },
+    "287": {
+        "name": "Sende die 5. Flugzeugträger-Division ins Korallenmeer!",
+        "desc": "Schicke eine Flotte mit Shoukaku, Zuikaku, Oboro, Akigumo und bis zu zwei weiteren Schiffen zu Welt [W5-2] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "288": {
+        "name": "Sende die neue 21. Kreuzer-Division in den Norden!",
+        "desc": "Schicke eine Flotte mit Nachi Kai-2, Ashigara Kai-2, Tama, Kiso und bis zu zwei weiteren Schiffen zu Welt [W3-1] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+    "289": {
+        "name": "Sende die 16. Kreuzer-Division (erste Generation) aus!",
+        "desc": "Schicke eine Flotte mit Ashigara als Flaggschiff zusammen mit Kuma, Nagara and bis zu drei weiteren Schiffen zu Welt [W2-2] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+	"293": {
+		"code": "B53",
+        "name": "3rd Carrier Division: Verteidigie die Nansei Inseln",
+        "desc": "Sende eine Flotte mit Zuikaku Kai als Flaggschiff, Zuihou, Chitose and Chiyoda (CVL) und zwei weiteren Schiffen zu 1-4 und erreiche einen S-Rank bei dem Boss"
+    },
+	"294": {
+		"code": "B54",
+        "name": "Sende Ozawas flotte aus",
+        "desc": "Sende eine Flotte mit Zuikaku Kei als Flaggschif, Zuihou Kai, Chitose und Chiyoda (beide CLV), Ise Kai und Hyuuga zu Welt 2-4 und erreihe einen S-Rank beim boss"
+    },
+	"295": {
+		"code": "B55",
+        "name": "Sende das 16. Geschwader (Zweite Generation) aus",
+        "desc": "Sende Natori als Flaggschif mit Isuzu, Kinu und bis zu 3 weiteren Schiffen zu Welt 2-3 und erreiche einen S-Rank bei dem Boss"
+    },
+	"296": {
+		"code": "B56",
+        "name": "Sende neue Flugzeugträger-Flotte in den Norden",
+        "desc": "Sende eine Flotte mit 2 CV, 2 BBV/CAV und 2 DD zu Welt 3-3 und erreiche einen S-Rank bei dem Boss"
+    },
+	"297": {
+		"code": "B57",
+        "name": "Operation Rei-Gou!",
+        "desc": "Sende eine Flotte mit Kasumi als Flaggschiff, Ashigara  Ooyodo, Asashimo, Kiyoshimo und einem weiterem Schiff zu Welt 2-5 und Erreiche einen S-Rank bei dem Boss"
+    },
+	
+	
+	
+	"201": {
+        "code": "Bd1",
+        "name": "Vernichte eine gegnerische Flotte!",
+        "desc": "Besiege eine gegnerische Flotte",
+		"unlock": [ 216, 211, 212 ],
+		"tracking": [ [0,1] ]
+    },
+	"216": {
+		"code": "Bd2",
+		"name": "Vernichte eine gegnerische Hauptflotte!",
+		"desc": "Kämpfe gegen eine gegnerische Flotte. Sieg oder Niederlage spielen keine Rolle.",
+		"unlock": [ 210, 218, 214, 213 ],
+		"tracking": [ [0,1] ]
+	},
+	"210": {
+		"code": "Bd3",
+		"name": "Fange 10 gegnerische Flotten ab!",
+		"desc": "Besiege 10 gegnerische Flotten (mindestens B-Rang)",
+		"tracking": [ [0,10] ]
+	},
+	"211": {
+		"code": "Bd4",
+		"name": "Versenke drei gegnerische Flugzeugträger!",
+		"desc": "Versenke drei gegnerische Flugzeugträger",
+		"tracking": [ [0,3] ]
+	},
+	"218": {
+		"code": "Bd5",
+		"name": "Versenke drei gegnerische Transportschiffe!",
+		"desc": "Versenke drei gegnerische Transportschiffe",
+		"unlock": [ 226, 220 ],
+		"tracking": [ [0,3] ]
+	},
+	"212": {
+		"code": "Bd6",
+		"name": "Zerstöre eine Transporterflotte!",
+		"desc": "Versenke fünf gegnerische Transportschiffe",
+		"tracking": [ [0,5] ]
+	},
+	"226": {
+		"code": "Bd7",
+		"name": "Ergreife die Seeherrschaft der Nansei-Inselgruppe!",
+		"desc": "Besiege fünf Bossgegner-Flotten in Welt 2",
+		"unlock": [ 230 ],
+		"tracking": [ [0,5] ]
+	},
+	"230": {
+		"code": "Bd8",
+        "name": "Dezimiere gegnerische U-Boote!",
+        "desc": "Versenke sechs U-Boote",
+		"tracking": [ [0,6] ]
+    },
+	
+	
+	
+	
+	
+	"214": {
+		"code": "Bw1",
+		"name": "Operation A-Go",
+		"desc": "Sende deine Flotten 36-mal aus, kämpfe gegen 24 Bossgegner-Flotten, gewinne gegen 12 Bossgegner-Flotten, erziele 6 S-Ränge, alles innerhalb einer Woche",
+		"unlock": [ 221 ],
+		"tracking": [ [0,36], [0,24], [0,12], [0,6] ]
+	},
+	"220": {
+		"code": "Bw2",
+        "name": "Operation I-Go",
+        "desc": "Versenke innerhalb einer Woche 20 gegnerische Flugzeugträger",
+		"unlock": [ 228 ],
+		"tracking": [ [0,20] ]
+    },
+	"213": {
+		"code": "Bw3",
+		"name": "Unterbrechung des Handelsverkehrs",
+		"desc": "Versenke innerhalb einer Woche 20 gegnerische Transportschiffe",
+		"tracking": [ [0,20] ]
+	},
+	"221": {
+		"code": "Bw4",
+        "name": "Operation Ro-Go",
+        "desc": "Versenke innerhalb einer Woche 50 gegnerische Transportschiffe",
+		"unlock": [ 261, 257, 264 ],
+		"tracking": [ [0,50] ]
+    },
+	"228": {
+		"code": "Bw5",
+        "name": "Wasserwacht",
+        "desc": "Versenke innerhalb einer Woche 15 U-Boote",
+		"unlock": [ 229, 241, 613 ],
+		"tracking": [ [0,15] ]
+    },
+	"229": {
+		"code": "Bw6",
+        "name": "Vernichte die östlichen Gegnerflotten!",
+        "desc": "Besiege innerhalb einer Woche 12 Bossgegner-Flotten in Welt 4",
+		"unlock": [ 242 ],
+		"tracking": [ [0,12] ]
+    },
+	"241": {
+		"code": "Bw7",
+        "name": "Vernichte die gegnerischen Hauptflotten im Norden!",
+        "desc": "Besiege 5 Bossgegner-Flotten in den Welten [W3-3], [W3-4] oder [W3-5]",
+		"tracking": [ [0,5] ]
+    },
+    "242": {
+		"code": "Bw8",
+        "name": "Vernichte die östliche Hauptflotte!",
+        "desc": "Besiege die Bossgegner-Flotte in Welt [W4-4]",
+		"unlock": [ 243 ],
+		"tracking": [ [0,1] ]
+    },
+    "243": {
+		"code": "Bw9",
+        "name": "Erlange die Lufthoheit im südlichen Korallenmeer!",
+        "desc": "Erziele zweimal einen S-Rang bei der Bossgegner-Flotte in Welt [W5-2].",
+		"tracking": [ [0,2] ]
+    },
+	"261": {
+		"code": "Bw10",
+        "name": "Halte die Seetransportwege sicher!",
+        "desc": "Erziele dreimal mindestens einen A-Rang bei der Bossgegner-Flotte in Welt [W1-5].",
+		"tracking": [ [0,3] ]
+    },
+	
+	
+	
+	
+	
+	"249": {
+		"code": "Bm1",
+        "name": "Sende die 5. Kreuzer-Division aus!",
+        "desc": "Schicke eine Flotte Myoukou, Nachi, Haguro und bis zu drei weiteren Schiffen zu Welt [W2-5] und erziele einen S-Rang bei der Bossgegner-Flotte.",
+		"unlock": [ 265 ]
+    },
+	"256": {
+		"code": "Bm2",
+        "name": "Sende eine U-Boot-Flotte aus!",
+        "desc": "Erziele dreimal einen S-Rang bei der Bossgegner-Flotte in Welt [W6-1].",
+		"tracking": [ [0,3] ]
+    },
+	"257": {
+		"code": "Bm3",
+        "name": "Torpedobootgeschwader, ab in den Südwesten!",
+        "desc": "Schicke eine Flotte mit 1~3 leichten Kreuzern (Flaggschiff muss ein leichter Kreuzer sein) und 3~5 Zerstörern zu [W[W1-4]] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+	"259": {
+		"code": "Bm4",
+        "name": "Schlachtschiffgeschwader, ab in den Süden!",
+        "desc": "Schicke eine Flotte mit genau drei langsamen Schlachtschiffen, genau einem leichten Kreuzer und zwei weiteren Schiffen zu Welt [W5-1] und erziele einen S-Rang bei der Bossgegner-Flotte. Hybrid-Flugzeugträger zählen als Schlachtschiffe."
+    },
+	"265": {
+		"code": "Bm5",
+        "name": "Monatliche Eskortmission",
+        "desc": "Erziele 10-mal mindestens einen A-Rang bei der Bossgegner-Flotte in Welt [W1-5].",
+		"tracking": [ [0,10] ]
+    },
+	"264": {
+		"code": "Bm6",
+        "name": "Flugzeugträger-Einsatzgruppe, ab in den Westen!",
+        "desc": "Schicke eine Flotte mit zwei Flugzeugträgern, zwei Zerstörern und zwei weiteren Schiffen zu Welt [W4-2] und erziele einen S-Rang bei der Bossgegner-Flotte.",
+		"unlock": [ 266 ]
+    },
+	"266": {
+		"code": "Bm7",
+        "name": "Sende ein Gegenangriffsgeschwader aus!",
+        "desc": "Schicke eine Flotte mit einem Zerstörer als Flaggschiff, einem schweren Kreuzer (kein Flugdeckkreuzer), einem leichten Kreuzer und drei weiteren Zerstörern zu Welt [W2-5] und erziele einen S-Rang bei der Bossgegner-Flotte."
+    },
+	
+	
+	
+	
+	
+    "301": {
+		"code": "C1",
+        "name": "Mein erstes Manöver!",
+        "desc": "Kämpfe gegen eine Flotte in PvP."
+    },
+	 "303": {
+		"code": "C2",
+        "name": "Übung macht den Meister!",
+        "desc": "Kämpfe gegen drei Spieler.",
+		"unlock": [ 304, 302 ],
+		"tracking": [ [0,3] ]
+    },
+	"304": {
+		"code": "C3",
+        "name": "Überwältige andere Admirale!",
+        "desc": "Gewinne innerhalb eines Tages gegen fünf Spieler.",
+		"tracking": [ [0,5] ]
+    },
+    "302": {
+		"code": "C4",
+        "name": "Groß angelegtes Training",
+        "desc": "Gewinne innerhalb einer Woche gegen 20 Spieler.",
+		"tracking": [ [0,20] ]
+    },
+    "307": {
+		"code": "C5",
+        "name": "Verbessere die Leistung deiner Flotte!",
+        "desc": "Gewinne innerhalb eines Tages gegen drei Spieler."
+    },
+    "308": {
+		"code": "C6",
+        "name": "Intensiviere das Training und verbessere die Leistung deiner Flotte!",
+        "desc": "Gewinne innerhalb eines Tages gegen vier Spieler."
+    },
+	"309": {
+		"code": "C7",
+        "name": "Verbessere die Leistung deiner Flotte als Vorbereitung für einen erneuten Ausfall in die nördlichen Gewässer!",
+        "desc": "Gewinne innerhalb eines Tages gegen vier Spieler."
+    },	
+	 "311": {
+        "code": "C8",
+        "name": "Training der Eliteflotten",
+        "desc": "Gewinne innerhalb eines Tages gegen sieben Spieler.",
+		"tracking": [ [0,7] ]
+    },
+	
+	
+	
+	
+    "401": {
+		"code": "D1",
+        "name": "Meine erste Expedition!",
+        "desc": "Schicke eine Flotte auf eine Expedition."
+    },
+    "402": {
+		"code": "D2",
+        "name": "Führe drei Expedition erfolgreich durch!",
+        "desc": "Führe innerhalb eines Tages drei Expedition erfolgreich durch.",
+		"unlock": [ 403 ],
+		"tracking": [ [0,3] ]
+    },
+    "403": {
+		"code": "D3",
+        "name": "Führe zehn Expedition erfolgreich durch!",
+        "desc": "Führe innerhalb eines Tages zehn Expedition erfolgreich durch.",
+		"tracking": [ [0,10] ]
+    },
+    "404": {
+		"code": "D4",
+        "name": "Groß angelegte Expeditionen",
+        "desc": "Führe innerhalb einer Woche 20 Expedition erfolgreich durch.",
+		"tracking": [ [0,30] ]
+    },
+    "405": {
+		"code": "D5",
+        "name": "Die erste U-Boot Expedition",
+        "desc": "Schließe Expedition 30 erfolgreich ab."
+    },
+    "406": {
+		"code": "D6",
+        "name": "Die zweite U-Boot Expedition",
+        "desc": "Schließe Expedition 30 ein weiteres Mal erfolgreich ab."
+    },
+    "408": {
+		"code": "D7",
+        "name": "Fortdauernder Technologie-Austausch mit der U-Boot Expedition",
+        "desc": "Schließe Expedition 30 zwei weitere Male erfolgreich ab."
+    },
+    "409": {
+		"code": "D8",
+        "name": "Kontaktaufnahme der U-Boot Expedition mit einem ausländischen Schiff",
+        "desc": "Schließe Expedition 31 erfolgreich ab."
+    },
+    "410": {
+		"code": "D9",
+        "name": "Führe die Transportmission in den Süden erfolgreich durch!",
+        "desc": "Schließe innerhalb einer Woche Expedition 37 oder 38 erfolgreich ab.",
+		"unlock": [ 411 ],
+		"tracking": [ [0,1] ]
+    },
+	"412": {
+		"code": "D10",
+        "name": "Setze vermehrt Hybrid-Flugzeugträger ein!",
+        "desc": "Schließe Expedition 23 erfolgreich ab."
+    },
+    "411": {
+		"code": "D11",
+        "name": "Setze die Transportmission in den Süden fort!",
+        "desc": "Schließe innerhalb einer Woche Expedition 37 und/oder 38 insgesamt sechs Mal erfolgreich ab.",
+		"tracking": [ [0,6] ]
+    },
+    "413": {
+		"code": "D12",
+        "name": "Setze vermehrt Hybrid-Flugzeugträger ein! (Fortsetzung)",
+        "desc": "Schließe Expedition 23 drei weitere Male erfolgreich ab."
+    },
+    "414": {
+		"code": "D13",
+        "name": "Schicke deine U-Boote auf eine Hochseeoperation!",
+        "desc": "Schließe Expedition 39 erfolgreich ab."
+    },
+    "415": {
+		"code": "D14",
+        "name": "Dehne die U-Boot-Hochseeoperation weiter aus!",
+        "desc": "Schließe Expedition 39 zwei weitere Male erfolgreich ab."
+    },
+    "416": {
+		"code": "D15",
+        "name": "Luftabwehr-Training!",
+        "desc": "Schließe Expedition 6 dreimal erfolgreich ab."
+    },
+    "417": {
+		"code": "D16",
+        "name": "Schicke eine Einsatzgruppe als Lockvogel auf eine Unterstützungmission!",
+        "desc": "Schließe Expedition 15 erfolgreich ab."
+    },
+    "418": {
+		"code": "D17",
+        "name": "Probe für die Flottenparade!",
+        "desc": "Schließe Expedition 7 zweimal erfolgreich ab."
+    },
+    "419": {
+		"code": "D18",
+        "name": "Führe die Flottenparade auf!",
+        "desc": "Schließe Expedition 8 erfolgreich ab."
+    },
+	"420": {
+        "code": "D19",
+        "name": "Verstärke den Einsatz von Einsatzgruppen!",
+        "desc": "Schließe die Expeditionen 26 und 35 erfolgreich ab."
+    },
+	
+	
+	
+	
+    "501": {
+		"code": "E1",
+        "name": "Mein erster Auftankversuch!",
+        "desc": "Versorge ein Schiff neu."
+    },
+    "502": {
+		"code": "E2",
+        "name": "Mein erstes Mal im Trockendock",
+        "desc": "Repariere ein Schiff."
+    },
+    "503": {
+		"code": "E3",
+        "name": "groß angelegte Flottenwartung!",
+        "desc": "Repariere fünf Schiffe.",
+		"unlock": [ 504 ],
+		"tracking": [ [0,5] ]
+    },
+    "504": {
+		"code": "E4",
+        "name": "Festschmaus in der Flottenkantine!",
+        "desc": "Versorge deine Schiffe 15-mal neu.",
+		"tracking": [ [0,15] ]
+    },
+	
+	
+	
+	
+	
+	"605": {
+		"code": "F1",
+        "name": "Baue neue Ausrüstung!",
+        "desc": "Baue einen Ausrüstungsgegenstand (Fehlschlag ist auch okay).",
+		"unlock": [ 606 ],
+		"tracking": [ [0,1] ]
+    },
+	"606": {
+		"code": "F2",
+        "name": "Baue ein neues Schiff!",
+        "desc": "Baue innerhalb eines Tages ein Schiff.",
+		"unlock": [ 607 ],
+		"tracking": [ [0,1] ]
+    },
+	"607": {
+		"code": "F3",
+        "name": "Wir brauchen mehr Ausrüstung!",
+        "desc": "Baue innerhalb eines Tages drei Ausrüstungsgegenstände (Fehlschläge sind auch okay).",
+		"unlock": [ 608 ],
+		"tracking": [ [0,3] ]
+    },
+	 "608": {
+		"code": "F4",
+        "name": "Wir brauchen mehr Schiffe!",
+        "desc": "Baue innerhalb eines Tages drei Schiffe.",
+		"unlock": [ 609, 619 ],
+		"tracking": [ [0,3] ]
+    },
+	 "609": {
+		"code": "F5",
+        "name": "Abrüstung",
+        "desc": "Verschrotte innerhalb eines Tages zwei Schiffe.",
+		"tracking": [ [0,2] ]
+    },
+    "601": {
+		"code": "F6",
+        "name": "Mein erster Schiffsbau!",
+        "desc": "Baue ein Schiff."
+    },
+    "602": {
+		"code": "F7",
+        "name": "Mein erster Entwicklungsversuch!",
+        "desc": "Baue einen Ausrüstungsgegenstand."
+    },
+    "603": {
+		"code": "F8",
+        "name": "Mein erstes zerlegtes Schiff!",
+        "desc": "Verschrotte ein Schiff."
+    },
+    "604": {
+		"code": "F9",
+        "name": "Meine erste verschrottete Waffe!",
+        "desc": "Verschrotte einen Ausrüstungsgegenstand."
+    },
+    "610": {
+		"code": "F10",
+        "name": "Vorbereitung für den großen Schiffsbau (Teil 2)",
+        "desc": "Verschrotte vier Mal Ausrüstungsgegenstände."
+    },
+	"612": {
+		"code": "F11",
+        "name": "Bereite Transportkanister vor",
+        "desc": "Verschrotte dreimal Ausrüstungsgegenstände."
+    },
+	 "613": {
+		"code": "F12",
+        "name": "Wiederverwendung von Ressourcen",
+        "desc": "Verschrotte innerhalb einer Woche 24-mal Ausrüstungsgegenstände.",
+		"tracking": [ [0,24] ]
+    },
+	 "614": {
+		"code": "F13",
+        "name": "Modell-Konvertierung (--> Tenzan Tomonaga)",
+        "desc": "Rüste dein Flaggschiff mit dem Typ 97 Torpedobomber (Tomonaga Staffel) aus und verschrotte zwei Tenzan."
+    },
+	"615": {
+		"code": "F14",
+        "name": "Modell-Konvertierung (--> Suisei Egusa)",
+        "desc": "Rüste dein Flaggschiff mit dem Typ 99 Sturzflugbomber (Egusa Staffel) aus und verschrotte zwei Suisei."
+    },
+    "616": {
+		"code": "F15",
+        "name": "Modell-Konvertierung (--> Reppuu 601)",
+        "desc": "Rüste dein Flaggschiff mit dem Typ Null Jagdflugzeug Model C (Flugzeuggruppe 601) aus und verschrotte zwei Reppuu."
+    },
+	"617": {
+		"code": "F16",
+        "name": "Vorbereitungen für Irako",
+        "desc": "Verschrotte 10-mal Ausrüstungsgegenstände."
+    },
+	"618": {
+		"code": "F17",
+        "name": "Mein erster Modding-Versuch!",
+        "desc": "Verbessere einen Ausrüstungsgegenstand. (Fehlschlag ist auch okay)"
+    },
+    "619": {
+		"code": "F18",
+        "name": "Aufbesserung der Ausrüstung",
+        "desc": "Verbessere innerhalb eines Tages einen Ausrüstungsgegenstand. (Fehlschlag ist auch okay)",
+		"tracking": [ [0,1] ]
+    },
+	"622": {
+        "code": "F19",
+        "name": "Modell-Konvertierung (--> Tenzan Murata)",
+        "desc": "Habe Shoukaku als Flaggschiff, rüste sie mit dem Typ 97 Torpedobomber (Murata Staffel)  aus und verschrotte dann zwei Tenzan."
+    },
+    "623": {
+        "code": "F20",
+        "name": "Aufstellung der Typ 97 Torpedobomber Eliteeinheit",
+        "desc": "Habe Shoukaku oder Akagi als Flaggschiff und verschrotte dann drei Typ 97 Torpedobomber."
+    },
+    "624": {
+        "code": "F21",
+        "name": "Vorbereitung der Prototyp-Ausrüstung",
+        "desc": "Verschrotte 7-mal Ausrüstungsgegenstände."
+    },
+    "625": {
+    	"code": "F22",
+    	"name": "Neue Luftfahrtausrüstung (Prototyp)",
+    	"desc": "Verschrotte neun mal Ausrüstung"
+    },
+    "626": {
+    	"code": "F23",
+    	"name": "Neuorganisierung des Elitekämpfer-squads",
+    	"desc": "Besitze erfahrende Crew-mitglieder und Rüste dein Houshou-Sekretärschiff mit einem Rank 7 Typ 0 Jagdflugzeug aus und verschrotte anschließend 2 Typ 0 Modell 21 Jagdflugzeuge und einen Typ 96 Jagdflugzeug"
+    },
+    "627": {
+        "code": "F24",
+        "name": "Modell-Konvertierung (--> Typ 0 Modell 21 Jagdflugzeug [Erfahren])",
+        "desc": "Rüste dein Flugzeugträger-Sekretärschiff mit einem Typ 0 Modell 21 Jagdflugzeug aus und verschrotte 2 Typ 0 Modell 21 Jagdflugzeuge"
+    },
+    "628": {
+        "code": "F25",
+        "name": "Modell-Konvertierung (--> Typ 0 Modell 21 Jagdflugzeug [Erfahren])",
+        "desc": "Rüste dein Flugzeugträger-Sekretärschiff mit einem Rank 7 Typ 0 Modell 21 Jagdflugzeug aus und verschrotte 2 Typ 0 Modell 21 Jagdflugzeuge"
+    },
+    "629": {
+        "code": "F26",
+        "name": "Neuorganiesierung der Jäger (--> Typ 0 Modell 21 Jagdflugzeug [Erfahren])",
+        "desc": "Rüste dein Zuikaku-Sekretärschiff mit einem Rank 7 Modell 52 Jagdflugzeug aus und verschrotte ein Typ Null Model C (Flugzeuggruppe 601) Jagdflugzeug"
+    },
+    "630": {
+        "code": "F28",
+        "name": "Modell-Konvertierung und Neuorganisierung (-->Typ 0 Modell 21 Jagdflugzeug [Erfahren])",
+        "desc": "Rüste dein Zuikaku-Sekretärschiff mit einem Erfahrenem Rank 7 Typ 0 Modell 21 Jagdflugzeug aus und verschrotte zwei Typ 0 Modell 21 Jagdflugzeuge"
+    },
+    "631": {
+        "code": "F27",
+        "name": "Modell-Konvertierung und Neuorganisierung (--> Typ Null Modell 52C Iwai-Jagdflugzeug)",
+        "desc": "Rüste dein Zuikaku-Sekretärschiff mit einem Rank 7 Modell 52C Iwai Jagdflugzeug aus und verschrotte zwei Typ 0 Modell 62 Jagdbomber"
+    },
+    "632": {
+        "code": "F29",
+        "name": "Modell-Konvertierung (--> Typ Null Typ 21 Iwamoto-Jagdflugzeug)",
+        "desc": "Rüste dein Zuikaku-Sekretärschiff mit einem Rank 7 Modell 21 Iwamoto-Jagdflugzeug aus und verschrotte zwei Typ 0 Modell 52 Jagdbomber"
+    },
+    "633": {
+        "code": "F30",
+        "name": "Modell-Konvertierung und Neuorganisation (--> Typ Null Typ 52A Iwamoto-Jagdflugzeug)",
+        "desc": "Rüste dein Zuikaku-Sekretärschiff mit einem Rank 7 Modell 52A Iwamoto-Jagdflugzeug aus und verschrotte zwei Saiun"
+    },
+	
+    
+	
+	
+    "701": {
+		"code": "G1",
+        "name": "Mein erster Modernisierungsversuch!",
+        "desc": "Führe eine erfolgreiche Modernisierung durch."
+    },
+    "702": {
+		"code": "G2",
+        "name": "Daily Modernization",
+        "desc": "Führe innerhalb eines Tages zwei erfolgreiche Modernisierungen durch.",
+		"unlock": [ 703 ],
+		"tracking": [ [0,2] ]
+    },
+    "703": {
+		"code": "G3",
+        "name": "Weekly Modernization",
+        "desc": "Führe innerhalb einer Woche 15 erfolgreiche Modernisierungen durch.",
+		"tracking": [ [0,15] ]
+    },
+    "704": {
+		"code": "G4",
+        "name": "Vorbereitung für den großen Schiffbau (Teil 1)",
+        "desc": "Führe vier erfolgreiche Modernisierungen durch."
+    },
+	
+	
+	
+	
+	
+	"611": {
+        "name": "Im Namen der Liebe! (Teil 1)",
+        "desc": "Verschrotte zweimal Ausrüstungsgegenstände als Zeichen deiner Zuneigung!"
+    },
+	"306": {
+        "name": "Im Namen der Liebe! (Teil 2)",
+        "desc": "Gewinne gegen zwei Spieler als Zeichen deiner Hingabe!"
+    },
+    "801": {
+        "code": "NY1",
+        "name": "Frohes neues Jahr! Torpedo-Geschwader, auf zum Einsatz!",
+        "desc": "Gewinne einen Einsatz in Welt 1-3 mit einem Torpedo-Geschwader (1 CL, 3-5 DD)"
+    },
+    "802": {
+        "code": "NY2",
+        "name": "Hilf Irako während Neujahr!",
+        "desc": "Schaffe Welt 2-3 dreimal mit einem S-Rank"
+    },
+    "803": {
+        "code": "NY3",
+        "name": "Die Seele der Kriegsschiffe! Ein neues Jahr mit großen Geschützen!",
+        "desc": "Gewinne Welt 4-2 zweimal mit vier BBs"
+    },
+    "804": {
+        "code": "NY4",
+        "name": "Frohes neues! Flugzeugträger-Kriegsflotte!",
+        "desc": "Gewinne Welt 6-2 zweimal mit zwei CVs"
+    }
+	
+}

@@ -1,0 +1,933 @@
+{
+    "101": {
+        "Name": "Eerste Formasie!",
+        "Desc": "Gebruik 2 skepe in die hoofdvloot."
+    },
+    "102": {
+        "Name": "Vorm 'n Torpedobootjager Groep!",
+        "Desc": "Gebruik 4 DD in die hoofdvloot."
+    },
+    "103": {
+        "Name": "Vorm 'n Torpedo Groep!",
+        "Desc": "Gebruik langs 5 ​​DD's 'n CL as vlagskip in die hoofdvloot."
+    },
+    "104": {
+        "Name": "Vorm 'n Vloot met Ses Skepe!",
+        "Desc": "Gebruik 6 skepe in die hoofdvloot."
+    },
+    "105": {
+        "Name": "Vorm 'n Groep met Twee CL!",
+        "Desc": "Gebruik 2 CL's in die hoofdvloot."
+    },
+    "106": {
+        "Name": "Vorm 'n Swaar Kruiser Groep!",
+        "Desc": "Gebruik 2 CA's in die hoofdvloot."
+    },
+    "107": {
+        "Name": "Vorm 'n Vliegkampschip Aanvalsvloot!",
+        "Desc": "Gebruik langs 3 DD's 'n CV \ / CVL as vlagskip in die hoofdvloot."
+    },
+    "108": {
+        "Name": "Vorm 'n Groep met die Tenryuu-klas Kruisers!",
+        "Desc": "Gebruik Tenryuu (\ u5929 \ u9f8d) en Tatsuta (\ u9f8d \ u7530) in die hoofdvloot."
+    },
+    "109": {
+        "Name": "Vorm 'n Groep met die Sendai-Klasse Kruisers!",
+        "Desc": "Gebruik Sendai (\ u5ddd \ u5185), Jintsuu (\ u795e \ u901a) en Naka (\ u90a3 \ u73c2) in die hoofdvloot."
+    },
+    "110": {
+        "Name": "Vorm 'n Groep met die Myoukou-Klasses Kruisers!",
+        "Desc": "Gebruik Myoukou (\ u5999 \ u9ad8), Nachi (\ u90a3 \ u667a), Ashigara (\ u8db3 \ u67c4) en Haguro (\ u7fbd \ u9ed2) in die hoofdvloot."
+    },
+    "111": {
+        "Name": "Vorm 'n Groep met die Fusou-Klasse Oorlogskepe!",
+        "Desc": "Gebruik Fusou (\ u6276 \ u6851) en Yamashiro (\ u5c71 \ u57ce) in die hoofdvloot."
+    },
+    "112": {
+         "Name": "Vorm 'n Groep met die Ise-Klasse Oorlogskepe!",
+        "Desc": "Gebruik Ise (\ u4f0a \ u52e2) en Hyuuga (\ u65e5 \ u5411) in die hoofdvloot."
+    },
+    "113": {
+        "Name": "Vorm 'n Hoofdvloot met Oorlogskepe en Swaar Kruisers!",
+        "Desc": "Gebruik 'n BB en 2 CA's in die hoofdvloot."
+    },
+    "114": {
+        "Name": "Vorm die Nagumo Aanvalsvloot!",
+        "Desc": "Gebruik slegs Akagi (\ u8d64 \ u57ce), Kaga (\ u52a0 \ u8cc0), Hiryuu (\ u98db \ u9f8d) en Souryuu (\ u84bc \ u9f8d) in die hoofdvloot."
+    },
+    "115": {
+        "Name": "Vorm 'n Tweede Vloot!",
+        "Desc": "Gebruik 'n skip as vlagskip in die tweede vloot."
+    },
+    "116": {
+        "Name": "Maak 'n Vliegtuigtender Gevechtsklaar",
+        "Desc": "Gebruik 'n AV in die hoofdvloot."
+    },
+    "117": {
+        "Name": "Vorm 'n Vliegkampschip Aanvalsvloot in die Tweede Vloot!",
+        "Desc": "Gebruik 3 DD's en 'n CV \ / CVL as vlagskip in die tweede vloot."
+    },
+    "118": {
+        "Name": "Vorm 'n Groep met die Kongou-Klasse Oorlogskepe!",
+        "Desc": "Gebruik Kongou (\ u91d1 \ u525b), Hiei (\ u6bd4 \ u53e1), Haruna (\ u699b \ u540d) en Kirishima (\ u9727 \ u5cf6) in die hoofdvloot."
+    },
+    "119": {
+        "Name": "Vorm die Mikawa Vloot!",
+        "Desc": "Gebruik Choukai (\ u9ce5 \ u6d77), Aoba (\ u9752 \ u8449), Kako (\ u52a0 \ u53e4), Furutaka (\ u53e4 \ u9df9), Tenryuu (\ u5929 \ u9f8d) en 'n vinnige skip tipe in die hoofdvloot. "
+    },
+    "120": {
+        "Name": "Vorm die Torpedobootjager Divisie 6!",
+        "Desc": "Gebruik slegs Akatsuki (\ u6681), Hibiki (\ u97ff), Inazuma (\ u96f7) en Ikazuchi (\ u96fb) in die hoofdvloot."
+    },
+    "121": {
+        "Name": "Vorm die Kruiser Divisie 4!",
+        "Desc": "Gebruik Atago (\ u611b \ u5b95), Takao (\ u9ad8 \ u96c4), Choukai (\ u9ce5 \ u6d77) en Maya (\ u6469 \ u8036) in die hoofdvloot."
+    },
+    "122": {
+        "Name": "Vorm die Nishimura Vloot!",
+        "Desc": "Gebruik Fusou (\ u6276 \ u6851), Yamashiro (\ u5c71 \ u57ce), Mogami (\ u6700 \ u4e0a) en Shigure (\ u6642 \ u96e8) in die hoofdvloot."
+    },
+    "123": {
+        "Name": "Vorm die Vliegkampschip Divisie 5!",
+        "Desc": "Gebruik Shoukaku (\ u7fd4 \ u9db4), Zuikaku (\ u745e \ u9db4) en 2 DD's in die hoofdvloot."
+    },
+    "124": {
+        "Name": "Vorm die Nuwe Mikawa Vloot!",
+        "Desc": "Gebruik Choukai (\ u9ce5 \ u6d77), Aoba (\ u9752 \ u8449), Kinugasa (\ u8863 \ u7b20), Kako (\ u52a0 \ u53e4), Furutaka (\ u53e4 \ u9df9) en Tenryuu (\ u5929 \ u9f8d) in die hoofdvloot. "
+    },
+    "125": {
+        "Name": "Vorm 'n Duikboot Vloot!",
+        "Desc": "Gebruik 2 SS in die hoofdvloot."
+    },
+    "126": {
+        "Name": "Vorm 'n Marine Luchtvaartdienst Aanvalsvloot!",
+        "Desc": "Gebruik 2 BBV's en 2 CAV's in die hoofdvloot."
+    },
+    "127": {
+        "Name": "Vorm 'n Medium Duikboot vloot!",
+        "Desc": "Gebruik 3 SS in die hoofdvloot."
+    },
+    "128": {
+        "Name": "Vorm die Kruiser Divisie 6!",
+        "Desc": "Gebruik Furutaka (\ u53e4 \ u9df9), Kako (\ u52a0 \ u53e4), Aoba (\ u9752 \ u8449) en Kinugasa (\ u8863 \ u7b20) in die hoofdvloot."
+    },
+    "129": {
+        "Name": "Vorm die 5de Vloot!",
+        "Desc": "Gebruik Nachi (\ u90a3 \ u667a), Ashigara (\ u8db3 \ u67c4), Tama (\ u591a \ u6469), en Kiso (\ u6728 \ u66fe) in die vloot."
+    },
+    "130": {
+        "Name": "Vorm die Torpedo Groep 1!",
+        "Desc": "Gebruik Abukuma (\ u963f \ u6b66 \ u9688), Akebono (\ u66d9), Ushio (\ u6f6e), Kasumi (\ u971e) en Shiranui (\ u4e0d \ u77e5 \ u706b) in die vloot."
+    },
+    "131": {
+        "Name": "Vorm die Torpedobootjager Divisie 8!",
+        "Desc": "Gebruik Asashio (\ u671d \ u6f6e), Michishio (\ u6e80 \ u6f6e), Ooshio (\ u5927 \ u6f6e) en Arashio (\ u8352 \ u6f6e) in die vloot."
+    },
+    "132": {
+        "Name": "Vorm die Torpedobootjager Divisie 18!",
+        "Desc": "Gebruik slegs Kasumi (\ u971e), Arare (\ u9730), Kagerou (\ u967d \ u708e) en Shiranui (\ u4e0d \ u77e5 \ u706b) in die vloot."
+    },
+    "133": {
+        "Name": "Vorm die Torpedobootjager Divisie 30 (1ste Generasie)!",
+        "Desc": "Gebruik slegs Mutsuki (\ u7766 \ u6708), Kisaragi (\ u5982 \ u6708), Yayoi (\ u5f25 \ u751f) en Mochizuki (\ u671b \ u6708) in die vloot."
+    },
+    "134": {
+        "Name": "Voorbereiding vir Liefde! (Deel 3)",
+        "Desc": "Organiseer jou gevoelens en gebruik 'n vloot met 'n hoog geleveld skip as vlagskip (Lv.90 ~ 99)!"
+    },
+    "135": {
+        "Name": "Weer op Reis!",
+        "Desc": "Organiseer 'n vloot met 6 skepe en jy pas getroude skip van Lv.100 of hoër as vlagskip!"
+    },
+    "136": {
+        "Name": "Vorm die 30ste Torpedobootjager Vloot (2de Generasie)",
+        "Desc": "Gebruk alleen Mutsuki (\ u7766 \ u6708), Yayoi (\ u5f25 \ u751f), Uzuki (\ u536f \ u6708) en Mochizuki (\ u671b \ u6708) in die vloot."
+    },
+    "137": {
+        "Name": "Vorm die 5de Vloot",
+        "Desc": "Gebruik Myoukou (\ u5999 \ u9ad8), Nachi (\ u90a3 \ u667a) en Haguro (\ u7fbd \ u9ed2) in die vloot."
+    },
+    "138": {
+        "Name": "Vorm die 2de Vliegkampschip Divisie",
+        "Desc": "Gebruik Hiryuu Kai Ni (\ u98db \ u9f8d \ u6539 \ u4e8c, as vlagskip), Souryuu (\ u84bc \ u9f8d) en 2 torpedobootjagerand in die vloot."
+    },
+    "139": {
+        "Name": "Vorm die 6de Duikboot Vloot",
+        "Desc": "Gebruik 'n duikboot tender en 4 (of meer) duikbote in die vloot."
+    },
+    "140": {
+        "Name": "Toets die Nuwe RADAR!",
+        "Desc": "Gebruik Myoukou Kai2 as vlagskip in die vloot."
+    },
+    "141": {
+        "Name": "Herorganiseer en Versterk die 2de Vliegkampschip Divisie",
+        "Desc": "Gebruik Souryuu Kai-2 (\ u84bc \ u9f8d \ u6539 \ u4e8c) as vlagskip met Hiryuu Kai-2 (\ u98db \ u9f8d \ u6539 \ u4e8c) en 2 torpedobootjagers in die vloot."
+    },
+    "142": {
+        "Name": "Organiseer die 3de Elite Battle Divisie",
+        "Desc": "Gebruik al vier die Kongou-Klasse Kai 2 Oorlogskepe in die hoofdvloot."
+    },
+    "143": {
+        "Name": "Neem die Nuwe Standaard Vliegkampschip in Gebruik",
+        "Desc": "Gebruik Unryuu (\ u96f2 \ u9f8d) as die vlagskip."
+    },
+    "144": {
+        "Name": "Organiseer die Hoof Slagschips Groep: 2de Divisie",
+        "Desc": "Gebruik beide Nagato-Klasse en beide Fusou-klas oorlogskepe (En geen ander skepe) in die hoofdvloot."
+    },
+    "145": {
+        "Name": "Organiseer die Hoof Slagschips Groep",
+        "Desc": "Gebruik drie oorlogskepe van die Nagato, Fusou, Ise of Yamato Klasse en 'n ligte kruiser in die vloot."
+    },
+    "146": {
+        "Name": "Die Arsenaal Voorbereiding op Renovatie",
+        "Desc": "Gebruik Akashi (\ u660e \ u77f3) as vlagskip in die hoofdvloot."
+    },
+    "147": {
+        "Name": "Organiseer die Nishimura Vloot",
+        "Desc": "Gebruik Fusou (\ u6276 \ u6851), Yamashiro (\ u5c71 \ u57ce), Mogami (\ u6700 \ u4e0a), Shigure (\ u6642 \ u96e8) en Michishio (\ u6e80 \ u6f6e) in die hoofdvloot."
+    },
+    "148": {
+        "Name": "Organiseer 'n Tegenaanvals Groep",
+        "Desc": "Gebruik Kasumi (\ u971e) as vlagskip, Ashigara (\ u8db3 \ u67c4), 1 CL en 3 DD's in die hoofdvloot."
+    },
+    "149": {
+        "Name": "Organiseer die 11de Torpedobootjager Divisie",
+        "Desc": "Gebruik die 4 spesiale torpedobootjagers: Fubuki (\ u5439 \ u96ea), Shirayuki (\ u767d \ u96ea), Hatsuyuki (\ u521d \ u96ea) en Murakumo (\ u53e2 \ u96f2) in die hoofdvloot. Een van hierdie skepe moet die vlagskip is. "
+    },
+    "150": {
+        "Name": "Organiseer die 21ste Torpedobootjager Divisie",
+        "Desc": "Gebruik slegs Hatsuharu (\ u521d \ u6625), Nenohi (\ u5b50 \ u65e5), Wakaba (\ u82e5 \ u8449) en Hatsushimo (\ u521d \ u971c) in die hoofdvloot."
+    },
+    "151": {
+        "Name": "Organiseer die 22ste Torpedobootjager Divisie",
+        "Desc": "Gebruik slegs Satsuki (\ u7690 \ u6708), Fumizuki (\ u6587 \ u6708), Nagatsuki (\ u9577 \ u6708) en 1 DD in die hoofdvloot."
+    },
+    "152": {
+        "Name": "Organiseer die Nuwe Uitgawe van die Mikawa Vloot",
+        "Desc": "Gebruik Choukai Kai2 as vlagskip en vyf ewekansige skepe van die Aoba, Kinugasa, Kako, Furutaka, Tenryuu of Yuubari klasse in die hoofdvloot"
+    },
+    "153": {
+        "Name": "Herorganiseer die 18de Groep!",
+        "Desc": "Gebruik Tenryuu, Tatsuta en 2 of meer ander skepe in die vloot"
+    },
+    "154": {
+        "Name": "Organiseer die Oppervlakte Aanvalsvloot!",
+        "Desc": "Gebruik Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi en Inazuma in die vloot"
+    },
+    "155": {
+        "Name": "Organiseer die Nuwe 6de Torpedobootjager Divisie!",
+        "Desc": "Gebruik Akatsuki Kai2 as vlagskip met Hibiki / Bep, Ikazuchi en Inazuma in die vloot"
+    },
+    "156": {
+        "Name": "1ste Torpedo Groep, Berei Julle jy Voor op 'n Vinnige Tocht na die Arktiese See",
+        "Desc": "Gebruik Abukuma as vlagskip met Hibiki / Вер, Hatsushimo, Wakaba, Samidare en Shimakaze in die hoofdvloot"
+    },
+    "157": {
+        "Name": "1ste Torpedo Groep, Berei Julle jy Voor op Nog 'n Vinnige Tocht na die Arktiese See",
+        "Desc": "Gebruik Abukuma Kai Ni as vlagskip met Hibiki / Вер, Yuugumo, Naganami, Akigumo en Shimakaze in die hoofdvloot"
+    },
+    "161": {
+        "Name": "Herorganiseer die 5de Vliegkampschip Divisie!",
+        "Desc": "Gebruik Shoukaku, Zuikaku, Oboro en Akigumo in die hoofdvloot"
+    },
+    "162": {
+        "Name": "Berei die Nuwe 21ste Groep voor op 'n stryd",
+        "Desc": "Gebruik Nachi (Kai-2), Ashigara (Kai-2), Tama en Kiso in die hoofdvloot"
+    },
+    "163": {
+        "Name": "Organiseer die 16de Groep (1ste Generasie)",
+        "Desc": "Gebruik Ashigara as vlagskip met Kuma en Nagara in die hoofdvloot"
+    },
+    "164": {
+"Kode": "A59",
+        "Name": "Organiseer die 3de Vliegkampschip Divisie",
+        "Desc": "Gebruik Zuikaku Kai as vlagskip, Zuihou, Chitose en Chiyoda (Albei as CVL, en nie as AV) in die hoofdvloot"
+    },
+"165": {
+"Kode": "A60",
+        "Name": "Organiseer die 4de Vliegkampschip Divisie",
+        "Desc": "Gebruik Ise Kai en Hyuuga Kai in die hoofdvloot"
+    },
+"166": {
+"Kode": "A61",
+        "Name": "Organiseer Ozawa's Vloot",
+        "Desc": "Gebruik Zuikaku Kai as vlagskip, Zuihou Kai, Chitose, Chiyoda (beide as CVL), Ise Kai en Hyuuga Kai in die hoofdvloot"
+    },
+"167": {
+"Kode": "A62",
+        "Name": "Organiseer die Nuwe Vliegkampschip Divisie",
+        "Desc": "Gebruik Zuikaku Kai Ni, Shoukaku Kai Ni en twee torpedobootjagers in die floot"
+    },
+    
+    
+    
+
+"202": {
+        "Name": "Eerste stryd!",
+        "Desc": "Sit die hoofdvloot in op 'n aanvalsmissie."
+    },
+    "203": {
+        "Name": "Verdedig die See van Chinju-Fu!",
+        "Desc": "Sit 'n vloot uit na Wêreld 1-1 en voltooi dit level."
+    },
+    "204": {
+        "Name": "stryd by die Kus van die Nansei eilande!",
+        "Desc": "Sit die vloot uit na Wêreld 1-2 en voltooi dit level."
+    },
+    "205": {
+        "Name": "Onderschep die Naderende Vijandelijke voorpunt!",
+        "Desc": "Sit die vloot uit na wêreld 1-2 voltooi die vlak deur die baas te verslaan."
+    },
+    "206": {
+        "Name": "stryd met die Torpedo Groep!",
+        "Desc": "Sit 'n vloot uit met 'n CL as vlagskip en 3 DD's as begeleiding."
+    },
+    "207": {
+        "Name": "stryd met 'n Swaar Kruiser!",
+        "Desc": "Sit 'n vloot uit met 'n CA as vlagskip."
+    },
+    "208": {
+        "Name": "stryd met 'n Battle!",
+        "Desc": "Sit 'n vloot uit met 'n slagshchip as vlagskip. BBV geld nie."
+    },
+    "209": {
+        "Name": "stryd met 'n Vliegkampschip Aanvalsvloot!",
+        "Desc": "Sit 'n vloot uit met 'n CV (L) as vlagskip en 5 DD \ / CL \ / AV as escort."
+    },
+    "215": {
+        "Name": "Tweede Vloot stryd!",
+        "Desc": "Sit die tweede vloot uit op 'n aanvalsmissie."
+    },
+    "217": {
+        "Name": "Sink n vyand Vliegkampschip!",
+        "Desc": "Sink n vyand vliegkampschip."
+    },
+    "219": {
+        "Name": "stryd met die Mikawa Vloot!",
+        "Desc": "Sit 'n vloot uit met Choukai, Aoba, Kako, Furutaka, Tenryuu en 'n ander vinnige skip."
+    },
+    "222": {
+        "Name": "stryd met die 6de Torpedobootjager Divisie!",
+        "Desc": "Sit 'n vloot uit met slegs Akatsuki, Hibiki, Inazuma, en Ikazuchi."
+    },
+    "223": {
+        "Name": "stryd met die 4de Kruiser Divisie!",
+        "Desc": "Sit 'n vloot uit met Atago, Takao, Choukai, Maya en 2 ander skepe. Telling 'n oorwinning teen die Wêreld 2-2 baas."
+    },
+    "224": {
+        "Name": "stryd met die Nishimura Vloot!",
+        "Desc": "Sit 'n vloot uit met Fusou, Yamashiro, Mogami, Shigure en 2 ander skepe. Telling 'n oorwinning teen die Wêreld 2-3 baas."
+    },
+    "225": {
+        "Name": "stryd met die 5de Vliegkampschip Divisie!",
+        "Desc": "Sit 'n vloot uit met Shoukaku, Zuikaku en 4 ander skepe. Telling 'n oorwinning teen die Wêreld 3-1 baas."
+    },
+    "227": {
+        "Name": "stryd met die Nuwe Mikawa Vloot!",
+        "Desc": "Sit 'n vloot uit met Choukai, Aoba, Kinugasa, Kako, Furutaka en Tenryuu. Telling 'n oorwinning teen die Wêreld 2-3 Baas."
+    },
+    "231": {
+        "Name": "stryd met 'n Duikboot Vloot!",
+        "Desc": "Sit 'n vloot uit met 2 SS en 4 ander skepe. Telling 'n oorwinning teen die Wêreld 2-3 baas."
+    },
+    "232": {
+        "Name": "stryd met 'n Marine Luchtvaartdienst Aanvalsvloot!",
+        "Desc": "Sit 'n vloot uit met 2 BBV, 2 CAV en 2 ander skepe. Telling 'n oorwinning teen die Wêreld 4-2 baas."
+    },
+    "233": {
+        "Name": "stryd met die 6de Kruiser Divisie!",
+        "Desc": "Sit 'n vloot uit met Furutaka, Kako, Kinugasa, Aoba en 2 ander skepe. Telling n S rank oorwinning teen die Wêreld 2-3 baas."
+    },
+    "239": {
+        "Name": "stryd met die 8ste Torpedobootjager Divisie!",
+        "Desc": "Sit 'n vloot uit met Asashio, Michishio, Ooshio, Arashio en 2 ander skepe. Telling 'n oorwinning teen die Wêreld 2-3 baas."
+    },
+    "240": {
+        "Name": "stryd met die 18de Torpedobootjager Divisie!",
+        "Desc": "Sit 'n vloot uit met Kasumi, Arare, Kagerou, Shiranui en 2 ander skepe. Telling 'n oorwinning teen die Wêreld 3-1 baas."
+    },
+    "244": {
+        "Name": "stryd met die 30ste Torpedobootjager Divisie (1ste Generasie)",
+        "Desc": "Sit 'n vloot uit met Mutsuki (\ u7766 \ u6708), Kisaragi (\ u5982 \ u6708), Yayoi (\ u5f25 \ u751f), Mochizuki (\ u671b \ u6708) en tot 2 DD's of 1 DD met 1 CL as vlagskip na Wêreld 3-2 en tref die baas. C rank of hoër is benodigt. "
+    },
+    "245": {
+        "Name": "Voorbereiding vir Liefde! (Laatste)",
+        "Desc": "Sit 'n vloot uit met 'n hoë vlak skip (Lv.90 ~ 99) as vlagskip na Wêreld 2-3 en die telling 'n S rank oorwinning teen die baas."
+    },
+    "246": {
+        "Name": "Julle Eerste Missie Saam!",
+        "Desc": "Sit 'n vloot uit na Wêreld 4-3 met 'n getroude skip van Lv.100 of hoër as vlagskip en die telling 'n S rank oorwinning teen die baas."
+    },
+    "247": {
+        "Name": "stryd met 'n Luchtvaartslagshchip Vloot!",
+        "Desc": "Sit 'n vloot uit met minstens 2 BBV in die hoofdvloot en die telling 'n oorwinning teen die Wêreld 4-4 baas."
+    },
+    "248": {
+        "Name": "30ste Torpedobootjager Vloot Anti-Duikboot Patrouille",
+        "Desc": "Sit 'n vloot uit met Mutsuki, Yayoi, Uzuki en Mochizuki na Wêreld 1-5 en bereik die baas, C rank of hoër is benodigt."
+    },
+    "250": {
+        "Name": "stryd met die 2de Vliegkampschip Divisie",
+        "Desc": "Sit 'n vloot uit met Hiryuu Kai Ni (\ u98db \ u9f8d \ u6539 \ u4e8c) as vlagskip, Souryuu (\ u84bc \ u9f8d) en 2 Torpedobootjagers na Wêreld 5-2. Jy kan tot 2 ander skepe byvoeg. telling 'n S rank oorwinning teen die baas. "
+    },
+    "251": {
+        "Name": "stryd met die 2de Vliegkampschip Divisie",
+        "Desc": "Sit 'n vloot uit met Souryuu Kai Ni (\ u84bc \ u9f8d \ u6539 \ u4e8c) as vlagskip, Hiryuu Kai Ni (\ u98db \ u9f8d \ u6539 \ u4e8c) en 2 torpedobootjagers na Wêreld 4-3. Jy kan tot 2 ander skepe byvoeg. Telling n S rank oorwinning teen die baas. "
+    },
+    "252": {
+        "Name": "stryd met 'n Harune lei Vloot",
+        "Desc": "Sit 'n vloot uit met Haruna Kai Ni (\ u699b \ u540d \ u6539 \ u4e8c) as vlagskip en tot 5 ander skepe na Wêreld 5-1 en die telling 'n S rank oorwinning teen die baas."
+    },
+    "253": {
+        "Name": "stryd met die 601 eskader",
+        "Desc": "Sit 'n vloot uit met Unryuu Kai (\ u96f2 \ u9f8d \ u6539) as vlagskip na Wêreld 5-2 en die telling 'n S rank oorwinning teen die baas."
+    },
+    "254": {
+        "Name": "stryd met 'n Ligte Kruiser Groep",
+        "Desc": "Sit 'n vloot uit met 1-2 ligte vliegkampschepen, 1 effense kruiser en 3-4 torpedobootjagers na Wêreld 2-1 en die telling 'n S rank oorwinning teen die baas."
+    },
+    "255": {
+        "Name": "stryd met 'n Torpedo Groep by die Bashi Eilande",
+        "Desc": "Sit 'n vloot uit met 1-2 ligte kruisers (met eentje as vlagskip) en 4-5 torpedobootjagers na Wêreld 2-2. Telling 'n oorwinning teen die baas en sink die vyand vlagskip."
+    },
+    "258": {
+        "Name": "stryd met die 2de Groep",
+        "Desc": "Sit 'n vloot uit met Nagato (\ u9577 \ u9580), Mutsu (\ u9678 \ u5965), Fusou (\ u6276 \ u6851), Yamashiro (\ u5c71 \ u57ce) en tot 2 ander skepe na Wêreld 4- 2. Telling twee S rank oorwinnings teen die baas nodig. "
+    },
+    "260": {
+        "Name": "stryd met die Slagschips Groep in die Arktiese Waters",
+        "Desc": "Sit 'n vloot uit met 2 oorlogskepe, 'n lig vliegkampschip en tot 3 ander skepe na Wêreld 3-5 en die telling 'n S rank oorwinning teen die baas nodig."
+    },
+    "262": {
+        "Name": "stryd met die Nishimura Vloot in die Suidelike Waters",
+        "Desc": "Sit 'n vloot uit met Fusou (\ u6276 \ u6851), Yamashiro (\ u5c71 \ u57ce), Mogami (\ u6700 \ u4e0a), Shigure (\ u6642 \ u96e8) en Michishio (\ u6e80 \ u6f6e) ( jy kan nog 'n ekstra skip byvoeg) na Wêreld 5-1 en die telling 'n S rank oorwinning teen die baas nodig. "
+    },
+    "263": {
+        "Name": "stryd met die 6de Groep in die Suidelike Waters",
+        "Desc": "Sit 'n vloot uit met Furutaka (\ u53e4 \ u9df9), Kako (\ u52a0 \ u53e4), Aoba (\ u9752 \ u8449), Kinugasa (\ u8863 \ u7b20) en tot 2 ander skepe na Wêreld 2- 5 en die telling 'n S rank oorwinning teen die baas nodig. "
+    },
+    "267": {
+        "Name": "stryd met die 11de Torpedobootjager Groep",
+        "Desc": "Sit 'n vloot uit met Fubuki (\ u5439 \ u96ea), Shirayuki (\ u767d \ u96ea), Hatsuyuki (\ u521d \ u96ea), Murakumo (\ u53e2 \ u96f2) en tot 2 ander skepe na Wêreld 2- 3 en die telling 'n oorwinning teen die baas nodig. "
+    },
+    "268": {
+        "Name": "11de Torpedobootjager Divisies Anti-Duikboot Patrouille",
+        "Desc": "Sit 'n vloot uit met Fubuki (\ u5439 \ u96ea), Shirayuki (\ u767d \ u96ea), Hatsuyuki (\ u521d \ u96ea) en Murakumo (\ u53e2 \ u96f2) na Wêreld 1-5 en die telling ten minste 'n C telling teen die baas nodig. "
+    },
+    "269": {
+        "Name": "stryd met die 21ste Torpedobootjager Divisie",
+        "Desc": "Sit 'n vloot uit met Hatsuharu (\ u521d \ u6625), Nenohi (\ u5b50 \ u65e5), Wakaba (\ u82e5 \ u8449), Hatsushimo (\ u521d \ u971c) en tot 2 ander skepe na Wêreld 3- 1 en die telling 'n S rank oorwinning teen die baas nodig. "
+    },
+    "270": {
+        "Name": "stryd met die 22ste Torpedobootjager Divisie",
+        "Desc": "Sit 'n vloot uit met Satsuki (\ u7690 \ u6708), Fumizuki (\ u6587 \ u6708), Nagatsuki (\ u9577 \ u6708), 1 torpedobootjagers en tot 2 ander skepe na Wêreld 1-4 en die telling 'n S rank oorwinning teen die baas nodig. "
+    },
+    "271": {
+        "Name": "stryd met Nachi's Groep",
+        "Desc": "Sit 'n vloot uit met Nachi (\ u90a3 \ u667a) as vlagskip, Hatsushimo (\ u521d \ u971c), Kasumi (\ u971e), Ushio (\ u6f6e), Akebono (\ u66d9) en nog 'n ekstra skip na Wêreld 2-2 en die telling 'n S rank oorwinning teen die baas nodig. "
+    },
+    "272": {
+        "Name": "stryd met die Gerenoveerde Luchtafweer Swaar Kruiser",
+        "Desc": "Sit 'n vloot uit met Maya (\ u6469 \ u8036) Kai of Kai2, 1 CL, 2 DD en tot 2 ander skepe na Wêreld 2-3 en die telling 'n S rank oorwinning teen die baas nodig."
+    },
+    "273": {
+        "Name": "stryd met die Mikawa Vloot by die Solomon Eilande",
+        "Desc": "Sit 'n vloot uit met Choukai Kai2 as vlagskip en 5 willekeurige skepe van die Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari klasse na Wêreld 5-1 en die telling 'n S rank oorwinning teen die baas"
+    },
+    "274": {
+        "Name": "6de Torpedobootjager Divisies Anti-Duikboot Patrouille",
+        "Desc": "Sit 'n vloot uit met Akatsuki, Hibiki (\ u97ff of \ u0412 \ u0435 \ u0440 \ u043d \ u044b \ u0439), Inazuma en Ikazuchi na Wêreld 1-5. Behaal 'n C-Rank + teen die baas"
+    },
+    "275": {
+        "Name": "stryd met die 18de Groep",
+        "Desc": "Sit 'n vloot uit met Tenryuu, Tatsuta, en tot 2 ander skepe na [W2-3]. Behaal 'n S-rank teen die baas nodig"
+    },
+    "276": {
+        "Name": "stryd met die Oppervlakte Aanvalsvloot!",
+        "Desc": "Sit 'n vloot uit met Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi en Inazuma na Wêreld 5-1. Behaal 'n S-rank op hierdie gids"
+    },
+    "277": {
+        "Name": "6de Divisie Anti-Duikboot Missie!",
+        "Desc": "Sit 'n vloot uit met Akatsuki Kai2, Hibiki / Verniy, Ikazuchi, Inazuma na Wêreld 1-5. Behaal 'n A-Rank + op hierdie gids."
+    },
+    "278": {
+        "Name": "Sit die 1ste Torpedo Groep Snel in by Operasie KE",
+        "Desc": "Sit 'n vloot uit met Abukuma as vlagskip met Hibiki / Вер, Hatsushimo, Wakaba, Samidare en Shimakaze na Wêreld 3-2. Behaal 'n B-Rank + teen die baas."
+    },
+    "279": {
+        "Name": "Sit die 1ste Torpedo Groep nog 'n Keer Snel in by Operasie KE",
+        "Desc": "Sit 'n vloot uit met Abukuma Kai-2 as vlagskip met Hibiki / Вер, Yuugumo, Naganami, Akigumo en Shimakaze na Wêreld 3-2. Behaal 'n S-Rank teen die baas."
+    },
+    "285": {
+        "Name": "\" Vliegkampschip Aanvalsvloot \ ", Op na die Arktiese See!",
+        "Desc": "Sit 'n vloot uit met 'n vliegkampschip as vlagskip na Wêreld 3-5. Behaal 'n S-Rank teen die baas."
+    },
+"286": {
+        "Name": "Versterk die Anti-Duikboot Patrollies in Teenoor die Thuishaven!",
+        "Desc": "Sit vloot uit na Wêreld 1-5 en behaal 4 A-ranks (of beter) teen die baas"
+    },
+    "287": {
+        "Name": "stryd met die 5de Vliegkampschip Divisie in die Suidelike See van die Coral Eilande",
+        "Desc": "Sit 'n vloot uit met Shoukaku, Zuikaku, Oboro, Akigumo en tot 2 ander skepe na Wêreld 5-2. Behaal 'n S-Rank teen die baas."
+    },
+    "288": {
+        "Name": "stryd met die Nuwe 21ste Groep in die Noorde",
+        "Desc": "Sit 'n vloot uit met Nachi (Kai-2), Ashigara (Kai-2), Tama, Kiso en tot 2 ander skepe na Wêreld 3-1. Behaal 'n S-Rank teen die baas."
+    },
+    "289": {
+        "Name": "stryd met die 16de Groep (Eerste Generasie)",
+        "Desc": "Sit 'n vloot uit met Ashigara as vlagskip, Kuma, Nagara en tot 3 ander skepe na Wêreld 2-2. Behaal 'n S-Rank teen die baas."
+    },
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+"293": {
+"Kode": "B53",
+        "Name": "3de Vliegkampschip Divisie: Verdedig die Nansei Eilande",
+        "Desc": "Sit 'n vloot uit met Zuikaku Kai as vlagskip, Zuihou, Chitose en Chiyoda (beide as CVL) (+2 ander skepe) na die wêreld 1-4 en die telling 'n S-Rank teen die baas"
+    },
+"294": {
+"Kode": "B54",
+        "Name": "stryd met Ozawa's Vloot",
+        "Desc": "Sit 'n vloot uit met Zuikaku Kai as vlagskip, Zuihou Kai, Chitose, Chiyoda (beide as CVL), Ise Kai en Hyuuga Kai na die wêreld 2-4 en die telling 'n S-Rank teen die baas"
+    },
+
+    
+    
+
+
+
+"201": {
+        "Kode": "Bd1",
+        "Name": "Daaglikse stryd 1",
+        "Desc": "win van 'n Abyssal Vloot",
+        "Ontsluit": [216, 211, 212],
+        "Tracking": [[0,1]]
+    },
+    "216": {
+        "Kode": "BD2",
+        "Name": "Daaglikse stryd 2",
+        "Desc": "Win van 'n Abyssal vloot en vernietig hiervan die vlagskip",
+        "Ontsluit": [210, 218, 214, 213],
+        "Tracking": [[0,1]]
+    },
+    "210": {
+        "Kode": "Bd3",
+        "Name": "Daaglikse stryd 3",
+        "Desc": "Win van 10 Abyssal vloot (B rank +)",
+        "Tracking": [[0,10]]
+    },
+    "211": {
+        "Kode": "BD4",
+        "Name": "Daaglikse stryd 4",
+        "Desc": "Sink 3 Abyssal CV (L)",
+        "Tracking": [[0,3]]
+    },
+    "218": {
+        "Kode": "BD5",
+        "Name": "Daaglikse stryd 5",
+        "Desc": "Sink 3 Abyssal transportschepen",
+        "Ontsluit": [226, 220],
+        "Tracking": [[0,3]]
+    },
+    "212": {
+        "Kode": "Bd6",
+        "Name": "Daaglikse stryd 6",
+        "Desc": "Sink 5 Abyssal transportschepen",
+        "Tracking": [[0,5]]
+    },
+    "226": {
+        "Kode": "Bd7",
+        "Name": "Daaglikse stryd 7",
+        "Desc": "Win van 5 base in die horingblad nodes in Wêreld 2",
+        "Ontsluit": [230],
+        "Tracking": [[0,5]]
+    },
+    "230": {
+        "Kode": "Bd8",
+        "Name": "Daaglikse stryd 8",
+        "Desc": "Sink 6 Abyssal Onderzeeërs",
+        "Tracking": [[0,6]]
+    },
+    
+    
+    
+    
+    
+    "214": {
+        "Kode": "BW1",
+        "Name": "Weekliks stryd 1",
+        "Desc": "Sit 36 ​​'n vloot uit, kom 24 base teen, Win van 12 base, 6 S-ranks",
+        "Ontsluit": [221],
+        "Tracking": [[0,36], [0,24], [0,12], [0,6]]
+    },
+    "220": {
+        "Kode": "BW2",
+        "Name": "Weekliks stryd 2",
+        "Desc": "Sink 20 Abyssal CV (L)",
+        "Ontsluit": [228],
+        "Tracking": [[0,20]]
+    },
+    "213": {
+        "Kode": "BW3",
+        "Name": "Weekliks stryd 3",
+        "Desc": "Sink 20 Abyssal transportschepen",
+        "Tracking": [[0,20]]
+    },
+    "221": {
+        "Kode": "Bw4",
+        "Name": "Weekliks stryd 4",
+        "Desc": "Sink 50 Abyssal transportschepen",
+        "Ontsluit": [261, 257, 264],
+        "Tracking": [[0,50]]
+    },
+    "228": {
+        "Kode": "BW5",
+        "Name": "Weekliks stryd 5",
+        "Desc": "Sink 15 Onderzeeërs",
+        "Ontsluit": [229, 241, 613],
+        "Tracking": [[0,15]]
+    },
+    "229": {
+        "Kode": "Bw6",
+        "Name": "Weekliks stryd 6",
+        "Desc": "Win van 12 base in die horingblad nodes van Wêreld 4",
+        "Ontsluit": [242],
+        "Tracking": [[0,12]]
+    },
+    "241": {
+        "Kode": "Bw7",
+        "Name": "Weekliks stryd 7",
+        "Desc": "Win van 5 base in Wêreld [W3-3], [W3-4] of [W3-5]",
+        "Tracking": [[0,5]]
+    },
+    "242": {
+        "Kode": "BW8",
+        "Name": "Weekliks stryd 8",
+        "Desc": "Win van 'n baas in Wêreld [W4-4]",
+        "Ontsluit": [243],
+        "Tracking": [[0,1]]
+    },
+    "243": {
+        "Kode": "Bw9",
+        "Name": "Weekliks stryd 9",
+        "Desc": "Sit 'n vloot uit na [W5-2] en behaal 2 S-ranks teen die baas nodig",
+        "Tracking": [[0,2]]
+    },
+    "261": {
+        "Kode": "Bw10",
+        "Name": "Weekliks stryd 10",
+        "Desc": "Sit 'n vloot uit na [W1-5] en behaal 3 A-ranks + teen die baas nodig",
+        "Tracking": [[0,3]]
+    },
+    
+    
+    
+    
+    
+    "249": {
+        "Kode": "BM1",
+        "Name": "stryd met die 5de Groep",
+        "Desc": "Sit 'n vloot uit met Myoukou, Nachi, Haguro, en tot 3 ander skepe na [W2-5]. Behaal 'n S-Rank teen die baas.",
+        "Ontsluit": [265]
+    },
+    "256": {
+        "Kode": "BM2",
+        "Name": "stryd met 'n Duikboot Vloot in Wêreld 6-1",
+        "Desc": "Sit 'n vloot uit na [W6-1]. Behaal 3 S-Ranks teen die baas.",
+        "Tracking": [[0,3]]
+    },
+    "257": {
+        "Kode": "Bm3",
+        "Name": "stryd met 'n Torpedo Groep",
+        "Desc": "Sit 'n vloot uit met 1 ~ 3 CL (CL as vlagskip) en 3 ~ 5 Torpedobootjagers na [W1-4]. Behaal 'n S-Rank teen die baas."
+    },
+    "259": {
+        "Kode": "Bm4",
+        "Name": "stryd met 'n Battle Groep",
+        "Desc": "Sit 'n vloot uit met 3 BB (V) (Geen FBB) + 1 CL + 2 ander skepe na [W5-1]. Behaal 'n S-Rank teen die baas."
+    },
+    "265": {
+        "Kode": "Bm5",
+        "Name": "Maandelikse leiding Diens",
+        "Desc": "Sit 'n vloot uit na [W1-5]. Behaal 10 A-Ranks + teen die baas.",
+        "Tracking": [[0,10]]
+    },
+    "264": {
+        "Kode": "Bm6",
+        "Name": "stryd met die Vliegkampschip Aanvalsvloot in die Weste",
+        "Desc": "Sit 'n vloot uit met 2 CV + 2 DD + 2 ander skepe na [W4-2]. Behaal 'n S-Rank teen die baas.",
+        "Ontsluit": [266]
+    },
+    "266": {
+        "Kode": "Bm7",
+        "Name": "stryd met die Tegenaanvals Groep",
+        "Desc": "Sit 'n vloot uit met 4 DD (DD as vlagskip) + 1 CA (Geen CAV) + 1 CL na [W2-5]. Behaal 'n S-Rank teen die baas."
+    },
+    
+    
+    
+    
+    
+    "301": {
+        "Kode": "C1",
+        "Name": "Eerste Oefening!",
+        "Desc": "Daag 'n ander vloot uit in oefenmodus"
+    },
+    "303": {
+        "Kode": "C2",
+        "Name": "Daaglikse Oefening 1",
+        "Desc": "Daag 3 ander vloot uit in oefenmodus",
+        "Ontsluit": [304, 302],
+        "Tracking": [[0,3]]
+    },
+    "304": {
+        "Kode": "C3",
+        "Name": "Daaglikse Oefening 2",
+        "Desc": "Behaal 5 oorwinnings in oefenmodus op dieselfde dag",
+        "Tracking": [[0,5]]
+    },
+    "302": {
+        "Kode": "C4",
+        "Name": "Weeklikse Oefening",
+        "Desc": "(Weekliks) Behaal 20 oorwinnings in oefenmodus",
+        "Tracking": [[0,20]]
+    },
+    "307": {
+        "Kode": "C5",
+        "Name": "Verbeter die Effektiwiteit van die Vloot",
+        "Desc": "Behaal 3 oorwinnings in oefenmodus op dieselfde dag"
+    },
+    "308": {
+        "Kode": "C6",
+        "Name": "Verbeter die Effektiwiteit van die Vloot nog 'n Keer",
+        "Desc": "Behaal 4 oorwinnings in oefenmodus op dieselfde dag"
+    },
+    "309": {
+        "Kode": "C7",
+        "Name": "Extra Training in Voorbereiding vir nog 'n vinnige sending na die Arktiese See",
+        "Desc": "Behaal 4 oorwinnings in oefenmodus op dieselfde dag"
+    },
+    "311": {
+        "Kode": "C8",
+        "Name": "Elite Vloot Oefening",
+        "Desc": "Behaal 7 oorwinnings in oefenmodus op dieselfde dag",
+"Tracking": [[0,7]]
+    },
+    
+    
+    
+    "401": {
+        "Kode": "D1",
+        "Name": "Eerste Expeditie",
+        "Desc": "Voer 'n Ekspedisie uit"
+    },
+    "402": {
+        "Kode": "D2",
+        "Name": "Daaglikse Expeditie 1",
+        "Desc": "Voer 3 suksesvolle ekspedisies uit",
+        "Ontsluit": [403],
+        "Tracking": [[0,3]]
+    },
+    "403": {
+        "Kode": "D3",
+        "Name": "Daaglikse Expeditie 2",
+        "Desc": "Voer 10 suksesvolle ekspedisies uit",
+        "Tracking": [[0,10]]
+    },
+    "404": {
+        "Kode": "D4",
+        "Name": "Weeklikse Expeditie",
+        "Desc": "(Weekliks) Voer 30 suksesvolle ekspedisies uit",
+        "Tracking": [[0,30]]
+    },
+    "405": {
+        "Kode": "D5",
+        "Name": "Die Eerste Duikboot Missie",
+        "Desc": "Voltooi Expeditie 30"
+    },
+    "406": {
+        "Kode": "D6",
+        "Name": "Die Tweede Duikboot Missie",
+        "Desc": "Voltooi Expeditie 30 nog 'n keer"
+    },
+    "408": {
+        "Kode": "D7",
+        "Name": "Vervolg van die Duikboot Missie",
+        "Desc": "Voltooi Expeditie 30 nog twee keer"
+    },
+    "409": {
+        "Kode": "D8",
+        "Name": "Strategie Tydren vir die Oorsese Duikboot Missie!",
+        "Desc": "Voltooi expedite 31"
+    },
+    "410": {
+        "Kode": "D9",
+        "Name": "Weeklikse Expeditie 2",
+        "Desc": "(Weekliks) Voltooi Expeditie 37 of 38",
+        "Ontsluit": [411],
+        "Tracking": [[0,1]]
+    },
+    "412": {
+        "Kode": "D10",
+        "Name": "Verbeter die BBV Operasie",
+        "Desc": "Voltooi ekspedisie 23"
+    },
+    "411": {
+        "Kode": "D11",
+        "Name": "Weeklikse Expeditie 3",
+        "Desc": "(Weekliks) Voltooi 7 keer Expeditie 37 of 38",
+        "Tracking": [[0,6]]
+    },
+    "413": {
+        "Kode": "D12",
+        "Name": "Verbeter die BBV Operasie (Vervolg.)",
+        "Desc": "Voltooi Expeditie 23 vier keer"
+    },
+    "414": {
+        "Kode": "D13",
+        "Name": "Blou Waters Duikboot Missie",
+        "Desc": "Voltooi Expeditie 39"
+    },
+    "415": {
+        "Kode": "D14",
+        "Name": "Blou Waters Duikboot Missie Uitbreiding",
+        "Desc": "Voltooi Expeditie 39 nog twee keer"
+    },
+    "416": {
+        "Kode": "D15",
+        "Name": "Luchtafweer Oefening",
+        "Desc": "Voltooi Expeditie 6 drie keer"
+    },
+    "417": {
+        "Kode": "D16",
+        "Name": "Gebruik die Afleidings Vloot",
+        "Desc": "Voltooi Expeditie 15"
+    },
+    "418": {
+        "Kode": "D17",
+        "Name": "Voorbereiding van die Marine Ceremonie",
+        "Desc": "Voltooi Expeditie 7 twee keer"
+    },
+    "419": {
+        "Kode": "D18",
+        "Name": "Marine Ceremonie",
+        "Desc": "Voltooi Expeditie 8"
+    },
+    "420": {
+        "Kode": "D19",
+        "Name": "Verbeter die Gebruik van die Aanvalsvloot",
+        "Desc": "Voltooi Expeditie 35 en 26"
+    },
+    
+    
+    
+    
+    "501": {
+        "Kode": "E1",
+        "Name": "Eerste Verskaffing",
+        "Desc": "bevoorraad 'n skip"
+    },
+    "502": {
+        "Kode": "E2",
+        "Name": "Eerste Herstel",
+        "Desc": "Herstel 'n skip"
+    },
+    "503": {
+        "Kode": "E3",
+        "Name": "Daaglikse Herstel",
+        "Desc": "Herstel 5 skepe",
+        "Ontsluit": [504],
+        "Tracking": [[0,5]]
+    },
+    "504": {
+        "Kode": "E4",
+        "Name": "Daaglikse Verskaffing",
+        "Desc": "bevoorraad skepe 15 keer",
+        "Tracking": [[0,15]]
+    },
+    
+    
+    
+    
+    
+    "605": {
+        "Kode": "F1",
+        "Name": "Daaglikse Ontwikkeling 1",
+        "Desc": "Bou 'n uitrusting (Mislukkings is OK)",
+        "Ontsluit": [606],
+        "Tracking": [[0,1]]
+    },
+    "606": {
+        "Kode": "F2",
+        "Name": "Daaglikse Konstruksie 1",
+        "Desc": "Bou 'n skip",
+        "Ontsluit": [607],
+        "Tracking": [[0,1]]
+    },
+    "607": {
+        "Kode": "F3",
+        "Name": "Daaglikse Ontwikkeling 2",
+        "Desc": "Bou 3 paar toerusting (Mislukkings is OK)",
+        "Ontsluit": [608],
+        "Tracking": [[0,3]]
+    },
+     "608": {
+        "Kode": "F4",
+        "Name": "Daaglikse Konstruksie 2",
+        "Desc": "Bou 3 skepe",
+        "Ontsluit": [609, 619],
+        "Tracking": [[0,3]]
+    },
+     "609": {
+        "Kode": "F5",
+        "Name": "Daaglikse Ontmanteling",
+        "Desc": "uitmekaar haal 2 skepe",
+        "Tracking": [[0,2]]
+    },
+    "601": {
+        "Kode": "F6",
+        "Name": "Eerste Konstruksie",
+        "Desc": "Bou 'n skip"
+    },
+    "602": {
+        "Kode": "F7",
+        "Name": "Eerste Ontwikkeling",
+        "Desc": "Bou 'n uitrusting"
+    },
+    "603": {
+        "Kode": "F8",
+        "Name": "Eerste Ontmanteling",
+        "Desc": "uitmekaar haal 'n skip"
+    },
+    "604": {
+        "Kode": "F9",
+        "Name": "Eerste Sloop",
+        "Desc": "Sloop 'n uitrusting"
+    },
+    "610": {
+        "Kode": "F10",
+        "Name": "Voorbereiding vir LSC (Deel 2)",
+        "Desc": "Sloop toerusting 4 keer"
+    },
+    "612": {
+        "Kode": "F11",
+        "Name": "Voorbereiding vir die Transport Tonnen",
+        "Desc": "Sloop toerusting 3 keer"
+    },
+     "613": {
+        "Kode": "F12",
+        "Name": "Weeklikse Sloop",
+        "Desc": "Sloop toerusting 24 keer",

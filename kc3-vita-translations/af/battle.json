@@ -1,0 +1,54 @@
+{
+	"detection" : [
+		["", ""],
+		["OK", "good"],
+		["OK-", "good"],
+		["-", "bad"],
+		["NO", "bad"],
+		["OK+", "good"],
+		["NO+", "bad"]
+	],
+	
+	"airbattle" : [
+		["AP", "", "Lug Gelykheid"],
+		["AS+", "good", "Lug Oppermag"],
+		["AS", "good", "Lug Superioriteit"],
+		["AI", "bad", "Lug Onbekwaamheid"],
+		["AD", "bad", "Lug Ontkenning"],
+		["Geen", "", "geen luggeveg"]
+	],
+	
+	"engagement" : [
+		["", "", ""],
+		["Prll", "", "Parallel"],
+		["HdOn", "", "Frontale Aanval"],
+		["Gr-T", "good", "Groene T"],
+		["Rd-T", "bad", "Rode T"]
+	],
+	
+	"formation" : [
+		"",
+		"Enkele lyn",
+		"Dubbele lyn",
+		"Diamant",
+		"Echelon",
+		"Sy aan sy",
+		"","","","","",
+		"Cruising Formasie 1 (anti-sub)",
+		"Cruising Formasie 2 (forward)",
+		"Cruising Formasie 3 (diamant)",
+		"Cruising Formasie 4 (Gevegs)",
+		"","","","","","",
+		"Cruising Formasie 1 (anti-sub)",
+		"Cruising Formasie 2 (forward)",
+		"Cruising Formasie 3 (diamand)",
+		"Cruising Formasie 4 (Gevegs)"
+	],
+	
+	"support" : [
+		"",
+		"lug aanval",
+		"artillerievuur aanval",
+		"Torpedo aanval"
+	]	
+}

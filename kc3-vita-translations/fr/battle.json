@@ -1,0 +1,54 @@
+{
+	"detection" : [
+		["", ""],
+		["OK", "bonne"],
+		["OK-", "bonne"],
+		["-", "mauvaise"],
+		["NO", "mauvaise"],
+		["OK+", "bonne"],
+		["NO+", "mauvaise"]
+	],
+	
+	"airbattle" : [
+		["AP", "", "Parité"],
+		["AS+", "bon", "Suprématie"],
+		["AS", "bon", "Supériorité"],
+		["AI", "mauvais", "Incapacité"],
+		["AD", "mauvais", "Déni"],
+		["None", "", "Pas de combat"]
+	],
+	
+	"engagement" : [
+  		["", "", ""],
+		["Prll", "", "Parallèle"],
+ 		["HdOn", "", "Frontal"],
+		["Gr-T", "bon", "T vert"],
+		["Rd-T", "mauvais", "T rouge"]
+	],
+	
+	"formation" : [
+		"",
+		"Ligne",
+		"Double ligne",
+		"Diamant",
+		"Échelon",
+		"Côte à côte",
+		"","","","","",
+		"Formation de navigation 1 (anti-sous-marin)",
+		"Formation de navigation 2 (avant)",
+		"Formation de navigation 3 (anneau)",
+		"Formation de navigation 4 (bataille)",
+		"","","","","","",
+		"Formation de navigation 1 (anti-sous-marin)",
+		"Formation de navigation 2 (avant)",
+		"Formation de navigation 3 (anneau)",
+		"Formation de navigation 4 (bataille)"
+	],
+	
+	"support" : [
+		"",
+		"Aérien",
+		"Artillerie",
+		"Torpille"
+	]
+}

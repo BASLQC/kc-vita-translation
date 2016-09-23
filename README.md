@@ -49,19 +49,19 @@ The big exception is Iowa, which needs to be manually added in: probably because
 Some critical components are already translated by KC3, so compile those translations in.
 
 * `Xml/tables/master` - All the files of interest are in this folder.
-  * `mst_ship.xml` (Done): `ships.json` - Defines the ship names.  For the most part, since kai and zwei and whatever crap may need to be handled with regex replace `改二`. Yomi doesn't need to be changed: it in fact can help basic Japanese readers.
+  * `mst_ship.xml` (Done, Works): `ships.json` - Defines the ship names.  For the most part, since kai and zwei and whatever crap may need to be handled with regex replace `改二`. Yomi doesn't need to be changed: it in fact can help basic Japanese readers.
     * `dict['mst_ship_data']['mst_ship'][0]` - Iterate through dict, first replace `改` with `Kai` and `二` with Ni, then split string by space and take first item (name) as key against `ships.json`, then place translation in it's place. Leave Yomi untranslated.
     * `dict['mst_ship_data']['mst_ship'][0]['Name'] = shipsjson[dict['mst_ship_data']['mst_ship'][0]['Name']] # given shipsjson as ships.json` - 
   * `mst_slotitem.xml` (Done): `items.json` - The equipment items in question. 
     * `dict['mst_slotitem_data']['mst_slotitem'][0]` - Just ignore the index, use `items.json` which has the JP name as primary key value.
   * `mst_stype.xml` (Done, Works): `stype.json` - Enemy ship types. Use `stype.json`, use sequence for Id (first quote is set to id 0).
     * `dict['mst_stype_data']['mst_stype'][0]` - Corresponds to ID 1. stype.json has an empty string in 0, so the equivalent is `stype[1]`, `index + 1`.
-  * `mst_shiptext.xml` - Ship description and get message. The items are sorted by ship ID. `Quotes.json` has message ID `1` as get message and `25` as ship info.
+  * `mst_shiptext.xml` (Done) - Ship description and get message. The items are sorted by ship ID. `Quotes.json` has message ID `1` as get message and `25` as ship info.
     * `dict['mst_shiptext_data']['mst_shiptext'][0]['Id']` - The IDs from `ships.json` from KC3 can be used toward this: the ship names in Unicode can be used as dict keys, and regex replace.
 
 ## Translate from other Sources (Essential)
 
-Other components aren't translated by KC3, so we will have to look elsewhere (such as the wiki) or create our own. These are second priority.
+Other components aren't translated by KC3, so we will have to look elsewhere (such as the Kancolle Kai wiki) or create our own. These are second priority.
 
 * `Xml/tables/master` - All the files of interest are in this folder.
   * `mst_maparea.xml` - Defines map area names.
