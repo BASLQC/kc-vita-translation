@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_bgm_jukebox_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_bgm_jukebox>
+	<Jukebox_record>1,提督との絆,試製ショートバージョン,201,300,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>2,暁の水平線に,試製ショートバージョン,202,300,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>3,華の二水戦,試製ショートバージョン,203,300,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>4,鎮守府の朝,試製ショートバージョン,204,300,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>5,秋月の空,母港BGM設定可能,205,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>6,母港,母港BGM設定可能,101,100,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>7,明石の工廠,母港BGM設定可能,206,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>8,連合艦隊の出撃,母港BGM設定可能,210,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>9,海上護衛戦,母港BGM設定可能,208,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>10,冬の艦隊,母港BGM設定可能,211,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>11,迎春の鎮守府,母港BGM設定可能,108,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>12,士魂の護り,母港BGM設定可能,213,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>13,特型駆逐艦,母港BGM設定可能,214,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>14,艦娘のお菓子作り,母港BGM設定可能,111,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>15,桃の節句と艦娘,母港BGM設定可能,112,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>16,武蔵の帰投,母港BGM設定可能,106,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>17,雨音の鎮守府,母港BGM設定可能,114,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>18,雨とお酒と艦娘,母港BGM設定可能,115,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>19,暁の水平線に,視聴ロングバージョン,220,700,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>20,鎮守府の朝,視聴ロングバージョン,221,700,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>21,華の二水戦,視聴ロングバージョン,222,700,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>22,提督との絆,視聴ロングバージョン,223,700,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>23,浜辺の艦娘,母港BGM設定可能,116,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>24,加賀岬,試製新曲先行公開,225,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>25,加賀岬改(母港ver),同曲母港BGMバージョン,117,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>26,鎮守府の秋祭り,母港BGM設定可能,118,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>27,聖夜の母港,母港BGM設定可能,119,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+</mst_bgm_jukebox_data>

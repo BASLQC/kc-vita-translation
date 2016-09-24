@@ -1,0 +1,891 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_slotitemtext_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_slotitemtext>
+	<Id>1</Id>
+	<Info>旧型の小型砲です。\n旧型駆逐艦に標準的主砲として搭載されました。\n装填・操砲も人力ですが、シンプルな構造で経済性も高く、駆逐艦や海防艦等の主砲として、長く使われました。\n対空射撃には不向きです。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>2</Id>
+	<Info>艦隊型駆逐艦の主砲です。\n防盾で全周を遮蔽、弾片や荒天対策を施しており、また動力操砲も採用した近代的な小型艦の主砲で、多くの主力駆逐艦に採用されました。\nあまり仰角はとれず、対空射撃は少し苦手です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>3</Id>
+	<Info>防空型駆逐艦の主砲です。画期的な長砲身半自動装填砲を動力砲塔に備えた「長10cm」と呼ばれた新型の防空用高角砲で、「秋月」型駆逐艦に採用されました。複雑な構造のため量産には不向きでしたが、敵機の跳梁を抑える艦隊防空の切り札の一つです。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>4</Id>
+	<Info>巡洋艦の主砲や戦艦の副砲として独自開発された中距離砲です。\nやや旧式化していますが、列強の15cm砲とほぼ同等の射程と威力を持っています。\n対艦対地専門で、対空射撃はできません。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>5</Id>
+	<Info>条約下で保有数に制限のあった重巡を、火力を増強した強力な軽巡で補うために開発されました。\n初の三連装砲でしたが、射程・発射速度・運用性全てに高い評価を得ることになりました。\n後に有名な「大和」型戦艦の副砲としても採用されています。\n対空戦にも効果を発揮する傑作砲です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>6</Id>
+	<Info>重巡に搭載された主砲、それが20.3cm連装砲です。\n条約上限一杯の8インチ（20.3cm）のこの砲は、中距離での砲撃戦はもちろん、夜戦のような近距離での殴り合いでも十分にその威力を発揮します。\n限定的ですが、対空射撃も可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>7</Id>
+	<Info>標準的な戦艦の主砲です。\n「金剛」型建造と同時期に英国に発注され、後に国産化、「伊勢」型までの標準的な戦艦主砲して運用されました。\n遠距離からの堂々たる艦隊砲撃戦を実現します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>8</Id>
+	<Info>呉海軍工廠砲熕部で開発された初の純国産戦艦主砲です。16インチ（40.6cm）を僅かに上回る、この41cm砲は「大和」型の46cm砲が登場するまで世界最大の戦艦砲でした。これを搭載した「長門」「陸奥」は、当時世界列強の「ビック７」として、多くのファンに称えられていました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>9</Id>
+	<Info>呉海軍工廠砲熕部が極秘開発した世界最大最強の戦艦主砲です。\n敵戦艦に対してアウトレンジが可能な、最大射程40kmを超える最新鋭のこの巨砲は、機密保持のため公式には16インチ砲とされていました。\n「三式弾」を用いた強力な対空射撃も可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>10</Id>
+	<Info>標準的な対空高角砲です。\n量産に向いた構造で経済性も高く、戦艦や空母、巡洋艦などに広く搭載されました。\n発射速度や旋回速度にやや難がありますが、重要な対空火器です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>11</Id>
+	<Info>英国開発のものを国産化、「金剛」型戦艦や「扶桑」型戦艦の副砲として搭載されました。\n「伊勢」型戦艦以降は改良軽量型14cm砲が搭載されるようになりました。\n対空射撃は不可能で、後に近代化改修に伴い、対空火器増設や軽量化のため、表舞台から去っていきました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>12</Id>
+	<Info>巡洋艦の主砲だったものを、戦艦の副砲として活用しました。\n「大和」型に搭載され、対空戦も可能な、性能・運用性ともに優秀な戦艦副砲となりました。\n砲塔部の装甲が薄いのが玉に瑕で、諸説ありますが「大和」型の唯一の弱点という指摘もありました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>13</Id>
+	<Info>陳腐化した53cm魚雷の後継として開発された大型の61cm魚雷。\nその三連装発射管は、駆逐艦の主力兵装として、「睦月」型や「吹雪」型などに搭載されました。\n魚雷戦や夜戦の主力兵装として活躍します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>14</Id>
+	<Info>強力な61cm魚雷の四連装発射管です。\n迅速に次弾を装填できる次発装填装置を搭載、夜戦等での反転再雷撃能力も増大しました。\n「白露」型以降の艦隊型駆逐艦や、近代化改装後の主力重巡洋艦などに搭載されました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>15</Id>
+	<Info>大威力長射程を誇る秘密兵器「九三式酸素魚雷」。その必殺の酸素魚雷を四連装した水雷兵装の決定版が、この四連装【酸素魚雷】発射管です。\n新型の主力駆逐艦や各巡洋艦などに搭載され、夜戦等で最大の雷装戦力を構成します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>16</Id>
+	<Info>当時の世界水準を遥かに上回る艦上攻撃機の傑作機。優れた航続距離を誇り、速度や防弾装備は劣るものの、初期の機動部隊艦載機の主力攻撃機として大活躍しました。\n「九七艦攻」と呼ばれ、雷撃・水平爆撃をこなす主力艦上攻撃機ですが、徐々に現役を退いていきます。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>17</Id>
+	<Info>旧式化した「九七艦攻」の後継機として開発された、新型の艦上攻撃機「天山」。\n機動部隊に配備され、主に雷撃任務を担当します。\n急降下爆撃機の「彗星」などと一緒に、ぜひ空母機動部隊で運用してくださいね。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>18</Id>
+	<Info>艦攻と艦爆を統合した先進的な"急降下爆撃可能な雷撃機"、それが「流星」です。\n発動機不調と重量過大に悩みながらも、開発に成功。高い性能を誇る最新鋭の艦上攻撃機です。\n先進的な性能を体現した独特のフォルムも魅力的な本機、ぜひ、新型艦戦「烈風」と共に空母に積んであげてくださいね。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>19</Id>
+	<Info>旧式の艦上戦闘機です。\n零戦より前に実戦配備されていた旧型機ですが、優れた格闘戦能力を持っています。\n武装や航続力、速度の点で既に二線級ではありますが、防空戦闘には活用可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>20</Id>
+	<Info>「ゼロ戦」の名で知られる名機「零式艦上戦闘機」の初期型です。7.7mm機銃2門と自慢の\n20mm機銃2門を装備。\n優れた格闘戦能力と長大な航続距離で、その圧倒的な力を見せつけました。\nやがて敵が強力な新型機になってくると、火力と速度、防弾性などの弱点が露呈していきます。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>21</Id>
+	<Info>零戦の最終的な量産機となった改良型、「零式艦上戦闘機52型」です。\n後継機の開発が遅れたため、零戦52型が後期の主力艦上戦闘機として奮戦することになりました。\n「彗星」艦爆や「天山」艦攻と一緒に、機動部隊の主力として運用してくださいね。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>22</Id>
+	<Info>名機「零戦」の後継機と開発された最新鋭艦上戦闘機「烈風」。\n用兵側の発動機選定ミスや多忙な現場設計陣などの苦境を越えて、ついに完成した新型艦戦です。\nぜひ、「流星」艦爆と共に、次世代の機動部隊艦載機部隊を編制して、空を制してくださいね！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>23</Id>
+	<Info>複葉の九六艦爆から一新、単葉の近代的な艦上爆撃機として登場しました。\n「九九艦爆」と呼ばれ、「九七艦攻」と共に初期の機動部隊の攻撃隊戦力の中核を担います。\n固定脚の低速機であるため、より高性能な高速艦爆「彗星」にその座を譲っていきました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>24</Id>
+	<Info>「九九艦爆」の後継として開発された高速性能を誇る艦上爆撃機「彗星」。\n液冷発動機を装備。当時の一般的な戦闘機より速く、護衛の零戦すら振り切れる高速性とも言われます。整備の難しい機体ですが、高速艦爆としての完成度は高く、ぜひ機動部隊の中核として運用してくださいね。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>25</Id>
+	<Info>「零水偵」とも呼ばれる標準的な水上偵察機です。\n戦艦や巡洋艦、水上機母艦などに搭載され、索敵任務担当として艦隊の「目」の役目を務めます。\n海戦は索敵が大事！　ぜひ、主力艦艇に搭載して、運用してくださいね。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>26</Id>
+	<Info>水上偵察機を発展させ、急降下爆撃可能な水偵として開発された「瑞雲」。\n空戦フラップまで装備した高性能な多用途機で、水上機母艦や、航空巡洋艦などからの運用も可能です。\n「伊勢」型を改装した「航空戦艦」で集中運用、水上打撃機動部隊を編制するのも楽しいですよ！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>27</Id>
+	<Info>艦載用対空電探です。\n当初陸上用として開発されたものでしたが、小型軽量で艦載も可能だったため、「13号対空電探」として採用されました。\n最終的に戦艦や空母まで、多くの艦艇に装備された傑作電探です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>28</Id>
+	<Info>初の実戦運用された対水上電探です。\n当初動作不安定で実用に耐えませんでしたが、改良と調整により、徐々に効果を発揮していきます。\n捜索以外にも限定的ながら射撃管制にも使用されました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>29</Id>
+	<Info>対水上射撃管制用に開発された小型対水上射撃用電探です。\n22号を改修して精度を上げ、探知距離・精度ともに実用レベルで運用可能です。\n雷撃管制用にも使用でき、砲雷撃戦の質を大きく向上させます。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>30</Id>
+	<Info>初の実用艦載電探です。\n対空用ですが、対水上電探としても使用可能です。\n13号電探と混載することも可能で、基本的にこの21号は大型艦に搭載されました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>31</Id>
+	<Info>高性能な大型対水上電探です。\n遠距離射撃にも対応できる射撃管制が可能ですが、かなり大型で重量過大です。\nこれを搭載すると、そうとう目立ちます！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>32</Id>
+	<Info>高性能な大型対空電探です。\n英軍のレーダーを参考に開発したため、他の対空電探より高い精度を発揮しました。\n空中線が大型のため、基本的に戦艦や正規空母、重巡洋艦などの大型艦への装備が可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>33</Id>
+	<Info>改良型の新型タービン機関です。\n従来型タービンの各部素材を見直し構造強化を行って、より高出力が可能となりました。\n機動性が向上し、砲雷撃戦や、対空戦における回避率が向上します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>34</Id>
+	<Info>新開発の高温高圧缶です。\n従来の艦本式ロ号缶から換装するもので、駆逐艦「島風」で採用した高温高圧缶をベースに、実用性と量産性を高めたもの。\n高出力と低燃費を実現し、回避率を大きく向上させます。また、改良型タービンとの併用でさらに高い推力を実現します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>35</Id>
+	<Info>戦艦の主砲から放たれる対空用特殊砲弾。\n榴散弾の一種で、大量の子弾が爆散、敵を編隊ごと一網打尽に殲滅することが可能。\n戦艦主砲の射撃装置の問題で命中率が低いのが難点だが、艦隊の防空力を大きく高めます。\n戦艦・航空戦艦・巡洋戦艦が使用可能。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>36</Id>
+	<Info>遠距離砲撃戦における秘密兵器「九一式徹甲弾」。\n海中突入後急激に向きを変え、魚雷のように敵艦水線下に突き進み、喫水下を破砕する特殊徹甲弾です。\n水中弾効果を高める形状設計のため、空気抵抗も減少して射程も延伸します。\n戦艦・航空戦艦等が使用可能。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>37</Id>
+	<Info>対空補助兵装です。\n初期の対空兵器として初期の駆逐艦等に装備された小口径機銃です。\n射程及び威力ともに能力不足で、12.7mm機銃や25mm機銃への更新が進んでいます。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>38</Id>
+	<Info>対空機銃です。\n対空兵装として、主に駆逐艦等に装備されました。\nより強力な25mm機銃への更新が進んでいます。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>39</Id>
+	<Info>標準的な対空機銃兵装です。\nフランス製の25mm機関砲をベースに国産化した、25mm高角機銃の連装型です。\n連装型は標準に対空装備でしたが、スペースや状況が許す限り、より強力な三連装型に更新されていきました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>40</Id>
+	<Info>国産対空機銃兵装の強化バージョンです。\n25mm高角機銃の三連装型ですが、一度に撃てるわけではなく、一門ずつ順番に撃って銃身の加熱を防ぎます。\n従来の連装機銃や仮設の単装機銃を加え、この\n25mm三連装機銃が近接対空兵装の中核となりました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>41</Id>
+	<Info>独自開発された「特殊潜航艇」です。\n軽巡洋艦や甲標的母艦に改装した水上機母艦、そして潜水艦が搭載して運用します。\n二発の魚雷を装備し、敵艦に肉薄して雷撃、艦隊決戦を補助する特殊兵器です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>42</Id>
+	<Info>プロのダメコン（ダメージコントロール）集団。艦娘の戦闘による致命的な被害を最小限に抑えることによって、大切な艦娘を轟沈（ロスト）からお護りします！\n艦隊決戦のリスクマネージメントに、ぜひどうぞ！\n（発動すると消滅します）</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>43</Id>
+	<Info>ダメコン（ダメージコントロール）集団の最上位バージョン。艦娘の戦闘による致命的な被害を最小限に抑えて、大切な艦娘を轟沈（ロスト）から護ると共に、発動すると、同艦娘の耐久力と燃料・弾薬などの補給物資を全回復してくれるという、まさに女神のようなオーバーテクノロジーな至高のダメコン！\n（発動すると消滅します）</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>44</Id>
+	<Info>対潜兵装です。\n最も標準的な爆雷投射機です。駆逐艦・海防艦などの小型艦艇に対潜水艦用火力として装備されました。\n若干旧式化しつつありますが、敵潜を発見さえできれば、その威力は十分です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>45</Id>
+	<Info>対潜兵装です。\n九四式にかわる新型の爆雷投射機です。新鋭の海防艦などに装備されました。\n大量装備すれば、発見さえできれば、敵潜水艦の面制圧も…きっと可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>46</Id>
+	<Info>対潜兵装です。\nいわゆるパッシブソナーです。性能は残念ながら、あまり良くはありません。\nでも、あるとないとでは大違い！対潜作戦のお供に、ぜひどうぞ！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>47</Id>
+	<Info>対潜兵装です。\nいわゆるアクティブソナーです。性能は残念ながら、ものすごく高くはありません。\nそれでも、他兵装と組み合わせて、練度の高い駆逐艦で敵潜水艦隊を文字通り駆逐してください！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>48</Id>
+	<Info>標準的な対空高角砲です。\n量産に向いた構造で経済性も高く、後期の駆逐艦や海防艦、輸送船などにも搭載されました。\n襲いかかる敵機に蟷螂の斧ですが対抗します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>49</Id>
+	<Info>標準的な対空機銃兵装です。\n後期の艦艇のほとんど全てが装備した機銃です。命中しない…すぐ加熱する…等の評価もありますが、雲霞のように迫りくる敵機から味方艦艇を必死に守りました。銃身の過熱を防ぐため、連装、三連装タイプも生産＆配備されました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>50</Id>
+	<Info>20.3cm連装砲の改良型、それが同3号連装砲です。\n元々優秀な重巡洋艦用主砲をさらに改良。55口径の極めて優れた重巡用主砲が完成しました。\n優秀な砲ですが、経済性に難があり、少量の試作だけで量産はされていません。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>51</Id>
+	<Info>12cm30連装噴進砲は、艦載用対空ロケットランチャーです。\n四式ロケット式焼霰弾(ロサ弾）を30連発で連続発射する脅威の弾幕は、肉薄する敵艦載機から味方艦を護ります。\nぜひ、改装した伊勢・日向に満載して、敵空母の猛攻を突破してください！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>52</Id>
+	<Info>艦攻と艦爆を統合した先進的な急降下爆撃可能な雷撃機「流星」の性能向上型です。美しいフォルムだけでなく、爆弾倉・主脚・主翼折り畳み機構も油圧操作式、20ｍｍ砲x2門と7.7ｍｍ機銃x2門、さらに13ｍｍ後方旋回銃x１門という世界最強武装を誇る艦上統合攻撃機「流星改」。提督の機動部隊でぜひ活躍させてくださいね。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>53</Id>
+	<Info>名機「零戦」の後継機として開発された最新鋭艦上戦闘機「烈風」。その性能向上型が「烈風改」です。レシプロ艦上戦闘機として、究極の領域まで高められた秘めた戦闘能力を、提督の艦隊の防空や制空でぜひ発揮させてくださいね。最近、数十年の時を越えて、設計図が発見されたニュースもありました！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>54</Id>
+	<Info>「我ニ追イツク敵機無シ」有名な無電を発した俊足の艦上偵察機「彩雲」。敵戦闘機の追随を許さない高速性能を誇る、高性能な艦上偵察機です。悪化した戦況の中、敵情偵察に海上へと飛び立ちました。\nぜひ、提督の機動部隊の正規空母、その第4航空隊に配備してみてくださいね。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>55</Id>
+	<Info>本土防空の切り札、局地戦闘機「紫電改」の艦載機型です。大馬力エンジンと空戦フラップの採用などによる優れた空戦能力で、開発・配備の遅れた烈風の穴を埋めるべく計画されました。空母信濃が就航した暁には、例え烈風や烈風改が揃っていても、あえて搭載してほしい幻の…そして実在した最期の艦上戦闘機です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>56</Id>
+	<Info>九州飛行機＆海軍航空技術廠が生み出した、先進的なエンテ型の試作戦闘機「震電」。推進プロペラを後方に配置し、重火力を機体前部に集中させた後進翼の機体は、まさに未来と希望を感じさせるもの。現実世界では、海上に飛び立つことのなかった機体ですが、「艦これ」では着艦フックと尾翼等を補強して登場です！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>57</Id>
+	<Info>「九九艦爆」の後継として開発された高速性能を誇る水冷エンジンの艦上爆撃機「彗星」。\n彗星艦爆一二型甲は、エンジンをより強力なアツタ三二型に換装。そして後部機銃も13mmに火力強化しました。機動力と防御火力を向上させた本機で、あの有名な芙蓉部隊ばりの奮戦を！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>58</Id>
+	<Info>大威力長射程を誇る秘密兵器「九三式酸素魚雷」。\nその必殺の酸素魚雷を、五連装にしてしまった水雷兵装のファイナルウェポンが、この五連装【酸素魚雷】発射管です。高速重雷装駆逐艦の「島風」に搭載されました。大井さんやスーパー北上さまも、こっちを見ています！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>59</Id>
+	<Info>複葉でありながら、優れた運動性と高い空戦能力を持つ二座の水上偵察機です。主力艦隊の砲戦弾着観測と偵察のための機体ですが、その高い格闘戦闘力は、専門の水上戦闘機も顔負けの高性能ぶり。複葉機だけど近代的な、名作観測機なのです！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>60</Id>
+	<Info>零式艦上戦闘機を艦上爆撃機仕様にした、通称\n「爆戦」です。\n52型の胴体下に250kg爆弾懸吊架を増設しました。戦闘爆撃機型の機体で、爆撃後は制空戦闘機として空戦に参加できるマルチロールファイター。あの攻撃方法は採用しないで通常攻撃です！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>61</Id>
+	<Info>名機「彗星艦爆」の艦上偵察機型です。\n偵察用カメラと増加燃料タンクを搭載して、艦隊の目として活躍可能です。ぜひ、彩雲と共に機動部隊で運用してね！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>62</Id>
+	<Info>カタパルト射出可能な高性能攻撃機「晴嵐」のプロトタイプです。\n水上機搭載可能な潜水艦による戦略的な運用を目指して開発された、高い攻撃力を秘めたハイスペックな機体です。あの潜水艦が登場した際には、ぜひ搭載したいですね！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>63</Id>
+	<Info>艦隊型駆逐艦の主砲のマイナーチェンジバージョンです。\n基本形と同様、防盾で全周を遮蔽、弾片や荒天対策を施しており、また本バージョンでは仰角範囲等も改良されました。駆逐艦夕立等に搭載されたとも云われています。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>64</Id>
+	<Info>かの国の代表的な急降下爆撃機、その艦載機バージョン。\n「スツーカ」という呼称が有名な、優れた急降下爆撃性能を誇る、逆ガル式翼が特徴的な機体です。急降下時の風切音がサイレンに似ていることから「悪魔のサイレン」とも呼ばれたそうです。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>65</Id>
+	<Info>新型軽巡のために開発された新型の両用砲です。\n対巡洋艦戦闘に重きをおいた新設計の軽巡主砲で、限定的ですが対空戦闘も可能です。阿賀野型軽巡シリーズに装備されました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>66</Id>
+	<Info>新開発の長8cm高角砲です。\n秋月型に装備された長10cm高角砲の小型軽量化を目指した対空用副砲バージョンです。微妙な出来という評価もありますが、後期の建造艦艇への装備が期待されていました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>67</Id>
+	<Info>伊号潜水艦の艦首に装備する潜水艦の主兵装です。\n水上艦艇に搭載するものよりやや直径の小さい、長射程高威力を誇る必殺の酸素魚雷です。大型艦艇に大ダメージを与えることも可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>68</Id>
+	<Info>大発動艇、略して「大発」。\n輸送船からの揚陸作業や上陸戦に用いた、現代でいうところの「上陸用舟艇」です。海上のトラックのような「大発」は、大型輸送船や強襲揚陸艦などで運用可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>69</Id>
+	<Info>陸軍で開発、運用されていたオートジャイロ「カ号観測機」。\n現代の艦載ヘリコプターの先祖ともいえる、回転翼の艦載対潜哨戒機です。全通甲板を持つ強襲揚陸艦や軽空母、航空甲板を持つ航空巡洋艦などで運用可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>70</Id>
+	<Info>陸軍で開発、対潜哨戒機としても運用されていた固定翼機です。\n現代のSTOL(短距離離着陸機)のような性能を持ち、艦載対潜哨戒機として運用されました。全通甲板を持つ強襲揚陸艦や軽空母などで運用可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>71</Id>
+	<Info>「長10cm」と呼ばれた長砲身の新型高性能防空用高角砲、その大型艦対空火器バージョンです。\n複雑な構造のため量産には不向きでしたが、敵機の跳梁から大切な艦と艦隊を守る艦隊防空の切り札です。航空母艦や戦艦、巡洋艦などの大型艦の副砲として運用可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>72</Id>
+	<Info>艦艇の防御力を強化する増加装甲の一種です。\n重巡洋艦以上の中型艦艇の船体側面への増設が可能です。\n(重巡・航空巡洋艦・軽空母・水上機母艦用)</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>73</Id>
+	<Info>艦艇の防御力を強化する増加装甲の一種です。\n戦艦等の大型艦艇の船体側面への増設が可能です。\n(戦艦・巡洋戦艦・航空戦艦・正規空母(含む装甲空母)用)</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>74</Id>
+	<Info>夜戦時照射用の探照灯です。\n夜戦時に味方艦隊の射撃・雷撃を支援できますが、敵艦隊からの集中攻撃を浴びるリスクがあります。\n(駆逐艦・軽巡洋艦・重巡洋艦・航空巡洋艦・水上機母艦・巡洋戦艦が装備可能です)</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>75</Id>
+	<Info>ドラム缶を繋いだ簡易輸送用部材です。"東京急行"などに用いられました。\n駆逐艦の甲板などに搭載し、敵制海権内に進入、強行輸送を敢行します。\n(駆逐艦・軽巡洋艦・航空巡洋艦・水上機母艦・揚陸艦で運用可能です)</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>76</Id>
+	<Info>ビスマルク級戦艦に搭載された、かの国の戦艦主砲です。\n主に電動を用いた砲塔旋回・揚弾・装填などが可能です。\n短～中距離での砲撃戦を意識した戦艦主兵装です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>77</Id>
+	<Info>ビスマルク級戦艦に搭載された、かの国の戦艦副砲です。\n主に近距離へ接近する小艦艇に指向する射撃を担当します。艦の射撃指揮装置は充実していますが、本副砲は対空戦闘には不向きです。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>78</Id>
+	<Info>Z1型駆逐艦に搭載された、かの国の駆逐艦主砲です。\n単装砲ではありますが、対艦・対地射撃では優れた火砲です。本兵装は残念ながら対空戦闘には不向きです。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>79</Id>
+	<Info>急降下爆撃も可能な多用途水上偵察機「瑞雲」。\n「伊勢」型航空戦艦等での艦隊運用を前提に\n編成・錬成した、六三四航空隊所属の瑞雲飛行隊です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>80</Id>
+	<Info>急降下爆撃まで可能な多用途水上偵察機「瑞雲」。\n空戦フラップ装備の高性能多用途機である本機のエンジンを、より強力な金星62型に換装した\n「瑞雲改良型」の新鋭機です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>81</Id>
+	<Info>高性能多用途水上偵察機「瑞雲」の改良型「瑞雲12型」。\n同機によって編成された「伊勢」型航空戦艦などでの艦隊運用を担う六三四航空隊所属の\n「瑞雲12型」飛行隊です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>82</Id>
+	<Info>初期の機動部隊を支えた主力攻撃機「九七艦攻」。\n旧式化した同機を対潜哨戒機バージョンとして運用する九三一航空隊所属の「九七艦攻」装備飛行隊です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>83</Id>
+	<Info>登場の遅れた名艦上攻撃機「天山」。\nこの機体を用いて対潜哨戒・対潜制圧・対艦攻撃を担う九三一航空隊所属の「天山」装備飛行隊です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>84</Id>
+	<Info>かの国からもたらされた四連装対空機銃です。\n2cm Flakvierling38と呼ばれる優れた近接防空火器で、艦船だけでなく対空戦闘車両や防空陣地でも運用されました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>85</Id>
+	<Info>かの国からもたらされた大口径二連装高射機関砲です。\n主に陸戦で用いられましたが、Uボートや艦船などにも一部搭載・運用されました。高い近接防空火力を発揮します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>86</Id>
+	<Info>工作艦に搭載される修理装備一式です。「明石」等の工作艦に搭載することで、入渠なしに艦艇の応急修理が可能です。\n(小破程度の損害の艦を、この装備一式につき、\n+1隻の同時修理が可能です)</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>87</Id>
+	<Info>次世代駆逐艦などに搭載するための高温高圧缶です。\n従来の艦本式ロ号缶と比べて、その性能は大きく向上しています。艦の回避率を大きく向上させると共に、将来的には新型タービンとの併用でさらに高い性能を発揮することが期待されます。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>88</Id>
+	<Info>実戦運用された電探二号電波探信儀二型の改良型です。\n新型受信機や様々な改良により、性能と安定性が向上、実効力のあるレーダー射撃も可能となりました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>89</Id>
+	<Info>二式二号電波探信儀一型の改良型です。\n様々な改良と調整によって、安定性が向上しました。\n対空用ですが、対水上電探としても使用可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>90</Id>
+	<Info>20.3cm連装砲のマイナーバージョンアップ版、それが同2号連装砲です。\n元々優秀な重巡洋艦用主砲を改良して、主に妙高型などに搭載されました。初期主砲搭載の他の重巡達も、近代化改装時に順次本砲に換装されていきました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>91</Id>
+	<Info>標準的な対空高角砲の後期改良型です。\n量産に向いた構造で経済性も高く、量産両用砲として優れた性能を誇ります。課題のひとつである旋回速度等も改善された、頼りになる対空火器です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>92</Id>
+	<Info>英国ヴィッカース社より導入した対空機銃です。\n射撃時の音からポンポン砲とも呼ばれ、国内でライセンス生産もされました。徐々に後発の国産対空機銃に更新されていきました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>93</Id>
+	<Info>優れた航続距離を誇り、速度や防弾装備は劣るものの、初期の機動部隊艦載機の主力攻撃機として大活躍した傑作艦上攻撃機「九七艦攻」。本部隊は、闘志と高い技量を兼ね備えた友永隊長の率いる九七艦攻隊です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>94</Id>
+	<Info>旧式化した「九七艦攻」の後継機として開発された、新鋭艦上攻撃機「天山」。本部隊は、闘志溢れる空中指揮官が率いる、「天山」への機種転換が完了した熟練搭乗員で構成された精鋭艦攻隊です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>95</Id>
+	<Info>伊号潜水艦の艦首に装備する潜水艦専用兵装です。\n水上艦艇に搭載するものよりやや直径の小さい、長射程高威力を誇る必殺の酸素魚雷発射管艦首\n8門です。高い魚雷火力を潜水艦に付与します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>96</Id>
+	<Info>熟練搭乗員で構成された「零式艦上戦闘機」装備の艦戦隊です。7.7mm機銃2門と自慢の20mm機銃2門、優れた格闘戦能力と長大な航続距離。搭乗員達の高い技量もあって、初期段階では圧倒的な力を誇りました。艦隊の上空直援や攻撃隊の護衛で活躍します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>97</Id>
+	<Info>熟練搭乗員で構成された「九九艦爆」装備の艦爆隊です。\n「九七艦攻」と共に初期機動部隊の打撃力の中核を担います。稼働率や信頼性は高いものの、やや設計の古い固定脚低速機であるため、より高性能な高速艦爆「彗星」にその座を譲っていきます。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>98</Id>
+	<Info>熟練搭乗員で構成された「九七艦攻」装備の艦攻隊です。\n速度や防弾装備は劣るものの優れた航続距離と熟練搭乗員の腕で、緒戦の機動部隊と共に大活躍を演じました。雷撃・水平爆撃をこなす主力艦上攻撃機ですが、徐々に現役を退いていきます。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>99</Id>
+	<Info>緒戦の空母機動部隊の打撃力の中核を担う「九九艦爆」。\nやや設計の古い固定脚低速機ですが稼働率や信頼性は高く、特に高い練度を誇る江草隊長の率いる艦爆隊の急降下爆撃は、驚異的な命中率を誇ります。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>100</Id>
+	<Info>「九九艦爆」の後継機として開発された高速艦爆「彗星」。\n液冷発動機装備のため運用のやや難しい機体でしたが、江草隊長の腕とその空中指揮、そして練度の高い母艦整備員によって支えられた精鋭「彗星」艦爆隊は、圧倒的な命中率を誇るその急降下爆撃で新生機動部隊の打撃力を担います。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>101</Id>
+	<Info>主砲等から発射される落下傘付の照明弾です。\n夜戦時において敵艦隊付近を照明し、味方艦隊の夜間攻撃を支援します(敵艦隊の夜間特殊攻撃発生も少し抑えることが可能です)。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>102</Id>
+	<Info>水雷戦隊旗艦用に開発された水上夜間偵察機です。\n長時間の滞空性能を持つ黒く塗装された機体に、夜間索敵能力に優れた搭乗員が乗りこみます(条件が整えば夜戦を支援する「夜間触接」が発生する可能性があります)。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>103</Id>
+	<Info>高速戦艦に搭載するための新開発の試製戦艦主砲です。「金剛」型高速戦艦の代替新建造艦のために計画されていた三連装の35.6cm砲で、大口径主砲よりはコンパクトで軽く、もちろん従来の35.6cm砲より火力及び命中率が大きく向上しています。高速戦艦の改装時に、ぜひ運用をお試しください！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>104</Id>
+	<Info>金剛型高速戦艦「榛名」の前部主砲の最終形態です。\nあまり効果がなかったといわれていますが、縦縞ゼブラ模様のダズル迷彩を施しています。三式弾を装填して敵機が跳梁する空を睨み、母港呉と動けない残存艦隊の防戦に努めました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>105</Id>
+	<Info>呉海軍工廠砲熕部で試作された純国産戦艦主砲の三連装砲です。\n16インチを僅かに上回る、この41cm砲は「大和」型の46cm砲が登場するまで世界最大の戦艦砲でした。これを搭載した長門型戦艦は、当時世界列強の「ビッグ７」水準を遥かに超えた高火力と高命中精度を実現します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>106</Id>
+	<Info>艦載用対空電探の改良調整版です。\n比較的信頼性も高く、小型軽量で駆逐艦等への装備も可能だった「13号対空電探」に、技術者達がさらに改良を加えた対空電探です。水雷戦隊の眼として活躍します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>107</Id>
+	<Info>洋上において艦隊を指揮する前線司令部です。\n司令部施設を開設できるある一定以上の大きさの艦に設営可能です。同司令部を旗艦に設営した艦隊は、随伴艦隊の健在な駆逐艦を「損害の大きい艦」の護衛につけて、戦場から退避させることが可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>108</Id>
+	<Info>艦載機の整備の卓越した能力を発揮できる整備要員です。\n艦載機を装備した航空母艦に導入することで、同空母から発進する攻撃隊の能力を高めることが可能です。第一次攻撃隊のパンチ力不足を感じたら、お試しください！</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>109</Id>
+	<Info>零戦の最終的な量産型「零式艦上戦闘機52丙型」です。\n武装及び防御力が強化されました。その分、若干機動性は失われています。本航空隊は同機材を装備して、再建を目指す空母機動部隊の制空戦闘を担います。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>110</Id>
+	<Info>「零戦」の後継機として開発された最新鋭艦上戦闘機「烈風」。\n用兵側の発動機選定ミスや多忙な現場設計陣などの苦境を越えて、ついに完成した新型艦戦。本航空隊は同新鋭機材を定数受領して、再建を目指す空母機動部隊、その戦闘機部隊の中核を担います。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>111</Id>
+	<Info>「九九艦爆」の後継機として開発された高速艦爆「彗星」。\n液冷発動機装備のため運用のやや難しい機体ですが、整備体制を万全に、内地で訓練を重ねた六〇一空の精鋭が搭乗します。機動部隊決戦に向けて、錬成を重ねた六〇一空の精鋭艦爆隊です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>112</Id>
+	<Info>旧式化した「九七艦攻」の後継機として開発された、新鋭艦上攻撃機「天山」。\n本部隊は、同機を装備して内地で錬成を重ねた六〇一空による精鋭艦攻機隊です。新生空母機動部隊の打撃力を担います。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>113</Id>
+	<Info>艦攻と艦爆を統合した先進的な"急降下爆撃可能な雷撃機"、それが「流星」です。\n発動機不調と重量過大に悩みながらも、開発に成功。高い性能を誇る最新鋭の艦上攻撃機です。錬成を重ねた六〇一空が機種転換し、本機を装備します。整備の行き届いた流星を定数装備した、新生艦攻隊の主力です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>114</Id>
+	<Info>ビスマルク級戦艦に搭載された戦艦主砲の改修型です。\n短～中距離での砲撃戦を意識した高速戦艦の主力兵装で、改修によってその命中精度などが大きく向上しています。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>115</Id>
+	<Info>ビスマルク級などの主力艦艇に搭載された艦載水上偵察機です。\n偵察、観測、哨戒、そして対潜水艦任務など、南大西洋で幅広く活躍した同機の改修型で、艦隊の眼の役割を担います。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>116</Id>
+	<Info>遠距離砲撃戦における秘密兵器「九一式徹甲弾」の改良版です。\n海中突入後魚雷のように敵艦水線下に突き進み、喫水下破砕を企図した特殊徹甲弾です。九一式より性能・生産性が向上しており、弾頭部には弾着観測用着色剤を充填していたと云われています。戦艦・航空戦艦・高速戦艦で使用可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>117</Id>
+	<Info>海軍工廠砲熕部が極秘開発した世界最大最強の戦艦主砲、その試作二連装砲です。\n敵戦艦に対してアウトレンジが可能な最大射程\n40kmを超える巨砲ですが、大和型戦艦に搭載された同三連装主砲より軽量です。主力戦艦群への搭載と同主兵装としての運用が可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>118</Id>
+	<Info>制空権を失った空でも強行偵察が可能な高性能水偵を目指して開発された、十四試高速水上偵察機「紫雲」です。火星エンジンと二重反転プロペラの採用、投下可能フロート機構などで高速高性能な次世代艦載水偵となるはずでしたが、計画通りの高性能を発揮することは叶いませんでした。就役直後の軽巡「大淀」などで、増加試作機が運用されています。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>119</Id>
+	<Info>巡洋艦等の主砲として開発された中距離砲の連装型です。\n練習巡洋艦「香取」や軽巡洋艦「夕張」などに搭載されました。対艦対地用の兵装です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>120</Id>
+	<Info>高角砲の対空射撃用の高射装置です。\n高射機と高射射撃盤を組み合わせ、高角砲の有効な対空射撃をサポートします。やや、旧式ではありますが、主力の戦艦や巡洋艦などに搭載されました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>121</Id>
+	<Info>比較的新しい高角砲対空射撃用の高射装置です。\n本高射機は測距儀がパッケージされており、高角砲の有効な対空射撃をサポートします。新造大型艦や、防空駆逐艦 「秋月」 型に搭載されました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>122</Id>
+	<Info>「長10cm砲」といわれる10cm連装高角砲と\n「94式高射装置」の組み合わせによる、艦隊防空システムです。量産性が低く、また射撃装置は列強の最新鋭には劣りますが、優秀な長10cm砲と高射装置の組み合わせは艦隊の傘として十分に活躍します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>123</Id>
+	<Info>かの国の重巡洋艦装備用に開発された連装砲です。\n高い命中率と火力を誇る優秀な巡洋艦主兵装です。\n中距離の砲撃戦で威力を発揮します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>124</Id>
+	<Info>かの国で開発された艦載用レーダー(電探)です。\n科学の国の電子兵装、残念ながら、我が連合艦隊に装備された電探よりスペックは高いです。\n主に巡洋艦以上の大型艦艇に搭載されました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>125</Id>
+	<Info>陳腐化した53cm魚雷の後継として開発された大型の61cm魚雷。\nその三連装発射管は、駆逐艦の主力兵装として特型駆逐艦「吹雪」型などに搭載されました。その改良型である本兵装は、装填魚雷を「九三式酸素魚雷」に換装しています。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>126</Id>
+	<Info>かの国で開発された対地対艦攻撃用の艦載ロケットランチャー装備「WG42」です。\nUボートにも搭載され、実際に運用されました。命中精度には難がありますが、ごく浅い深度なら水面下から発射可能な、潜水艦発射対地ミサイルのご先祖様のような装備で、主に対地攻撃に有効です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>127</Id>
+	<Info>かの国で開発されていた、ジャイロ機構によって自動変針と直線航行を繰り返し行い、面で敵艦を攻撃する「FaT航走パターン」仕様を実装した試製潜水艦搭載用酸素魚雷です。Uボートによってもたらされた技術を応用した、平面を制圧する航路を疾走する特殊な試作魚雷です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>128</Id>
+	<Info>改「大和」型、そしてその拡大発展級である超「大和」型の主兵装として開発されている新型戦艦用大口径主砲です。\n51cm砲が実現する群を抜いたその火力は、他の戦艦主砲の火力を圧倒します。46cm砲をも凌駕する大きさと重量なため、戦艦級の中でも限られた艦艇のみ、本兵装を装備することが可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>129</Id>
+	<Info>水上戦闘艦に配備可能な熟練見張員です。\nその鍛え抜かれた肉眼視力による偵察力・索敵力は状況によっては大きな威力を発揮し、敵艦隊のレーダー兵装が充実するまでは、特に夜戦などで水上艦隊の攻撃力を支えました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>130</Id>
+	<Info>巡洋艦以上の大型艦の標準的な対空兵装として搭載された12.7cm連装高角砲と「94式高射装置」の組み合わせによる、艦隊防空システムです。発射速度や砲の旋回速度にやや難がありますが、高角砲と高射装置の組み合わせは艦隊の傘として重要な兵装です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>131</Id>
+	<Info>増大する敵航空兵力の脅威に対抗するため、\n25mm高角機銃の三連装型を集中的に複数配備した、ハリネズミのような対空機銃兵装です。\n命中精度にも難があり、すぐに砲身が過熱してしまう25mm機銃ですが、集中運用することで個艦防空能力を高めます。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>132</Id>
+	<Info>大型艦用パッシブソナー兵装です。\n九三式水中聴音機の補音機を増強した大型グレードアップバージョンで、大和型戦艦のバルバス・バウ付近にも装備されました。専門の人員も配置して水面下の音を収集、敵潜などの早期発見に努めます。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>133</Id>
+	<Info>パスタの国が生んだ三連装型の戦艦主砲です。\n高射速の50口径、中近距離戦闘での火力は同クラス最強です。また、射程も大和型46cm砲と同等以上のカタログスペックを誇ります。ただし、砲の耐久性に難点があります。また散布界が広く、その命中率にも課題を残していました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>134</Id>
+	<Info>パスタの国が生んだ、伝統と信頼の高性能中口径の三連装速射砲です。\n砲の旋回や俯仰、砲弾の揚弾及び装填は主に電力で稼働する最新型です。新型高速戦艦の副砲にも採用されました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>135</Id>
+	<Info>パスタの国が生んだ、新型高速戦艦向けに開発された最新鋭の高角砲です。\n単砲身ではありますが、発射速度も速く、バランスのよい優れた中距離対空火器です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>136</Id>
+	<Info>シリンダータイプの隔壁による、艦幅も重量も増やさずに水中防御を向上させる大型艦艇の防御隔壁です。タラントでの戦訓から評価が分かれますが、一定の防御効果は期待できるといわれています。\n(戦艦・巡洋戦艦・航空戦艦・正規空母(含む装甲空母)用)</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>137</Id>
+	<Info>パスタの国が生んだ三連装型の戦艦主砲です。\n高射速の50口径、中近距離戦闘での火力は同クラス最強です。また、射程も大和型46cm砲と同等以上のカタログスペックを誇ります。砲の耐久性や命中率に課題を残していましたが、改修によってその命中精度などが向上しています。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>138</Id>
+	<Info>四発の大型飛行艇「二式大型飛行艇」、通称「二式大艇」です。\n巨大な翼と船のような構造を持つ機体で、長距離偵察や司令部要員の移動等に用いられました。同時代の世界水準を大きく超えた傑作機で、今の時代もその後継は空に海に活躍しています。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>139</Id>
+	<Info>阿賀野型軽巡シリーズの主兵装として開発された両用砲の改良改修型です。\n対巡洋艦戦闘に重きをおいた新設計の軽巡主砲で、限定的ですが対空戦闘も可能です。改修により精度が若干向上しました。軽巡にフィットした新型の主砲兵装です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>140</Id>
+	<Info>戦艦装備用の大型探照灯です。\n夜戦時に敵に照射することで味方艦隊の攻撃を支援できますが、照射艦は敵艦隊からの集中攻撃を浴びるリスクがあります。\n(戦艦級のみが装備可能です)</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>141</Id>
+	<Info>高性能な大型対水上電探の調整改良型です。\n遠距離射撃にも対応できるレーダー射撃管制も可能ですが、かなり大型かつ重量のある電探で大型艦しか装備できません。また、精度の高い調整と運用には練度の高い操作員が必要です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>142</Id>
+	<Info>大和型戦艦のために開発された射撃&amp;電探兵装です。\n特注の大型光学15m二重測距儀と、その上に熟練した技術者が調整を重ねた精度の高い21号対空電探を配しています。大型かつ重量もあるため、戦艦の艦橋上部構造物のみに装備可能な光学及び電波兵装です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>143</Id>
+	<Info>優れた航続距離を誇り、初期の機動部隊艦載機の主力攻撃機として大活躍した傑作艦上攻撃機「九七艦攻」。同機を装備した本部隊は、高い技量と豊かな指導力を兼ね備えた村田隊長の率いる精鋭九七艦攻隊です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>144</Id>
+	<Info>旧式化した「九七艦攻」の後継機として開発された、新鋭艦上攻撃機「天山」。同機を装備した本部隊は、高技量と豊かな指導力を兼ね備えた歴戦の空中指揮官が率いる、「天山」への機種転換が完了した精鋭艦攻隊です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>145</Id>
+	<Info>腹が減ってはなんとやら……戦闘前にしっかりと腹ごしらえをしておきましょう。\n海の上で食べる握り飯の味は格別です！\n（発動すると消滅します）</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>146</Id>
+	<Info>戦闘航海中の洋上で燃料弾薬を補給することが可能です。これを保持した状態で燃料弾薬が欠乏すると戦闘航海中に「洋上補給」が発動し、燃料弾薬が洋上で「補給」されます。長期戦となる艦隊決戦のサポートにご活用ください。\n（発動すると消滅します）</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>147</Id>
+	<Info>パスタの国が生んだ連装の小艦艇用主砲兵装です。\n口径は同クラスの日本海軍の主力駆逐艦の主砲より小さいものの、優れた機構と高いポテンシャルをもった新型小口径火砲です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>148</Id>
+	<Info>水上機搭載可能な潜水艦による戦略的な運用を目指して開発された、急降下爆撃可能なハイスペック艦載攻撃機「晴嵐」。その陸上運用機バージョン「南山」に着艦フックを付与した試作航空母艦運用型(爆装)です。テスト機なので、派手なカラーリングとなっています。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>149</Id>
+	<Info>小型艦艇にも装備可能な、新型パッシブソナー兵装です。\n九三式水中聴音機に比べて、その対潜発見能力は格段に向上しました。数は少ないですが、大戦末期に建造された後期型の駆逐艦などの対潜兵装として装備されました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>150</Id>
+	<Info>旬の水揚げされたばかりの新鮮な秋刀魚を使った蒲焼の缶詰です。脂が乗った秋刀魚を炭火焼で丁寧に仕上げたその味は、そのままでも美味しいですが、おにぎりと一緒に食すれば美味しさ倍増です。(戦闘糧食と一緒に発動すると効果倍増です。発動すると消滅します)</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>151</Id>
+	<Info>空技廠が開発した最新鋭の高々度試作偵察機「景雲」。同機に艦載用の改修を行った艦上偵察機バージョンです。様々な新機軸を盛り込んだユニークな機体の「景雲」は、開発中のターボジェットエンジン「ネ330」を搭載して、新鋭噴進式攻撃機化する計画もありました。\n(本機は新鋭正規空母の一部のみ運用可能です)</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>152</Id>
+	<Info>熟練搭乗員で構成された「零式艦上戦闘機52型」装備の艦戦隊です。\n零戦の最終的な量産機となった「52型」は、後継機の開発が遅れたため、後期の艦上戦闘機の主力として奮戦することになりました。熟練搭乗員の巧みな操縦技術で、機材の質的劣勢をカバーします。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>153</Id>
+	<Info>巧みな操縦技術を持つ岩井小隊長を擁する「零式艦上戦闘機52型丙」装備の艦戦隊です。「52型丙」では、敵新型機に対抗するため、火力及び防御力が強化されました。その分機動性は若干低下していますが、熟練搭乗員の巧みな操縦技術でカバーします。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>154</Id>
+	<Info>遂に飛行隊を預かることになった「ゼロファイターゴッド」岩井隊長率いる、「零式艦上戦闘機62型」装備の爆戦隊です。整備の行き届いた「62型」を駆り、高機動戦闘爆撃機として敵艦に爆弾を叩き付け、しかるのち制空戦闘に参加します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>155</Id>
+	<Info>圧倒的な空戦技量を誇る岩本小隊長を擁する「零式艦上戦闘機21型」装備の艦戦隊です。零戦の優れた格闘戦能力と長大な航続距離、そして搭乗員の高い技量で圧倒的な強さを誇ります。開戦から珊瑚海海戦まで「瑞鶴」の上空を護りました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>156</Id>
+	<Info>圧倒的な空戦技量を誇るエース、岩本小隊長を擁する「零式艦上戦闘機52型」装備の艦戦隊です。卓越した空戦技量で零戦の後期改良型を駆る「零戦虎徹」は、機体の質的優位性が失われても果敢に敵機に挑み、撃墜を重ねていきました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>157</Id>
+	<Info>遂に飛行隊を預かることになった「零戦虎徹」岩本隊長率いる、「零式艦上戦闘機53型」装備の艦戦隊です。「52型」のエンジンと生存性を強化した性能向上型である「零戦53型」を駆り、熟練搭乗員を率いて戦いの空に駆け上がります。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>158</Id>
+	<Info>かの国で開発/量産された主力戦闘機Bf109シリーズ。\nメッサーシュミットの名でも知られる、ヨーロッパの空で活躍した名機。本機はそのE型をベースにした艦上機バージョンのさらなる改修機です。防空戦闘で大きな能力を発揮します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>159</Id>
+	<Info>かの国で開発/量産された強力で信頼性の高い戦闘機Fw190シリーズ。タンク博士の設計により誕生し、フォッケウルフの名で親しまれた名機です。本機はその後期型を改修した艦上機バージョンです。高い制空戦闘能力を発揮します。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>160</Id>
+	<Info>かの国で開発された艦艇防空用の連装高角砲です。大型艦艇などに防空火器として装備されました。建造と工事中止を繰り返したあの航空母艦にも、左右舷側と飛行甲板への背負い式装備が計画されていました。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>161</Id>
+	<Info>Iowa級戦艦の主兵装として米国で開発された新型三連装主砲です。前級に搭載された主砲の改良型で、長砲身化などの改良によって威力がより向上しています。発展途上ではありましたが、レーダー連動の砲射撃指揮装置によるレーダー射撃も可能です。</Info>
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>501</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>502</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>503</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>504</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>505</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>506</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>507</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>508</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>509</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>510</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>511</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>512</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>513</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>514</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>515</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>516</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>517</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>518</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>519</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>520</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>521</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>522</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>523</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>524</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>525</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>526</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>527</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>528</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>529</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>530</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>531</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>532</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>533</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>534</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>535</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>536</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>537</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>538</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>539</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>540</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>541</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>542</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>543</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>544</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>545</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>546</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>547</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>548</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>549</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>550</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>551</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>552</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>553</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>554</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>555</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>556</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>557</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>558</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>559</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>560</Id>
+	<Info />
+</mst_slotitemtext>
+<mst_slotitemtext>
+	<Id>561</Id>
+	<Info />
+</mst_slotitemtext>
+</mst_slotitemtext_data>

@@ -26,7 +26,7 @@
 	<Type>1</Type>
 	<Torigger>102</Torigger>
 	<Name>Form a Torpedo Squadron!</Name>
-	<Details>Have a CL as a flagship and 5 DD in your main fleet.</Details>
+	<Details>Have a CL as a flagship and 4 DD in your main fleet.</Details>
 	<Get_1>1,1,7</Get_1>
 	<Get_2>101,100,1</Get_2>
 	<Mat>60,60,0,30</Mat>
@@ -89,8 +89,8 @@
 	<Category>1</Category>
 	<Type>1</Type>
 	<Torigger>304,238</Torigger>
-	<Name>Form the Sendai-class!</Name>
-	<Details>Have Sendai (川内), Jintsuu (神通) and Naka (那珂) in your main fleet.</Details>
+	<Name>Form the Sendai class!</Name>
+	<Details>Have Sendai , Jintsuu, and Naka in your main fleet.</Details>
 	<Get_1>2,0,5</Get_1>
 	<Get_2>101,200,1</Get_2>
 	<Mat>0,0,0,0</Mat>
@@ -144,7 +144,7 @@
 	<Category>1</Category>
 	<Type>1</Type>
 	<Torigger>113,118</Torigger>
-	<Name>Form the Nagumo Task Force!</Name>
+	<Name>Organize the Nagumo Task Force!</Name>
 	<Details>Have ONLY Akagi, Kaga, Hiryuu, and Souryuu in your main fleet.</Details>
 	<Get_1>2,0,8</Get_1>
 	<Get_2>101,1000,1</Get_2>
@@ -408,7 +408,7 @@
 	<Type>1</Type>
 	<Torigger>128</Torigger>
 	<Name>Form the new 2nd Carrier Division!</Name>
-	<Details>Have Hiryuu Kai Ni as the flagship), Souryuu, and 2 destroyers in your fleet.</Details>
+	<Details>Have Hiryuu Kai Ni as the flagship, Souryuu, and 2 destroyers in your fleet.</Details>
 	<Get_1>1,2,7</Get_1>
 	<Get_2>101,700,1</Get_2>
 	<Mat>200,200,0,400</Mat>
@@ -440,7 +440,7 @@
 	<Type>1</Type>
 	<Torigger>250</Torigger>
 	<Name>Reorganise the Strengthened 2nd Carrier Division.</Name>
-	<Details>Have Souryuu Kai-Ni as flagship with Hiryuu Kai-2, and 2 destroyers in your fleet.</Details>
+	<Details>Have Souryuu Kai-Ni as flagship with Hiryuu Kai-Ni, and 2 destroyers in your fleet.</Details>
 	<Get_1>1,4,7</Get_1>
 	<Get_2>101,800,1</Get_2>
 	<Mat>0,0,0,450</Mat>
@@ -451,7 +451,7 @@
 	<Type>1</Type>
 	<Torigger>123</Torigger>
 	<Name>Organise the Elite 3rd Battleship Division.</Name>
-	<Details>Have all four Kongou-class Kai 2 battleships in your main fleet.</Details>
+	<Details>Have all four Kongou-class Kai class ships and 2 battleships in your main fleet.</Details>
 	<Get_1>1,2,5</Get_1>
 	<Get_2>101,500,1</Get_2>
 	<Mat>100,100,100,400</Mat>
@@ -462,7 +462,7 @@
 	<Type>1</Type>
 	<Torigger>132</Torigger>
 	<Name>Deploy a New Standard Aircraft Carrier.</Name>
-	<Details>Have Unryuu as your flagship.</Details>
+	<Details>Have Unryuu, Amagi or Katsuragi as your flagship.</Details>
 	<Get_1>1,3,6</Get_1>
 	<Get_2>101,800,1</Get_2>
 	<Mat>0,250,250,0</Mat>
@@ -560,7 +560,7 @@
 	<Category>1</Category>
 	<Type>1</Type>
 	<Torigger>111,273</Torigger>
-	<Name>Reorganize the 18th Squadron!</Name>
+	<Name>Organize the 18th Squadron!</Name>
 	<Details>Have Tenryuu, Tatsuta, and 2 or more other ships in your fleet.</Details>
 	<Get_1>103,1,1</Get_1>
 	<Get_2>1,2,6</Get_2>
@@ -592,8 +592,8 @@
 	<Category>1</Category>
 	<Type>1</Type>
 	<Torigger>201,240</Torigger>
-	<Name>1st Torpedo Squadron, Prepare for a Rush to the Northern Sea!</Name>
-	<Details>Have Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze in your main fleet</Details>
+	<Name>「第一水雷戦隊」北方突入準備！</Name>
+	<Details>「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！</Details>
 	<Get_1>1,2,6</Get_1>
 	<Get_2>101,400,1</Get_2>
 	<Mat>200,200,0,0</Mat>
@@ -603,8 +603,8 @@
 	<Category>1</Category>
 	<Type>1</Type>
 	<Torigger>309</Torigger>
-	<Name>1st Torpedo Squadron, Prepare for Another Rush to the Northern Sea!</Name>
-	<Details>Have Abukuma Kai Ni as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo and Shimakaze in your main fleet.</Details>
+	<Name>「第一水雷戦隊」北方再突入準備！</Name>
+	<Details>「阿武隈改二」を旗艦として「響」「夕雲」「長波」「秋雲」「島風」の一水戦を再編成せよ！</Details>
 	<Get_1>1,3,6</Get_1>
 	<Get_2>101,500,1</Get_2>
 	<Mat>300,300,0,0</Mat>
@@ -658,8 +658,8 @@
 	<Category>1</Category>
 	<Type>1</Type>
 	<Torigger>151,262</Torigger>
-	<Name>Prepare the New 21st Squadron for Sortie！</Name>
-	<Details>Have Nachi Kai-Ni, Ashigara Kai-Ni, Tama and Kiso in your main fleet.</Details>
+	<Name>新編「第二一戦隊」出撃準備！</Name>
+	<Details>「那智改二」「足柄改二」及び「多摩」「木曾」を基幹とした、第二一戦隊を編成せよ！</Details>
 	<Get_1>1,4,8</Get_1>
 	<Get_2>101,500,1</Get_2>
 	<Mat>210,210,210,0</Mat>
@@ -757,8 +757,8 @@
 	<Category>1</Category>
 	<Type>1</Type>
 	<Torigger>239,127</Torigger>
-	<Name></Name>
-	<Details>旗艦に練度80以上、僚艦も全て練度40以上の精鋭潜水艦隊を編成せよ！</Details>
+	<Name>Seikyo a case organize the " submarine fleet " !</Name>
+	<Details>Have a level 80 Submarines as flagship with atleast 3 other lvl 40 Submarines in any of your fleets</Details>
 	<Get_1>12,1,67</Get_1>
 	<Get_2>1,3,7</Get_2>
 	<Mat>400,400,0,0</Mat>
@@ -768,7 +768,7 @@
 	<Category>1</Category>
 	<Type>1</Type>
 	<Torigger>296,164</Torigger>
-	<Name>精強「航空戦艦」戦隊を編成せよ！</Name>
+	<Name>Organize the Seikyo "Aviation Battleship ABV " squadron </Name>
 	<Details>「伊勢改」「日向改」「扶桑改二」「山城改二」と直衛駆逐艦2隻の精強航空戦艦戦隊を編成せよ！</Details>
 	<Get_1>12,1,80</Get_1>
 	<Get_2>1,3,7</Get_2>
@@ -779,8 +779,8 @@
 	<Category>2</Category>
 	<Type>6</Type>
 	<Torigger>204</Torigger>
-	<Name>First Sortie!</Name>
-	<Details>Deploy your main fleet on a combat mission</Details>
+	<Name>敵艦隊を撃破せよ！</Name>
+	<Details>艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！</Details>
 	<Get_1>1,2,6</Get_1>
 	<Mat>100,100,0,0</Mat>
 </mst_quest>
@@ -799,8 +799,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>202</Torigger>
-	<Name>Guard the Sea in Front of the Naval Base</Name>
-	<Details>Sortie to World 1-1 and clear the stage</Details>
+	<Name>鎮守府正面海域を護れ！</Name>
+	<Details>鎮守府正面海域に艦隊を出撃させ、敵艦の跳梁を阻止せよ！</Details>
 	<Get_1>1,2,6</Get_1>
 	<Mat>50,50,50,0</Mat>
 </mst_quest>
@@ -820,8 +820,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>204</Torigger>
-	<Name>Intercept Approaching Enemy Vanguard Fleet!</Name>
-	<Details>Deploy to World 1-2 after defeating its boss and clear the stage.</Details>
+	<Name>接近する「敵前衛艦隊」を迎撃せよ！</Name>
+	<Details>鎮守府海域沖に接近する「敵前衛艦隊」を捕捉、これを撃破せよ！</Details>
 	<Get_1>11,1,11</Get_1>
 	<Get_2>12,1,44</Get_2>
 	<Mat>100,0,100,0</Mat>
@@ -886,7 +886,7 @@
 	<Category>2</Category>
 	<Type>6</Type>
 	<Torigger>201</Torigger>
-	<Name>Sink an Enemy Carrier</Name>
+	<Name>敵空母を撃沈せよ！</Name>
 	<Details>艦隊の脅威となる敵空母群。これを捕捉し、同2隻を確実に撃沈せよ！</Details>
 	<Get_1>1,2,6</Get_1>
 	<Get_2>101,150,1</Get_2>
@@ -897,7 +897,7 @@
 	<Category>2</Category>
 	<Type>6</Type>
 	<Torigger>201</Torigger>
-	<Name>Sink an Enemy Transport Group</Name>
+	<Name>敵輸送船団を叩け！</Name>
 	<Details>複数の輸送艦を撃沈し、敵の補給路を寸断せよ！</Details>
 	<Get_1>1,2,7</Get_1>
 	<Get_2>3,1,12</Get_2>
@@ -908,7 +908,7 @@
 	<Category>2</Category>
 	<Type>6</Type>
 	<Torigger>216</Torigger>
-	<Name>Maritime Trade Disrupt Operation</Name>
+	<Name>海上通商破壊作戦</Name>
 	<Details>今月中に敵輸送艦を5隻以上撃沈せよ！</Details>
 	<Get_1>1,3,6</Get_1>
 	<Get_2>101,200,1</Get_2>
@@ -919,7 +919,7 @@
 	<Category>2</Category>
 	<Type>6</Type>
 	<Torigger>216</Torigger>
-	<Name>Operation A-gou</Name>
+	<Name>あ号作戦</Name>
 	<Details>今月中に全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！</Details>
 	<Get_1>1,3,7</Get_1>
 	<Get_2>101,150,1</Get_2>
@@ -941,8 +941,8 @@
 	<Category>2</Category>
 	<Type>6</Type>
 	<Torigger>201</Torigger>
-	<Name>敵艦隊を邀撃、敵戦力の漸減を図れ！</Name>
-	<Details>艦隊を出撃させ、前衛艦隊を排除し、敵艦隊「主力」を捕捉！これを撃破せよ！</Details>
+	<Name>Ambush an Enemy Fleet</Name>
+	<Details>Defeat an enemy fleet</Details>
 	<Get_1>1,2,7</Get_1>
 	<Get_2>1,2,6</Get_2>
 	<Mat>100,100,100,100</Mat>
@@ -952,8 +952,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>117</Torigger>
-	<Name>敵機動部隊を撃破せよ！</Name>
-	<Details>敵機動部隊を捕捉し、これを邀撃、敵空母を撃沈せよ！</Details>
+	<Name>Crush The Enemy Task Force!</Name>
+	<Details>Sink an enemy aircraft carrier!</Details>
 	<Get_1>11,1,83</Get_1>
 	<Mat>0,0,0,200</Mat>
 </mst_quest>
@@ -962,8 +962,8 @@
 	<Category>2</Category>
 	<Type>6</Type>
 	<Torigger>210</Torigger>
-	<Name>敵補給ラインを寸断せよ！</Name>
-	<Details>艦隊を出撃させ、敵輸送艦を捕捉、これを3隻以上撃沈し、敵補給ラインを寸断せよ！</Details>
+	<Name>Shred Enemy Supply lines</Name>
+	<Details>Sink 3 enemy transport ships"</Details>
 	<Get_1>1,2,5</Get_1>
 	<Get_2>3,1,12</Get_2>
 	<Mat>300,50,300,50</Mat>
@@ -984,7 +984,7 @@
 	<Category>2</Category>
 	<Type>6</Type>
 	<Torigger>218</Torigger>
-	<Name>Operation I-gou</Name>
+	<Name>い号作戦</Name>
 	<Details>有力な母艦航空隊で全力出撃を行い、今月中に可能な限り多くの敵空母を撃滅せよ！</Details>
 	<Get_1>1,3,6</Get_1>
 	<Get_2>101,200,1</Get_2>
@@ -995,7 +995,7 @@
 	<Category>2</Category>
 	<Type>6</Type>
 	<Torigger>214</Torigger>
-	<Name>Operation Ro-gou</Name>
+	<Name>ろ号作戦</Name>
 	<Details>今月中に可能な限り敵輸送船団を捕捉、敵輸送艦を撃滅し、敵補給線を寸断せよ！</Details>
 	<Get_1>1,3,5</Get_1>
 	<Get_2>101,250,1</Get_2>
@@ -1007,7 +1007,7 @@
 	<Type>1</Type>
 	<Torigger>213</Torigger>
 	<Name>Sortie the 6th Destroyer Division</Name>
-	<Details>Deploy a fleet with ONLY Akatsuki, Hibiki, Inazuma, and Ikazuchi</Details>
+	<Details>Sortie a fleet with ONLY Akatsuki, Hibiki, Inazuma, and Ikazuchi</Details>
 	<Get_1>1,2,6</Get_1>
 	<Get_2>101,200,1</Get_2>
 	<Mat>200,0,0,0</Mat>
@@ -1017,8 +1017,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>121</Torigger>
-	<Name>Sortie the 4th Cruiser Division</Name>
-	<Details>Deploy a fleet with Atago, Takao, Choukai, Maya and any 2 ships. Score a victory against World 2-2 Boss.</Details>
+	<Name>「第四戦隊」出撃せよ！</Name>
+	<Details>「愛宕」「高雄」「鳥海」「摩耶」を基幹とする第四戦隊で、近海諸島防衛線の敵を撃滅せよ！</Details>
 	<Get_1>3,1,10</Get_1>
 	<Get_2>101,200,1</Get_2>
 	<Mat>150,100,150,100</Mat>
@@ -1028,8 +1028,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>122</Torigger>
-	<Name>Sortie the Nishimura Fleet</Name>
-	<Details>Sortie Fusou, Yamashiro, Mogami, Shigure, and 2 additional ships to World 2-3 and defeat the boss.</Details>
+	<Name>「西村艦隊」出撃せよ！</Name>
+	<Details>「扶桑」「山城」「最上」「時雨」を基幹とする西村艦隊で、南方航路西部の敵を撃破せよ！</Details>
 	<Get_1>13,1,63</Get_1>
 	<Get_2>101,400,1</Get_2>
 	<Mat>400,0,400,0</Mat>
@@ -1039,8 +1039,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>123</Torigger>
-	<Name>Sortie the 5th Carrier Division</Name>
-	<Details>Sortie Shoukaku, Zuikaku, and 4 additional ships to World 3-1 and defeat the boss</Details>
+	<Name>「第五航空戦隊」出撃せよ！</Name>
+	<Details>「翔鶴」「瑞鶴」を基幹とする第五航空戦隊で、沖ノ島海域の敵を邀撃せよ！</Details>
 	<Get_1>3,1,12</Get_1>
 	<Get_2>101,500,1</Get_2>
 	<Mat>200,200,0,700</Mat>
@@ -1061,8 +1061,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>124</Torigger>
-	<Name>Sortie the New Mikawa Fleet</Name>
-	<Details>Sortie Choukai, Furutaka, Kako, Aoba, Kinugasa, and Tenryuu to World 2-3 and defeat the boss</Details>
+	<Name>新「三川艦隊」出撃せよ！</Name>
+	<Details>完全編成した「三川艦隊」をもって、トラック泊地の警備を実施、同方面の制海権を確保せよ！</Details>
 	<Get_1>12,1,42</Get_1>
 	<Get_2>101,250,1</Get_2>
 	<Mat>100,150,100,150</Mat>
@@ -1073,7 +1073,7 @@
 	<Type>6</Type>
 	<Torigger>220</Torigger>
 	<Name>Marine Escort Battle</Name>
-	<Details>Sink 15 Submarines</Details>
+	<Details>Sink 10 Submarines</Details>
 	<Get_1>1,2,7</Get_1>
 	<Get_2>1,2,8</Get_2>
 	<Mat>600,300,0,0</Mat>
@@ -1094,8 +1094,8 @@
 	<Category>2</Category>
 	<Type>6</Type>
 	<Torigger>226</Torigger>
-	<Name>Suppress the Enemy Submarines</Name>
-	<Details>Sink 6 enemy Submarines</Details>
+	<Name>敵潜水艦を制圧せよ！</Name>
+	<Details>対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！</Details>
 	<Get_1>1,2,6</Get_1>
 	<Get_2>101,100,1</Get_2>
 	<Mat>300,30,300,30</Mat>
@@ -1105,7 +1105,7 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>125</Torigger>
-	<Name>Sortie the Submarine Fleet</Name>
+	<Name>「潜水艦隊」出撃せよ！</Name>
 	<Details>伊号潜水艦2隻以上からなる潜水艦隊でオリョール海西部の敵艦隊を撃破せよ！</Details>
 	<Get_1>1,2,6</Get_1>
 	<Get_2>101,150,1</Get_2>
@@ -1116,8 +1116,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>126</Torigger>
-	<Name>Sortie an Aviation Surface Attack Fleet</Name>
-	<Details>Sortie 2 Aviation Cruisers, 2 Aviation Battleships, and 2 additional ships to World 4-2 and defeat the boss</Details>
+	<Name>「航空水上打撃艦隊」出撃せよ！</Name>
+	<Details>航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊で、幌筵泊地沖の敵艦隊を邀撃せよ！</Details>
 	<Get_1>13,1,54</Get_1>
 	<Get_2>101,200,1</Get_2>
 	<Mat>0,300,0,500</Mat>
@@ -1127,8 +1127,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>128</Torigger>
-	<Name>Sortie the 6th Cruiser Division</Name>
-	<Details>Sortie Aoba, Furutaka, Kako, Kinugasa, and 2 additional ships to World 2-3 and obtain an S-Rank at the boss</Details>
+	<Name>「第六戦隊」出撃せよ！</Name>
+	<Details>「第六戦隊」をもって出撃し、オリョール海東部の敵と交戦、これに「完全勝利」せよ！</Details>
 	<Get_1>12,1,42</Get_1>
 	<Get_2>101,200,1</Get_2>
 	<Mat>400,200,0,0</Mat>
@@ -1204,7 +1204,7 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>132,279</Torigger>
-	<Name>Deploy the "18th Destroyer Division"!</Name>
+	<Name>「第十八駆逐隊」出撃せよ！</Name>
 	<Details>編成した「第十八駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！</Details>
 	<Get_1>3,1,12</Get_1>
 	<Get_2>1,2,7</Get_2>
@@ -1215,7 +1215,7 @@
 	<Category>2</Category>
 	<Type>7</Type>
 	<Torigger>228</Torigger>
-	<Name>Eliminate Enemy Northern Fleet Main Forces!</Name>
+	<Name>敵北方艦隊主力を撃滅せよ！</Name>
 	<Details>北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！</Details>
 	<Get_1>1,3,7</Get_1>
 	<Get_2>1,3,8</Get_2>
@@ -1226,7 +1226,7 @@
 	<Category>2</Category>
 	<Type>7</Type>
 	<Torigger>229,285</Torigger>
-	<Name>Destroy Enemy Eastern Core Fleet!</Name>
+	<Name>敵東方中枢艦隊を撃破せよ！</Name>
 	<Details>西方海域カレー洋深部に突入し、敵秘匿泊地を攻撃、同泊地周辺の敵戦力を痛打せよ！</Details>
 	<Get_1>13,1,57</Get_1>
 	<Get_2>101,800,1</Get_2>
@@ -1237,7 +1237,7 @@
 	<Category>2</Category>
 	<Type>7</Type>
 	<Torigger>258</Torigger>
-	<Name>Gain Air Superiority at the Coral Islands in the Southern Sea Region!</Name>
+	<Name>南方海域珊瑚諸島沖の制空権を握れ！</Name>
 	<Details>南方海域珊瑚諸島沖に反復出撃し、敵機動部隊本隊を捕捉撃滅、制海権を確保せよ！</Details>
 	<Get_1>1,5,7</Get_1>
 	<Get_2>1,5,8</Get_2>
@@ -1258,8 +1258,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>134</Torigger>
-	<Name>Prepare for the Ceremony! </Name>
-	<Details>Obtain S-rank victory at the boss node of World 2-3 with a ship between Lv90 and 99 as the first fleet flagship.</Details>
+	<Name>式の準備！(最終)</Name>
+	<Details>練度の高い(Lv.90～99)第一艦隊旗艦で出撃し、オリョール海西部の暁に勝利を刻め！</Details>
 	<Get_1>13,1,55</Get_1>
 	<Mat>0,0,0,0</Mat>
 </mst_quest>
@@ -1268,8 +1268,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>135,285</Torigger>
-	<Name>First Mission We Do Together!</Name>
-	<Details>Obtain S-rank victory at the boss node of World 4-3 with the First Fleet with a level 100+ flagship.</Details>
+	<Name>二人でする初めての任務！</Name>
+	<Details>強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！</Details>
 	<Get_1>14,1,183</Get_1>
 	<Mat>500,500,500,500</Mat>
 </mst_quest>
@@ -1278,7 +1278,7 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>412,285</Torigger>
-	<Name>"Aviation Battleship" Weigh Anchor!</Name>
+	<Name>「航空戦艦」抜錨せよ！</Name>
 	<Details>航空戦艦2隻を基幹とする艦隊を西方海域カレー洋に展開、同海域の敵勢力を撃破せよ！</Details>
 	<Get_1>1,4,6</Get_1>
 	<Get_2>3,1,12</Get_2>
@@ -1289,7 +1289,7 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>136</Torigger>
-	<Name>"30th Destroyer Division" Anti-Submarine Patrol!</Name>
+	<Name>「第三十駆逐隊」対潜哨戒！</Name>
 	<Details>「第三十駆逐隊(第二次)」は直ちに抜錨！南方トラック泊地の対潜哨戒を実施せよ！</Details>
 	<Get_1>13,1,52</Get_1>
 	<Get_2>3,1,12</Get_2>
@@ -1300,7 +1300,7 @@
 	<Category>2</Category>
 	<Type>7</Type>
 	<Torigger>137</Torigger>
-	<Name>Deploy the "5th Squadron"!</Name>
+	<Name>「第五戦隊」出撃せよ！</Name>
 	<Details>「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！</Details>
 	<Get_1>1,5,7</Get_1>
 	<Get_2>3,1,12</Get_2>
@@ -1311,7 +1311,7 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>138</Torigger>
-	<Name>Deploy the Newly-Formed "2nd Carrier Division"!</Name>
+	<Name>新編「第二航空戦隊」出撃せよ！</Name>
 	<Details>新編「二航戦」を基幹とした艦隊で、珊瑚諸島沖に出撃、敵機動部隊を撃滅せよ！</Details>
 	<Get_1>13,1,54</Get_1>
 	<Get_2>3,1,12</Get_2>
@@ -1322,7 +1322,7 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>141,285</Torigger>
-	<Name>Elite "2nd Carrier Division" Weigh Anchor!</Name>
+	<Name>精鋭「第二航空戦隊」抜錨せよ！</Name>
 	<Details>錬成を終え再編成「二航戦」を基幹とした艦隊で、敵リランカ島を空襲、破砕せよ！</Details>
 	<Get_1>13,1,52</Get_1>
 	<Get_2>13,1,70</Get_2>
@@ -1344,7 +1344,7 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>105</Torigger>
-	<Name>Light Carrier" Squadron, Deploy!</Name>
+	<Name>「軽空母」戦隊、出撃せよ！</Name>
 	<Details>軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でバシー島の敵を撃滅せよ！</Details>
 	<Get_1>12,1,42</Get_1>
 	<Get_2>1,3,6</Get_2>
@@ -1355,8 +1355,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>206</Torigger>
-	<Name>"Torpedo Squadron" Emergency Deployment to Sea Around Bashi Island</Name>
-	<Details>Fleet Requirement: 1-2 Light Cruisers (with 1 as flagship) and 4-5 Destroyers, and no ships from any other classes. Completion Condition: Obtain S-rank victory at the boss node of World 2-2.</Details>
+	<Name>「水雷戦隊」バシー島沖緊急展開</Name>
+	<Details>軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！</Details>
 	<Get_1>13,1,52</Get_1>
 	<Get_2>3,1,12</Get_2>
 	<Mat>300,500,0,0</Mat>
@@ -1366,8 +1366,8 @@
 	<Category>2</Category>
 	<Type>6</Type>
 	<Torigger>254</Torigger>
-	<Name>Deploy the "Submarine Fleet"!</Name>
-	<Details>Obtain 3 S-rank victories at the boss node of World 6-1.</Details>
+	<Name>「潜水艦隊」出撃せよ！</Name>
+	<Details>潜水艦戦力を中核とした艦隊で中部海域哨戒線へ反復出撃、敵戦力を漸減せよ！</Details>
 	<Get_1>13,1,59</Get_1>
 	<Get_2>3,1,12</Get_2>
 	<Mat>0,600,0,0</Mat>
@@ -1377,8 +1377,8 @@
 	<Category>2</Category>
 	<Type>7</Type>
 	<Torigger>221</Torigger>
-	<Name>"Torpedo Squadron" to Nansei!</Name>
-	<Details>1-3 CLs (with 1 as flagship), 1 or more DDs, and no ships from any other classes. Obtain S-rank victory at the boss node of World 1-4.</Details>
+	<Name>「水雷戦隊」南西へ！</Name>
+	<Details>軽巡旗艦の水雷戦隊(軽巡最大3隻他駆逐艦)を急派、近海諸島防衛線で敵を撃滅せよ！</Details>
 	<Get_1>13,1,59</Get_1>
 	<Get_2>1,3,8</Get_2>
 	<Mat>500,0,0,300</Mat>
@@ -1388,8 +1388,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>143</Torigger>
-	<Name>"2nd Squadron" Weigh Anchor!</Name>
-	<Details>With a fleet consisting of  Nagato, Mutsu, Fusou, and Yamashiro obtain an S-rank victory 2 times at the boss node of World 4-2.</Details>
+	<Name>「第二戦隊」抜錨！</Name>
+	<Details>「第二戦隊」を基幹とした艦隊でカレー洋に進出、反復出撃により敵海上兵力を撃滅せよ！</Details>
 	<Get_1>12,1,116</Get_1>
 	<Mat>0,800,0,0</Mat>
 </mst_quest>
@@ -1398,8 +1398,8 @@
 	<Category>2</Category>
 	<Type>7</Type>
 	<Torigger>144</Torigger>
-	<Name>"Surface Strike Fleet" to the South!</Name>
-	<Details>With exactly 3 Slow Battleships (BBV OK) and 1 Light Cruiser Obtain an S-rank victory at the boss node of World 5-1.</Details>
+	<Name>「水上打撃部隊」南方へ！</Name>
+	<Details>戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！</Details>
 	<Get_1>1,4,6</Get_1>
 	<Get_2>1,4,8</Get_2>
 	<Mat>400,400,800,0</Mat>
@@ -1409,8 +1409,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>258,279</Torigger>
-	<Name>"Battleship Squadron" Charge into the Northern Sea Region!</Name>
-	<Details>With a fleet containg atleast 2 Battleships and 1 Light Carrier obtain an S-rank victory at the boss node of World 3-5. </Details>
+	<Name>「戦艦部隊」北方海域に突入せよ！</Name>
+	<Details>戦艦2隻と直援軽空母1隻(正規空母無し)基幹の艦隊で、北方キス島後方海域に突入せよ！</Details>
 	<Get_1>12,1,116</Get_1>
 	<Get_2>1,4,7</Get_2>
 	<Mat>0,600,0,300</Mat>
@@ -1431,8 +1431,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>146,224</Torigger>
-	<Name>Advance the "Nishimura Fleet" to the Southern Sea Region!</Name>
-	<Details> With Fusou, Yamashiro, Mogami, Shigure, and Michishio and an additional ship obtain S-rank victory at the boss node of World 5-1.</Details>
+	<Name>「西村艦隊」南方海域へ進出せよ！</Name>
+	<Details>「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！</Details>
 	<Get_1>13,1,57</Get_1>
 	<Get_2>1,5,8</Get_2>
 	<Mat>0,300,700,300</Mat>
@@ -1453,8 +1453,8 @@
 	<Category>2</Category>
 	<Type>7</Type>
 	<Torigger>221,239</Torigger>
-	<Name>Mobile Carrier Fleet to the West!</Name>
-	<Details>With 2 Carriers (CV, CVL, or Taihou) and 2 DD. You may add 2 additional ships. Obtain S-rank victory at the boss node of World 4-2.</Details>
+	<Name>「空母機動部隊」西へ！</Name>
+	<Details>航空母艦2隻(随伴駆逐艦2隻)を基幹とする機動部隊で、カレー洋の敵艦隊を撃滅せよ！</Details>
 	<Get_1>1,4,8</Get_1>
 	<Get_2>3,2,12</Get_2>
 	<Mat>0,0,800,800</Mat>
@@ -1475,7 +1475,7 @@
 	<Category>2</Category>
 	<Type>7</Type>
 	<Torigger>263,147</Torigger>
-	<Name>"Surface Counterattack Fleet" Charge!</Name>
+	<Name>「水上反撃部隊」突入せよ！</Name>
 	<Details>駆逐艦旗艦の重巡1隻軽巡1隻駆逐艦2隻を含む水上反撃部隊を編成、沖ノ島沖に突入せよ！</Details>
 	<Get_1>1,4,7</Get_1>
 	<Get_2>1,5,8</Get_2>
@@ -1486,8 +1486,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>148</Torigger>
-	<Name>Deploy the "11th Destroyer Division"!</Name>
-	<Details>With Fubuki, Shirayuki, Hatsuyuki and Murakumo obtain a C-rank or better result at the boss node of World 1-5 </Details>
+	<Name>「第十一駆逐隊」出撃せよ！</Name>
+	<Details>「第十一駆逐隊」を含む艦隊で出撃し、中部西海域バシー島沖の敵艦隊を撃破せよ！</Details>
 	<Get_1>13,1,54</Get_1>
 	<Get_2>101,200,1</Get_2>
 	<Mat>0,300,300,0</Mat>
@@ -1519,8 +1519,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>150</Torigger>
-	<Name>Deploy the "21st Destroyer Division!</Name>
-	<Details>With Hatsuharu, Nenohi, Wakaba and Hatsushimo. You may add additional ships. Obtain S-rank victory at the boss node of World 3-1</Details>
+	<Name>「第二二駆逐隊」出撃せよ！</Name>
+	<Details>「第二二駆逐隊」を含む艦隊で近海諸島防衛線に出撃、敵主力艦隊を撃滅せよ！</Details>
 	<Get_1>13,2,59</Get_1>
 	<Get_2>101,200,1</Get_2>
 	<Mat>0,200,0,400</Mat>
@@ -1530,8 +1530,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>249,268</Torigger>
-	<Name>Weigh Anchor, "Nachi Squadron"!</Name>
-	<Details>With Nachi (as flagship), Hatsushimo, Kasumi, Ushio, Akebono, and 1 other ship. Obtain S-rank victory at the boss node of World 2-2.</Details>
+	<Name>「那智戦隊」抜錨せよ！</Name>
+	<Details>旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！</Details>
 	<Get_1>1,2,8</Get_1>
 	<Get_2>101,200,1</Get_2>
 	<Mat>500,300,0,0</Mat>
@@ -1541,8 +1541,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>416</Torigger>
-	<Name>Deploy the "Remodeled Anti-Air Heavy Cruiser"</Name>
-	<Details>With Maya Kai or Maya Kai-Ni, 1 CL and 2 DD. You may add additional ships. Obtain S-rank victory at the boss node of World 2-3.</Details>
+	<Name>「改装防空重巡」出撃せよ！</Name>
+	<Details>摩耶改または摩耶改二及び駆逐3隻を含む艦隊で南方トラック泊地の警備を実施せよ！</Details>
 	<Get_1>12,1,35</Get_1>
 	<Get_2>12,1,40</Get_2>
 	<Mat>300,200,300,0</Mat>
@@ -1552,8 +1552,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>307</Torigger>
-	<Name>Newly-Formed "Mikawa Fleet" to the Solomon Region!</Name>
-	<Details>With Choukai Kai Ni (flagship) plus 5 ships from the following: Furutaka, Kako, Aoba, Kinugasa, Yuubari and Tenryuu. Obtain S-rank victory at the boss node of World 5-1.</Details>
+	<Name>新編「三川艦隊」ソロモン方面へ！</Name>
+	<Details>第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！</Details>
 	<Get_1>13,1,57</Get_1>
 	<Get_2>1,6,7</Get_2>
 	<Mat>700,700,0,0</Mat>
@@ -1563,8 +1563,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>120,216</Torigger>
-	<Name>"6th Destroyer Division" Anti-Submarine Patrol!</Name>
-	<Details>「 Akatsuki, Hibiki (Верный OK), Ikazuchi, and Inazuma. Obtain a C-rank or better result at the boss node of World 1-5.</Details>
+	<Name>「第六駆逐隊」対潜哨戒なのです！</Name>
+	<Details>「第六駆逐隊」を含む艦隊で南方連絡航路へ展開、同航路の対潜哨戒を実施せよ！</Details>
 	<Get_1>12,1,46</Get_1>
 	<Get_2>1,4,7</Get_2>
 	<Mat>200,200,200,0</Mat>
@@ -1596,8 +1596,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>273,154</Torigger>
-	<Name>"6th Destroyer Division" Thorough Anti-Submarine Patrol!</Name>
-	<Details>With Akatsuki Kai-Ni, Hibiki (Верный OK), Ikazuchi, Inazuma. Obtain A-rank or better victory at the boss node of World 1-5.</Details>
+	<Name>「第六駆逐隊」対潜哨戒を徹底なのです！</Name>
+	<Details>「第六駆逐隊」を含む対潜哨戒部隊で南方連絡航路へ再展開、敵潜水艦部隊を痛打せよ！</Details>
 	<Get_1>12,1,46</Get_1>
 	<Get_2>101,300,1</Get_2>
 	<Mat>300,300,0,0</Mat>
@@ -1607,8 +1607,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>155,279</Torigger>
-	<Name>Deploy the [First Torpedo Squadron] for the K-Go!</Name>
-	<Details>Abukuma(flagship), Hibiki, Yuugumo, Naganami, Akigumo, and Shimakaze in the same fleet. Get at least a S rank at the boss of World 3-2</Details>
+	<Name>「第一水雷戦隊」ケ号作戦、突入せよ！</Name>
+	<Details>北方突入準備を完了した「一水戦」で北方キス島に突入！包囲網を破り、友軍を救出せよ！</Details>
 	<Get_1>1,4,6</Get_1>
 	<Get_2>13,1,52</Get_2>
 	<Mat>300,300,0,400</Mat>
@@ -1618,8 +1618,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>156</Torigger>
-	<Name>[First Torpedo Squadron], advance again to the Northern K-Go Operation</Name>
-	<Details>Abukuma(flagship), Hibiki, Yuugumo, Naganami, Akigumo, and Shimakaze in the same fleet.Get at least a S rank at the boss of World 3-2</Details>
+	<Name>「第一水雷戦隊」北方ケ号作戦、再突入！</Name>
+	<Details>北方再突入準備の新編「一水戦」で北方キス島に再突入を敢行、同撤収作戦を完遂せよ！</Details>
 	<Get_1>13,1,57</Get_1>
 	<Get_2>101,400,1</Get_2>
 	<Mat>500,500,0,500</Mat>
@@ -1706,8 +1706,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>160</Torigger>
-	<Name>Sortie the "5th CarDiv" to the South</Name>
-	<Details>Sortie Shoukaku, Zuikaku, Oboro, Akigumo and up to 2 additional ships to World 5-2 and score an S-rank victory at the boss node.</Details>
+	<Name>「第五航空戦隊」珊瑚諸島沖に出撃せよ！</Name>
+	<Details>再編成した「第五航空戦隊」を珊瑚諸島沖に展開、敵機動部隊を捕捉撃滅せよ！</Details>
 	<Get_1>13,1,57</Get_1>
 	<Get_2>101,500,1</Get_2>
 	<Mat>0,800,0,800</Mat>
@@ -1805,8 +1805,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>168</Torigger>
-	<Name>New Carrier Division, Advance to the North!</Name>
-	<Details> Sortie with 2 DDs, 2 (CAV and/or BBV), and 2 CV(L). Obtain an S-rank victory at the boss node of World 3-3.</Details>
+	<Name>新編成航空戦隊、北方へ進出せよ！</Name>
+	<Details>「新編成航空戦隊」を北方アルフォンシーノ列島沖へ展開、同海域の敵艦隊を撃滅せよ！</Details>
 	<Get_1>13,1,57</Get_1>
 	<Get_2>101,700,1</Get_2>
 	<Mat>0,700,0,700</Mat>
@@ -1816,8 +1816,8 @@
 	<Category>2</Category>
 	<Type>1</Type>
 	<Torigger>264,169</Torigger>
-	<Name>Carry Out "Operation Rei-go"</Name>
-	<Details> Kasumi (as flagship), Ashigara, Ooyodo, Asashimo, and Kiyoshimo. You may add 1 other ship. Obtain an S-rank victory at the boss node of World 2-5.</Details>
+	<Name>「礼号作戦」実施せよ！</Name>
+	<Details>精強な「水上反撃部隊」で、中部西海域オリョール海西部に突入！敵艦隊を撃滅せよ！</Details>
 	<Get_1>13,1,57</Get_1>
 	<Get_2>101,700,1</Get_2>
 	<Mat>800,800,0,0</Mat>
@@ -1850,7 +1850,7 @@
 	<Type>1</Type>
 	<Torigger>101</Torigger>
 	<Name>Your First "Exercise"!</Name>
-	<Details>Completion Condition: Participate in 1 exercise battle.</Details>
+	<Details>Do the Fleet Movement Exercise</Details>
 	<Get_1>102,0,2</Get_1>
 	<Get_2>1,1,7</Get_2>
 	<Mat>30,30,0,0</Mat>
@@ -1860,8 +1860,8 @@
 	<Category>3</Category>
 	<Type>1</Type>
 	<Torigger>301</Torigger>
-	<Name>「砲戦演習」を実施せよ！</Name>
-	<Details>艦隊戦の練度を向上させるため、「砲戦演習」を実施せよ！</Details>
+	<Name>Carry Out the Shelling Exercise!</Name>
+	<Details>Do the Shelling Exercise</Details>
 	<Get_1>102,0,3</Get_1>
 	<Mat>0,70,0,0</Mat>
 </mst_quest>
@@ -1870,8 +1870,8 @@
 	<Category>3</Category>
 	<Type>1</Type>
 	<Torigger>302</Torigger>
-	<Name>「雷撃戦演習」を実施せよ！</Name>
-	<Details>艦隊戦の練度を向上させるため、「雷撃戦演習」を実施せよ！</Details>
+	<Name>Carry Out the Torpedo Exercise!</Name>
+	<Details>Do the Torpedo Exercise</Details>
 	<Get_1>12,1,15</Get_1>
 	<Mat>80,0,0,0</Mat>
 </mst_quest>
@@ -1880,8 +1880,8 @@
 	<Category>3</Category>
 	<Type>1</Type>
 	<Torigger>302</Torigger>
-	<Name>「砲戦演習」を継続実施せよ！</Name>
-	<Details>艦隊戦の練度を向上させるため、「砲戦演習」を継続して実施せよ！</Details>
+	<Name>Continue Carrying Out the Shelling Exercise!</Name>
+	<Details>Do the Shelling Excercise 3 times</Details>
 	<Get_1>12,1,63</Get_1>
 	<Mat>0,100,0,0</Mat>
 </mst_quest>
@@ -1890,8 +1890,8 @@
 	<Category>3</Category>
 	<Type>1</Type>
 	<Torigger>303,304</Torigger>
-	<Name>「演習」を実施し、夜戦練度を高めよ！</Name>
-	<Details>「艦隊行動演習」及び「雷撃戦演習」を継続して実施せよ！</Details>
+	<Name>Carry out an Exercise to Increase Night Battle Proficiency!</Name>
+	<Details>Do Fleet Movement Exercise three times and Torpedo Exercise three times</Details>
 	<Get_1>12,1,129</Get_1>
 	<Get_2>102,0,4</Get_2>
 	<Mat>100,100,0,0</Mat>
@@ -1902,7 +1902,7 @@
 	<Type>1</Type>
 	<Torigger>611,317</Torigger>
 	<Name>Prepare for the Ceremony! (Part 2)</Name>
-	<Details>今月中に「対抗演習」を5回以上実施し、式への気持ちを整理しよう！</Details>
+	<Details>Have a level 90 to 99 ship as your flagship in your first fleet</Details>
 	<Get_1>1,2,7</Get_1>
 	<Mat>0,0,88,88</Mat>
 </mst_quest>
@@ -1921,7 +1921,7 @@
 	<Category>3</Category>
 	<Type>1</Type>
 	<Torigger>418,317</Torigger>
-	<Name>Strengthen the Fleet Via Experience From Exercises!</Name>
+	<Name>演習を強化、艦隊の練度向上に努めよ！</Name>
 	<Details>艦隊のさらなる練度向上を図る！今月中に「対抗演習」を4回以上実施せよ！</Details>
 	<Get_1>1,2,6</Get_1>
 	<Get_2>1,1,8</Get_2>
@@ -1932,7 +1932,7 @@
 	<Category>3</Category>
 	<Type>1</Type>
 	<Torigger>277,305</Torigger>
-	<Name>Train for the upcoming mission to return to the northern sea!</Name>
+	<Name>北方再突入に備え、練度向上に努めよ！</Name>
 	<Details>艦隊再突入に備え、艦隊練度向上を図る！「艦隊行動演習」を継続実施せよ！</Details>
 	<Get_1>1,2,6</Get_1>
 	<Get_2>1,2,8</Get_2>
@@ -1943,8 +1943,8 @@
 	<Category>3</Category>
 	<Type>6</Type>
 	<Torigger>305</Torigger>
-	<Name>「砲戦演習」を強化せよ！</Name>
-	<Details>月月火水木金金！「砲戦演習」を継続して実施せよ！</Details>
+	<Name>Carry Out the Shelling Exercise!</Name>
+	<Details>Carry Out the Shelling Exercise!</Details>
 	<Get_1>1,2,7</Get_1>
 	<Mat>0,100,0,0</Mat>
 </mst_quest>
@@ -1953,8 +1953,8 @@
 	<Category>3</Category>
 	<Type>6</Type>
 	<Torigger>310,305</Torigger>
-	<Name>艦隊の夜戦練度向上に努めよ！</Name>
-	<Details>夜戦練度向上を図る！「艦隊行動演習」及び「雷撃戦演習」を継続実施せよ！</Details>
+	<Name>Strive to Increase the Fleet's Night Battle Proficiency!</Name>
+	<Details>Do both Movement and Torpedo exercises 5 times each.</Details>
 	<Get_1>1,2,6</Get_1>
 	<Mat>100,100,0,0</Mat>
 </mst_quest>
@@ -1963,8 +1963,8 @@
 	<Category>3</Category>
 	<Type>6</Type>
 	<Torigger>310,316</Torigger>
-	<Name>「対潜戦演習」を強化せよ！</Name>
-	<Details>対潜水艦戦練度の向上を図る！「対潜戦演習」を継続実施せよ！</Details>
+	<Name>Intensify the Anti-Submarine Warfare Excercise!</Name>
+	<Details>Do the Anti-Submarine Warfare Exercise three times</Details>
 	<Get_1>1,1,7</Get_1>
 	<Get_2>103,1,1</Get_2>
 	<Mat>200,0,0,0</Mat>
@@ -1974,7 +1974,7 @@
 	<Category>3</Category>
 	<Type>6</Type>
 	<Torigger>311,319</Torigger>
-	<Name>Increase the Experience of the Fleet!</Name>
+	<Name>艦隊の練度向上に努めよ！</Name>
 	<Details>艦隊の総合的な練度向上を図る！「総合演習」を継続実施せよ！</Details>
 	<Get_1>1,1,6</Get_1>
 	<Get_2>12,1,145</Get_2>
@@ -1985,8 +1985,8 @@
 	<Category>3</Category>
 	<Type>6</Type>
 	<Torigger>312</Torigger>
-	<Name>「航空戦演習」を強化せよ！</Name>
-	<Details>艦隊の航空戦練度向上を図る！「航空戦演習」を継続実施せよ！</Details>
+	<Name>Intensify the Aerial Battle Exercise!</Name>
+	<Details>Do the Aerial Battle Exercise three times</Details>
 	<Get_1>1,2,6</Get_1>
 	<Get_2>12,1,145</Get_2>
 	<Mat>0,0,0,200</Mat>
@@ -1996,8 +1996,8 @@
 	<Category>3</Category>
 	<Type>6</Type>
 	<Torigger>310</Torigger>
-	<Name>艦隊同士の「対抗演習」を実施せよ！</Name>
-	<Details>艦隊同士の演習を実施する！今月中に「対抗演習」を5回以上実施せよ！</Details>
+	<Name>Carry Out a Rival Exercise Among Friends!</Name>
+	<Details>Do Rival Exercises 5 times</Details>
 	<Get_1>1,2,8</Get_1>
 	<Get_2>12,1,145</Get_2>
 	<Mat>200,200,200,0</Mat>
@@ -2007,8 +2007,8 @@
 	<Category>3</Category>
 	<Type>1</Type>
 	<Torigger>311</Torigger>
-	<Name>「対潜戦演習」を実施せよ！</Name>
-	<Details>艦隊の対潜戦練度を向上させるため、「対潜戦演習」を実施せよ！</Details>
+	<Name>Carry Out the Anti-Submarine Warfare Exercise!</Name>
+	<Details>Do the Anti-Submarine Warfare Exercise</Details>
 	<Get_1>12,1,44</Get_1>
 	<Get_2>102,0,5</Get_2>
 	<Mat>80,0,0,0</Mat>
@@ -2018,8 +2018,8 @@
 	<Category>3</Category>
 	<Type>1</Type>
 	<Torigger>104</Torigger>
-	<Name>「対抗演習」を実施せよ！</Name>
-	<Details>艦隊同士の模擬戦闘演習を実施する！「対抗演習」を実施せよ！</Details>
+	<Name>Carry Out the Rival Exercise!</Name>
+	<Details>Do the Rival Exercise!</Details>
 	<Get_1>1,1,5</Get_1>
 	<Get_2>1,1,6</Get_2>
 	<Mat>0,0,80,0</Mat>
@@ -2029,8 +2029,8 @@
 	<Category>3</Category>
 	<Type>1</Type>
 	<Torigger>316,317</Torigger>
-	<Name>「航空戦演習」を実施せよ！</Name>
-	<Details>艦隊の航空戦練度を向上させるため、「航空戦演習」を実施せよ！</Details>
+	<Name>Carry Out the Aerial Battle Exercise!</Name>
+	<Details>Do the Aerial Battle Exercise!!</Details>
 	<Get_1>12,1,96</Get_1>
 	<Get_2>102,0,6</Get_2>
 	<Mat>0,0,0,80</Mat>
@@ -2040,8 +2040,8 @@
 	<Category>3</Category>
 	<Type>1</Type>
 	<Torigger>318</Torigger>
-	<Name>「総合演習」を実施せよ！</Name>
-	<Details>艦隊戦の練度を総合的に向上させるため、「総合演習」を実施せよ！</Details>
+	<Name>Carry Out the All-Rounded Exercise!</Name>
+	<Details>Do the All-Rounded Exercise</Details>
 	<Get_1>12,1,36</Get_1>
 	<Get_2>1,2,7</Get_2>
 	<Mat>100,100,100,0</Mat>
@@ -2062,8 +2062,8 @@
 	<Category>4</Category>
 	<Type>6</Type>
 	<Torigger>401</Torigger>
-	<Name>艦隊の「遠征」を実施せよ！</Name>
-	<Details>今月中に「遠征」を３回成功させよ！</Details>
+	<Name>Fleet Expedition implementation</Name>
+	<Details>Perform 3 successful expeditions by the end of the month</Details>
 	<Get_1>3,1,10</Get_1>
 	<Get_2>1,2,7</Get_2>
 	<Mat>100,100,100,0</Mat>
@@ -2073,8 +2073,8 @@
 	<Category>4</Category>
 	<Type>6</Type>
 	<Torigger>402</Torigger>
-	<Name>「遠征」を継続して実施せよ！</Name>
-	<Details>今月中に「遠征」を継続実施、これを10回成功させよ！</Details>
+	<Name>Fleet Expedition implementation 2</Name>
+	<Details>Perform 10 successful expeditions by the end of the month！</Details>
 	<Get_1>1,3,7</Get_1>
 	<Get_2>103,1,1</Get_2>
 	<Mat>200,200,200,50</Mat>
@@ -2128,7 +2128,7 @@
 	<Category>4</Category>
 	<Type>1</Type>
 	<Torigger>406</Torigger>
-	<Name>Continue to Gain Technology Via Submarine Dispatching Operations!</Name>
+	<Name>潜水艦派遣作戦による技術入手の継続！</Name>
 	<Details>第３次及び第４次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！</Details>
 	<Get_1>12,1,64</Get_1>
 	<Get_2>1,4,8</Get_2>
@@ -2139,8 +2139,8 @@
 	<Category>4</Category>
 	<Type>1</Type>
 	<Torigger>408</Torigger>
-	<Name>Operation to Contact Foreign Ships by Dispatching Submarines.</Name>
-	<Details>Completion Requirement: Succeed at Expedition 31</Details>
+	<Name>潜水艦派遣による海外艦との接触作戦</Name>
+	<Details>有力な潜水艦隊派遣による海外艦との接触作戦を成功させよ！</Details>
 	<Get_1>11,1,174</Get_1>
 	<Get_2>101,200,1</Get_2>
 	<Mat>150,150,0,0</Mat>
@@ -2204,8 +2204,8 @@
 	<Category>4</Category>
 	<Type>1</Type>
 	<Torigger>414</Torigger>
-	<Name>Carry Out Distant Ocean Submarine Operation!</Name>
-	<Details>Carry out "Distant Ocean Submarine Operation" to increase the submarine fleet's experience and reduce the enemy fleet!</Details>
+	<Name>遠洋潜水艦作戦を実施せよ！</Name>
+	<Details>「遠洋潜水艦作戦」を反復実施し、潜水艦隊による敵艦隊漸減に努めよ！</Details>
 	<Get_1>12,1,95</Get_1>
 	<Mat>150,150,0,0</Mat>
 </mst_quest>
@@ -2225,8 +2225,8 @@
 	<Category>4</Category>
 	<Type>1</Type>
 	<Torigger>271</Torigger>
-	<Name>Carry Out Decoy Mobile Fleet Support Operation!</Name>
-	<Details>Completion Condition: Succeed at Expedition 15.</Details>
+	<Name>囮機動部隊支援作戦を実施せよ！</Name>
+	<Details>「囮機動部隊支援作戦」を実施し、これを成功させよ！</Details>
 	<Get_1>12,1,120</Get_1>
 	<Get_2>1,2,7</Get_2>
 	<Mat>300,300,0,500</Mat>
@@ -2236,8 +2236,8 @@
 	<Category>4</Category>
 	<Type>1</Type>
 	<Torigger>137</Torigger>
-	<Name>Carry Out Naval Review Rehearsal!</Name>
-	<Details>Completion Condition: Succeed at Expedition 7 twice.</Details>
+	<Name>観艦式予行を実施せよ！</Name>
+	<Details>観艦式を実施する。準備として「観艦式予行」を実施、これを2回成功させよ！</Details>
 	<Get_1>1,3,7</Get_1>
 	<Mat>200,0,200,0</Mat>
 </mst_quest>
@@ -2246,8 +2246,8 @@
 	<Category>4</Category>
 	<Type>1</Type>
 	<Torigger>308</Torigger>
-	<Name>Carry Out Naval Review!</Name>
-	<Details>Completion Condition: Succeed at Expedition 8.</Details>
+	<Name>観艦式を敢行せよ！</Name>
+	<Details>練度の高い艦隊で「観艦式」本番を実施する。「観艦式」を成功させよ！</Details>
 	<Get_1>13,1,63</Get_1>
 	<Get_2>1,3,8</Get_2>
 	<Mat>200,0,800,0</Mat>
@@ -2301,7 +2301,7 @@
 	<Type>1</Type>
 	<Torigger>203</Torigger>
 	<Name>Your First "Resupply"!</Name>
-	<Details>Put 5 or more ships from different fleets into the docks for a large-scale checkup!</Details>
+	<Details>Resupply a Ship.</Details>
 	<Get_1>1,1,6</Get_1>
 	<Mat>50,50,0,0</Mat>
 </mst_quest>
@@ -2310,8 +2310,8 @@
 	<Category>5</Category>
 	<Type>1</Type>
 	<Torigger>204,501</Torigger>
-	<Name>艦娘を「入渠」で修理！</Name>
-	<Details>戦闘で傷ついた艦を「入渠」させて損傷部分の修理、次の出撃に備えよ！</Details>
+	<Name>"First Docking"</Name>
+	<Details>Repair a Ship.</Details>
 	<Get_1>1,1,6</Get_1>
 	<Get_2>1,1,7</Get_2>
 	<Mat>0,0,100,0</Mat>
@@ -2321,8 +2321,8 @@
 	<Category>5</Category>
 	<Type>6</Type>
 	<Torigger>502</Torigger>
-	<Name>Large-Scale Fleet Checkup!</Name>
-	<Details>Put 5 or more ships from different fleets into the docks for a large-scale checkup!</Details>
+	<Name>The Fleet's Large Maintenance</Name>
+	<Details>Repair 10 Ships</Details>
 	<Get_1>1,2,7</Get_1>
 	<Get_2>1,2,6</Get_2>
 	<Mat>200,100,300,100</Mat>
@@ -2333,7 +2333,7 @@
 	<Type>6</Type>
 	<Torigger>503</Torigger>
 	<Name>Fleet Bartender's Festival!</Name>
-	<Details>Fleet Bartenders are having a festival! Perform resupply 30 or more times to ships!</Details>
+	<Details>Perform resupply to 30 or more ships!</Details>
 	<Get_1>1,2,6</Get_1>
 	<Get_2>1,2,5</Get_2>
 	<Mat>200,300,100,100</Mat>
@@ -2407,8 +2407,8 @@
 	<Category>6</Category>
 	<Type>6</Type>
 	<Torigger>216,604</Torigger>
-	<Name>装備「開発」集中月間！</Name>
-	<Details>「工廠」で装備の「開発」を今月中に新たに5回実施せよ！</Details>
+	<Name>Intensify the Concentration in Developing Equipment</Name>
+	<Details>Craft 5 pieces of equipment (Failures are OK)</Details>
 	<Get_1>1,3,7</Get_1>
 	<Get_2>1,2,6</Get_2>
 	<Mat>80,80,100,100</Mat>
@@ -2418,8 +2418,8 @@
 	<Category>6</Category>
 	<Type>6</Type>
 	<Torigger>210,607</Torigger>
-	<Name>艦娘大規模「建造」計画！</Name>
-	<Details>艦隊強化のため、「工廠」で艦娘を今月中に新たに5隻「建造」せよ！</Details>
+	<Name>Strengthen the Fleet by Constructing Shipgirls</Name>
+	<Details>Craft </Details>
 	<Get_1>1,2,5</Get_1>
 	<Get_2>103,1,1</Get_2>
 	<Mat>200,200,300,100</Mat>
@@ -2440,8 +2440,8 @@
 	<Category>6</Category>
 	<Type>1</Type>
 	<Torigger>704</Torigger>
-	<Name>Preparation for Large Ship Construction (Part II)</Name>
-	<Details>Scrap equipment 5 times</Details>
+	<Name>Preparation for Large Ship Construction!(Part 2)</Name>
+	<Details>Scrap 5 pieces of equipment</Details>
 	<Get_1>4,0,0</Get_1>
 	<Get_2>101,700,1</Get_2>
 	<Mat>500,500,0,0</Mat>
@@ -2482,8 +2482,8 @@
 	<Category>6</Category>
 	<Type>1</Type>
 	<Torigger>250</Torigger>
-	<Name>機種転換</Name>
-	<Details>「九七式艦攻(友永隊)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「天山」を2つ廃棄せよ！</Details>
+	<Name>Model Conversion (Tomonaga Squadron to Tenzan)</Name>
+	<Details>Have flagship equipped with Type 97 Torpedo Bomber (Tomonaga Squadron), then scrap 2 Tenzan.</Details>
 	<Get_1>15,1,1</Get_1>
 	<Mat>0,0,0,50</Mat>
 </mst_quest>
@@ -2492,8 +2492,8 @@
 	<Category>6</Category>
 	<Type>1</Type>
 	<Torigger>250</Torigger>
-	<Name>機種転換</Name>
-	<Details>「九九式艦爆(江草隊)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「彗星」を2つ廃棄せよ！</Details>
+	<Name>Model Conversion (Egusa Squadron to Suisei)</Name>
+	<Details>Have flagship equipped with Type 99 Dive Bomber (Egusa Squadron), then scrap 2 Suisei.</Details>
 	<Get_1>15,1,2</Get_1>
 	<Mat>0,0,0,50</Mat>
 </mst_quest>
@@ -2502,8 +2502,8 @@
 	<Category>6</Category>
 	<Type>1</Type>
 	<Torigger>252</Torigger>
-	<Name>機種転換</Name>
-	<Details>「零戦52型丙(六〇一空)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「烈風」を2つ廃棄せよ！</Details>
+	<Name>Model Conversion (601 Air Group to Reppuu)</Name>
+	<Details>Have flagship equipped with Zero Fighter Type 52 Type C (601 Air Group), then scrap 2 Reppuu</Details>
 	<Get_1>15,1,3</Get_1>
 	<Mat>0,0,0,50</Mat>
 </mst_quest>
@@ -2563,8 +2563,8 @@
 	<Category>6</Category>
 	<Type>1</Type>
 	<Torigger>220,623</Torigger>
-	<Name>機種転換</Name>
-	<Details>「九七式艦攻(村田隊)」搭載「翔鶴」を第一艦隊旗艦にした状態で、新たに「天山」を2つ廃棄せよ！</Details>
+	<Name>Model Conversion (Murata Squadron to Tenzan)</Name>
+	<Details>Have Shoukaku equipped with Type 97 Torpedo Bomber (Murata Squadron) as flagship and then scrap 2 Tenzan (Heavenly Mountain)</Details>
 	<Get_1>15,1,6</Get_1>
 	<Mat>0,0,0,50</Mat>
 </mst_quest>
@@ -2594,7 +2594,7 @@
 	<Type>7</Type>
 	<Torigger>159,216</Torigger>
 	<Name>Organize the New Elite Fighter Force</Name>
-	<Details>要「熟練搭乗員」任務：練度max「零戦21型」搭載「鳳翔」を第一艦隊旗艦に配備し、「零戦21型」x2「九六艦戦」x1廃棄せよ！</Details>
+	<Details>Have Skilled Crew Member, Equip Rank 7 Type 0 Fighter Model 21 on Houshou Secretary, then scrap 2 Type 0 Fighter Model 21 and a Type 96 Fighter</Details>
 	<Get_1>15,1,7</Get_1>
 	<Mat>0,0,0,50</Mat>
 </mst_quest>
@@ -2603,8 +2603,8 @@
 	<Category>6</Category>
 	<Type>7</Type>
 	<Torigger>163,625</Torigger>
-	<Name>機種転換</Name>
-	<Details>「零戦21型(熟練)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「零戦52型」を2つ廃棄せよ！</Details>
+	<Name>Model Conversion: Type 0 Fighter Model 21 (Skilled)</Name>
+	<Details>Equip a Type 0 Fighter Model 21 (Skilled) on a Carrier secretary, then scrap 2 Type 0 Fighter Model 52"</Details>
 	<Get_1>15,1,8</Get_1>
 	<Mat>0,0,0,50</Mat>
 </mst_quest>
