@@ -7,7 +7,8 @@ import xmltodict
 xml_dir = os.path.join("Xml", "tables", "master")
 jp_xml_dir = os.path.join("jp", xml_dir)
 en_xml_dir = os.path.join("en", xml_dir)
-kc3_trans_dir = os.path.join("kc3-translations", "data", "en")
+kc3_trans_dir = os.path.join("kc3-vita-translations", "en")
+kc3_jp_dir = os.path.join("kc3-vita-translations", "jp")
 
 # maybe kc3 translation should be a submodule, choose language as a argument
 
@@ -133,6 +134,49 @@ def slot_items():
 	##	f.write(xmltodict.unparse(xml, pretty=True))
 	#print(xmltodict.unparse(xml, pretty=True))
 
+# needs to parse from wiki: 
+def quest_hash():
+	# open xml
+	xml_fname = 'mst_quest.xml'
+	xml = xmltodict.parse(open(os.path.join(jp_xml_dir, xml_fname), 'rb'))
+
+	# get KC3 JSON, name as key, id as value
+	list_fname = 'quests.json'
+	jp_datalist = json.load(open(os.path.join(kc3_jp_dir, list_fname), 'r'))
+	name_hash = {}
+	desc_hash = {}
+	for key in jp_datalist.keys():
+		name_hash[jp_datalist[key]['name']] = key
+		desc_hash[jp_datalist[key]['desc']] = key
+	
+	list_fname = 'quests.json'
+	datalist = json.load(open(os.path.join(kc3_trans_dir, list_fname), 'r'))
+	
+	# replace all names with corresponding unicode string
+	for item in xml['mst_quest_data']['mst_quest']:
+		# take kanji name (without trailing words) and match to translation
+		try: # first search for name
+			# replace weird characters
+			orig_id = name_hash[item['Name'].replace('第１次', '第一次').replace('第２次', '第二次').replace('１', '1').replace('２', '2').replace('３', '3').replace('４', '4')]
+			
+			if item['Name'] == '機種転換':
+				print('KC:', orig_id, 'KCV:', item['Id'], '\n', item['Name'], '\n', item['Details'], '\n', datalist[item['Id']]['name'], '\n', datalist[item['Id']]['desc'])
+				continue
+			
+			print('KC:', orig_id, 'KCV:', item['Id'], '\n', item['Name'], '\n', item['Details'], '\n', datalist[orig_id]['name'], '\n', datalist[orig_id]['desc'])
+		except KeyError:
+			try: # second search for details
+				orig_id = desc_hash[item['Details'].replace('１', '1').replace('２', '2').replace('３', '3').replace('４', '4')]
+				print('KC:', orig_id, 'KCV:', item['Id'], '\n', item['Name'], '\n', item['Details'], '\n', datalist[orig_id]['name'], '\n', datalist[orig_id]['desc'])
+			except KeyError:
+				print('KCV:', item['Id'], '\n', item['Name'], '\n', item['Details'])
+	
+	# save changes to file
+	print("Saving changes shown above to :", en_xml_dir + xml_fname)
+	#with open(os.path.join(en_xml_dir, xml_fname), 'w') as f:
+	#	f.write(xmltodict.unparse(xml, pretty=True))
+	#print(xmltodict.unparse(xml, pretty=True))
+
 def stype():
 	# open xml
 	xml_fname = 'mst_stype.xml'
@@ -227,6 +271,7 @@ def quotes():
 #ships()
 #slot_items()
 #quests()
+quest_hash()
 #stype()
-quotes()
+#quotes()
 print("Changes compiled. To start over, replace the `Xml/` folder in `en/` with the one from `jp/`.")

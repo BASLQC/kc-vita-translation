@@ -1,0 +1,1089 @@
+KC: 101 KCV: 101 
+ はじめての「編成」！ 
+ 2隻以上の艦で構成される「艦隊」を編成せよ！ 
+ First Formation! 
+ Have 2 ships in your main fleet.
+KC: 102 KCV: 102 
+ 「駆逐隊」を編成せよ！ 
+ 駆逐艦4隻以上で構成される「駆逐隊」を編成せよ！ 
+ Form a Destroyer Squadron! 
+ Have 4 DD in your main fleet.
+KC: 103 KCV: 103 
+ 「水雷戦隊」を編成せよ！ 
+ 軽巡洋艦を旗艦とし、数隻の駆逐艦で構成される「水雷戦隊」を編成せよ！ 
+ Form a Torpedo Squadron! 
+ Have a CL as a flagship and 5 DD in your main fleet.
+KC: 104 KCV: 104 
+ 大規模艦隊を編成せよ！ 
+ 全6隻で構成される主力艦隊を編成せよ！ 
+ Form a Six Ship Fleet! 
+ Have 6 ships in your main fleet.
+KC: 105 KCV: 105 
+ 軽巡2隻を擁する隊を編成せよ！ 
+ 軽巡洋艦2隻を擁する高速艦隊を編成せよ！ 
+ Form a Squadron with Two Light Cruisers! 
+ Have 2 CL in your main fleet.
+KC: 106 KCV: 106 
+ 「重巡戦隊」を編成せよ！ 
+ 重巡洋艦2隻を擁する重巡艦隊を編成せよ！ 
+ Form a Heavy Cruiser Squadron! 
+ Have 2 CA in your main fleet.
+KC: 107 KCV: 107 
+ 「空母機動部隊」を編成せよ！ 
+ 空母1隻以上を旗艦とし、その護衛艦艇と共に、空母機動部隊を編成せよ！ 
+ Form a Carrier Task Force! 
+ Have a CV/CVL as a flagship and 3 DD in your main fleet.
+KC: 108 KCV: 108 
+ 「天龍」型軽巡姉妹の全２艦を編成せよ！ 
+ 天龍型軽巡洋艦「天龍」「龍田」を同一艦隊に配属せよ！ 
+ Form the Tenryuu-class! 
+ Have Tenryuu (天龍) and Tatsuta (龍田) in your main fleet.
+KC: 109 KCV: 109 
+ 「川内」型軽巡姉妹の全３艦を編成せよ！ 
+ 川内型軽巡洋艦「川内」「神通」「那珂」を同一艦隊に配属せよ！ 
+ Form the Sendai-class! 
+ Have Sendai (川内), Jintsuu (神通) and Naka (那珂) in your main fleet.
+KC: 110 KCV: 110 
+ 「妙高」型重巡姉妹の全４隻を編成せよ！ 
+ 妙高型重巡洋艦「妙高」「那智」「足柄」「羽黒」を同一艦隊に配属せよ！ 
+ Form the Myoukou-class! 
+ Have Myoukou (妙高), Nachi (那智), Ashigara (足柄) and Haguro (羽黒) in your main fleet.
+KC: 111 KCV: 111 
+ 「扶桑」型戦艦姉妹の全２隻を編成せよ！ 
+ 扶桑型戦艦「扶桑」「山城」を同一艦隊に配属せよ！ 
+ Form the Fusou-class! 
+ Have Fusou (扶桑) and Yamashiro (山城) in your main fleet.
+KC: 112 KCV: 112 
+ 「伊勢」型戦艦姉妹の全２隻を編成せよ！ 
+ 伊勢型戦艦「伊勢」「日向」を同一艦隊に配属せよ！ 
+ Form the Ise-class! 
+ Have Ise (伊勢) and Hyuuga (日向) in your main fleet.
+KC: 113 KCV: 113 
+ 戦艦と重巡による主力艦隊を編成せよ！ 
+ 戦艦1隻以上、重巡2隻以上を主力とした水上打撃艦隊を編成せよ！ 
+ Form the Main Fleet with BB and CA! 
+ Have a BB and 2 CA in your main fleet.
+KC: 114 KCV: 114 
+ 「南雲機動部隊」を編成せよ！ 
+ 一航戦「赤城」「加賀」二航戦「飛龍」「蒼龍」からなる第一機動部隊を編成せよ！ 
+ Form the Nagumo Task Force! 
+ Have ONLY Akagi (赤城), Kaga (加賀), Hiryuu (飛龍) and Souryuu (蒼龍) in your main fleet.
+KC: 115 KCV: 115 
+ 第2艦隊を編成せよ！ 
+ 二つ目の艦隊、第2艦隊の旗艦を指定して、第2艦隊を編成せよ！ 
+ Form the Second Fleet! 
+ Have a flagship in your second fleet.
+KC: 116 KCV: 116 
+ 「水上機母艦」を配備せよ！ 
+ 多数の水上偵察機を運用する「水上機母艦」を艦隊に配備せよ！ 
+ Ready a Seaplane Tender 
+ Have an Seaplane Tender in your main fleet.
+KC: 117 KCV: 117 
+ 第2艦隊で空母機動部隊を編成せよ！ 
+ 第2艦隊に空母を配備して、空母機動部隊を編成せよ！ 
+ Form a Carrier Task Force in the Second Fleet! 
+ Have a CV/CVL and 3 DD in your second fleet.
+KC: 118 KCV: 118 
+ 「金剛」型による高速戦艦部隊を編成せよ！ 
+ 金剛型戦艦「金剛」「比叡」「榛名」「霧島」全4隻の高速戦艦を集中配備せよ！ 
+ Form the Kongou-class! 
+ Have Kongou (金剛), Hiei (比叡), Haruna (榛名) and Kirishima (霧島) in your main fleet.
+KC: 119 KCV: 119 
+ 「三川艦隊」を編成せよ！ 
+ 「鳥海」「青葉」「加古」「古鷹」「天龍」を含む高速艦隊を編成せよ！ 
+ Form the Mikawa Fleet! 
+ Have Choukai (鳥海), Aoba (青葉), Kako (加古), Furutaka (古鷹), Tenryuu (天龍) and a FAST speed ship in your main fleet.
+KC: 120 KCV: 120 
+ 「第六駆逐隊」を編成せよ！ 
+ 「暁」「響」「雷」「電」4隻による第六駆逐隊を編成せよ！ 
+ Form the Destroyer Division 6! 
+ Have ONLY Akatsuki (暁), Hibiki (響), Inazuma (雷) and Ikazuchi (電) in your main fleet.
+KC: 121 KCV: 121 
+ 「第四戦隊」を編成せよ！ 
+ 「愛宕」「高雄」「鳥海」「摩耶」を基幹とした第四戦隊を編成せよ！ 
+ Form the Cruiser Division 4! 
+ Have Atago (愛宕), Takao (高雄), Choukai (鳥海) and Maya (摩耶) in your main fleet.
+KC: 122 KCV: 122 
+ 「西村艦隊」を編成せよ！ 
+ 「扶桑」「山城」「最上」「時雨」を基幹とした西村艦隊を編成せよ！ 
+ Form the Nishimura Fleet! 
+ Have Fusou (扶桑), Yamashiro (山城), Mogami (最上) and Shigure (時雨) in your main fleet.
+KC: 123 KCV: 123 
+ 「第五航空戦隊」を編成せよ！ 
+ 「翔鶴」「瑞鶴」を基幹とし、駆逐艦2隻を加えた第五航空戦隊を編成せよ！ 
+ Form the Carrier Division 5! 
+ Have Shoukaku (翔鶴), Zuikaku (瑞鶴) and 2 DD in your main fleet.
+KC: 124 KCV: 124 
+ 新「三川艦隊」を編成せよ！ 
+ 「鳥海」「青葉」「衣笠」「加古」「古鷹」「天龍」からなる三川艦隊を編成せよ！ 
+ Form the New Mikawa Fleet! 
+ Have Choukai (鳥海), Aoba (青葉), Kinugasa (衣笠), Kako (加古), Furutaka (古鷹) and Tenryuu (天龍) in your main fleet.
+KC: 125 KCV: 125 
+ 潜水艦隊を編成せよ！ 
+ 伊号潜水艦2隻からなる潜水艦隊を編成せよ！ 
+ Form a Submarine Fleet! 
+ Have 2 SS in your main fleet.
+KC: 126 KCV: 126 
+ 航空水上打撃艦隊を編成せよ！ 
+ 航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊を編成せよ！ 
+ Form a Naval Aviation Strike Fleet! 
+ Have 2 BBV and 2 CAV in your main fleet.
+KC: 127 KCV: 127 
+ 中規模潜水艦隊を編成せよ！ 
+ 伊号潜水艦3隻以上からなる潜水艦隊を編成せよ！ 
+ Form a Medium-Sized Submarine Fleet! 
+ Have 3 SS in your main fleet.
+KC: 128 KCV: 128 
+ 「第六戦隊」を編成せよ！ 
+ 「古鷹」「加古」「青葉」「衣笠」を基幹とした第六戦隊を編成せよ！ 
+ Form the Cruiser Division 6! 
+ Have Furutaka (古鷹), Kako(加古), Aoba (青葉) and Kinugasa (衣笠) in your main fleet.
+KC: 129 KCV: 129 
+ 「第五艦隊」を編成せよ！ 
+ 「那智」「足柄」「多摩」「木曾」を中核とした「第五艦隊」を編成せよ！ 
+ Form the 5th Fleet! 
+ Have Nachi (那智), Ashigara (足柄), Tama (多摩), and Kiso (木曾) in your fleet.
+KC: 130 KCV: 130 
+ 「第一水雷戦隊」を編成せよ！ 
+ 「阿武隈」「曙」「潮」「霞」「不知火」を中核とした「第一水雷戦隊」を編成せよ！ 
+ Form the Torpedo Squadron 1! 
+ Have Abukuma (阿武隈), Akebono (曙), Ushio (潮), Kasumi (霞) and Shiranui (不知火) in your fleet.
+KC: 131 KCV: 131 
+ 「第八駆逐隊」を編成せよ！ 
+ 「朝潮」「満潮」「大潮」「荒潮」4隻による第八駆逐隊を編成せよ！ 
+ Form the Destroyer Division 8! 
+ Have Asashio (朝潮), Michishio (満潮), Ooshio (大潮) and Arashio (荒潮) in your fleet.
+KC: 132 KCV: 132 
+ 「第十八駆逐隊」を編成せよ！ 
+ 「霞」「霰」「陽炎」「不知火」4隻による第十八駆逐隊を編成せよ！ 
+ Form the Destroyer Division 18! 
+ Have ONLY Kasumi (霞), Arare (霰), Kagerou (陽炎) and Shiranui (不知火) in your fleet.
+KC: 133 KCV: 133 
+ 「第三十駆逐隊(第一次)」を編成せよ！ 
+ 「睦月」「如月」「弥生」「望月」4隻による第三十駆逐隊(第一次)を編成せよ！ 
+ Form the Destroyer Division 30 (First Generation)! 
+ Have ONLY Mutsuki (睦月), Kisaragi (如月), Yayoi (弥生) and Mochizuki (望月) in your fleet.
+KC: 134 KCV: 134 
+ 式の準備！(その参) 
+ 第一艦隊旗艦に練度の高い(Lv.90以上～99以下)艦娘を配備して気持ちを整理せよ！ 
+ In Preparation of Love! (Part 3) 
+ Organize your feelings and deploy your fleet with a high level flagship (Lv.90~99)!
+KC: 135 KCV: 135 
+ 新たなる旅立ち！ 
+ 第一艦隊旗艦に強い絆を結んだLv.100以上の艦娘を配備した6隻の艦隊を編成せよ！ 
+ A New Voyage! 
+ Organize a fleet of 6 ships with your newly bonded ship of Lv.100 or more as flagship!
+KC: 136 KCV: 136 
+ 「第三十駆逐隊(第二次)」を編成せよ！ 
+ 「睦月」「弥生」「卯月」「望月」4隻による第三十駆逐隊(第二次)を編成せよ！ 
+ Form the 30th Destroyer Fleet (Second Generation) 
+ Have only Mutsuki (睦月), Yayoi (弥生), Uzuki (卯月) and Mochizuki (望月) in your fleet.
+KC: 137 KCV: 137 
+ 「第五戦隊」を編成せよ！ 
+ 「妙高」「那智」「羽黒」を基幹とした第五戦隊を編成せよ！ 
+ Form the 5th Fleet 
+ Have Myoukou (妙高), Nachi (那智) and Haguro (羽黒) in your fleet.
+KC: 138 KCV: 138 
+ 新編「第二航空戦隊」を編成せよ！ 
+ 「飛龍改二」(※旗艦)及び「蒼龍」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！ 
+ Form the new 2nd Carrier Division 
+ Have Hiryuu Kai Ni (飛龍改二, as the flagship), Souryuu (蒼龍) and 2 destroyers in your fleet.
+KC: 139 KCV: 139 
+ 潜水艦隊「第六艦隊」を編成せよ！ 
+ 「潜水母艦」と複数の潜水艦(4隻以上)からなる潜水艦隊「第六艦隊」を編成せよ！ 
+ Form the 6th Submarine Fleet 
+ Have a submarine tender and 4 (or more) submarines in your fleet.
+KC: 140 KCV: 140 
+ 新型電探を配備せよ！ 
+ 新型電探運用試験のため、第一艦隊の旗艦に「妙高改二」を配備せよ！ 
+ Test the new RADAR! 
+ Have Myoukou Kai2 as the flagship of your fleet.
+KC: 141 KCV: 141 
+ 再編成「第二航空戦隊」を強化せよ！ 
+ 「蒼龍改二」(※旗艦)及び「飛龍改二」を基幹とした二航戦(要駆逐艦2隻)を編成せよ！ 
+ Reorganise the Strengthened 2nd Carrier Division 
+ Have Souryuu Kai-2 (蒼龍改二) as flagship with Hiryuu Kai-2 (飛龍改二) and 2 destroyers in your fleet.
+KC: 143 KCV: 142 
+ 「新型正規空母」を配備せよ！ 
+ 新型正規空母、雲龍型航空母艦を第一艦隊旗艦に配備せよ！ 
+ Deploy a New Standard Aircraft Carrier 
+ Have Unryuu (雲龍) as your flagship.
+KC: 144 KCV: 143 
+ 主力戦艦部隊「第二戦隊」を編成せよ！ 
+ 長門型2隻及び扶桑型2隻の計4隻の主力戦艦からなる第二戦隊を編成せよ！ 
+ Organise the Main Battleship Fleet: the 2nd Squadron 
+ Have both Nagato-class and both Fusou-class battleships (and no other ships) in your main fleet.
+KC: 145 KCV: 144 
+ 戦艦を主力とした水上打撃部隊を編成せよ！ 
+ 大和型・長門型・伊勢型・扶桑型のいずれか3隻と軽巡1隻他の水上打撃部隊を配備せよ！ 
+ Organise the Main Battleship Force 
+ Have three battleships of Nagato, Fusou, Ise or Yamato classes and a light cruiser in your fleet.
+KC: 146 KCV: 145 
+ 改修工廠を準備せよ！ 
+ 第一艦隊の旗艦に工作艦「明石」を配備、改修工廠の準備を実施せよ！ 
+ Prepare the Arsenal for Renovations 
+ Have Akashi (明石) as your flagship in your main fleet.
+KC: 147 KCV: 146 
+ 「西村艦隊」を再編成せよ！ 
+ 「扶桑」「山城」「最上」「時雨」「満潮」を基幹とした西村艦隊を編成せよ！ 
+ Organise the Nishimura Fleet 
+ Have Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) in your main fleet.
+KC: 148 KCV: 147 
+ 軽快な「水上反撃部隊」を編成せよ！ 
+ 駆逐艦「霞」を旗艦とした重巡「足柄」及び軽巡1隻駆逐艦4隻の水上挺身部隊を編成せよ！ 
+ Organise the Counterattack Squadron 
+ Have Kasumi (霞) as the flagship, Ashigara (足柄), 1 CL and 3 more DDs in your main fleet.
+KC: 149 KCV: 148 
+ 「第十一駆逐隊」を編成せよ！ 
+ 特I型駆逐艦「吹雪」「白雪」「初雪」「叢雲」4隻による第十一駆逐隊を編成せよ！ 
+ Organise the 11th Destroyer Division 
+ Have the 4 Special-type destroyers: Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪) and Murakumo(叢雲) in your main fleet. One of them should be the flagship.
+KC: 150 KCV: 149 
+ 「第二一駆逐隊」を編成せよ！ 
+ 「初春」「子日」「若葉」「初霜」4隻による第二一駆逐隊を編成せよ！ 
+ Organise the 21st Destroyer Division 
+ Have only Hatsuharu (初春), Nenohi (子日), Wakaba (若葉) and Hatsushimo (初霜) in your main fleet.
+KC: 151 KCV: 150 
+ 「第二二駆逐隊」を編成せよ！ 
+ 「皐月」「文月」「長月」他1隻計駆逐艦4隻による第二二駆逐隊を編成せよ！ 
+ Organise the 22nd Destroyer Division 
+ Have only Satsuki (皐月), Fumizuki (文月), Nagatsuki (長月) and 1 more DD in your main fleet.
+KC: 152 KCV: 151 
+ 「三川艦隊」を新編、突入準備せよ！ 
+ 第一艦隊において、「鳥海改ニ」を旗艦とする「三川艦隊」を編成せよ！ 
+ Organise the New Edition of the Mikawa Fleet 
+ Have Choukai Kai2 as the flagship and any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari in your main fleet
+KC: 153 KCV: 152 
+ 「第十八戦隊」を新編成せよ！ 
+ 軽巡洋艦「天龍」「龍田」を基幹戦力とした「第十八戦隊」を4隻以上で新編成せよ！ 
+ Reorganize the 18th Squadron! 
+ Have Tenryuu, Tatsuta and 2 or more other ships in your fleet
+KC: 154 KCV: 153 
+ 海上突入部隊を編成せよ！ 
+ 戦艦「比叡」「霧島」軽巡「長良」駆逐艦「暁」「雷」「電」による海上突入部隊を編成せよ！ 
+ Organize the surface attack fleet! 
+ Have Hiei, Kirishima, Nagara, Akatsuki, Ikazuchi, Inazuma in your fleet
+KC: 155 KCV: 154 
+ 新編「第六駆逐隊」を編成せよ！ 
+ 「暁改二」を旗艦とした「響」「雷」「電」4隻による第六駆逐隊を編成せよ！ 
+ Organize the new 6th Destroyer Division! 
+ Have Akatsuki Kai2 as Flagship with Hibiki/Bep, Ikazuchi, Inazuma in your fleet
+KC: 156 KCV: 155 
+ 「第一水雷戦隊」北方突入準備！ 
+ 「阿武隈」を旗艦として「響」「初霜」「若葉」「五月雨」「島風」による一水戦を編成せよ！ 
+ 1st Torpedo Squadron, Prepare for a Rush to the Northern Sea 
+ Have Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze in your main fleet
+KC: 157 KCV: 156 
+ 「第一水雷戦隊」北方再突入準備！ 
+ 「阿武隈改二」を旗艦として「響」「夕雲」「長波」「秋雲」「島風」の一水戦を再編成せよ！ 
+ 1st Torpedo Squadron, Prepare for Another Rush to the Northern Sea 
+ Have Abukuma Kai Ni as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo and Shimakaze in your main fleet
+KCV: 157 
+ 「赤城」に艦攻「村田隊」を配属せよ！ 
+ 秘書艦を航空母艦「赤城」とし、同艦に艦攻「村田隊」を配属せよ！
+KCV: 158 
+ 「翔鶴」に艦攻「村田隊」を配置転換せよ！ 
+ 秘書艦を航空母艦「翔鶴」として、同艦に艦攻「村田隊」を配置転換せよ！
+KCV: 159 
+ 空母機動部隊「第三艦隊」を編成せよ！ 
+ 「翔鶴」を旗艦として、「瑞鶴」「瑞鳳」及び随伴艦を配備した第三艦隊を編成せよ！
+KC: 161 KCV: 160 
+ 「第五航空戦隊」を再編成せよ！ 
+ 「翔鶴」「瑞鶴」と随伴駆逐艦「朧」「秋雲」を基幹とした第五航空戦隊を再編成せよ！ 
+ Reorganize the 5th Carrier Division! 
+ Have Shoukaku, Zuikaku, Oboro and Akigumo in your main fleet
+KC: 162 KCV: 161 
+ 新編「第二一戦隊」出撃準備！ 
+ 「那智改二」「足柄改二」及び「多摩」「木曾」を基幹とした、第二一戦隊を編成せよ！ 
+ Prepare the New 21st Squadron for Sortie 
+ Have Nachi Kai Ni, Ashigara Kai Ni, Tama and Kiso in your main fleet
+KC: 163 KCV: 162 
+ 「第十六戦隊」を編成せよ！ 
+ 「足柄」を旗艦として「球磨」「長良」を擁する、第十六戦隊(第一次)を編成せよ！ 
+ Organize the 16th Squadron (First Generation) 
+ Have Ashigara as flagship with Kuma and Nagara in your main fleet
+KC: 164 KCV: 163 
+ 「第三航空戦隊」を編成せよ！ 
+ 「瑞鶴改」を旗艦とし、航空母艦「瑞鳳」「千歳」「千代田」を加えた4隻の空母部隊を編成せよ！ 
+ Organize the 3rd Carrier Division 
+ Have Zuikaku Kai as flagship, Zuihou, Chitose and Chiyoda (both as CVL, not AV) in your main fleet
+KC: 165 KCV: 164 
+ 「第四航空戦隊」を編成せよ！ 
+ 航空戦艦「伊勢改」及び「日向改」を基幹戦力とした第四航空戦隊を編成せよ！ 
+ Organize the 4th Carrier Division 
+ Have Ise Kai and Hyuuga Kai in your main fleet
+KC: 166 KCV: 165 
+ 「小沢艦隊」を編成せよ！ 
+ 「瑞鶴改」旗艦、空母「瑞鳳改」「千歳」「千代田」及び「伊勢改」「日向改」を配備せよ！ 
+ Organize Ozawa's Fleet 
+ Have Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai in your main fleet
+KC: 167 KCV: 166 
+ 新航空戦隊を編成せよ！ 
+ 改二改装を終えた翔鶴型航空母艦2隻と同護衛艦による新航空戦隊を新編成せよ！ 
+ Organize the New Carrier Division 
+ Have Zuikaku Kai Ni, Shoukaku Kai Ni and two Destroyers in your fleet
+KC: 168 KCV: 167 
+ 「第十六戦隊(第二次)」を編成せよ！ 
+ 「名取」を旗艦として「五十鈴」「鬼怒」を擁する、第十六戦隊(第二次)を編成せよ！ 
+ Organize the 16th Squadron (Second Generation) 
+ Have Natori as flagship, Isuzu and Kinu in your fleet
+KC: 169 KCV: 168 
+ 「新編成航空戦隊」を編成せよ！ 
+ 空母2隻+航空戦艦/航空巡洋艦2隻+駆逐艦2隻の新航空戦隊を編成せよ！ 
+ Organize the New Carrier Division 
+ Have 2 CV, 2 BBV/CAV and 2 DD in your fleet
+KC: 170 KCV: 169 
+ 精強な「水上反撃部隊」を再編成せよ！ 
+ 駆逐艦「霞」旗艦、「足柄」「大淀」「朝霜」「清霜」他の水上反撃部隊を再編成せよ！ 
+ Strengthen the Surface Counterattack Fleet 
+ Have Kasumi as flagship, Ashigara, Ooyodo, Asashimo and Kiyoshimo in your fleet
+KCV: 170 
+ 精強な「潜水艦隊」を編成せよ！ 
+ 旗艦に練度80以上、僚艦も全て練度40以上の精鋭潜水艦隊を編成せよ！
+KCV: 171 
+ 精強「航空戦艦」戦隊を編成せよ！ 
+ 「伊勢改」「日向改」「扶桑改二」「山城改二」と直衛駆逐艦2隻の精強航空戦艦戦隊を編成せよ！
+KC: 201 KCV: 201 
+ 敵艦隊を撃破せよ！ 
+ 艦隊を出撃させ、敵艦隊を捕捉、これを撃滅せよ！ 
+ Daily Sortie 1 
+ Defeat an abyssal fleet
+KC: 202 KCV: 202 
+ 「艦娘」出撃！ 
+ 艦隊を出撃させ、敵艦隊と交戦せよ！ 
+ First Sortie! 
+ Deploy your main fleet on a combat mission.
+KC: 203 KCV: 203 
+ 鎮守府正面海域を護れ！ 
+ 鎮守府正面海域に艦隊を出撃させ、敵艦の跳梁を阻止せよ！ 
+ Protect the Seas of Chinju-Fu! 
+ Deploy to World 1-1 and clear the stage.
+KCV: 204 
+ 鎮守府海域沖を警備せよ！ 
+ 鎮守府海域沖に艦隊を出撃させ、同方面の警備を強化せよ！
+KC: 205 KCV: 205 
+ 接近する「敵前衛艦隊」を迎撃せよ！ 
+ 鎮守府海域沖に接近する「敵前衛艦隊」を捕捉、これを撃破せよ！ 
+ Intercept Approaching Enemy Vanguard Fleet! 
+ Deploy to World 1-2 after defeating its boss and clear the stage.
+KC: 206 KCV: 206 
+ 「水雷戦隊」出撃せよ！ 
+ 軽巡洋艦1隻を旗艦とし、複数の駆逐艦からなる水雷戦隊で出撃せよ！ 
+ Sortie the Torpedo Squadron! 
+ Deploy a fleet with a CL as flagship and 3 DD as escorts.
+KC: 207 KCV: 207 
+ 「重巡洋艦」出撃せよ！ 
+ 重巡洋艦を旗艦とした艦隊を編成、これを出撃させよ！ 
+ Sortie a Heavy Cruiser! 
+ Deploy a fleet with a CA as its flagship.
+KC: 208 KCV: 208 
+ 「戦艦」出撃せよ！ 
+ 海上の覇者、戦艦を旗艦とした艦隊を編成、これを出撃させよ！ 
+ Sortie a Battleship! 
+ Deploy a fleet with a BB as its flagship. BBV don't count.
+KCV: 209 
+ 「空母機動部隊」抜錨せよ！ 
+ 空母1隻とその護衛艦艇で構成した空母機動部隊を出撃させよ！
+KCV: 210 
+ 敵艦隊を全力邀撃せよ！ 
+ 艦隊全力出撃！今月中に艦隊を8回以上出撃、遊弋する敵艦隊を邀撃せよ！
+KC: 217 KCV: 211 
+ 敵空母を撃沈せよ！ 
+ 艦隊の脅威となる敵空母群。これを捕捉し、同2隻を確実に撃沈せよ！ 
+ Sink Enemy Carrier! 
+ Sink an enemy aircraft carrier.
+KC: 212 KCV: 212 
+ 敵輸送船団を叩け！ 
+ 複数の輸送艦を撃沈し、敵の補給路を寸断せよ！ 
+ Daily Sortie 6 
+ Sink 5 abyssal transport ships
+KC: 213 KCV: 213 
+ 海上通商破壊作戦 
+ 今月中に敵輸送艦を5隻以上撃沈せよ！ 
+ Weekly Sortie 3 
+ Sink 20 abyssal transport ships
+KC: 214 KCV: 214 
+ あ号作戦 
+ 今月中に全力出撃を行い、可能な限り多くの敵艦隊を捕捉、これを迎撃せよ！ 
+ Weekly Sortie 1 
+ Sortie 36x, Encounter 24 bosses, Win vs 12 bosses, 6 S-ranks
+KCV: 215 
+ 新設第2艦隊、抜錨せよ！ 
+ 新たに編成した「第2艦隊」を出撃させよ！
+KCV: 216 
+ 敵艦隊を邀撃、敵戦力の漸減を図れ！ 
+ 艦隊を出撃させ、前衛艦隊を排除し、敵艦隊「主力」を捕捉！これを撃破せよ！
+KCV: 217 
+ 敵機動部隊を撃破せよ！ 
+ 敵機動部隊を捕捉し、これを邀撃、敵空母を撃沈せよ！
+KCV: 218 
+ 敵補給ラインを寸断せよ！ 
+ 艦隊を出撃させ、敵輸送艦を捕捉、これを3隻以上撃沈し、敵補給ラインを寸断せよ！
+KC: 219 KCV: 219 
+ 「三川艦隊」出撃せよ！ 
+ 新編成した「三川艦隊」で出撃せよ！ 
+ Sortie the Mikawa Fleet! 
+ Deploy a fleet with Choukai, Aoba, Kako, Furutaka, Tenryuu and another fast ship.
+KC: 220 KCV: 220 
+ い号作戦 
+ 有力な母艦航空隊で全力出撃を行い、今月中に可能な限り多くの敵空母を撃滅せよ！ 
+ Weekly Sortie 2 
+ Sink 20 abyssal CV(L)
+KC: 221 KCV: 221 
+ ろ号作戦 
+ 今月中に可能な限り敵輸送船団を捕捉、敵輸送艦を撃滅し、敵補給線を寸断せよ！ 
+ Weekly Sortie 4 
+ Sink 50 abyssal transport ships
+KC: 222 KCV: 222 
+ 「第六駆逐隊」出撃せよ！ 
+ 「暁」「響」「雷」「電」による第六駆逐隊、出撃せよ！ 
+ Sortie the Destroyer Division 6! 
+ Deploy a fleet with ONLY Akatsuki, Hibiki, Inazuma, and Ikazuchi.
+KC: 223 KCV: 223 
+ 「第四戦隊」出撃せよ！ 
+ 「愛宕」「高雄」「鳥海」「摩耶」を基幹とする第四戦隊で、近海諸島防衛線の敵を撃滅せよ！ 
+ Sortie the Cruiser Division 4! 
+ Deploy a fleet with Atago, Takao, Choukai, Maya and any 2 ships. Score a victory against World 2-2 Boss.
+KC: 224 KCV: 224 
+ 「西村艦隊」出撃せよ！ 
+ 「扶桑」「山城」「最上」「時雨」を基幹とする西村艦隊で、南方航路西部の敵を撃破せよ！ 
+ Sortie the Nishimura Fleet! 
+ Deploy a fleet with Fusou, Yamashiro, Mogami, Shigure and any 2 ships. Score a victory against World 2-3 Boss.
+KC: 225 KCV: 225 
+ 「第五航空戦隊」出撃せよ！ 
+ 「翔鶴」「瑞鶴」を基幹とする第五航空戦隊で、沖ノ島海域の敵を邀撃せよ！ 
+ Sortie the Carrier Division 5! 
+ Deploy a fleet with Shoukaku, Zuikaku and any 4 ships. Score a victory against World 3-1 Boss.
+KCV: 226 
+ 南方連絡海域の制海権を確立せよ！ 
+ 艦隊を南方連絡海域に全力出撃させ今月中に敵艦隊を撃滅、同方面の制海権を確立せよ！
+KC: 227 KCV: 227 
+ 新「三川艦隊」出撃せよ！ 
+ 完全編成した「三川艦隊」をもって、トラック泊地の警備を実施、同方面の制海権を確保せよ！ 
+ Sortie the New Mikawa Fleet! 
+ Deploy a fleet with Choukai, Aoba, Kinugasa, Kako, Furutaka and Tenryuu. Score a victory against World 2-3 Boss.
+KC: 228 KCV: 228 
+ 海上護衛戦 
+ 有力な対潜能力を持つ海上護衛隊によって、可能な限り多くの敵潜水艦を撃滅せよ！ 
+ Weekly Sortie 5 
+ Sink 15 submarines
+KCV: 229 
+ トラック泊地を防衛せよ！ 
+ 南方泊地海域方面に接近中敵艦隊を撃破、同方面及びトラック泊地を防衛せよ！
+KC: 230 KCV: 230 
+ 敵潜水艦を制圧せよ！ 
+ 対潜能力の充実した艦隊で出撃、敵潜水艦狩りを実施せよ！ 
+ Daily Sortie 8 
+ Sink 6 abyssal submarines
+KC: 231 KCV: 231 
+ 「潜水艦隊」出撃せよ！ 
+ 伊号潜水艦2隻以上からなる潜水艦隊でオリョール海西部の敵艦隊を撃破せよ！ 
+ Sortie a Submarine Fleet! 
+ Deploy a fleet with 2 SS and 4 additional ships. Score a victory against World 2-3 Boss.
+KC: 232 KCV: 232 
+ 「航空水上打撃艦隊」出撃せよ！ 
+ 航空戦艦2隻と航空巡洋艦2隻を基幹とする艦隊で、幌筵泊地沖の敵艦隊を邀撃せよ！ 
+ Sortie a Naval Aviation Strike Fleet! 
+ Deploy a fleet with 2 BBV, 2 CAV and 2 additional ships. Score a victory against World 4-2 Boss.
+KC: 233 KCV: 233 
+ 「第六戦隊」出撃せよ！ 
+ 「第六戦隊」をもって出撃し、オリョール海東部の敵と交戦、これに「完全勝利」せよ！ 
+ Sortie the Cruiser Division 6! 
+ Deploy a fleet with Furutaka, Kako, Kinugasa, Aoba and 2 additional ships. Score a S rank victory against World 2-3 Boss.
+KCV: 234 
+ 北方海峡の警備を実施せよ！ 
+ 有力な艦隊を北方海峡に展開、同海峡の警備を複数回実施せよ！
+KCV: 235 
+ 南方連絡海域正面の制海権を確保せよ！ 
+ 有力な艦隊を南方海域正面に展開、敵戦力を撃滅して同海域の制海権を確保せよ！
+KCV: 236 
+ トラック泊地周辺の対潜哨戒を実施せよ！ 
+ 艦隊を南方泊地に進出させ、トラック泊地対潜哨戒を実施せよ！
+KCV: 237 
+ 近海諸島防衛線を支援せよ！ 
+ 艦隊を鎮守府海域外縁部に展開、近海諸島防衛線を支援せよ！
+KCV: 238 
+ 南方連絡航路対潜哨戒を実施せよ！ 
+ 有力な艦隊を南方海域正面に展開、敵戦力を撃滅して同海域の制海権を確保せよ！
+KCV: 239 
+ オリョール海西部に進出せよ！ 
+ 有力な艦隊を中部西海域に展開、オリョール海進出を図れ！
+KC: 240 KCV: 240 
+ 「第十八駆逐隊」出撃せよ！ 
+ 編成した「第十八駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！ 
+ Sortie the Destroyer Division 18! 
+ Deploy a fleet with Kasumi, Arare, Kagerou, Shiranui and 2 additional ships. Score a victory against World 3-1 Boss.
+KC: 241 KCV: 241 
+ 敵北方艦隊主力を撃滅せよ！ 
+ 北方海域の深部に出撃し、敵北方艦隊の主力艦隊を捕捉、これを撃滅せよ！ 
+ Weekly Sortie 7 
+ Defeat 5 bosses in Worlds [W3-3], [W3-4] or [W3-5]
+KC: 242 KCV: 242 
+ 敵東方中枢艦隊を撃破せよ！ 
+ 西方海域カレー洋深部に突入し、敵秘匿泊地を攻撃、同泊地周辺の敵戦力を痛打せよ！ 
+ Weekly Sortie 8 
+ Defeat a boss in World [W4-4]
+KC: 243 KCV: 243 
+ 南方海域珊瑚諸島沖の制空権を握れ！ 
+ 南方海域珊瑚諸島沖に反復出撃し、敵機動部隊本隊を捕捉撃滅、制海権を確保せよ！ 
+ Weekly Sortie 9 
+ Sortie to [W5-2] and S-rank the boss node 2 times
+KCV: 244 
+ 「第三十駆逐隊」出撃せよ！ 
+ 「第三十駆逐隊(第一次)」を含む艦隊で出撃し、キス島沖の主力艦隊と交戦せよ！
+KC: 245 KCV: 245 
+ 式の準備！(最終) 
+ 練度の高い(Lv.90～99)第一艦隊旗艦で出撃し、オリョール海西部の暁に勝利を刻め！ 
+ In Preparation of Love! (Final) 
+ Deploy a fleet with a high level (Lv.90~99) flagship to 2-3 obtain an S rank victory against the boss.
+KC: 246 KCV: 246 
+ 二人でする初めての任務！ 
+ 強い絆を結んだ艦娘を旗艦とした第一艦隊でリランカ島へ出撃、敵中枢を撃滅せよ！ 
+ Your First Mission Together! 
+ Deploy a fleet to 4-3 with a bonded ship of Lv.100 or more as flagship and score an S rank victory against the boss.
+KC: 247 KCV: 247 
+ 「航空戦艦」抜錨せよ！ 
+ 航空戦艦2隻を基幹とする艦隊を西方海域カレー洋に展開、同海域の敵勢力を撃破せよ！ 
+ Sortie an aviation battleship fleet! 
+ Have 2 BBV ships in your main fleet and score a victory against World 4-4 Boss.
+KC: 248 KCV: 248 
+ 「第三十駆逐隊」対潜哨戒！ 
+ 「第三十駆逐隊(第二次)」は直ちに抜錨！南方トラック泊地の対潜哨戒を実施せよ！ 
+ 30th Destroyer Fleet's Anti-Submarine Patrol 
+ Deploy Mutsuki, Yayoi, Uzuki and Mochizuki to World 1-5 and reach the boss, scoring at least a C rank.
+KC: 249 KCV: 249 
+ 「第五戦隊」出撃せよ！ 
+ 「第五戦隊」は沖ノ島沖の戦闘哨戒を実施、敵艦隊主力を捕捉、これを撃滅せよ！ 
+ Monthly Deploy the Fifth squadron 
+ Deploy Myoukou, Nachi, Haguro, +3 ships to [W2-5]. S-rank the boss node
+KC: 250 KCV: 250 
+ 新編「第二航空戦隊」出撃せよ！ 
+ 新編「二航戦」を基幹とした艦隊で、珊瑚諸島沖に出撃、敵機動部隊を撃滅せよ！ 
+ Deploy the 2nd Carrier Division 
+ Deploy Hiryuu Kai Ni (飛龍改二) as the flagship, Souryuu (蒼龍) and two destroyers to World 5-2. You may add 2 other ships. Score an S rank victory against the boss.
+KC: 251 KCV: 251 
+ 精鋭「第二航空戦隊」抜錨せよ！ 
+ 錬成を終え再編成「二航戦」を基幹とした艦隊で、敵リランカ島を空襲、破砕せよ！ 
+ Deploy the Elite 2nd Carrier Division 
+ Deploy Souryuu Kai Ni (蒼龍改二) as the flagship, Hiryuu Kai Ni (飛龍改二) and two destroyers to World 4-3. You may add 2 other ships. Score an S rank victory against the boss.
+KCV: 252 
+ 「第六○一航空隊」発艦せよ！ 
+ 雲龍型航空母艦旗艦の機動部隊で南方泊地沖で敵機動部隊を迎撃、これを撃滅せよ！
+KC: 254 KCV: 253 
+ 「軽空母」戦隊、出撃せよ！ 
+ 軽空母1～2隻、軽巡1隻、駆逐艦3～4隻の艦隊でバシー島の敵を撃滅せよ！ 
+ Deploy a Light Carrier Squadron 
+ Sortie a fleet of 1-2 light aircraft carriers, 1 light cruiser and 3-4 destroyers to World 2-1 and score an S rank victory against the boss.
+KC: 255 KCV: 254 
+ 「水雷戦隊」バシー島沖緊急展開 
+ 軽巡を旗艦とした水雷戦隊(軽巡最大2隻他駆逐艦)でバシー島沖の敵を撃滅せよ！ 
+ Deploy a Torpedo Squadron to Bashi Islands 
+ Sortie a fleet of 1-2 light cruisers (with one of them as the flagship) and 4-5 destroyers to World 2-2. Score a victory at the boss and sink the enemy flagship.
+KC: 231 KCV: 255 
+ 「潜水艦隊」出撃せよ！ 
+ 潜水艦戦力を中核とした艦隊で中部海域哨戒線へ反復出撃、敵戦力を漸減せよ！ 
+ Sortie a Submarine Fleet! 
+ Deploy a fleet with 2 SS and 4 additional ships. Score a victory against World 2-3 Boss.
+KC: 257 KCV: 256 
+ 「水雷戦隊」南西へ！ 
+ 軽巡旗艦の水雷戦隊(軽巡最大3隻他駆逐艦)を急派、近海諸島防衛線で敵を撃滅せよ！ 
+ Monthly Deploy a Torpedo Squadron 
+ 1~3 CL (CL flagship) and 3~5 destroyers to [W1-4]. S-rank the boss node
+KC: 258 KCV: 257 
+ 「第二戦隊」抜錨！ 
+ 「第二戦隊」を基幹とした艦隊でカレー洋に進出、反復出撃により敵海上兵力を撃滅せよ！ 
+ Sortie the 2nd Squadron 
+ Deploy Nagato (長門), Mutsu (陸奥), Fusou (扶桑), Yamashiro (山城) and up to 2 additional ships to World 4-2. Score two S rank victories at the boss node.
+KC: 259 KCV: 258 
+ 「水上打撃部隊」南方へ！ 
+ 戦艦3隻軽巡1隻他を基幹とした水上打撃部隊で南方海域へ進出、敵艦隊を撃滅せよ！ 
+ Monthly Deploy a Battleship Squadron 
+ Deploy 3 BB(V) (Not FBB) + 1 CL + 2 ships to [W5-1] and S-rank the boss node
+KC: 260 KCV: 259 
+ 「戦艦部隊」北方海域に突入せよ！ 
+ 戦艦2隻と直援軽空母1隻(正規空母無し)基幹の艦隊で、北方キス島後方海域に突入せよ！ 
+ Deploy the Battleship Squadron in the Northern Waters 
+ Deploy two battleships, a light aircraft carrier and up to three additional ships to World 3-5 and score an S rank victory at the boss node.
+KCV: 260 
+ 南方連絡線制海権を確保せよ！ 
+ 南方航路西部に主力艦隊を展開、敵戦力を撃破して同海域の制海権を確保せよ！
+KC: 262 KCV: 261 
+ 「西村艦隊」南方海域へ進出せよ！ 
+ 「西村艦隊」を南方海域に進出させ、敵主力艦隊へ突入、これを撃滅せよ！ 
+ Deploy the Nishimura Fleet in the Southern Waters 
+ Deploy Fusou (扶桑), Yamashiro (山城), Mogami (最上), Shigure (時雨) and Michishio (満潮) (you may also add another ship) to World 5-1 and score an S rank victory at the boss node.
+KCV: 262 
+ 「第六戦隊」オリョール海へ出撃せよ！ 
+ 「古鷹」「加古」「青葉」「衣笠」ら「第六戦隊」基幹の艦隊で、オリョール海東部の敵を撃滅せよ！
+KC: 264 KCV: 263 
+ 「空母機動部隊」西へ！ 
+ 航空母艦2隻(随伴駆逐艦2隻)を基幹とする機動部隊で、カレー洋の敵艦隊を撃滅せよ！ 
+ Monthly Sortie the Aircraft Carrier Task Force to the West 
+ 2 CV + 2 DD + 2 ships to [W4-2]. S-rank the boss node
+KCV: 264 
+ 資源地帯の制海権を確保せよ！ 
+ 南西海域ズンダ海峡付近の敵戦力を撃破して同海峡を制圧、資源地帯の制海権を確保せよ！
+KC: 266 KCV: 265 
+ 「水上反撃部隊」突入せよ！ 
+ 駆逐艦旗艦の重巡1隻軽巡1隻駆逐艦2隻を含む水上反撃部隊を編成、沖ノ島沖に突入せよ！ 
+ Monthly Deploy the Counterattack Squadron 
+ 4 DD (DD flagship) + 1 CA (Not CAV) + 1 CL to [W2-5] and S-rank the boss node
+KC: 267 KCV: 266 
+ 「第十一駆逐隊」出撃せよ！ 
+ 「第十一駆逐隊」を含む艦隊で出撃し、中部西海域バシー島沖の敵艦隊を撃破せよ！ 
+ Deploy the 11th Destroyer Division 
+ Deploy Fubuki (吹雪), Shirayuki(白雪), Hatsuyuki (初雪), Murakumo(叢雲) and up to 2 additional ships to World 2-3 and score a victory at the boss node.
+KCV: 267 
+ 西南要塞を攻略せよ！ 
+ 西南海域要塞沖に主力艦隊を投入、敵東洋艦隊を撃破した後、西南要塞攻略を実施せよ！
+KC: 269 KCV: 268 
+ 「第二一駆逐隊」出撃せよ！ 
+ 「第二一駆逐隊」を含む艦隊で出撃し、北方海域モーレイ海の敵を撃滅せよ！ 
+ Deploy the 21st Destroyer Division 
+ Deploy Hatsuharu (初春), Nenohi (子日), Wakaba (若葉) and Hatsushimo (初霜) and up to 2 additional ships to World 3-1 and score an S rank victory at the boss node.
+KC: 270 KCV: 269 
+ 「第二二駆逐隊」出撃せよ！ 
+ 「第二二駆逐隊」を含む艦隊で近海諸島防衛線に出撃、敵主力艦隊を撃滅せよ！ 
+ Deploy the 22nd Destroyer Division 
+ Deploy Satsuki (皐月), Fumizuki (文月), Nagatsuki (長月), 1 more DD and up to two additional ships to World 1-4 and score an S rank victory at the boss node.
+KC: 271 KCV: 270 
+ 「那智戦隊」抜錨せよ！ 
+ 旗艦「那智」及び「初霜」「霞」「潮」「曙」他1隻の艦隊でバシー島沖の敵を撃滅せよ！ 
+ Deploy Nachi's Squadron 
+ Sortie a fleet with Nachi (那智) as flagship, Hatsushimo (初霜), Kasumi (霞), Ushio (潮), Akebono (曙) and one additional ship to world 2-2 and score an S rank victory at the boss node.
+KC: 272 KCV: 271 
+ 「改装防空重巡」出撃せよ！ 
+ 摩耶改または摩耶改二及び駆逐3隻を含む艦隊で南方トラック泊地の警備を実施せよ！ 
+ Deploy the Remodelled Anti-Aircraft Heavy Cruiser 
+ Sortie a fleet with Maya (摩耶) Kai or Kai2, 1 CL, 2 DD and up to two additional ships to World 2-3 and score an S rank victory at the boss node.
+KC: 273 KCV: 272 
+ 新編「三川艦隊」ソロモン方面へ！ 
+ 第一艦隊に編成した「三川艦隊」を南方海域に進出させ、同方面の敵艦隊を撃滅せよ！ 
+ Deploy the Mikawa Fleet to Solomon Islands 
+ Sortie the main fleet with Choukai Kai2 as the flagship and any five of Aoba, Kinugasa, Kako, Furutaka, Tenryuu, Yuubari to 5-1 and S-Rank the boss
+KC: 274 KCV: 273 
+ 「第六駆逐隊」対潜哨戒なのです！ 
+ 「第六駆逐隊」を含む艦隊で南方連絡航路へ展開、同航路の対潜哨戒を実施せよ！ 
+ 6th Destroyer Division's Anti-Submarine Patrol 
+ Deploy Akatsuki, Hibiki (響 or Верный), Inazuma and Ikazuchi to 1-5. C-Rank+ the boss
+KC: 275 KCV: 274 
+ 抜錨！「第十八戦隊」 
+ 「天龍」「龍田」を基幹とした「第十八戦隊」を南方航路正面に展開、同海域警備を実施せよ！ 
+ Deploy the 18th Squadron 
+ Tenryuu, Tatsuta, and at least 2 other ships to [W2-3] and S-rank the boss node
+KCV: 275 
+ ソロモン海域に突入せよ！ 
+ 「比叡」「霧島」「長良」「暁」「雷」「電」の艦隊で、南方ソロモン海域への突入作戦を実施せよ！
+KC: 277 KCV: 276 
+ 「第六駆逐隊」対潜哨戒を徹底なのです！ 
+ 「第六駆逐隊」を含む対潜哨戒部隊で南方連絡航路へ再展開、敵潜水艦部隊を痛打せよ！ 
+ DesDiv6 Anti-Submarine Mission! 
+ Sortie Akatsuki Kai2 , Hibiki/Verniy, Ikazuchi, Inazuma to 1-5 and clear the map with at least A-rank
+KC: 278 KCV: 277 
+ 「第一水雷戦隊」ケ号作戦、突入せよ！ 
+ 北方突入準備を完了した「一水戦」で北方キス島に突入！包囲網を破り、友軍を救出せよ！ 
+ Rush the 1st Torpedo Squadron to Operation KE 
+ Sortie Abukuma as flagship with Hibiki/Вер, Hatsushimo, Wakaba, Samidare and Shimakaze to 3-2 and B-Rank+ the boss
+KC: 279 KCV: 278 
+ 「第一水雷戦隊」北方ケ号作戦、再突入！ 
+ 北方再突入準備の新編「一水戦」で北方キス島に再突入を敢行、同撤収作戦を完遂せよ！ 
+ Rush the 1st Torpedo Squadron to Operation KE Again 
+ Sortie Abukuma Kai-2 as flagship with Hibiki/Вер, Yuugumo, Naganami, Akigumo and Shimakaze to 3-2 and S-Rank the boss
+KCV: 279 
+ 北方海域の哨戒を実施せよ！ 
+ 艦隊を北方海域に展開、モーレイ海の哨戒を実施せよ！
+KCV: 280 
+ 陽動作戦！「AL作戦」を実施せよ！ 
+ 北方AL海域において、「AL作戦」を実施せよ！
+KCV: 281 
+ 発動！「MI作戦」 
+ MI海域において「MI作戦」を実施、同作戦を完遂せよ！
+KCV: 282 
+ 西部方面派遣艦隊、出撃せよ！ 
+ 西方海域に西部方面派遣艦隊を派遣し、同方面の再集結中の敵増援艦隊を叩け！
+KCV: 283 
+ 決戦！「FS作戦」、発動せよ！ 
+ FS海域方面の戦略拠点攻略を実施する。「FS作戦」を発動、これを完遂せよ！
+KCV: 284 
+ 機動部隊出撃！ポートワインを痛打せよ！ 
+ 航空母艦を旗艦とした空母機動部隊をポートワイン沖に展開、同地敵戦力を痛打せよ！
+KCV: 285 
+ カレー洋作戦、開始せよ！ 
+ カレー洋正面海域に艦隊を展開、同海域の敵艦隊を撃破し、カレー洋作戦を実施せよ！
+KC: 287 KCV: 286 
+ 「第五航空戦隊」珊瑚諸島沖に出撃せよ！ 
+ 再編成した「第五航空戦隊」を珊瑚諸島沖に展開、敵機動部隊を捕捉撃滅せよ！ 
+ Sortie the 5th Carrier Division to the Southern Sea Coral Islands 
+ Sortie Shoukaku, Zuikaku, Oboro, Akigumo and up to 2 additional ships to W5-2 and S-Rank the boss
+KC: 288 KCV: 287 
+ 新編「第二一戦隊」北方へ出撃せよ！ 
+ 新編「第二一戦隊」を基幹とする艦隊を展開、北方AL諸島沖を遊弋する敵を撃滅せよ！ 
+ Sortie the New 21st Squadron to the North 
+ Sortie Nachi(Kai-2), Ashigara(Kai-2), Tama, Kiso and up to 2 additional ships to W3-1 and S-Rank the boss
+KC: 289 KCV: 288 
+ 「第十六戦隊(第一次)」出撃せよ！ 
+ 「第十六戦隊」を幌筵泊地正面に展開、同泊地の警備を実施せよ！ 
+ Sortie the 16th Squadron (First Generation) 
+ Sortie Ashigara as flagship, Kuma, Nagara and up to 3 additional ships to W2-2 and S-Rank the boss
+KC: 239 KCV: 289 
+ 「第八駆逐隊」出撃せよ！ 
+ 編成した「第八駆逐隊」を含む艦隊で出撃し、オリョール海西部の敵艦隊を撃滅せよ！ 
+ Sortie the Destroyer Division 8! 
+ Deploy a fleet with Asashio, Michishio, Ooshio, Arashio and 2 additional ships. Score a victory against World 2-3 Boss.
+KCV: 290 
+ 「鉄底海峡」を越えて 
+ ソロモン海域深部に艦隊を突入、同方面の敵艦隊を撃破、「鉄底海峡」を突破せよ！
+KCV: 291 
+ 深海運河戦略攻撃 
+ 深海運河に潜水空母艦隊等を派遣し、同運河への戦略攻撃を実施せよ！
+KCV: 292 
+ 「第三航空戦隊」近海諸島防衛線に出撃！ 
+ 編成した「第三航空戦隊」を近海諸島防衛線に展開、敵侵攻艦隊を捕捉撃滅せよ！
+KC: 294 KCV: 293 
+ 「小沢艦隊」出撃せよ！ 
+ 「小沢艦隊」を中部西海域沖ノ島沖に展開し、侵攻する敵機動部隊を捕捉、これを撃滅せよ！ 
+ Sortie the Ozawa's fleet 
+ Sortie Zuikaku Kai as flagship, Zuihou Kai, Chitose and Chiyoda (both as CVL), Ise Kai and Hyuuga Kai to World 2-4 and score an S-rank victory at the boss
+KC: 295 KCV: 294 
+ 「第十六戦隊(第二次)」出撃せよ！ 
+ 「第十六戦隊(第二次)」を西方海域ベーグル湾に展開、べーグル湾通商破壊戦を実施せよ！ 
+ Sortie the 16th Squadron (Second Generation) 
+ Sortie Natori as flagship, Isuzu , Kinu and up to 3 additional ships to World 2-3 and score an S-rank at the boss
+KC: 296 KCV: 295 
+ 新編成航空戦隊、北方へ進出せよ！ 
+ 「新編成航空戦隊」を北方アルフォンシーノ列島沖へ展開、同海域の敵艦隊を撃滅せよ！ 
+ Sortie the New Carrier Division to the North 
+ Sortie 2 CV, 2 BBV/CAV and 2 DD to W3-3 and score an S-rank at the boss
+KC: 297 KCV: 296 
+ 「礼号作戦」実施せよ！ 
+ 精強な「水上反撃部隊」で、中部西海域オリョール海西部に突入！敵艦隊を撃滅せよ！ 
+ Carry out the Operation Rei-Gou! 
+ Sortie Kasumi as flagship, Ashigara  Ooyodo, Asashimo, Kiyoshimo and 1 additional ship to W2-5 and S-Rank at the boss
+KCV: 297 
+ トラック泊地周辺警備を実施せよ！ 
+ 南方トラック泊地は前線の要だ。トラック泊地周辺警備を実施して、工作艦の前線投入を準備せよ！
+KCV: 298 
+ 艦隊旗艦、戦艦「大和」出撃せよ！ 
+ 旗艦「大和」出撃する！MI諸島近海に展開し、その巨砲で敵MI島基地守備隊を粉砕せよ！
+KC: 301 KCV: 301 
+ はじめての「演習」！ 
+ はじめての演習！「艦隊行動演習」を実施せよ！ 
+ First Exercise! 
+ Challenge another fleet in practice mode
+KCV: 302 
+ 「砲戦演習」を実施せよ！ 
+ 艦隊戦の練度を向上させるため、「砲戦演習」を実施せよ！
+KCV: 303 
+ 「雷撃戦演習」を実施せよ！ 
+ 艦隊戦の練度を向上させるため、「雷撃戦演習」を実施せよ！
+KCV: 304 
+ 「砲戦演習」を継続実施せよ！ 
+ 艦隊戦の練度を向上させるため、「砲戦演習」を継続して実施せよ！
+KCV: 305 
+ 「演習」を実施し、夜戦練度を高めよ！ 
+ 「艦隊行動演習」及び「雷撃戦演習」を継続して実施せよ！
+KC: 306 KCV: 306 
+ 式の準備！(その弐) 
+ 今月中に「対抗演習」を5回以上実施し、式への気持ちを整理しよう！ 
+ In Preparation of Love (Part 2) 
+ Show your love by getting 2 victories in practice mode.
+KCV: 307 
+ 作戦前に艦隊練度向上を図れ！ 
+ 作戦前に艦隊の練度向上を図る！今月中に「対抗演習」を3回以上実施せよ！
+KC: 308 KCV: 308 
+ 演習を強化、艦隊の練度向上に努めよ！ 
+ 艦隊のさらなる練度向上を図る！今月中に「対抗演習」を4回以上実施せよ！ 
+ Improve the Efficiency of the Fleet One More Time 
+ Get 4 victories in practice mode within the same day
+KC: 309 KCV: 309 
+ 北方再突入に備え、練度向上に努めよ！ 
+ 艦隊再突入に備え、艦隊練度向上を図る！「艦隊行動演習」を継続実施せよ！ 
+ Extra Training in Preparation for Another Rush to the Northern Sea 
+ Get 4 victories in practice mode within the same day
+KCV: 310 
+ 「砲戦演習」を強化せよ！ 
+ 月月火水木金金！「砲戦演習」を継続して実施せよ！
+KCV: 311 
+ 艦隊の夜戦練度向上に努めよ！ 
+ 夜戦練度向上を図る！「艦隊行動演習」及び「雷撃戦演習」を継続実施せよ！
+KCV: 312 
+ 「対潜戦演習」を強化せよ！ 
+ 対潜水艦戦練度の向上を図る！「対潜戦演習」を継続実施せよ！
+KC: 307 KCV: 313 
+ 艦隊の練度向上に努めよ！ 
+ 艦隊の総合的な練度向上を図る！「総合演習」を継続実施せよ！ 
+ Improve the Efficiency of the Fleet 
+ Get 3 victories in practice mode within the same day
+KCV: 314 
+ 「航空戦演習」を強化せよ！ 
+ 艦隊の航空戦練度向上を図る！「航空戦演習」を継続実施せよ！
+KCV: 315 
+ 艦隊同士の「対抗演習」を実施せよ！ 
+ 艦隊同士の演習を実施する！今月中に「対抗演習」を5回以上実施せよ！
+KCV: 316 
+ 「対潜戦演習」を実施せよ！ 
+ 艦隊の対潜戦練度を向上させるため、「対潜戦演習」を実施せよ！
+KCV: 317 
+ 「対抗演習」を実施せよ！ 
+ 艦隊同士の模擬戦闘演習を実施する！「対抗演習」を実施せよ！
+KCV: 318 
+ 「航空戦演習」を実施せよ！ 
+ 艦隊の航空戦練度を向上させるため、「航空戦演習」を実施せよ！
+KCV: 319 
+ 「総合演習」を実施せよ！ 
+ 艦隊戦の練度を総合的に向上させるため、「総合演習」を実施せよ！
+KC: 401 KCV: 401 
+ はじめての「遠征」！ 
+ 艦隊を「遠征」に出発させよ！ 
+ First Expedition 
+ Perform an expedition
+KCV: 402 
+ 艦隊の「遠征」を実施せよ！ 
+ 今月中に「遠征」を３回成功させよ！
+KCV: 403 
+ 「遠征」を継続して実施せよ！ 
+ 今月中に「遠征」を継続実施、これを10回成功させよ！
+KCV: 404 
+ 南方からの資源輸送作戦を強化せよ！ 
+ 今月中に南方からの「資源輸送系遠征」を継続実施、12回以上成功させよ！
+KC: 405 KCV: 405 
+ 第１次潜水艦派遣作戦 
+ 第１次潜水艦派遣作戦を実施、これを成功させよ！ 
+ The First Submarine Operation 
+ Complete Expedition 30
+KC: 406 KCV: 406 
+ 第２次潜水艦派遣作戦 
+ 第２次潜水艦派遣作戦を成功させよ！ 
+ The Second Submarine Operation 
+ Complete Expedition 30 one more time
+KCV: 407 
+ 海上護衛・対潜作戦を強化せよ！ 
+ 海上護衛遠征及び対潜作戦遠征を継続実施せよ！
+KC: 408 KCV: 408 
+ 潜水艦派遣作戦による技術入手の継続！ 
+ 第３次及び第４次潜水艦派遣作戦を成功させ、他国製技術の導入に努めよ！ 
+ Continuation of Submarine Operations 
+ Complete Expedition 30 two more times
+KC: 409 KCV: 409 
+ 潜水艦派遣による海外艦との接触作戦 
+ 有力な潜水艦隊派遣による海外艦との接触作戦を成功させよ！ 
+ Strategy Meeting with Overseas Submarine Dispatch! 
+ Complete Expedition 31
+KC: 410 KCV: 410 
+ 南方海域への鼠輸送を実施せよ！ 
+ 激戦海域である南方海域への「東京急行」系遠征を敢行、これを成功させよ！ 
+ Weekly Expedition 2 
+ (Weekly) Complete expedition 37 or 38
+KCV: 411 
+ 南方海域への鼠輸送を継続実施せよ！ 
+ 「東京急行」系遠征を継続的に反復実施、今月中に鼠輸送を6回成功せさよ！
+KCV: 412 
+ 「北号作戦」を実施せよ！ 
+ 航空戦艦2隻を投入する強行資源輸送作戦、「北号作戦」を実施せよ！
+KCV: 413 
+ 「北号作戦」を継続実施せよ！ 
+ 航空戦艦2隻を投入する強行資源輸送作戦、「北号作戦」を継続実施せよ！
+KCV: 414 
+ 中部西海域潜水艦哨戒を実施せよ！ 
+ 「中部西海域潜水艦哨戒」を反復実施し、哨戒と潜水艦隊練度向上に努めよ！
+KC: 414 KCV: 415 
+ 遠洋潜水艦作戦を実施せよ！ 
+ 「遠洋潜水艦作戦」を反復実施し、潜水艦隊による敵艦隊漸減に努めよ！ 
+ Blue Waters Submarine Operation 
+ Complete expedition 39
+KCV: 416 
+ 防空射撃演習を継続実施せよ！ 
+ 「防空射撃演習」を反復実施し、艦隊の防空能力を高めよ！
+KC: 417 KCV: 417 
+ 囮機動部隊支援作戦を実施せよ！ 
+ 「囮機動部隊支援作戦」を実施し、これを成功させよ！ 
+ Deploy the Decoy Task Force 
+ Complete expedition 15
+KC: 418 KCV: 418 
+ 観艦式予行を実施せよ！ 
+ 観艦式を実施する。準備として「観艦式予行」を実施、これを2回成功させよ！ 
+ Naval Ceremony Preparations 
+ Complete Expedition 7 twice
+KC: 419 KCV: 419 
+ 観艦式を敢行せよ！ 
+ 練度の高い艦隊で「観艦式」本番を実施する。「観艦式」を成功させよ！ 
+ Naval Ceremony 
+ Complete expedition 8
+KCV: 420 
+ 空母機動部隊を積極運用せよ！ 
+ 機動部隊で「MO作戦」及び「敵母港空襲作戦」を実施、これを成功させよ！
+KCV: 421 
+ 潜水艦派遣による技術入手を強化せよ！ 
+ 潜水艦派遣作戦を継続して成功させ、他国製技術の導入に努めよ！
+KCV: 422 
+ 潜水艦派遣作戦による海外艦救援！ 
+ 有力な潜水艦隊派遣による海外艦との接触、同救援を継続的に実施せよ！
+KCV: 423 
+ 遠洋練習航海を実施せよ！ 
+ 「遠洋練習航海」及び「南洋方面遠洋練習航海」を実施、これを成功させよ！
+KC: 501 KCV: 501 
+ はじめての「補給」！ 
+ 戦いで「補給」はとても重要です！燃料・弾薬を艦に「補給」せよ！ 
+ First Supply 
+ Resupply a ship
+KCV: 502 
+ 艦娘を「入渠」で修理！ 
+ 戦闘で傷ついた艦を「入渠」させて損傷部分の修理、次の出撃に備えよ！
+KC: 503 KCV: 503 
+ 艦隊大整備！ 
+ 今月中に艦を10隻以上ドック入りさせ、艦隊の大規模な整備を実施せよ！ 
+ Daily Repairs 
+ Repair 5 ships
+KC: 504 KCV: 504 
+ 艦隊酒保祭り！ 
+ 艦隊酒保祭り！今月中に各艦に延べ30回以上の補給を実施せよ！ 
+ Daily Resupplies 
+ Resupply your ships 15 times
+KC: 601 KCV: 601 
+ はじめての「建造」！ 
+ 「工廠」で鋼材などの資材を使って、新しい艦を「建造」せよ！ 
+ First Construction 
+ Craft a ship
+KC: 602 KCV: 602 
+ はじめての「開発」！ 
+ 「工廠」でボーキサイトなどの資材を使って、新しい装備を「開発」せよ！ 
+ First Development 
+ Craft a piece of equipment
+KC: 603 KCV: 603 
+ はじめての「解体」！ 
+ 「工廠」で不要な艦の艤装を「解体」せよ！ 
+ First Dismantlement 
+ Dismantle a ship
+KC: 604 KCV: 604 
+ はじめての「廃棄」！ 
+ 「工廠」で装備を「廃棄」せよ！ 
+ First Disposal 
+ Scrap a piece of equipment
+KC: 605 KCV: 605 
+ 新装備「開発」指令 
+ 「工廠」で新たに装備の「開発」に挑戦せよ！ 
+ Daily Development 1 
+ Craft a piece of equipment (Failures are OK)
+KC: 606 KCV: 606 
+ 新造艦「建造」指令 
+ 「工廠」で艦娘を新たに「建造」せよ！ 
+ Daily Construction 1 
+ Craft a ship
+KCV: 607 
+ 装備「開発」集中月間！ 
+ 「工廠」で装備の「開発」を今月中に新たに5回実施せよ！
+KCV: 608 
+ 艦娘大規模「建造」計画！ 
+ 艦隊強化のため、「工廠」で艦娘を今月中に新たに5隻「建造」せよ！
+KC: 609 KCV: 609 
+ 軍縮条約対応！ 
+ 少し艦隊規模が大きくなりすぎました！「工廠」で新たに艦を2隻「解体」せよ！ 
+ Daily Dismantlement 
+ Scrap 2 ships
+KC: 610 KCV: 610 
+ 「大型艦建造」の準備！(その弐) 
+ 大型艦建造の準備をします！「工廠」で任意の装備を5つ「廃棄」せよ！ 
+ Preparation for LSC (Part 2) 
+ Scrap equipment 4 times
+KC: 611 KCV: 611 
+ 式の準備！(その壱) 
+ 式の準備をします！「工廠」で装備を3つ「廃棄」して身の回りの整理を！ 
+ In Preparation of Love! (Part 1) 
+ Scrap equipment 2 times to show your love!
+KC: 612 KCV: 612 
+ 輸送用ドラム缶の準備 
+ 「工廠」で装備を3つ「廃棄」して、輸送用のドラム缶を準備せよ！ 
+ Prepare the Drum Canisters 
+ Scrap equipment 3 times
+KC: 613 KCV: 613 
+ 資源の再利用 
+ 「工廠」で余剰の装備アイテムをなるべく多く「廃棄」して、鋼材の再利用に努めよ！ 
+ Weekly Dismantlement 
+ Scrap equipment 24 times
+KC: 614 KCV: 614 
+ 機種転換 
+ 「九七式艦攻(友永隊)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「天山」を2つ廃棄せよ！ 
+ Model Conversion (Tomonaga Squadron to Tenzan) 
+ Have flagship equipped with Type 97 Torpedo Bomber (Tomonaga Squadron), then scrap 2 Tenzan
+KC: 614 KCV: 615 
+ 機種転換 
+ 「九九式艦爆(江草隊)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「彗星」を2つ廃棄せよ！ 
+ Model Conversion (Egusa Squadron to Suisei) 
+ Have flagship equipped with Type 99 Dive Bomber (Egusa Squadron), then scrap 2 Suisei
+KC: 614 KCV: 616 
+ 機種転換 
+ 「零戦52型丙(六〇一空)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「烈風」を2つ廃棄せよ！ 
+ Model Conversion (601 Air Group to Reppuu) 
+ Have flagship equipped with Zero Fighter Type 52 Type C (601 Air Group), then scrap 2 Reppuu
+KC: 617 KCV: 617 
+ 「伊良湖」の準備 
+ 「工廠」で不要な装備をいくつか「廃棄」して、新型給糧艦召喚の準備をしましょう！ 
+ Preparing for Irako 
+ Scrap equipment 10 times
+KC: 618 KCV: 618 
+ はじめての「装備改修」！ 
+ 「改修工廠」で装備を改修せよ！工作艦明石さん、お願いします！ 
+ First Equipment Modernisation 
+ Perform equipment modernisation once
+KC: 619 KCV: 619 
+ 装備の改修強化 
+ 「改修工廠」で装備の改修強化に努めよ！ 
+ Daily Equipment Modernisation 
+ Perform equipment modernisation once
+KCV: 620 
+ 精鋭「艦攻」部隊の編成 
+ 要「熟練搭乗員」任務：第一艦隊旗艦に練度max「九七式艦攻」搭載空母を配備した状態で、「九七式艦攻」x2を廃棄せよ！
+KCV: 621 
+ 精鋭「艦爆」部隊の編成 
+ 要「熟練搭乗員」任務：第一艦隊旗艦に練度max「九九式艦爆」搭載空母を配備した状態で、「九九式艦爆」x2を廃棄せよ！
+KC: 614 KCV: 622 
+ 機種転換 
+ 「九七式艦攻(村田隊)」搭載「翔鶴」を第一艦隊旗艦にした状態で、新たに「天山」を2つ廃棄せよ！ 
+ Model Conversion (Murata Squadron to Tenzan) 
+ Have Shoukaku equipped with Type 97 Torpedo Bomber (Murata Squadron) as flagship and then scrap 2 Tenzan (Heavenly Mountain)
+KC: 623 KCV: 623 
+ 精鋭「九七式艦攻」部隊の編成 
+ 「翔鶴」または「赤城」を第一艦隊旗艦にした状態で、新たに「九七式艦攻」を3つ廃棄せよ！ 
+ Organize the Elite Type 97 Torpedo Bomber Force 
+ Have Shoukaku or Akagi as flagship and then scrap 3 Type 97 Torpedo Bomber
+KC: 624 KCV: 624 
+ 試作艤装の準備 
+ 「工廠」で装備アイテムを7つ「廃棄」して、「試製甲板カタパルト」を準備せよ！ 
+ Preparation of the Prototype Equipment 
+ Scrap equipment 7 times
+KC: 626 KCV: 625 
+ 精鋭「艦戦」隊の新編成 
+ 要「熟練搭乗員」任務：練度max「零戦21型」搭載「鳳翔」を第一艦隊旗艦に配備し、「零戦21型」x2「九六艦戦」x1廃棄せよ！ 
+ Reorganisation of the elite fighter squad 
+ Have Skilled Crew Member, Equip Rank 7 Type 0 Fighter Model 21 on Houshou Secretary, then scrap 2 Type 0 Fighter Model 21 and a Type 96 Fighter
+KC: 614 KCV: 626 
+ 機種転換 
+ 「零戦21型(熟練)」搭載空母を第一艦隊旗艦に配備した状態で、新たに「零戦52型」を2つ廃棄せよ！ 
+ Reorganisation of the elite fighter squad 
+ Have Skilled Crew Member, Equip Rank 7 Type 0 Fighter Model 21 on Houshou Secretary, then scrap 2 Type 0 Fighter Model 21 and a Type 96 Fighter
+KCV: 627 
+ 新型「艦戦」の改良 
+ 第一艦隊旗艦に練度max「烈風」搭載空母を配備した状態で、「烈風」x1「零戦52型」x1を廃棄せよ！
+KCV: 628 
+ 精鋭「新型瑞雲」部隊の編成 
+ 第一艦隊旗艦に練度max「瑞雲(六三四空)」搭載艦を配備した状態で、「瑞雲12型」x1「瑞雲」x2を廃棄せよ！
+KC: 701 KCV: 701 
+ はじめての「近代化改修」！ 
+ 任意の艦を近代化改修して、能力を強化せよ！ 
+ First Modernization 
+ Perform a successful modernization
+KCV: 702 
+ 「近代化改修」を実施せよ！ 
+ 近代化改修を実施して、今月中に2回以上これを成功させよ！
+KC: 703 KCV: 703 
+ 「近代化改修」を進め、戦備を整えよ！ 
+ 近代化改修を継続実施し、今月中に10回改修を成功させよ！ 
+ Weekly Modernization 
+ (Weekly) Perform 15 successful modernizations
+KC: 704 KCV: 704 
+ 「大型艦建造」の準備！(その壱) 
+ 大型艦/新型艦建造のための準備を行う。任意の艦で近代化改修を4回成功させよ！ 
+ Preparation for LSC (Part 1) 
+ Perform 4 successful modernizations
+Saving changes shown above to : en/Xml/tables/mastermst_quest.xml
+Changes compiled. To start over, replace the `Xml/` folder in `en/` with the one from `jp/`.

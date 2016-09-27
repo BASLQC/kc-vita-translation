@@ -10,6 +10,57 @@ Because not all Kancolle Vita quests correspond to the original game, some quest
 
 However, we should figure out which quest numbers are the same as the original game anyhow, since kc3 has multilingual translations that can be applied to much of them.
 
+* 157-159
+* 170-171
+* 204
+* 209 - 210
+* 215-218
+* 229
+* 234 - 239
+* 244
+* 252
+* 260
+* 264
+* 267
+* 275
+* 279 - 285
+* 290 - 292
+* 297 - 298
+* 302 - 305
+* 307
+* 310 - 312
+* 314 - 319
+* 402 - 404
+* 407
+* 411 - 414
+* 416
+* 420-423
+* 502
+* 607 - 608
+* 620 - 621
+* 627 - 628
+* 702
+
+### Discrepancies
+
+We may need to manually set these ones. Most of them have the same titles though, and the details only need minor changes.
+
+* 211-214 - mission changed? reduced amount
+* 217 - Description says to sink 2 ships?
+* 220 - Reference to weeks removed? Changed to 1 month
+* 223-227, 231-233, 240-243, 245-259, 261, 263, 265-266, 268-274, 276-278, 286-289, 293-296, 410, 417-419 - World number may be different, ensure that the correct one is represented in the task.
+* 405-409, 415 - Can't be sure it's expedition 30 for submarine 
+* 309 - Description sort of different
+* 313 - Description sort of different
+* 502-504 - Repair amount increased
+* 610-611 - Scrap 1 more time than normal
+* 703 - Amount decreased from 15 to 10
+
+### Not Sure
+
+* 220 - 221
+* 625 - Very slight differences
+
 ## Untranslated Ship Quotes
 
 For the most part these are Kai/Kai Ni with no translation needed. In order to obtain the ship info, we should probably turn Ship name + ID into a hash table, and find the ID related to the base ship name, and use the attributes from there.
@@ -36,6 +87,8 @@ Some critical components are already translated by KC3, so compile those transla
     * `dict['mst_stype_data']['mst_stype'][0]` - Corresponds to ID 1. stype.json has an empty string in 0, so the equivalent is `stype[1]`, `index + 1`.
   * `mst_shiptext.xml` (Done) - Ship description and get message. The items are sorted by ship ID. `Quotes.json` has message ID `1` as get message and `25` as ship info.
     * `dict['mst_shiptext_data']['mst_shiptext'][0]['Id']` - The IDs from `ships.json` from KC3 can be used toward this: the ship names in Unicode can be used as dict keys, and regex replace.
+  * `mst_quest.xml`: Quest information. This differs from normal Kantai Collection by a small but significant amount due to the lack of daily operations, so you willneed to scrape from the wiki. Category number in XML corresponds A-G to 1-7.
+    * `dict['mst_quest_data']['mst_quest'][0]` - Disregard the index, just match `Id` to `quests.json` and get the corresponding data from there. (`Name` -> `"name"`, `Details` -> `"desc"`)
 
 ## Translate from other Sources (Essential)
 
@@ -54,8 +107,6 @@ Other components aren't translated by KC3, so we will have to look elsewhere (su
   * `mst_useitemtext.xml` - Consumable item descriptions.
   * `mst_mapenemy/` - Folder with all the enemies of the certain map. as `<Deck Name>`.
   * `mst_slotitem_equiptype.xml` - Equipment types. Can't use KC3's `equiptype.json`, since it doesn't correspond correctly...
-  * `mst_quest.xml`: Quest information. This differs from normal Kantai Collection by a small but significant amount due to the lack of daily operations, so you willneed to scrape from the wiki. Category number in XML corresponds A-G to 1-7.
-    * `dict['mst_quest_data']['mst_quest'][0]` - Disregard the index, just match `Id` to `quests.json` and get the corresponding data from there. (`Name` -> `"name"`, `Details` -> `"desc"`)
 
 ## Translate from other Sources (Non-Essential)
 
