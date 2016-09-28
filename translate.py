@@ -226,6 +226,14 @@ def quotes():
 			item['Getmes'] = datalist['147']['1'] # retain original getmessage
 			item['Sinfo'] = datalist['35']['25']
 			continue
+		if (item['Id'] == '177'): # Prinz Eugen (not easily found due to space)
+			item['Getmes'] = datalist['176']['1']
+			item['Sinfo'] = datalist['176']['25']
+			continue
+		if (item['Id'] == '353'): # Graf Zeppelin (not easily found due to space)
+			item['Getmes'] = datalist['432']['1'] # retain original getmessage
+			item['Sinfo'] = datalist['432']['25']
+			continue
 		elif (item['Id'] == '357') or (item['Id'] == '463'): # Iowa
 			item['Getmes'] = datalist['440']['1']
 			item['Sinfo'] = datalist['440']['25']
@@ -271,7 +279,7 @@ def quotes():
 #ships()
 #slot_items()
 #quests()
-quest_hash()
+#quest_hash()
 #stype()
-#quotes()
+quotes()
 print("Changes compiled. To start over, replace the `Xml/` folder in `en/` with the one from `jp/`.")

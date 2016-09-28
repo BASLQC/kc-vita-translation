@@ -72,8 +72,8 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>15</Id>
-		<Getmes>Special Type destroyer, Akebono here. Hey! Don't look at me, you shitty admiral!</Getmes>
-		<Sinfo>18th Special Type destroyer, eighth of the Ayanami-class, Akebono. I'm not a sumo wrestler. Remember that. I participated in the first carrier naval battle, the Battle of the Coral Sea. However, I'm a bit uneasy around submarines...</Sinfo>
+		<Getmes>Special-type destroyer, 'Akebono'. Hey! Don't look at me, you shitty Admiral!</Getmes>
+		<Sinfo>Special-type destroyer number 18, eighth of the Ayanami-class, Akebono. I'm not a sumo wrestler. Remember that. I participated in the first naval air battle, the Coral Sea! But, I'm a bit uneasy around subs...</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>16</Id>
@@ -168,7 +168,7 @@
 	<mst_shiptext>
 		<Id>34</Id>
 		<Getmes>I'm Akatsuki! Treat me like the fully-fledged lady I am!</Getmes>
-		<Sinfo>I'm the first of the Special Type III destroyers, Akatsuki. I was based on the Fubuki-class, with improved cruising efficiency and range. I'm the most refined of destroyers! I'm quite the lady, as you can see! I-I really am...!</Sinfo>
+		<Sinfo>I'm the first of the Special Type-III destroyers, Akatsuki. I was based on the Fubuki-class, with improved cruising efficiency and range. I'm the most refined of destroyers! I'm quite the lady, as you can see! I-I really am...!</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>35</Id>
@@ -327,8 +327,8 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>66</Id>
-		<Getmes>Good day. I'm Takao. I'm glad that you seem like an excellent Admiral.</Getmes>
-		<Sinfo>When it comes to heavy cruisers, there's no questioning it— my Takao-class is on top. As a member of Vice-Admiral Kondo's Fourth Division, I participated in many naval battles. Those terribly fierce battles concluded with a struggle to defend Singapore.</Sinfo>
+		<Getmes>Good morning. I'm Takao. It's great that you look like an excellent Admiral.</Getmes>
+		<Sinfo>If you're talking about cruisers, no matter how you look at it, it has to be me, Takao! Attached to Vice Admiral Kondo's fourth fleet, I participated in many naval battles. Overcoming these hard-fought conflicts, I concluded with a diligent defence of Singapore.</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>67</Id>
@@ -377,7 +377,7 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>76</Id>
-		<Getmes>Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... sendin' out carrier planes one after another is right proper for a carrier, ya know! You can count on me!</Getmes>
+		<Getmes>Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... launchin' carrier planes one after another is right proper for a carrier, ya know! You can count on me!</Getmes>
 		<Sinfo>I might be a light aircraft carrier, but I'm a carrier with a distinguished record, ya know? Ah, that Fourth Fleet incident thing, off Iwate? That one was right tough. The waves went and collapsed my bridge... Dang, I just couldn't believe☆ it.</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
@@ -422,8 +422,8 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>85</Id>
-		<Getmes>Is the mic's volume fine? Check. One. Two. ...Alright. Nice to meet you. I'm Kirishima.</Getmes>
-		<Sinfo>Kirishima here. Do you expect me to stand by and lose to the intellect of my sister ship, Haruna? As a domestically-produced fast battleship, I'll fight my hardest! One of the Aegis ships of the modern JMSDF succeeds my name.</Sinfo>
+		<Getmes>Is the microphone's volume good? Check, 1,2... Okay. NIce to meet you, I'm Kirishima.</Getmes>
+		<Sinfo>Kirishima here. I won't lose to my sister ship Haruna's brains! As a domestically-produced fast battleship, I'll work hard! One of the Aegis ships of the modern JMSDF succeeds my name.</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>86</Id>
@@ -447,7 +447,7 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>90</Id>
-		<Getmes>I'm the aircraft carrier, Souryuu. If you're making a carrier task fleet, you can count me in.</Getmes>
+		<Getmes>I'm the aircraft carrier, Souryuu. If you're making a carrier mobile fleet, you can count me in.</Getmes>
 		<Sinfo>I'm the aircraft carrier, Souryuu. Starting from the attack on Pearl Harbor, the crucial battle that opened the war, I participated as an important frontline carrier. Eh? What? Midway? What's that? Is it tasty?</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
@@ -552,13 +552,13 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>111</Id>
-		<Getmes>Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it— I just fight with all my might... see? As long as I still have planes, I won't lose!</Getmes>
-		<Sinfo>Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Task Force along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Task Force was completely annihilated...</Sinfo>
+		<Getmes>Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it— I just fight with all my might... you see? As long as I still have planes, I won't lose!</Getmes>
+		<Sinfo>Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Mobile Fleet along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Mobile Fleet was completely annihilated...</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>112</Id>
-		<Getmes>Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it— I just fight with all my might... see? As long as I still have planes, I won't lose!</Getmes>
-		<Sinfo>Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Task Force along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Task Force was completely annihilated...</Sinfo>
+		<Getmes>Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it— I just fight with all my might... you see? As long as I still have planes, I won't lose!</Getmes>
+		<Sinfo>Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Mobile Fleet along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Mobile Fleet was completely annihilated...</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>113</Id>
@@ -618,7 +618,7 @@
 	<mst_shiptext>
 		<Id>124</Id>
 		<Getmes>I'm Suzuya! What a lively fleet this is. I'll be in your care!</Getmes>
-		<Sinfo>I'm Mogami-class heavy cruiser #3. I was born at the Yokosuka Naval Arsenal. Hmhm♪ See, cruiser names come from rivers, so "Suzuya" comes from the Suzuya river in Sakhalin. Did ya know that?</Sinfo>
+		<Sinfo>I'm Mogami-class heavy cruiser number three. I was born at the Yokosuka Naval Arsenal. Hmhm♪ See, cruiser names come from rivers, so "Suzuya" comes from the Suzuya river in Sakhalin. Did ya know that?</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>125</Id>
@@ -643,7 +643,7 @@
 	<mst_shiptext>
 		<Id>129</Id>
 		<Getmes>I'm Suzuya! What a lively fleet this is. I'll be in your care!</Getmes>
-		<Sinfo>I'm Mogami-class heavy cruiser #3. I was born at the Yokosuka Naval Arsenal. Hmhm♪ See, cruiser names come from rivers, so "Suzuya" comes from the Suzuya river in Sakhalin. Did ya know that?</Sinfo>
+		<Sinfo>I'm Mogami-class heavy cruiser number three. I was born at the Yokosuka Naval Arsenal. Hmhm♪ See, cruiser names come from rivers, so "Suzuya" comes from the Suzuya river in Sakhalin. Did ya know that?</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>130</Id>
@@ -757,8 +757,8 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>152</Id>
-		<Getmes>Is the mic's volume fine? Check. One. Two. ...Alright. Nice to meet you. I'm Kirishima.</Getmes>
-		<Sinfo>Kirishima here. Do you expect me to stand by and lose to the intellect of my sister ship, Haruna? As a domestically-produced fast battleship, I'll fight my hardest! One of the Aegis ships of the modern JMSDF succeeds my name.</Sinfo>
+		<Getmes>Is the microphone's volume good? Check, 1,2... Okay. NIce to meet you, I'm Kirishima.</Getmes>
+		<Sinfo>Kirishima here. I won't lose to my sister ship Haruna's brains! As a domestically-produced fast battleship, I'll work hard! One of the Aegis ships of the modern JMSDF succeeds my name.</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>153</Id>
@@ -782,7 +782,7 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>157</Id>
-		<Getmes>Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... sendin' out carrier planes one after another is right proper for a carrier, ya know! You can count on me!</Getmes>
+		<Getmes>Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... launchin' carrier planes one after another is right proper for a carrier, ya know! You can count on me!</Getmes>
 		<Sinfo>I might be a light aircraft carrier, but I'm a carrier with a distinguished record, ya know? Ah, that Fourth Fleet incident thing, off Iwate? That one was right tough. The waves went and collapsed my bridge... Dang, I just couldn't believe☆ it.</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
@@ -872,18 +872,18 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>175</Id>
-		<Getmes>Guten tag. I am the destroyer Max Schultz, but "Max" is good enough. My regards.</Getmes>
-		<Sinfo>German 1934 Plan-class destroyer, third ship in the series. I was designed to have high survivability, but... my new model of turbine had a small maintenance defect. This time... I shall be alright.</Sinfo>
+		<Getmes>Good day. I am the Destroyer Max Schultz. But, Max is fine. Pleased to meet you.</Getmes>
+		<Sinfo>Zerstörer 1934 program, third ship. I was designed with good survivability, but... these new turbines have a small issue with maintenance. This time... I shall be alright.</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>176</Id>
-		<Getmes>Guten morgen! I'm the heavy cruiser, Prinz Eugen. I'm in your care!</Getmes>
+		<Getmes>Guten morgen! I'm the heavy cruiser, Prinz Eugen. Take care!</Getmes>
 		<Sinfo>Woah! You startled me! Ah... I am the German-born heavy cruiser, Prinz Eugen. Admiral Hipper-class, third ship. Along with Bismarck onee-sama, I took part in Operation Rheinübung. A lucky ship... ...me? I'll be fighting in this sea, too!</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>177</Id>
-		<Getmes>Guten morgen! I'm the heavy cruiser, Prinz Eugen. I'm in your care!</Getmes>
-		<Sinfo>Woah! You startled me! Ah... I am the German-born heavy cruiser, Prinz Eugen. Admiral Hipper-class, third ship. Along with Bismarck onee-sama, I took part in Operation Rheinübung. A lucky ship... ...me? I'll be fighting in this sea, too!</Sinfo>
+		<Getmes>Guten Morgen！\n私は、重巡プリンツ・オイゲン。よろしくね！</Getmes>
+		<Sinfo>わ！びっくりした！\n私、ドイツ生まれの重巡、プリンツ・オイゲン。\nアドミラル・ヒッパー級3番艦です。\nビスマルク姉さんとライン演習作戦に参加しました。\n幸運艦…そう？　この海でも戦い抜きます！</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>178</Id>
@@ -897,8 +897,8 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>180</Id>
-		<Getmes>Guten tag. I am the destroyer Max Schultz, but "Max" is good enough. My regards.</Getmes>
-		<Sinfo>German 1934 Plan-class destroyer, third ship in the series. I was designed to have high survivability, but... my new model of turbine had a small maintenance defect. This time... I shall be alright.</Sinfo>
+		<Getmes>Good day. I am the Destroyer Max Schultz. But, Max is fine. Pleased to meet you.</Getmes>
+		<Sinfo>Zerstörer 1934 program, third ship. I was designed with good survivability, but... these new turbines have a small issue with maintenance. This time... I shall be alright.</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>181</Id>
@@ -982,7 +982,7 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>197</Id>
-		<Getmes>I'm the aircraft carrier, Souryuu. If you're making a carrier task fleet, you can count me in.</Getmes>
+		<Getmes>I'm the aircraft carrier, Souryuu. If you're making a carrier mobile fleet, you can count me in.</Getmes>
 		<Sinfo>I'm the aircraft carrier, Souryuu. Starting from the attack on Pearl Harbor, the crucial battle that opened the war, I participated as an important frontline carrier. Eh? What? Midway? What's that? Is it tasty?</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
@@ -1047,8 +1047,8 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>212</Id>
-		<Getmes>Is the mic's volume fine? Check. One. Two. ...Alright. Nice to meet you. I'm Kirishima.</Getmes>
-		<Sinfo>Kirishima here. Do you expect me to stand by and lose to the intellect of my sister ship, Haruna? As a domestically-produced fast battleship, I'll fight my hardest! One of the Aegis ships of the modern JMSDF succeeds my name.</Sinfo>
+		<Getmes>Is the microphone's volume good? Check, 1,2... Okay. NIce to meet you, I'm Kirishima.</Getmes>
+		<Sinfo>Kirishima here. I won't lose to my sister ship Haruna's brains! As a domestically-produced fast battleship, I'll work hard! One of the Aegis ships of the modern JMSDF succeeds my name.</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>213</Id>
@@ -1142,8 +1142,8 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>231</Id>
-		<Getmes>Special Type destroyer, Akebono here. Hey! Don't look at me, you shitty admiral!</Getmes>
-		<Sinfo>18th Special Type destroyer, eighth of the Ayanami-class, Akebono. I'm not a sumo wrestler. Remember that. I participated in the first carrier naval battle, the Battle of the Coral Sea. However, I'm a bit uneasy around submarines...</Sinfo>
+		<Getmes>Special-type destroyer, 'Akebono'. Hey! Don't look at me, you shitty Admiral!</Getmes>
+		<Sinfo>Special-type destroyer number 18, eighth of the Ayanami-class, Akebono. I'm not a sumo wrestler. Remember that. I participated in the first naval air battle, the Coral Sea! But, I'm a bit uneasy around subs...</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>232</Id>
@@ -1158,7 +1158,7 @@
 	<mst_shiptext>
 		<Id>234</Id>
 		<Getmes>I'm Akatsuki! Treat me like the fully-fledged lady I am!</Getmes>
-		<Sinfo>I'm the first of the Special Type III destroyers, Akatsuki. I was based on the Fubuki-class, with improved cruising efficiency and range. I'm the most refined of destroyers! I'm quite the lady, as you can see! I-I really am...!</Sinfo>
+		<Sinfo>I'm the first of the Special Type-III destroyers, Akatsuki. I was based on the Fubuki-class, with improved cruising efficiency and range. I'm the most refined of destroyers! I'm quite the lady, as you can see! I-I really am...!</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>235</Id>
@@ -1332,8 +1332,8 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>269</Id>
-		<Getmes>Good day. I'm Takao. I'm glad that you seem like an excellent Admiral.</Getmes>
-		<Sinfo>When it comes to heavy cruisers, there's no questioning it— my Takao-class is on top. As a member of Vice-Admiral Kondo's Fourth Division, I participated in many naval battles. Those terribly fierce battles concluded with a struggle to defend Singapore.</Sinfo>
+		<Getmes>Good morning. I'm Takao. It's great that you look like an excellent Admiral.</Getmes>
+		<Sinfo>If you're talking about cruisers, no matter how you look at it, it has to be me, Takao! Attached to Vice Admiral Kondo's fourth fleet, I participated in many naval battles. Overcoming these hard-fought conflicts, I concluded with a diligent defence of Singapore.</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>270</Id>
@@ -1382,7 +1382,7 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>279</Id>
-		<Getmes>I'm the aircraft carrier, Souryuu. If you're making a carrier task fleet, you can count me in.</Getmes>
+		<Getmes>I'm the aircraft carrier, Souryuu. If you're making a carrier mobile fleet, you can count me in.</Getmes>
 		<Sinfo>I'm the aircraft carrier, Souryuu. Starting from the attack on Pearl Harbor, the crucial battle that opened the war, I participated as an important frontline carrier. Eh? What? Midway? What's that? Is it tasty?</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
@@ -1392,7 +1392,7 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>281</Id>
-		<Getmes>Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... sendin' out carrier planes one after another is right proper for a carrier, ya know! You can count on me!</Getmes>
+		<Getmes>Light aircraft carrier, Ryuujou! Ain't my silhouette distinctive? Actually... launchin' carrier planes one after another is right proper for a carrier, ya know! You can count on me!</Getmes>
 		<Sinfo>I might be a light aircraft carrier, but I'm a carrier with a distinguished record, ya know? Ah, that Fourth Fleet incident thing, off Iwate? That one was right tough. The waves went and collapsed my bridge... Dang, I just couldn't believe☆ it.</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
@@ -1532,8 +1532,8 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>311</Id>
-		<Getmes>Guten tag. I am the destroyer Max Schultz, but "Max" is good enough. My regards.</Getmes>
-		<Sinfo>German 1934 Plan-class destroyer, third ship in the series. I was designed to have high survivability, but... my new model of turbine had a small maintenance defect. This time... I shall be alright.</Sinfo>
+		<Getmes>Good day. I am the Destroyer Max Schultz. But, Max is fine. Pleased to meet you.</Getmes>
+		<Sinfo>Zerstörer 1934 program, third ship. I was designed with good survivability, but... these new turbines have a small issue with maintenance. This time... I shall be alright.</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>312</Id>
@@ -1742,8 +1742,8 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>353</Id>
-		<Getmes>Guten Morgen. I am the aircraft carrier, Graf Zeppelin. You are the admiral overseeing this fleet, yes? Is that so? Roger.</Getmes>
-		<Sinfo>First of the Graf Zeppelin-class carriers, Graf Zeppelin. Capable of undertaking three-dimensional commerce raiding, I am a heavily armed and full-scale carrier. It seems that the technology used in the Japanese carrier, Akagi, was also referenced in my construction. A Japanese fleet, huh. I'm looking forward to it.</Sinfo>
+		<Getmes>Guten morgen. Aircraft carrier Graf Zeppelin, reporting for duty. Admiral, I shall rely on you for today.</Getmes>
+		<Sinfo>Graf Zeppelin級航空母艦一番艦、Graf Zeppelinだ。立体的な通商破壊戦を展開できる重武装の本格空母だ。建造には日本の空母「赤城」の技術も参考にしたらしい。日本の艦隊…か……楽しみだな。</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>354</Id>
@@ -1963,7 +1963,7 @@
 	<mst_shiptext>
 		<Id>437</Id>
 		<Getmes>I'm Akatsuki! Treat me like the fully-fledged lady I am!</Getmes>
-		<Sinfo>I'm the first of the Special Type III destroyers, Akatsuki. I was based on the Fubuki-class, with improved cruising efficiency and range. I'm the most refined of destroyers! I'm quite the lady, as you can see! I-I really am...!</Sinfo>
+		<Sinfo>I'm the first of the Special Type-III destroyers, Akatsuki. I was based on the Fubuki-class, with improved cruising efficiency and range. I'm the most refined of destroyers! I'm quite the lady, as you can see! I-I really am...!</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>438</Id>
@@ -2088,7 +2088,7 @@
 	<mst_shiptext>
 		<Id>462</Id>
 		<Getmes>The carrier whose rigging was completely modernized, Zuikaki here. Don't confuse me for your average aircraft carrier!</Getmes>
-		<Sinfo>Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Task Force along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Task Force was completely annihilated... ...However, this time will be different! I will show you the strength and potential of a fully remodeled aircraft carrier! Shoukaku-nee, let's do this!</Sinfo>
+		<Sinfo>Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Mobile Fleet along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Mobile Fleet was completely annihilated. ...However, this time will be different! I will show you the strength and potential of a fully remodeled aircraft carrier! Shoukaku-nee, let's do this!</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>463</Id>
@@ -2112,8 +2112,8 @@
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>467</Id>
-		<Getmes>Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it— I just fight with all my might... see? As long as I still have planes, I won't lose!</Getmes>
-		<Sinfo>Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Task Force along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Task Force was completely annihilated...</Sinfo>
+		<Getmes>Second of the Shoukaku-class aircraft carriers, the younger sister, Zuikaku. The lucky carrier, you say? That's not it— I just fight with all my might... you see? As long as I still have planes, I won't lose!</Getmes>
+		<Sinfo>Second of the Shoukaku-class aircraft carriers, Zuikaku. Following the battle of Midway, I occupied a core position in the First Mobile Fleet along with Shoukaku-nee. I fought until the very last arrow was fired... which was literally the day the Mobile Fleet was completely annihilated...</Sinfo>
 	</mst_shiptext>
 	<mst_shiptext>
 		<Id>501</Id>
