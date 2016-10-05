@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_bgm_jukebox_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_bgm_jukebox>
+	<Jukebox_record>1,Our Bond with the Admiral,Short Version,201,300,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>2,On the Dawn's Horizon,Short Version,202,300,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>3,The Splendid Second Torpedo Squadron,Short Version,203,300,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>4,Morning at the Naval Base,Short Version,204,300,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>5,Autumn Moon in the Sky,Can be set for homeport BGM,205,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>6,Home Port,Can be set for homeport BGM,101,100,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>7,Akashi's Armory,Can be set for homeport BGM,206,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>8,Sortie the Combined Fleet,Can be set for homeport BGM,210,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>9,Marine Escort Warfare,Can be set for homeport BGM,208,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>10,Winter's Ship,Can be set for homeport BGM,211,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>11,New Year Greetings from the Naval District,Can be set for homeport BGM,108,1000,1,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>12,Grace of the Bushi's Soul,Can be set for homeport BGM,213,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>13,Special-type Destroyer,Can be set for homeport BGM,214,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>14,Candy-making by the Shipgirls,Can be set for homeport BGM,111,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>15,Hinamatsuri and the Shipgirls,Can be set for homeport BGM,112,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>16,Musashi's Return,Can be set for homeport BGM,106,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>17,The Sound of Rain at the Navy Base,Can be set for homeport BGM,114,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>18,Rain, Sake and Shipgirls,Can be set for homeport BGM,115,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>19,On the Dawn's Horizon,Long Version,220,700,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>20,Morning at the Naval Base,Long Version,221,700,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>21,The Splendid Second Torpedo Squadron,Long Version,222,700,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>22,Our Bond with the Admiral,Long Version,223,700,0,1</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>23,Shipgirls on the Beach,Can be set for homeport BGM,116,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>24,Kaga Cape,Experimental new song early release,225,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>25,Kage Cape Kai (Home Port ver.),Homeport BGM version of Kaga Cape,117,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>26,Autumn Festival at the Naval Base,Can be set for homeport BGM,118,1000,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+<mst_bgm_jukebox>
+	<Jukebox_record>27,Home Port on Christmas Eve,Can be set for homeport BGM,119,1500,1,2</Jukebox_record>
+</mst_bgm_jukebox>
+</mst_bgm_jukebox_data>

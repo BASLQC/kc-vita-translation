@@ -1,0 +1,3159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_furniture_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_furniture>
+	<Id>1</Id>
+	<Type>0</Type>
+	<No>0</No>
+	<Title>Naval district standard floor</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>2</Id>
+	<Type>0</Type>
+	<No>1</No>
+	<Title>Natural floor</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>50</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>3</Id>
+	<Type>0</Type>
+	<No>2</No>
+	<Title>Spring floor with cherry blossom design</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1700</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>4</Id>
+	<Type>0</Type>
+	<No>3</No>
+	<Title>Fresh green floor</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1300</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>5</Id>
+	<Type>0</Type>
+	<No>4</No>
+	<Title>High-grade floor</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>100</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>6</Id>
+	<Type>0</Type>
+	<No>5</No>
+	<Title>Sandy beach floor</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>7</Id>
+	<Type>0</Type>
+	<No>6</No>
+	<Title>Blue carpet</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>150</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>8</Id>
+	<Type>0</Type>
+	<No>7</No>
+	<Title>Bright wood tile floor</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>9</Id>
+	<Type>0</Type>
+	<No>8</No>
+	<Title>White tile floor</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>150</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>10</Id>
+	<Type>0</Type>
+	<No>9</No>
+	<Title>Dark-colored wood tile floor</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>11</Id>
+	<Type>0</Type>
+	<No>10</No>
+	<Title>Black tile floor</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>12</Id>
+	<Type>0</Type>
+	<No>11</No>
+	<Title>Carpet with floral pattern</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>13</Id>
+	<Type>0</Type>
+	<No>12</No>
+	<Title>Carpet with blue floral pattern</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>14</Id>
+	<Type>0</Type>
+	<No>13</No>
+	<Title>Sakura flooring</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>20000</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>15</Id>
+	<Type>0</Type>
+	<No>14</No>
+	<Title>Carpet with purple floral pattern</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>16</Id>
+	<Type>0</Type>
+	<No>15</No>
+	<Title>Modern floor</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>17</Id>
+	<Type>0</Type>
+	<No>16</No>
+	<Title>Pink floor</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>1200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>18</Id>
+	<Type>0</Type>
+	<No>17</No>
+	<Title>Ethnic mat</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>19</Id>
+	<Type>0</Type>
+	<No>18</No>
+	<Title>Feminine mat</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>20</Id>
+	<Type>0</Type>
+	<No>19</No>
+	<Title>European carpet</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>300</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>21</Id>
+	<Type>0</Type>
+	<No>20</No>
+	<Title>High-grade crimson carpet</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>800</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>22</Id>
+	<Type>0</Type>
+	<No>21</No>
+	<Title>Fluffy pure white carpet</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1500</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>23</Id>
+	<Type>0</Type>
+	<No>22</No>
+	<Title>Snowfield floor</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>3300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>24</Id>
+	<Type>0</Type>
+	<No>23</No>
+	<Title>Spring scenery flooring</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1500</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>25</Id>
+	<Type>0</Type>
+	<No>24</No>
+	<Title>Green tatami</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>500</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>26</Id>
+	<Type>0</Type>
+	<No>25</No>
+	<Title>High quality white marble flooring</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>2200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>27</Id>
+	<Type>0</Type>
+	<No>26</No>
+	<Title>Vermilion floor</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>28</Id>
+	<Type>0</Type>
+	<No>27</No>
+	<Title>Pure blue floor</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>29</Id>
+	<Type>0</Type>
+	<No>28</No>
+	<Title>Green floor</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>30</Id>
+	<Type>0</Type>
+	<No>29</No>
+	<Title>Yellow-green floor</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>31</Id>
+	<Type>0</Type>
+	<No>30</No>
+	<Title>Carrier flight deck</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1900</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>32</Id>
+	<Type>0</Type>
+	<No>31</No>
+	<Title>Camping set: Futon</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>33</Id>
+	<Type>0</Type>
+	<No>32</No>
+	<Title>Concrete floor</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>34</Id>
+	<Type>0</Type>
+	<No>33</No>
+	<Title>Graffiti floor</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>400</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>35</Id>
+	<Type>0</Type>
+	<No>34</No>
+	<Title>Floor with battleship-motif tiles</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>450</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>36</Id>
+	<Type>0</Type>
+	<No>35</No>
+	<Title>Vivid green tatami</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>37</Id>
+	<Type>0</Type>
+	<No>36</No>
+	<Title>Grassy tatami</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>700</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>38</Id>
+	<Type>1</Type>
+	<No>0</No>
+	<Title>Common wallpaper</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>39</Id>
+	<Type>1</Type>
+	<No>1</No>
+	<Title>Inexpensive wallpaper</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>50</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>40</Id>
+	<Type>1</Type>
+	<No>2</No>
+	<Title>Japanese-style simple wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>41</Id>
+	<Type>1</Type>
+	<No>3</No>
+	<Title>Green wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>250</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>42</Id>
+	<Type>1</Type>
+	<No>4</No>
+	<Title>Spring-themed wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>1000</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>43</Id>
+	<Type>1</Type>
+	<No>5</No>
+	<Title>Showa retro wallpaper</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>44</Id>
+	<Type>1</Type>
+	<No>6</No>
+	<Title>Chocolate wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>550</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>45</Id>
+	<Type>1</Type>
+	<No>7</No>
+	<Title>Pop wallpaper</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>100</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>46</Id>
+	<Type>1</Type>
+	<No>8</No>
+	<Title>Candy-making wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>700</Price>
+	<Season>15</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>47</Id>
+	<Type>1</Type>
+	<No>9</No>
+	<Title>High-grade Japanese-style wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>700</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>48</Id>
+	<Type>1</Type>
+	<No>10</No>
+	<Title>Furniture craftsman's wallpaper</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>49</Id>
+	<Type>1</Type>
+	<No>11</No>
+	<Title>Autumn-themed wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>1000</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>50</Id>
+	<Type>1</Type>
+	<No>12</No>
+	<Title>Simple modern wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>51</Id>
+	<Type>1</Type>
+	<No>13</No>
+	<Title>Battleship-style dark grey wall</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>900</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>52</Id>
+	<Type>1</Type>
+	<No>14</No>
+	<Title>White winter wallpaper</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1200</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>53</Id>
+	<Type>1</Type>
+	<No>15</No>
+	<Title>Blue wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>54</Id>
+	<Type>1</Type>
+	<No>16</No>
+	<Title>High-quality red brick wall</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1900</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>55</Id>
+	<Type>1</Type>
+	<No>17</No>
+	<Title>Wallpaper with plaid and leaf motif</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>300</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>56</Id>
+	<Type>1</Type>
+	<No>18</No>
+	<Title>Wooden board wall</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>1000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>57</Id>
+	<Type>1</Type>
+	<No>19</No>
+	<Title>High-quality wood wall</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>2200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>58</Id>
+	<Type>1</Type>
+	<No>20</No>
+	<Title>Wallpaper with origami crane motif</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1500</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>59</Id>
+	<Type>1</Type>
+	<No>21</No>
+	<Title>Japanese-style green wallpaper</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1400</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>60</Id>
+	<Type>1</Type>
+	<No>22</No>
+	<Title>Fresh green wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>900</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>61</Id>
+	<Type>1</Type>
+	<No>23</No>
+	<Title>Pink dot wallpaper</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>400</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>62</Id>
+	<Type>1</Type>
+	<No>24</No>
+	<Title>Blue dot wallpaper</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>63</Id>
+	<Type>1</Type>
+	<No>25</No>
+	<Title>Modern Winter art wallpaper</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>750</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>64</Id>
+	<Type>1</Type>
+	<No>26</No>
+	<Title>Modern Japanese art wallpaper</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>750</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>65</Id>
+	<Type>1</Type>
+	<No>27</No>
+	<Title>Hinamatsuri wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>330</Price>
+	<Season>16</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>66</Id>
+	<Type>1</Type>
+	<No>28</No>
+	<Title>Serene wallpaper</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>67</Id>
+	<Type>1</Type>
+	<No>29</No>
+	<Title>New Year wallpaper</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1800</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>68</Id>
+	<Type>1</Type>
+	<No>30</No>
+	<Title>Concrete wall</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>69</Id>
+	<Type>1</Type>
+	<No>31</No>
+	<Title>Pink concrete wall</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>250</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>70</Id>
+	<Type>1</Type>
+	<No>32</No>
+	<Title>Dragon wallpaper</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>20000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>71</Id>
+	<Type>1</Type>
+	<No>33</No>
+	<Title>Autumn leaves wallpaper</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>20000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>72</Id>
+	<Type>2</Type>
+	<No>0</No>
+	<Title>Window with red curtain</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>73</Id>
+	<Type>2</Type>
+	<No>1</No>
+	<Title>Window with green curtain</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>50</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>74</Id>
+	<Type>2</Type>
+	<No>2</No>
+	<Title>Window with blue curtain</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>100</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>75</Id>
+	<Type>2</Type>
+	<No>3</No>
+	<Title>Naval district's New Year decoration</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>76</Id>
+	<Type>2</Type>
+	<No>4</No>
+	<Title>Hamaya window</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2200</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>77</Id>
+	<Type>2</Type>
+	<No>5</No>
+	<Title>Slightly gorgeous window</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>78</Id>
+	<Type>2</Type>
+	<No>6</No>
+	<Title>Late Autumn high-grade Japanese-style window</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1980</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>79</Id>
+	<Type>2</Type>
+	<No>7</No>
+	<Title>Elegant large blue window</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>350</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>80</Id>
+	<Type>2</Type>
+	<No>8</No>
+	<Title>Wide-open large window</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>81</Id>
+	<Type>2</Type>
+	<No>9</No>
+	<Title>Small window with white curtain</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>330</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>82</Id>
+	<Type>2</Type>
+	<No>10</No>
+	<Title>Lovely small window</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>3300</Price>
+	<Season>16</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>83</Id>
+	<Type>2</Type>
+	<No>11</No>
+	<Title>Clear window</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>84</Id>
+	<Type>2</Type>
+	<No>12</No>
+	<Title>Window with Teru teru bōzu dolls</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>85</Id>
+	<Type>2</Type>
+	<No>13</No>
+	<Title>Window with hydrangeas</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1800</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>86</Id>
+	<Type>2</Type>
+	<No>14</No>
+	<Title>Cherry blossom-viewing window</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>3000</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>87</Id>
+	<Type>2</Type>
+	<No>15</No>
+	<Title>Iron-barred window</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>1700</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>88</Id>
+	<Type>2</Type>
+	<No>16</No>
+	<Title>Moon-viewing window</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>1200</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>89</Id>
+	<Type>2</Type>
+	<No>17</No>
+	<Title>Air raid resistant window</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1800</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>90</Id>
+	<Type>2</Type>
+	<No>18</No>
+	<Title>Deluxe shoji</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>1900</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>91</Id>
+	<Type>2</Type>
+	<No>19</No>
+	<Title>Simple window frame</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>100</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>92</Id>
+	<Type>2</Type>
+	<No>20</No>
+	<Title>Simple window frame no.2</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>93</Id>
+	<Type>2</Type>
+	<No>21</No>
+	<Title>Gorgeous moon-viewing window</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2200</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>94</Id>
+	<Type>2</Type>
+	<No>22</No>
+	<Title>Window with simple bamboo blind</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>350</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>95</Id>
+	<Type>2</Type>
+	<No>23</No>
+	<Title>Window with bamboo blind</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>250</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>96</Id>
+	<Type>2</Type>
+	<No>24</No>
+	<Title>Old-fashioned frosted glass</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>400</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>97</Id>
+	<Type>2</Type>
+	<No>25</No>
+	<Title>Winter window decorated by fleet girls</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1300</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>98</Id>
+	<Type>2</Type>
+	<No>26</No>
+	<Title>Winter stained glass</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2220</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>99</Id>
+	<Type>2</Type>
+	<No>27</No>
+	<Title>Stylish barred window</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>550</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>100</Id>
+	<Type>2</Type>
+	<No>28</No>
+	<Title>Shoji</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>800</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>101</Id>
+	<Type>2</Type>
+	<No>29</No>
+	<Title>Sakura high-grade window</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>102</Id>
+	<Type>3</Type>
+	<No>0</No>
+	<Title>Nothing</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>103</Id>
+	<Type>3</Type>
+	<No>1</No>
+	<Title>Old wall clock</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>150</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>104</Id>
+	<Type>3</Type>
+	<No>2</No>
+	<Title>Apology Scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>105</Id>
+	<Type>3</Type>
+	<No>3</No>
+	<Title>Stained glass screen</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>500</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>106</Id>
+	<Type>3</Type>
+	<No>4</No>
+	<Title>Deer objet d'art</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>107</Id>
+	<Type>3</Type>
+	<No>5</No>
+	<Title>"Marine guarding" scroll</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>108</Id>
+	<Type>3</Type>
+	<No>6</No>
+	<Title>Flower painting</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>100</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>109</Id>
+	<Type>3</Type>
+	<No>7</No>
+	<Title>"Thanks to 200,000" scroll</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>110</Id>
+	<Type>3</Type>
+	<No>8</No>
+	<Title>"Thanks to 1,000,000" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>111</Id>
+	<Type>3</Type>
+	<No>9</No>
+	<Title>Gentleman hat rack</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>112</Id>
+	<Type>3</Type>
+	<No>10</No>
+	<Title>"Night battle" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1100</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>113</Id>
+	<Type>3</Type>
+	<No>11</No>
+	<Title>"Thanks to 500,000" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>114</Id>
+	<Type>3</Type>
+	<No>12</No>
+	<Title>"Happy new year" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>3000</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>115</Id>
+	<Type>3</Type>
+	<No>13</No>
+	<Title>"Thanks to 800,000" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>116</Id>
+	<Type>3</Type>
+	<No>14</No>
+	<Title>Old world map</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>50</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>117</Id>
+	<Type>3</Type>
+	<No>15</No>
+	<Title>"Nanodesu" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>600</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>118</Id>
+	<Type>3</Type>
+	<No>16</No>
+	<Title>"Destroyer Division 6th" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1600</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>119</Id>
+	<Type>3</Type>
+	<No>17</No>
+	<Title>Map with frame</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>120</Id>
+	<Type>3</Type>
+	<No>18</No>
+	<Title>Little foliage plant</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>100</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>121</Id>
+	<Type>3</Type>
+	<No>19</No>
+	<Title>Simple foliage plant</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>122</Id>
+	<Type>3</Type>
+	<No>20</No>
+	<Title>"Maizuru Naval District" scroll</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>123</Id>
+	<Type>3</Type>
+	<No>21</No>
+	<Title>Flower arrangement</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>150</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>124</Id>
+	<Type>3</Type>
+	<No>22</No>
+	<Title>Wall-mounted practice map set</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>125</Id>
+	<Type>3</Type>
+	<No>23</No>
+	<Title>"Thanks to 1,500,000" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>126</Id>
+	<Type>3</Type>
+	<No>24</No>
+	<Title>"Thanks to 1,800,000" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>127</Id>
+	<Type>3</Type>
+	<No>25</No>
+	<Title>"First anniversary" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>128</Id>
+	<Type>3</Type>
+	<No>26</No>
+	<Title>Monster-movie poster</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>129</Id>
+	<Type>3</Type>
+	<No>27</No>
+	<Title>Wall painting of Mt. Fuji</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>1300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>130</Id>
+	<Type>3</Type>
+	<No>28</No>
+	<Title>Battleship movie poster</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>400</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>131</Id>
+	<Type>3</Type>
+	<No>29</No>
+	<Title>Girl poster</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>132</Id>
+	<Type>3</Type>
+	<No>30</No>
+	<Title>Prototype fighter poster</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>1000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>133</Id>
+	<Type>4</Type>
+	<No>0</No>
+	<Title>Nothing</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>134</Id>
+	<Type>4</Type>
+	<No>1</No>
+	<Title>Good old chest</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>135</Id>
+	<Type>4</Type>
+	<No>2</No>
+	<Title>Sideboard</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>136</Id>
+	<Type>4</Type>
+	<No>3</No>
+	<Title>Kimono chest and "fog" ship model</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>137</Id>
+	<Type>4</Type>
+	<No>4</No>
+	<Title>Setsubun "Mamemaki" set</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1300</Price>
+	<Season>12</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>138</Id>
+	<Type>4</Type>
+	<No>5</No>
+	<Title>Fireplace</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>250</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>139</Id>
+	<Type>4</Type>
+	<No>6</No>
+	<Title>Chocolate and tea set</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>15</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>140</Id>
+	<Type>4</Type>
+	<No>7</No>
+	<Title>King doll "Nagato" and Queen doll "Mutsu"</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2000</Price>
+	<Season>16</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>141</Id>
+	<Type>4</Type>
+	<No>8</No>
+	<Title>Elegant board</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>142</Id>
+	<Type>4</Type>
+	<No>9</No>
+	<Title>Christmas tree of the Naval District</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>143</Id>
+	<Type>4</Type>
+	<No>10</No>
+	<Title>Fairytale shelf</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>450</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>144</Id>
+	<Type>4</Type>
+	<No>11</No>
+	<Title>Stove with kettle</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>145</Id>
+	<Type>4</Type>
+	<No>12</No>
+	<Title>Classic shelf</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>300</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>146</Id>
+	<Type>4</Type>
+	<No>13</No>
+	<Title>Kimono chest and Heavy cruiser model</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>6000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>147</Id>
+	<Type>4</Type>
+	<No>14</No>
+	<Title>Kimono chest and "Akagi" model</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>7000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>148</Id>
+	<Type>4</Type>
+	<No>15</No>
+	<Title>Kimono chest and "Nagato" model</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>8000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>149</Id>
+	<Type>4</Type>
+	<No>16</No>
+	<Title>Folding desk</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>150</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>150</Id>
+	<Type>4</Type>
+	<No>17</No>
+	<Title>Hanger rack</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>151</Id>
+	<Type>4</Type>
+	<No>18</No>
+	<Title>Hanger rack</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>100</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>152</Id>
+	<Type>4</Type>
+	<No>19</No>
+	<Title>Dresser</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>600</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>153</Id>
+	<Type>4</Type>
+	<No>20</No>
+	<Title>Shy mask</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>154</Id>
+	<Type>4</Type>
+	<No>21</No>
+	<Title>Fireplace with Z flag</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>155</Id>
+	<Type>4</Type>
+	<No>22</No>
+	<Title>Green planter</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>50</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>156</Id>
+	<Type>4</Type>
+	<No>23</No>
+	<Title>Room-rearranging cleaning instruments set</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>700</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>157</Id>
+	<Type>4</Type>
+	<No>24</No>
+	<Title>Japanese Iris cabinet</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1700</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>158</Id>
+	<Type>4</Type>
+	<No>25</No>
+	<Title>Clinical table set</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1900</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>159</Id>
+	<Type>4</Type>
+	<No>26</No>
+	<Title>Classroom set: Desk</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1500</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>160</Id>
+	<Type>4</Type>
+	<No>27</No>
+	<Title>Kimono chest and "Musashi" model</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>8800</Price>
+	<Season>13</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>161</Id>
+	<Type>4</Type>
+	<No>28</No>
+	<Title>Kimono chest and "Kaga" model</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>7700</Price>
+	<Season>20</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>162</Id>
+	<Type>4</Type>
+	<No>29</No>
+	<Title>Daruma</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>163</Id>
+	<Type>4</Type>
+	<No>30</No>
+	<Title>New born daruma</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>164</Id>
+	<Type>5</Type>
+	<No>0</No>
+	<Title>Common cardboard</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>165</Id>
+	<Type>5</Type>
+	<No>1</No>
+	<Title>Chair</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>100</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>166</Id>
+	<Type>5</Type>
+	<No>2</No>
+	<Title>Mahogany desk</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>167</Id>
+	<Type>5</Type>
+	<No>3</No>
+	<Title>Second-hand desk</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>168</Id>
+	<Type>5</Type>
+	<No>4</No>
+	<Title>Admiral's desk</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>350</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>169</Id>
+	<Type>5</Type>
+	<No>5</No>
+	<Title>Dandy desk</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>170</Id>
+	<Type>5</Type>
+	<No>6</No>
+	<Title>General's desk</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>500</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>171</Id>
+	<Type>5</Type>
+	<No>7</No>
+	<Title>President desk</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>172</Id>
+	<Type>5</Type>
+	<No>8</No>
+	<Title>Stylish chair</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>173</Id>
+	<Type>5</Type>
+	<No>9</No>
+	<Title>Natural chair</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>174</Id>
+	<Type>5</Type>
+	<No>10</No>
+	<Title>Classroom set: Teacher's desk</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>40000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>175</Id>
+	<Type>5</Type>
+	<No>11</No>
+	<Title>Modern chair</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>350</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>176</Id>
+	<Type>5</Type>
+	<No>12</No>
+	<Title>Christmas tree of Destroyer fleet girls</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>3000</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>177</Id>
+	<Type>5</Type>
+	<No>13</No>
+	<Title>Modern table</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>178</Id>
+	<Type>5</Type>
+	<No>14</No>
+	<Title>Low dining table set</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1500</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>179</Id>
+	<Type>5</Type>
+	<No>15</No>
+	<Title>Adult's setsubun set</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2000</Price>
+	<Season>12</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>180</Id>
+	<Type>5</Type>
+	<No>16</No>
+	<Title>Photostudio set</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1800</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>181</Id>
+	<Type>5</Type>
+	<No>17</No>
+	<Title>Prematurely evacuated Kotatsu</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1900</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>182</Id>
+	<Type>5</Type>
+	<No>18</No>
+	<Title>Duvets and pillows</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>183</Id>
+	<Type>5</Type>
+	<No>19</No>
+	<Title>Thin Futon</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>184</Id>
+	<Type>5</Type>
+	<No>20</No>
+	<Title>Tokonoma</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>185</Id>
+	<Type>5</Type>
+	<No>21</No>
+	<Title>Fleet girls' private desk</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>400</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>186</Id>
+	<Type>5</Type>
+	<No>22</No>
+	<Title>Admiral's mahjong table</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1600</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>187</Id>
+	<Type>5</Type>
+	<No>23</No>
+	<Title>Watermelon splitting set</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>1700</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>188</Id>
+	<Type>5</Type>
+	<No>24</No>
+	<Title>High-grade sewing machine</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>4500</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>189</Id>
+	<Type>5</Type>
+	<No>25</No>
+	<Title>Kongou's tea set</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>1900</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>190</Id>
+	<Type>5</Type>
+	<No>26</No>
+	<Title>Delicious looking stool</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>191</Id>
+	<Type>5</Type>
+	<No>27</No>
+	<Title>Little beige wooden chair</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>192</Id>
+	<Type>5</Type>
+	<No>28</No>
+	<Title>Indoor pool</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>193</Id>
+	<Type>5</Type>
+	<No>29</No>
+	<Title>Glass table</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>350</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>194</Id>
+	<Type>5</Type>
+	<No>30</No>
+	<Title>Feminine glass table</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>195</Id>
+	<Type>5</Type>
+	<No>31</No>
+	<Title>Single bed</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>1300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>196</Id>
+	<Type>5</Type>
+	<No>32</No>
+	<Title>Chocolate-bar-shaped desk</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1200</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>197</Id>
+	<Type>5</Type>
+	<No>33</No>
+	<Title>Futon and pillow</Title>
+	<Description />
+	<Rarity>1</Rarity>
+	<Price>50</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>198</Id>
+	<Type>5</Type>
+	<No>34</No>
+	<Title>"Woody" mahogany desk</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>199</Id>
+	<Type>5</Type>
+	<No>35</No>
+	<Title>Hinoki wood hot spring bath</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>200</Id>
+	<Type>5</Type>
+	<No>36</No>
+	<Title>Dinner of turkey</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>3000</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>201</Id>
+	<Type>5</Type>
+	<No>37</No>
+	<Title>Gorgeous Hina-ningyou doll set with 4-step stand</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>3300</Price>
+	<Season>16</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>202</Id>
+	<Type>5</Type>
+	<No>38</No>
+	<Title>Nothing</Title>
+	<Description />
+	<Rarity>0</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>203</Id>
+	<Type>3</Type>
+	<No>31</No>
+	<Title>Classroom Set: Blackboard</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>20000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>204</Id>
+	<Type>3</Type>
+	<No>32</No>
+	<Title>"Thanks to 2,000,000" scroll</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>205</Id>
+	<Type>3</Type>
+	<No>33</No>
+	<Title>"Camouflage doctrine" scroll</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1500</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>206</Id>
+	<Type>3</Type>
+	<No>34</No>
+	<Title>Big antique clock</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>30000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>207</Id>
+	<Type>5</Type>
+	<No>39</No>
+	<Title>Admiral's study desk</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1900</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>208</Id>
+	<Type>5</Type>
+	<No>40</No>
+	<Title>Manuscript desk</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1700</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>209</Id>
+	<Type>2</Type>
+	<No>30</No>
+	<Title>Window with Tanabata decorations</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>210</Id>
+	<Type>2</Type>
+	<No>31</No>
+	<Title>Window with anti-mosquito incense</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1700</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>211</Id>
+	<Type>2</Type>
+	<No>32</No>
+	<Title>Naval district wind chime</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>5000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>212</Id>
+	<Type>4</Type>
+	<No>31</No>
+	<Title>Pre-ordered summer set</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>800</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>213</Id>
+	<Type>4</Type>
+	<No>32</No>
+	<Title>Resort set</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1700</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>214</Id>
+	<Type>4</Type>
+	<No>33</No>
+	<Title>Study bookshelf</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1900</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>215</Id>
+	<Type>2</Type>
+	<No>33</No>
+	<Title>Fireworks window</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1800</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>216</Id>
+	<Type>5</Type>
+	<No>41</No>
+	<Title>Paddling pool</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1500</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>217</Id>
+	<Type>5</Type>
+	<No>42</No>
+	<Title>Autumn feast table</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1500</Price>
+	<Season>3</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>218</Id>
+	<Type>5</Type>
+	<No>43</No>
+	<Title>Jukebox</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>219</Id>
+	<Type>2</Type>
+	<No>34</No>
+	<Title>Autumn window</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>27000</Price>
+	<Season>3</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>220</Id>
+	<Type>3</Type>
+	<No>35</No>
+	<Title>"Yokosuka Naval District" scroll</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>221</Id>
+	<Type>3</Type>
+	<No>36</No>
+	<Title>"Arigatou" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>13</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>222</Id>
+	<Type>4</Type>
+	<No>34</No>
+	<Title>Jukebox kai</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>2000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>223</Id>
+	<Type>3</Type>
+	<No>37</No>
+	<Title>Party decoration</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1200</Price>
+	<Season>4</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>224</Id>
+	<Type>5</Type>
+	<No>44</No>
+	<Title>White and blue Christmas tree</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>5000</Price>
+	<Season>4</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>225</Id>
+	<Type>5</Type>
+	<No>45</No>
+	<Title>Naval district's shrine visit set</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>30000</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>226</Id>
+	<Type>3</Type>
+	<No>38</No>
+	<Title>New Year scroll 2015</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>3000</Price>
+	<Season>11</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>227</Id>
+	<Type>3</Type>
+	<No>39</No>
+	<Title>Shimekazari</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>800</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>228</Id>
+	<Type>5</Type>
+	<No>46</No>
+	<Title>New Year's soba</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2200</Price>
+	<Season>11</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>229</Id>
+	<Type>4</Type>
+	<No>35</No>
+	<Title>Kadomatsu</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>5000</Price>
+	<Season>11</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>230</Id>
+	<Type>2</Type>
+	<No>35</No>
+	<Title>Anchorage Counter Bar</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>3000</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>231</Id>
+	<Type>3</Type>
+	<No>40</No>
+	<Title>"Thanks to 2,500,000 players!" scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>14</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>232</Id>
+	<Type>5</Type>
+	<No>47</No>
+	<Title>Chocolate kitchen</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1800</Price>
+	<Season>15</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>233</Id>
+	<Type>5</Type>
+	<No>48</No>
+	<Title>Liquor and wine shelf</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1800</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>234</Id>
+	<Type>4</Type>
+	<No>36</No>
+	<Title>Sake and whiskey shelf</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1800</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>235</Id>
+	<Type>3</Type>
+	<No>41</No>
+	<Title>Musashi's wall scroll</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>0</Price>
+	<Season>13</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>236</Id>
+	<Type>1</Type>
+	<No>34</No>
+	<Title>Spring colored wallpaper</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1700</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>237</Id>
+	<Type>1</Type>
+	<No>35</No>
+	<Title>Bar wall</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>1800</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>238</Id>
+	<Type>1</Type>
+	<No>36</No>
+	<Title>Plum purple wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>700</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>239</Id>
+	<Type>4</Type>
+	<No>37</No>
+	<Title>Dressing room</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>240</Id>
+	<Type>5</Type>
+	<No>49</No>
+	<Title>Hot spring bath</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>9500</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>241</Id>
+	<Type>3</Type>
+	<No>42</No>
+	<Title>Mt.Fuji tile painting</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>1980</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>242</Id>
+	<Type>3</Type>
+	<No>43</No>
+	<Title>KanColle 2nd anniversary scroll</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>243</Id>
+	<Type>1</Type>
+	<No>37</No>
+	<Title>Rainy-season wallpaper</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>600</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>244</Id>
+	<Type>2</Type>
+	<No>36</No>
+	<Title>Rainy season window with green curtain</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>3000</Price>
+	<Season>17</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>245</Id>
+	<Type>5</Type>
+	<No>50</No>
+	<Title>Admiral's desk with hydrangea bowl</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>1400</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>246</Id>
+	<Type>4</Type>
+	<No>38</No>
+	<Title>Raincoat and umbrella hanger</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1300</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>247</Id>
+	<Type>3</Type>
+	<No>44</No>
+	<Title>"Thanks to 3,000,000" scroll</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>248</Id>
+	<Type>5</Type>
+	<No>51</No>
+	<Title>Cold water bath</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>7500</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>249</Id>
+	<Type>2</Type>
+	<No>37</No>
+	<Title>Ground cherry flower window</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1880</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>250</Id>
+	<Type>5</Type>
+	<No>52</No>
+	<Title>Anchorage beach teahouse</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>4000</Price>
+	<Season>2</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>251</Id>
+	<Type>2</Type>
+	<No>38</No>
+	<Title>Beach teahouse window</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2000</Price>
+	<Season>2</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>252</Id>
+	<Type>4</Type>
+	<No>39</No>
+	<Title>Commercial shaved ice maker</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1300</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>253</Id>
+	<Type>1</Type>
+	<No>38</No>
+	<Title>Beach teahouse provisional board wall </Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>900</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>254</Id>
+	<Type>3</Type>
+	<No>45</No>
+	<Title>Fleet shaved ice flag</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>500</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>255</Id>
+	<Type>0</Type>
+	<No>37</No>
+	<Title>Beach teahouse flooring</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>1800</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>256</Id>
+	<Type>3</Type>
+	<No>46</No>
+	<Title>Naval review banner</Title>
+	<Description />
+	<Rarity>3</Rarity>
+	<Price>880</Price>
+	<Season>0</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>257</Id>
+	<Type>5</Type>
+	<No>53</No>
+	<Title>Anchorage autumn festival food cart</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>2200</Price>
+	<Season>21</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>258</Id>
+	<Type>5</Type>
+	<No>54</No>
+	<Title>Anchorage autumn festival target practice</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>30000</Price>
+	<Season>21</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>259</Id>
+	<Type>3</Type>
+	<No>47</No>
+	<Title>"Rabaul Base" scroll</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>260</Id>
+	<Type>3</Type>
+	<No>48</No>
+	<Title>"Buin Base" scroll</Title>
+	<Description />
+	<Rarity>2</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>261</Id>
+	<Type>3</Type>
+	<No>49</No>
+	<Title>Fleet fishery banner</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>0</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>262</Id>
+	<Type>5</Type>
+	<No>55</No>
+	<Title>Anchorage mackerel festival</Title>
+	<Description />
+	<Rarity>4</Rarity>
+	<Price>3800</Price>
+	<Season>0</Season>
+	<Sale_from>0</Sale_from>
+	<Sale_to>0</Sale_to>
+</mst_furniture>
+<mst_furniture>
+	<Id>263</Id>
+	<Type>4</Type>
+	<No>40</No>
+	<Title>Arctic camouflaged paulownia cabinet</Title>
+	<Description />
+	<Rarity>5</Rarity>
+	<Price>5500</Price>
+	<Season>22</Season>
+	<Sale_from>1</Sale_from>
+	<Sale_to>12</Sale_to>
+</mst_furniture>
+</mst_furniture_data>
