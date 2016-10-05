@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_ship_class_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_ship_class>
+	<Id>1</Id>
+	<Name>Ayanami-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>2</Id>
+	<Name>Ise-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>3</Id>
+	<Name>Kaga-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>4</Id>
+	<Name>Kuma-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>5</Id>
+	<Name>Akatsuki-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>6</Id>
+	<Name>Kongou-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>7</Id>
+	<Name>Furutaka-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>8</Id>
+	<Name>Takao-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>9</Id>
+	<Name>Mogami-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>10</Id>
+	<Name>Hatsuharu-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>11</Id>
+	<Name>Shouhou-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>12</Id>
+	<Name>Fubuki-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>13</Id>
+	<Name>Aoba-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>14</Id>
+	<Name>Akagi-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>15</Id>
+	<Name>Chitose-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>16</Id>
+	<Name>Sendai-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>17</Id>
+	<Name>Souryuu-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>18</Id>
+	<Name>Asashio-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>19</Id>
+	<Name>Nagato-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>20</Id>
+	<Name>Nagara-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>21</Id>
+	<Name>Tenryuu-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>22</Id>
+	<Name>Shimakaze-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>23</Id>
+	<Name>Shiratsuyu-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>24</Id>
+	<Name>Hiyou-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>25</Id>
+	<Name>Hiryuu-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>26</Id>
+	<Name>Fusou-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>27</Id>
+	<Name>Houshou-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>28</Id>
+	<Name>Mutsuki-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>29</Id>
+	<Name>Myoukou-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>30</Id>
+	<Name>Kagerou-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>31</Id>
+	<Name>Tone-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>32</Id>
+	<Name>Ryuujou-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>33</Id>
+	<Name>Shoukaku-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>34</Id>
+	<Name>Yuubari-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>35</Id>
+	<Name>HaidaVI-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>36</Id>
+	<Name>Junsen Type B Kai Ni-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>37</Id>
+	<Name>Yamato-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>38</Id>
+	<Name>Yuugumo-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>39</Id>
+	<Name>Junsen Type B-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>40</Id>
+	<Name>Junsen 3-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>41</Id>
+	<Name>Agano-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>42</Id>
+	<Name>Fleet of Fog</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>43</Id>
+	<Name>Taihou-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>44</Id>
+	<Name>Sentoku-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>45</Id>
+	<Name>Hei-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>46</Id>
+	<Name>Type 3 Submergence Transport Vehicle</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>47</Id>
+	<Name>Bismarck-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>48</Id>
+	<Name>Z1-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>49</Id>
+	<Name>Akashi-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>50</Id>
+	<Name>Taigei-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>51</Id>
+	<Name>Ryuuhou-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>52</Id>
+	<Name>Ooyodo-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>53</Id>
+	<Name>Unryuu-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>54</Id>
+	<Name>Akizuki-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>55</Id>
+	<Name>Admiral Hipper-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>56</Id>
+	<Name>Katori-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>57</Id>
+	<Name>Type IXC U-boat-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>58</Id>
+	<Name>V.Veneto-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>59</Id>
+	<Name>Akitsushima-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>60</Id>
+	<Name>Kazahaya Kai-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>61</Id>
+	<Name>Maestrale-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>62</Id>
+	<Name>Mizuho-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>63</Id>
+	<Name>Graf Zeppelin-class</Name>
+</mst_ship_class>
+<mst_ship_class>
+	<Id>64</Id>
+	<Name>Iowa-class</Name>
+</mst_ship_class>
+</mst_ship_class_data>

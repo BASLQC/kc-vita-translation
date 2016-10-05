@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mst_useitem_data xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+<mst_useitem>
+	<Id>1</Id>
+	<Usetype>1</Usetype>
+	<Category>1</Category>
+	<Name>Instant Repair</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>2</Id>
+	<Usetype>2</Usetype>
+	<Category>2</Category>
+	<Name>Instant Construction</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>3</Id>
+	<Usetype>3</Usetype>
+	<Category>3</Category>
+	<Name>Development Material</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>4</Id>
+	<Usetype>3</Usetype>
+	<Category>4</Category>
+	<Name>Improvement Material</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>5</Id>
+	<Usetype>4</Usetype>
+	<Category>4</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>6</Id>
+	<Usetype>4</Usetype>
+	<Category>4</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>7</Id>
+	<Usetype>4</Usetype>
+	<Category>5</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>8</Id>
+	<Usetype>4</Usetype>
+	<Category>5</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>9</Id>
+	<Usetype>4</Usetype>
+	<Category>5</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>10</Id>
+	<Usetype>4</Usetype>
+	<Category>6</Category>
+	<Name>Furniture Box (Small)</Name>
+	<Description />
+	<Description2>200</Description2>
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>11</Id>
+	<Usetype>4</Usetype>
+	<Category>6</Category>
+	<Name>Furniture Box (Medium)</Name>
+	<Description />
+	<Description2>400</Description2>
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>12</Id>
+	<Usetype>4</Usetype>
+	<Category>6</Category>
+	<Name>Furniture Box (Large)</Name>
+	<Description />
+	<Description2>700</Description2>
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>13</Id>
+	<Usetype>4</Usetype>
+	<Category>7</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>14</Id>
+	<Usetype>4</Usetype>
+	<Category>7</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>15</Id>
+	<Usetype>4</Usetype>
+	<Category>8</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>16</Id>
+	<Usetype>5</Usetype>
+	<Category>9</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>17</Id>
+	<Usetype>5</Usetype>
+	<Category>9</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>18</Id>
+	<Usetype>5</Usetype>
+	<Category>10</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>19</Id>
+	<Usetype>5</Usetype>
+	<Category>10</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>20</Id>
+	<Usetype>5</Usetype>
+	<Category>11</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>21</Id>
+	<Usetype>5</Usetype>
+	<Category>11</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>22</Id>
+	<Usetype>5</Usetype>
+	<Category>11</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>23</Id>
+	<Usetype>5</Usetype>
+	<Category>12</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>24</Id>
+	<Usetype>5</Usetype>
+	<Category>12</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>25</Id>
+	<Usetype>5</Usetype>
+	<Category>13</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>26</Id>
+	<Usetype>5</Usetype>
+	<Category>13</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>27</Id>
+	<Usetype>5</Usetype>
+	<Category>14</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>28</Id>
+	<Usetype>5</Usetype>
+	<Category>15</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>29</Id>
+	<Usetype>5</Usetype>
+	<Category>15</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>30</Id>
+	<Usetype>5</Usetype>
+	<Category>15</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>31</Id>
+	<Usetype>6</Usetype>
+	<Category>16</Category>
+	<Name>Fuel</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>32</Id>
+	<Usetype>6</Usetype>
+	<Category>17</Category>
+	<Name>Ammo</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>33</Id>
+	<Usetype>6</Usetype>
+	<Category>18</Category>
+	<Name>Steel</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>34</Id>
+	<Usetype>6</Usetype>
+	<Category>19</Category>
+	<Name>Bauxite</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>35</Id>
+	<Usetype>7</Usetype>
+	<Category>20</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>36</Id>
+	<Usetype>7</Usetype>
+	<Category>20</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>37</Id>
+	<Usetype>7</Usetype>
+	<Category>20</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>38</Id>
+	<Usetype>7</Usetype>
+	<Category>20</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>39</Id>
+	<Usetype>7</Usetype>
+	<Category>20</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>40</Id>
+	<Usetype>7</Usetype>
+	<Category>20</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>41</Id>
+	<Usetype>7</Usetype>
+	<Category>20</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>42</Id>
+	<Usetype>7</Usetype>
+	<Category>20</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>43</Id>
+	<Usetype>7</Usetype>
+	<Category>20</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>44</Id>
+	<Usetype>6</Usetype>
+	<Category>21</Category>
+	<Name>Furniture Coin</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>45</Id>
+	<Usetype>6</Usetype>
+	<Category>16</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>46</Id>
+	<Usetype>6</Usetype>
+	<Category>17</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>47</Id>
+	<Usetype>6</Usetype>
+	<Category>18</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>48</Id>
+	<Usetype>6</Usetype>
+	<Category>19</Category>
+	<Name />
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>49</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Dock Key</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>50</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Repair Team</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>51</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Repair Goddess</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>52</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Furniture Fairy</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>53</Id>
+	<Usetype>4</Usetype>
+	<Category>0</Category>
+	<Name>Home Port Expansion</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>54</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Morale Food 'Mamiya'</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>55</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Marriage Ring and Documents</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>56</Id>
+	<Usetype>4</Usetype>
+	<Category>0</Category>
+	<Name>Valentine Chocolate</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>57</Id>
+	<Usetype>4</Usetype>
+	<Category>0</Category>
+	<Name>Medal</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>58</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Remodeling Blueprint</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>59</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Morale Food 'Irako'</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>60</Id>
+	<Usetype>4</Usetype>
+	<Category>0</Category>
+	<Name>Present Box</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>61</Id>
+	<Usetype>4</Usetype>
+	<Category>0</Category>
+	<Name>First Class Medal</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>62</Id>
+	<Usetype>4</Usetype>
+	<Category>0</Category>
+	<Name>Hishimochi</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>63</Id>
+	<Usetype>4</Usetype>
+	<Category>0</Category>
+	<Name>Headquarters Personnel</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>64</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Reinforcement Expansion</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>65</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Prototype Flight Deck Catapult</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>66</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Combat Ration</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>67</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Underway Replenishment</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>68</Id>
+	<Usetype>4</Usetype>
+	<Category>0</Category>
+	<Name>Mackerel</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>69</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Canned Mackerel</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+<mst_useitem>
+	<Id>70</Id>
+	<Usetype>0</Usetype>
+	<Category>0</Category>
+	<Name>Skilled Crew Member</Name>
+	<Description />
+	<Description2 />
+	<Price>0</Price>
+</mst_useitem>
+</mst_useitem_data>

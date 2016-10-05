@@ -1,0 +1,233 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<mst_slotitem_equiptype_data>
+  <mst_slotitem_equiptype>
+    <Id>1</Id>
+    <Name>Primary Armament</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>2</Id>
+    <Name>Secondary Armament</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>3</Id>
+    <Name>Torpedo</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>4</Id>
+    <Name>Midget Submarine</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>5</Id>
+    <Name>Carrier-Based Aircraft</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>6</Id>
+    <Name>AA Gun</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>7</Id>
+    <Name>Reconnaissance</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>8</Id>
+    <Name>Radar</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>9</Id>
+    <Name>Upgrades</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>10</Id>
+    <Name>Sonar</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>11</Id>
+    <Name>Daihatsu</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>12</Id>
+    <Name>Autogyro</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>13</Id>
+    <Name>AntiSubmarine Patrol</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>14</Id>
+    <Name>Extension Armor</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>15</Id>
+    <Name>Searchlight</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>16</Id>
+    <Name>Supply</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>17</Id>
+    <Name>Machine Tools</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>18</Id>
+    <Name>Flare</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>19</Id>
+    <Name>Fleet Command</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>20</Id>
+    <Name>Maintenance Team</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>21</Id>
+    <Name>AA Director</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>22</Id>
+    <Name>AP Shell</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>23</Id>
+    <Name>Rocket Artillery</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>24</Id>
+    <Name>Picket Crew</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>25</Id>
+    <Name>AA Shell</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>26</Id>
+    <Name>AA Rocket</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>27</Id>
+    <Name>Damage Control</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>28</Id>
+    <Name>Engine Upgrades</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>29</Id>
+    <Name>Depth Charge</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>30</Id>
+    <Name>Flying Boat</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>31</Id>
+    <Name>Ration</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>32</Id>
+    <Name>Supply</Name>
+    <Show_flg>1</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>33</Id>
+    <Name>Multi-purpose Seaplane</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>34</Id>
+    <Name>Amphibious Vehicle</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>35</Id>
+    <Name>Land Attacker</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>36</Id>
+    <Name>Interceptor</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>37</Id>
+    <Name>Ground Equipment</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>38</Id>
+    <Name>Large-Calibur Main Gun (II)</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>39</Id>
+    <Name>Surface Ship Personnel</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>40</Id>
+    <Name>Large Sonar</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>41</Id>
+    <Name>Large Flying Boat</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>42</Id>
+    <Name>Large Searchlight</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>43</Id>
+    <Name>Combat Ration</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>44</Id>
+    <Name>Maritime Resupply</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>93</Id>
+    <Name>Large Radar (II)</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+  <mst_slotitem_equiptype>
+    <Id>94</Id>
+    <Name>Ship-borne Reconnaissance Seaplane (II)</Name>
+    <Show_flg>0</Show_flg>
+  </mst_slotitem_equiptype>
+</mst_slotitem_equiptype_data>
