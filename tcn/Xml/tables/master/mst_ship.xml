@@ -4,7 +4,7 @@
 		<Id>1</Id>
 		<Sortno>31</Sortno>
 		<Bookno>31</Bookno>
-		<Name>Mutsuki</Name>
+		<Name>睦月</Name>
 		<Yomi>むつき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>28</Ctype>
@@ -43,7 +43,7 @@
 		<Id>2</Id>
 		<Sortno>32</Sortno>
 		<Bookno>32</Bookno>
-		<Name>Kisaragi</Name>
+		<Name>如月</Name>
 		<Yomi>きさらぎ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>28</Ctype>
@@ -100,7 +100,7 @@
 		<Id>6</Id>
 		<Sortno>35</Sortno>
 		<Bookno>35</Bookno>
-		<Name>Nagatsuki</Name>
+		<Name>長月</Name>
 		<Yomi>ながつき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>28</Ctype>
@@ -139,7 +139,7 @@
 		<Id>7</Id>
 		<Sortno>37</Sortno>
 		<Bookno>37</Bookno>
-		<Name>Mikazuki</Name>
+		<Name>三日月</Name>
 		<Yomi>みかづき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>28</Ctype>
@@ -184,7 +184,7 @@
 		<Id>9</Id>
 		<Sortno>11</Sortno>
 		<Bookno>11</Bookno>
-		<Name>Fubuki</Name>
+		<Name>吹雪</Name>
 		<Yomi>ふぶき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>12</Ctype>
@@ -223,7 +223,7 @@
 		<Id>10</Id>
 		<Sortno>12</Sortno>
 		<Bookno>12</Bookno>
-		<Name>Shirayuki</Name>
+		<Name>白雪</Name>
 		<Yomi>しらゆき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>12</Ctype>
@@ -262,7 +262,7 @@
 		<Id>11</Id>
 		<Sortno>14</Sortno>
 		<Bookno>14</Bookno>
-		<Name>Miyuki</Name>
+		<Name>深雪</Name>
 		<Yomi>みゆき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>12</Ctype>
@@ -301,7 +301,7 @@
 		<Id>12</Id>
 		<Sortno>16</Sortno>
 		<Bookno>16</Bookno>
-		<Name>Isonami</Name>
+		<Name>磯波</Name>
 		<Yomi>いそなみ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>12</Ctype>
@@ -340,7 +340,7 @@
 		<Id>13</Id>
 		<Sortno>17</Sortno>
 		<Bookno>17</Bookno>
-		<Name>Ayanami</Name>
+		<Name>綾波</Name>
 		<Yomi>あやなみ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -379,7 +379,7 @@
 		<Id>14</Id>
 		<Sortno>18</Sortno>
 		<Bookno>18</Bookno>
-		<Name>Shikinami</Name>
+		<Name>敷波</Name>
 		<Yomi>しきなみ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -418,7 +418,7 @@
 		<Id>15</Id>
 		<Sortno>68</Sortno>
 		<Bookno>68</Bookno>
-		<Name>Akebono</Name>
+		<Name>曙</Name>
 		<Yomi>あけぼの</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -457,7 +457,7 @@
 		<Id>16</Id>
 		<Sortno>70</Sortno>
 		<Bookno>70</Bookno>
-		<Name>Ushio</Name>
+		<Name>潮</Name>
 		<Yomi>うしお</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -496,7 +496,7 @@
 		<Id>17</Id>
 		<Sortno>91</Sortno>
 		<Bookno>91</Bookno>
-		<Name>Kagerou</Name>
+		<Name>陽炎</Name>
 		<Yomi>かげろう</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -535,7 +535,7 @@
 		<Id>18</Id>
 		<Sortno>92</Sortno>
 		<Bookno>92</Bookno>
-		<Name>Shiranui</Name>
+		<Name>不知火</Name>
 		<Yomi>しらぬい</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -574,7 +574,7 @@
 		<Id>19</Id>
 		<Sortno>93</Sortno>
 		<Bookno>93</Bookno>
-		<Name>Kuroshio</Name>
+		<Name>黑潮</Name>
 		<Yomi>くろしお</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -613,7 +613,7 @@
 		<Id>20</Id>
 		<Sortno>5</Sortno>
 		<Bookno>5</Bookno>
-		<Name>Yukikaze</Name>
+		<Name>雪風</Name>
 		<Yomi>ゆきかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -652,7 +652,7 @@
 		<Id>21</Id>
 		<Sortno>42</Sortno>
 		<Bookno>42</Bookno>
-		<Name>Nagara</Name>
+		<Name>長良</Name>
 		<Yomi>ながら</Yomi>
 		<Stype>3</Stype>
 		<Ctype>20</Ctype>
@@ -691,7 +691,7 @@
 		<Id>22</Id>
 		<Sortno>43</Sortno>
 		<Bookno>43</Bookno>
-		<Name>Isuzu</Name>
+		<Name>五十鈴</Name>
 		<Yomi>いすず</Yomi>
 		<Stype>3</Stype>
 		<Ctype>20</Ctype>
@@ -730,7 +730,7 @@
 		<Id>23</Id>
 		<Sortno>45</Sortno>
 		<Bookno>45</Bookno>
-		<Name>Yura</Name>
+		<Name>由良</Name>
 		<Yomi>ゆら</Yomi>
 		<Stype>3</Stype>
 		<Ctype>20</Ctype>
@@ -769,7 +769,7 @@
 		<Id>24</Id>
 		<Sortno>19</Sortno>
 		<Bookno>19</Bookno>
-		<Name>Ooi</Name>
+		<Name>大井</Name>
 		<Yomi>おおい</Yomi>
 		<Stype>3</Stype>
 		<Ctype>4</Ctype>
@@ -808,7 +808,7 @@
 		<Id>25</Id>
 		<Sortno>20</Sortno>
 		<Bookno>20</Bookno>
-		<Name>Kitakami</Name>
+		<Name>北上</Name>
 		<Yomi>きたかみ</Yomi>
 		<Stype>3</Stype>
 		<Ctype>4</Ctype>
@@ -847,7 +847,7 @@
 		<Id>26</Id>
 		<Sortno>26</Sortno>
 		<Bookno>26</Bookno>
-		<Name>Fusou</Name>
+		<Name>扶桑</Name>
 		<Yomi>ふそう</Yomi>
 		<Stype>9</Stype>
 		<Ctype>26</Ctype>
@@ -886,7 +886,7 @@
 		<Id>27</Id>
 		<Sortno>27</Sortno>
 		<Bookno>27</Bookno>
-		<Name>Yamashiro</Name>
+		<Name>山城</Name>
 		<Yomi>やましろ</Yomi>
 		<Stype>9</Stype>
 		<Ctype>26</Ctype>
@@ -925,7 +925,7 @@
 		<Id>28</Id>
 		<Sortno>33</Sortno>
 		<Bookno>33</Bookno>
-		<Name>Satsuki</Name>
+		<Name>皐月</Name>
 		<Yomi>さつき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>28</Ctype>
@@ -964,7 +964,7 @@
 		<Id>29</Id>
 		<Sortno>34</Sortno>
 		<Bookno>34</Bookno>
-		<Name>Fumizuki</Name>
+		<Name>文月</Name>
 		<Yomi>ふみづき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>28</Ctype>
@@ -1003,7 +1003,7 @@
 		<Id>30</Id>
 		<Sortno>36</Sortno>
 		<Bookno>36</Bookno>
-		<Name>Kikuzuki</Name>
+		<Name>菊月</Name>
 		<Yomi>きくづき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>28</Ctype>
@@ -1042,7 +1042,7 @@
 		<Id>31</Id>
 		<Sortno>38</Sortno>
 		<Bookno>38</Bookno>
-		<Name>Mochizuki</Name>
+		<Name>望月</Name>
 		<Yomi>もちづき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>28</Ctype>
@@ -1081,7 +1081,7 @@
 		<Id>32</Id>
 		<Sortno>13</Sortno>
 		<Bookno>13</Bookno>
-		<Name>Hatsuyuki</Name>
+		<Name>初雪</Name>
 		<Yomi>はつゆき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>12</Ctype>
@@ -1120,7 +1120,7 @@
 		<Id>33</Id>
 		<Sortno>15</Sortno>
 		<Bookno>15</Bookno>
-		<Name>Murakumo</Name>
+		<Name>叢雲</Name>
 		<Yomi>むらくも</Yomi>
 		<Stype>2</Stype>
 		<Ctype>12</Ctype>
@@ -1159,7 +1159,7 @@
 		<Id>34</Id>
 		<Sortno>71</Sortno>
 		<Bookno>71</Bookno>
-		<Name>Akatsuki</Name>
+		<Name>曉</Name>
 		<Yomi>あかつき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>5</Ctype>
@@ -1198,7 +1198,7 @@
 		<Id>35</Id>
 		<Sortno>72</Sortno>
 		<Bookno>72</Bookno>
-		<Name>Hibiki</Name>
+		<Name>響</Name>
 		<Yomi>ひびき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>5</Ctype>
@@ -1237,7 +1237,7 @@
 		<Id>36</Id>
 		<Sortno>73</Sortno>
 		<Bookno>73</Bookno>
-		<Name>Ikazuchi</Name>
+		<Name>雷</Name>
 		<Yomi>いかづち</Yomi>
 		<Stype>2</Stype>
 		<Ctype>5</Ctype>
@@ -1276,7 +1276,7 @@
 		<Id>37</Id>
 		<Sortno>74</Sortno>
 		<Bookno>74</Bookno>
-		<Name>Inazuma</Name>
+		<Name>電</Name>
 		<Yomi>いなづま</Yomi>
 		<Stype>2</Stype>
 		<Ctype>5</Ctype>
@@ -1315,7 +1315,7 @@
 		<Id>38</Id>
 		<Sortno>75</Sortno>
 		<Bookno>75</Bookno>
-		<Name>Hatsuharu</Name>
+		<Name>初春</Name>
 		<Yomi>はつはる</Yomi>
 		<Stype>2</Stype>
 		<Ctype>10</Ctype>
@@ -1354,7 +1354,7 @@
 		<Id>39</Id>
 		<Sortno>76</Sortno>
 		<Bookno>76</Bookno>
-		<Name>Nenohi</Name>
+		<Name>子日</Name>
 		<Yomi>ねのひ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>10</Ctype>
@@ -1393,7 +1393,7 @@
 		<Id>40</Id>
 		<Sortno>77</Sortno>
 		<Bookno>77</Bookno>
-		<Name>Wakaba</Name>
+		<Name>若葉</Name>
 		<Yomi>わかば</Yomi>
 		<Stype>2</Stype>
 		<Ctype>10</Ctype>
@@ -1432,7 +1432,7 @@
 		<Id>41</Id>
 		<Sortno>78</Sortno>
 		<Bookno>78</Bookno>
-		<Name>Hatsushimo</Name>
+		<Name>初霜</Name>
 		<Yomi>はつしも</Yomi>
 		<Stype>2</Stype>
 		<Ctype>10</Ctype>
@@ -1471,7 +1471,7 @@
 		<Id>42</Id>
 		<Sortno>79</Sortno>
 		<Bookno>79</Bookno>
-		<Name>Shiratsuyu</Name>
+		<Name>白露</Name>
 		<Yomi>しらつゆ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>23</Ctype>
@@ -1510,7 +1510,7 @@
 		<Id>43</Id>
 		<Sortno>80</Sortno>
 		<Bookno>80</Bookno>
-		<Name>Shigure</Name>
+		<Name>時雨</Name>
 		<Yomi>しぐれ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>23</Ctype>
@@ -1549,7 +1549,7 @@
 		<Id>44</Id>
 		<Sortno>81</Sortno>
 		<Bookno>81</Bookno>
-		<Name>Murasame</Name>
+		<Name>村雨</Name>
 		<Yomi>むらさめ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>23</Ctype>
@@ -1588,7 +1588,7 @@
 		<Id>45</Id>
 		<Sortno>82</Sortno>
 		<Bookno>82</Bookno>
-		<Name>Yuudachi</Name>
+		<Name>夕立</Name>
 		<Yomi>ゆうだち</Yomi>
 		<Stype>2</Stype>
 		<Ctype>23</Ctype>
@@ -1627,7 +1627,7 @@
 		<Id>46</Id>
 		<Sortno>83</Sortno>
 		<Bookno>83</Bookno>
-		<Name>Samidare</Name>
+		<Name>五月雨</Name>
 		<Yomi>さみだれ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>23</Ctype>
@@ -1666,7 +1666,7 @@
 		<Id>47</Id>
 		<Sortno>84</Sortno>
 		<Bookno>84</Bookno>
-		<Name>Suzukaze</Name>
+		<Name>涼風</Name>
 		<Yomi>すずかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>23</Ctype>
@@ -1705,7 +1705,7 @@
 		<Id>48</Id>
 		<Sortno>89</Sortno>
 		<Bookno>89</Bookno>
-		<Name>Arare</Name>
+		<Name>霰</Name>
 		<Yomi>あられ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>18</Ctype>
@@ -1744,7 +1744,7 @@
 		<Id>49</Id>
 		<Sortno>90</Sortno>
 		<Bookno>90</Bookno>
-		<Name>Kasumi</Name>
+		<Name>霞</Name>
 		<Yomi>かすみ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>18</Ctype>
@@ -1783,7 +1783,7 @@
 		<Id>50</Id>
 		<Sortno>10</Sortno>
 		<Bookno>10</Bookno>
-		<Name>Shimakaze</Name>
+		<Name>島風</Name>
 		<Yomi>しまかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>22</Ctype>
@@ -1822,7 +1822,7 @@
 		<Id>51</Id>
 		<Sortno>28</Sortno>
 		<Bookno>28</Bookno>
-		<Name>Tenryuu</Name>
+		<Name>天龍</Name>
 		<Yomi>てんりゅう</Yomi>
 		<Stype>3</Stype>
 		<Ctype>21</Ctype>
@@ -1861,7 +1861,7 @@
 		<Id>52</Id>
 		<Sortno>29</Sortno>
 		<Bookno>29</Bookno>
-		<Name>Tatsuta</Name>
+		<Name>龍田</Name>
 		<Yomi>たつた</Yomi>
 		<Stype>3</Stype>
 		<Ctype>21</Ctype>
@@ -1900,7 +1900,7 @@
 		<Id>53</Id>
 		<Sortno>44</Sortno>
 		<Bookno>44</Bookno>
-		<Name>Natori</Name>
+		<Name>名取</Name>
 		<Yomi>なとり</Yomi>
 		<Stype>3</Stype>
 		<Ctype>20</Ctype>
@@ -1939,7 +1939,7 @@
 		<Id>54</Id>
 		<Sortno>46</Sortno>
 		<Bookno>46</Bookno>
-		<Name>Sendai</Name>
+		<Name>川内</Name>
 		<Yomi>せんだい</Yomi>
 		<Stype>3</Stype>
 		<Ctype>16</Ctype>
@@ -1978,7 +1978,7 @@
 		<Id>55</Id>
 		<Sortno>47</Sortno>
 		<Bookno>47</Bookno>
-		<Name>Jintsuu</Name>
+		<Name>神通</Name>
 		<Yomi>じんつう</Yomi>
 		<Stype>3</Stype>
 		<Ctype>16</Ctype>
@@ -2017,7 +2017,7 @@
 		<Id>56</Id>
 		<Sortno>48</Sortno>
 		<Bookno>48</Bookno>
-		<Name>Naka</Name>
+		<Name>那珂</Name>
 		<Yomi>なか</Yomi>
 		<Stype>3</Stype>
 		<Ctype>16</Ctype>
@@ -2134,7 +2134,7 @@
 		<Id>59</Id>
 		<Sortno>52</Sortno>
 		<Bookno>52</Bookno>
-		<Name>Furutaka</Name>
+		<Name>古鷹</Name>
 		<Yomi>ふるたか</Yomi>
 		<Stype>5</Stype>
 		<Ctype>7</Ctype>
@@ -2173,7 +2173,7 @@
 		<Id>60</Id>
 		<Sortno>53</Sortno>
 		<Bookno>53</Bookno>
-		<Name>Kako</Name>
+		<Name>加古</Name>
 		<Yomi>かこ</Yomi>
 		<Stype>5</Stype>
 		<Ctype>7</Ctype>
@@ -2212,7 +2212,7 @@
 		<Id>61</Id>
 		<Sortno>54</Sortno>
 		<Bookno>54</Bookno>
-		<Name>Aoba</Name>
+		<Name>青葉</Name>
 		<Yomi>あおば</Yomi>
 		<Stype>5</Stype>
 		<Ctype>13</Ctype>
@@ -2251,7 +2251,7 @@
 		<Id>62</Id>
 		<Sortno>55</Sortno>
 		<Bookno>55</Bookno>
-		<Name>Myoukou</Name>
+		<Name>妙高</Name>
 		<Yomi>みょうこう</Yomi>
 		<Stype>5</Stype>
 		<Ctype>29</Ctype>
@@ -2290,7 +2290,7 @@
 		<Id>63</Id>
 		<Sortno>56</Sortno>
 		<Bookno>56</Bookno>
-		<Name>Nachi</Name>
+		<Name>那智</Name>
 		<Yomi>なち</Yomi>
 		<Stype>5</Stype>
 		<Ctype>29</Ctype>
@@ -2329,7 +2329,7 @@
 		<Id>64</Id>
 		<Sortno>57</Sortno>
 		<Bookno>57</Bookno>
-		<Name>Ashigara</Name>
+		<Name>足柄</Name>
 		<Yomi>あしがら</Yomi>
 		<Stype>5</Stype>
 		<Ctype>29</Ctype>
@@ -2368,7 +2368,7 @@
 		<Id>65</Id>
 		<Sortno>58</Sortno>
 		<Bookno>58</Bookno>
-		<Name>Haguro</Name>
+		<Name>羽黑</Name>
 		<Yomi>はぐろ</Yomi>
 		<Stype>5</Stype>
 		<Ctype>29</Ctype>
@@ -2407,7 +2407,7 @@
 		<Id>66</Id>
 		<Sortno>59</Sortno>
 		<Bookno>59</Bookno>
-		<Name>Takao</Name>
+		<Name>高雄</Name>
 		<Yomi>たかお</Yomi>
 		<Stype>5</Stype>
 		<Ctype>8</Ctype>
@@ -2446,7 +2446,7 @@
 		<Id>67</Id>
 		<Sortno>60</Sortno>
 		<Bookno>60</Bookno>
-		<Name>Atago</Name>
+		<Name>愛宕</Name>
 		<Yomi>あたご</Yomi>
 		<Stype>5</Stype>
 		<Ctype>8</Ctype>
@@ -2485,7 +2485,7 @@
 		<Id>68</Id>
 		<Sortno>61</Sortno>
 		<Bookno>61</Bookno>
-		<Name>Maya</Name>
+		<Name>摩耶</Name>
 		<Yomi>まや</Yomi>
 		<Stype>5</Stype>
 		<Ctype>8</Ctype>
@@ -2524,7 +2524,7 @@
 		<Id>69</Id>
 		<Sortno>62</Sortno>
 		<Bookno>62</Bookno>
-		<Name>Choukai</Name>
+		<Name>鳥海</Name>
 		<Yomi>ちょうかい</Yomi>
 		<Stype>5</Stype>
 		<Ctype>8</Ctype>
@@ -2563,7 +2563,7 @@
 		<Id>70</Id>
 		<Sortno>51</Sortno>
 		<Bookno>51</Bookno>
-		<Name>Mogami</Name>
+		<Name>最上</Name>
 		<Yomi>もがみ</Yomi>
 		<Stype>5</Stype>
 		<Ctype>9</Ctype>
@@ -2602,7 +2602,7 @@
 		<Id>71</Id>
 		<Sortno>63</Sortno>
 		<Bookno>63</Bookno>
-		<Name>Tone</Name>
+		<Name>利根</Name>
 		<Yomi>とね</Yomi>
 		<Stype>5</Stype>
 		<Ctype>31</Ctype>
@@ -2641,7 +2641,7 @@
 		<Id>72</Id>
 		<Sortno>64</Sortno>
 		<Bookno>64</Bookno>
-		<Name>Chikuma</Name>
+		<Name>筑摩</Name>
 		<Yomi>ちくま</Yomi>
 		<Stype>5</Stype>
 		<Ctype>31</Ctype>
@@ -2718,7 +2718,7 @@
 		<Id>74</Id>
 		<Sortno>94</Sortno>
 		<Bookno>94</Bookno>
-		<Name>Shouhou</Name>
+		<Name>祥鳳</Name>
 		<Yomi>しょうほう</Yomi>
 		<Stype>7</Stype>
 		<Ctype>11</Ctype>
@@ -2757,7 +2757,7 @@
 		<Id>75</Id>
 		<Sortno>65</Sortno>
 		<Bookno>65</Bookno>
-		<Name>Hiyou</Name>
+		<Name>飛鷹</Name>
 		<Yomi>ひよう</Yomi>
 		<Stype>7</Stype>
 		<Ctype>24</Ctype>
@@ -2796,7 +2796,7 @@
 		<Id>76</Id>
 		<Sortno>30</Sortno>
 		<Bookno>30</Bookno>
-		<Name>Ryuujou</Name>
+		<Name>龍驤</Name>
 		<Yomi>りゅうじょう</Yomi>
 		<Stype>7</Stype>
 		<Ctype>32</Ctype>
@@ -2835,7 +2835,7 @@
 		<Id>77</Id>
 		<Sortno>3</Sortno>
 		<Bookno>3</Bookno>
-		<Name>Ise</Name>
+		<Name>伊勢</Name>
 		<Yomi>いせ</Yomi>
 		<Stype>9</Stype>
 		<Ctype>2</Ctype>
@@ -2874,7 +2874,7 @@
 		<Id>78</Id>
 		<Sortno>21</Sortno>
 		<Bookno>21</Bookno>
-		<Name>Kongou</Name>
+		<Name>金剛</Name>
 		<Yomi>こんごう</Yomi>
 		<Stype>8</Stype>
 		<Ctype>6</Ctype>
@@ -2913,7 +2913,7 @@
 		<Id>79</Id>
 		<Sortno>23</Sortno>
 		<Bookno>23</Bookno>
-		<Name>Haruna</Name>
+		<Name>榛名</Name>
 		<Yomi>はるな</Yomi>
 		<Stype>8</Stype>
 		<Ctype>6</Ctype>
@@ -2952,7 +2952,7 @@
 		<Id>80</Id>
 		<Sortno>1</Sortno>
 		<Bookno>1</Bookno>
-		<Name>Nagato</Name>
+		<Name>長門</Name>
 		<Yomi>ながと</Yomi>
 		<Stype>9</Stype>
 		<Ctype>19</Ctype>
@@ -2991,7 +2991,7 @@
 		<Id>81</Id>
 		<Sortno>2</Sortno>
 		<Bookno>2</Bookno>
-		<Name>Mutsu</Name>
+		<Name>陸奧</Name>
 		<Yomi>むつ</Yomi>
 		<Stype>9</Stype>
 		<Ctype>19</Ctype>
@@ -3068,7 +3068,7 @@
 		<Id>83</Id>
 		<Sortno>6</Sortno>
 		<Bookno>6</Bookno>
-		<Name>Akagi</Name>
+		<Name>赤城</Name>
 		<Yomi>あかぎ</Yomi>
 		<Stype>11</Stype>
 		<Ctype>14</Ctype>
@@ -3107,7 +3107,7 @@
 		<Id>84</Id>
 		<Sortno>7</Sortno>
 		<Bookno>7</Bookno>
-		<Name>Kaga</Name>
+		<Name>加賀</Name>
 		<Yomi>かが</Yomi>
 		<Stype>11</Stype>
 		<Ctype>3</Ctype>
@@ -3146,7 +3146,7 @@
 		<Id>85</Id>
 		<Sortno>24</Sortno>
 		<Bookno>24</Bookno>
-		<Name>Kirishima</Name>
+		<Name>霧島</Name>
 		<Yomi>きりしま</Yomi>
 		<Stype>8</Stype>
 		<Ctype>6</Ctype>
@@ -3185,7 +3185,7 @@
 		<Id>86</Id>
 		<Sortno>22</Sortno>
 		<Bookno>22</Bookno>
-		<Name>Hiei</Name>
+		<Name>比叡</Name>
 		<Yomi>ひえい</Yomi>
 		<Stype>8</Stype>
 		<Ctype>6</Ctype>
@@ -3224,7 +3224,7 @@
 		<Id>87</Id>
 		<Sortno>4</Sortno>
 		<Bookno>4</Bookno>
-		<Name>Hyuuga</Name>
+		<Name>日向</Name>
 		<Yomi>ひゅうが</Yomi>
 		<Stype>9</Stype>
 		<Ctype>2</Ctype>
@@ -3301,7 +3301,7 @@
 		<Id>89</Id>
 		<Sortno>25</Sortno>
 		<Bookno>25</Bookno>
-		<Name>Houshou</Name>
+		<Name>鳳翔</Name>
 		<Yomi>ほうしょう</Yomi>
 		<Stype>7</Stype>
 		<Ctype>27</Ctype>
@@ -3340,7 +3340,7 @@
 		<Id>90</Id>
 		<Sortno>8</Sortno>
 		<Bookno>8</Bookno>
-		<Name>Souryuu</Name>
+		<Name>蒼龍</Name>
 		<Yomi>そうりゅう</Yomi>
 		<Stype>11</Stype>
 		<Ctype>17</Ctype>
@@ -3379,7 +3379,7 @@
 		<Id>91</Id>
 		<Sortno>9</Sortno>
 		<Bookno>9</Bookno>
-		<Name>Hiryuu</Name>
+		<Name>飛龍</Name>
 		<Yomi>ひりゅう</Yomi>
 		<Stype>11</Stype>
 		<Ctype>25</Ctype>
@@ -3418,7 +3418,7 @@
 		<Id>92</Id>
 		<Sortno>66</Sortno>
 		<Bookno>66</Bookno>
-		<Name>Junyou</Name>
+		<Name>隼鷹</Name>
 		<Yomi>じゅんよう</Yomi>
 		<Stype>7</Stype>
 		<Ctype>24</Ctype>
@@ -3457,7 +3457,7 @@
 		<Id>93</Id>
 		<Sortno>67</Sortno>
 		<Bookno>67</Bookno>
-		<Name>Oboro</Name>
+		<Name>朧</Name>
 		<Yomi>おぼろ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -3496,7 +3496,7 @@
 		<Id>94</Id>
 		<Sortno>69</Sortno>
 		<Bookno>69</Bookno>
-		<Name>Sazanami</Name>
+		<Name>漣</Name>
 		<Yomi>さざなみ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -3535,7 +3535,7 @@
 		<Id>95</Id>
 		<Sortno>85</Sortno>
 		<Bookno>85</Bookno>
-		<Name>Asashio</Name>
+		<Name>朝潮</Name>
 		<Yomi>あさしお</Yomi>
 		<Stype>2</Stype>
 		<Ctype>18</Ctype>
@@ -3574,7 +3574,7 @@
 		<Id>96</Id>
 		<Sortno>86</Sortno>
 		<Bookno>86</Bookno>
-		<Name>Ooshio</Name>
+		<Name>大潮</Name>
 		<Yomi>おおしお</Yomi>
 		<Stype>2</Stype>
 		<Ctype>18</Ctype>
@@ -3613,7 +3613,7 @@
 		<Id>97</Id>
 		<Sortno>87</Sortno>
 		<Bookno>87</Bookno>
-		<Name>Michishio</Name>
+		<Name>滿潮</Name>
 		<Yomi>みちしお</Yomi>
 		<Stype>2</Stype>
 		<Ctype>18</Ctype>
@@ -3652,7 +3652,7 @@
 		<Id>98</Id>
 		<Sortno>88</Sortno>
 		<Bookno>88</Bookno>
-		<Name>Arashio</Name>
+		<Name>荒潮</Name>
 		<Yomi>あらしお</Yomi>
 		<Stype>2</Stype>
 		<Ctype>18</Ctype>
@@ -3691,7 +3691,7 @@
 		<Id>99</Id>
 		<Sortno>39</Sortno>
 		<Bookno>39</Bookno>
-		<Name>Kuma</Name>
+		<Name>球磨</Name>
 		<Yomi>くま</Yomi>
 		<Stype>3</Stype>
 		<Ctype>4</Ctype>
@@ -3730,7 +3730,7 @@
 		<Id>100</Id>
 		<Sortno>40</Sortno>
 		<Bookno>40</Bookno>
-		<Name>Tama</Name>
+		<Name>多摩</Name>
 		<Yomi>たま</Yomi>
 		<Stype>3</Stype>
 		<Ctype>4</Ctype>
@@ -3769,7 +3769,7 @@
 		<Id>101</Id>
 		<Sortno>41</Sortno>
 		<Bookno>41</Bookno>
-		<Name>Kiso</Name>
+		<Name>木曾</Name>
 		<Yomi>きそ</Yomi>
 		<Stype>3</Stype>
 		<Ctype>4</Ctype>
@@ -3808,7 +3808,7 @@
 		<Id>102</Id>
 		<Sortno>49</Sortno>
 		<Bookno>49</Bookno>
-		<Name>Chitose</Name>
+		<Name>千歲</Name>
 		<Yomi>ちとせ</Yomi>
 		<Stype>16</Stype>
 		<Ctype>15</Ctype>
@@ -3847,7 +3847,7 @@
 		<Id>103</Id>
 		<Sortno>50</Sortno>
 		<Bookno>50</Bookno>
-		<Name>Chiyoda</Name>
+		<Name>千代田</Name>
 		<Yomi>ちよだ</Yomi>
 		<Stype>16</Stype>
 		<Ctype>15</Ctype>
@@ -4042,7 +4042,7 @@
 		<Id>108</Id>
 		<Sortno>104</Sortno>
 		<Bookno>104</Bookno>
-		<Name>Chitose-Kou</Name>
+		<Name>千歲航</Name>
 		<Yomi>ちとせ</Yomi>
 		<Stype>7</Stype>
 		<Ctype>15</Ctype>
@@ -4081,7 +4081,7 @@
 		<Id>109</Id>
 		<Sortno>105</Sortno>
 		<Bookno>105</Bookno>
-		<Name>Chiyoda-Kou</Name>
+		<Name>千代田航</Name>
 		<Yomi>ちよだ</Yomi>
 		<Stype>7</Stype>
 		<Ctype>15</Ctype>
@@ -4120,7 +4120,7 @@
 		<Id>110</Id>
 		<Sortno>106</Sortno>
 		<Bookno>106</Bookno>
-		<Name>Shoukaku</Name>
+		<Name>翔鶴</Name>
 		<Yomi>しょうかく</Yomi>
 		<Stype>11</Stype>
 		<Ctype>33</Ctype>
@@ -4159,7 +4159,7 @@
 		<Id>111</Id>
 		<Sortno>107</Sortno>
 		<Bookno>107</Bookno>
-		<Name>Zuikaku</Name>
+		<Name>瑞鶴</Name>
 		<Yomi>ずいかく</Yomi>
 		<Stype>11</Stype>
 		<Ctype>33</Ctype>
@@ -4237,7 +4237,7 @@
 		<Id>113</Id>
 		<Sortno>109</Sortno>
 		<Bookno>109</Bookno>
-		<Name>Kinu</Name>
+		<Name>鬼怒</Name>
 		<Yomi>きぬ</Yomi>
 		<Stype>3</Stype>
 		<Ctype>20</Ctype>
@@ -4276,7 +4276,7 @@
 		<Id>114</Id>
 		<Sortno>110</Sortno>
 		<Bookno>110</Bookno>
-		<Name>Abukuma</Name>
+		<Name>阿武隈</Name>
 		<Yomi>あぶくま</Yomi>
 		<Stype>3</Stype>
 		<Ctype>20</Ctype>
@@ -4315,7 +4315,7 @@
 		<Id>115</Id>
 		<Sortno>111</Sortno>
 		<Bookno>111</Bookno>
-		<Name>Yuubari</Name>
+		<Name>夕張</Name>
 		<Yomi>ゆうばり</Yomi>
 		<Stype>3</Stype>
 		<Ctype>34</Ctype>
@@ -4354,7 +4354,7 @@
 		<Id>116</Id>
 		<Sortno>112</Sortno>
 		<Bookno>112</Bookno>
-		<Name>Zuihou</Name>
+		<Name>瑞鳳</Name>
 		<Yomi>ずいほう</Yomi>
 		<Stype>7</Stype>
 		<Ctype>11</Ctype>
@@ -4507,7 +4507,7 @@
 		<Id>120</Id>
 		<Sortno>116</Sortno>
 		<Bookno>116</Bookno>
-		<Name>Mikuma</Name>
+		<Name>三隈</Name>
 		<Yomi>みくま</Yomi>
 		<Stype>5</Stype>
 		<Ctype>9</Ctype>
@@ -4584,7 +4584,7 @@
 		<Id>122</Id>
 		<Sortno>119</Sortno>
 		<Bookno>119</Bookno>
-		<Name>Maikaze</Name>
+		<Name>舞風</Name>
 		<Yomi>まいかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -4623,7 +4623,7 @@
 		<Id>123</Id>
 		<Sortno>120</Sortno>
 		<Bookno>120</Bookno>
-		<Name>Kinugasa</Name>
+		<Name>衣笠</Name>
 		<Yomi>きぬがさ</Yomi>
 		<Stype>5</Stype>
 		<Ctype>13</Ctype>
@@ -4662,7 +4662,7 @@
 		<Id>124</Id>
 		<Sortno>124</Sortno>
 		<Bookno>124</Bookno>
-		<Name>Suzuya</Name>
+		<Name>鈴谷</Name>
 		<Yomi>すずや</Yomi>
 		<Stype>5</Stype>
 		<Ctype>9</Ctype>
@@ -4701,7 +4701,7 @@
 		<Id>125</Id>
 		<Sortno>125</Sortno>
 		<Bookno>125</Bookno>
-		<Name>Kumano</Name>
+		<Name>熊野</Name>
 		<Yomi>くまの</Yomi>
 		<Stype>5</Stype>
 		<Ctype>9</Ctype>
@@ -4740,7 +4740,7 @@
 		<Id>126</Id>
 		<Sortno>126</Sortno>
 		<Bookno>126</Bookno>
-		<Name>I-168</Name>
+		<Name>伊168</Name>
 		<Yomi>い168</Yomi>
 		<Stype>13</Stype>
 		<Ctype>35</Ctype>
@@ -4779,7 +4779,7 @@
 		<Id>127</Id>
 		<Sortno>127</Sortno>
 		<Bookno>127</Bookno>
-		<Name>I-58</Name>
+		<Name>伊58</Name>
 		<Yomi>い58</Yomi>
 		<Stype>13</Stype>
 		<Ctype>36</Ctype>
@@ -4818,7 +4818,7 @@
 		<Id>128</Id>
 		<Sortno>128</Sortno>
 		<Bookno>128</Bookno>
-		<Name>I-8</Name>
+		<Name>伊8</Name>
 		<Yomi>い8</Yomi>
 		<Stype>13</Stype>
 		<Ctype>40</Ctype>
@@ -4933,7 +4933,7 @@
 		<Id>131</Id>
 		<Sortno>131</Sortno>
 		<Bookno>131</Bookno>
-		<Name>Yamato</Name>
+		<Name>大和</Name>
 		<Yomi>やまと</Yomi>
 		<Stype>9</Stype>
 		<Ctype>37</Ctype>
@@ -4972,7 +4972,7 @@
 		<Id>132</Id>
 		<Sortno>132</Sortno>
 		<Bookno>132</Bookno>
-		<Name>Akigumo</Name>
+		<Name>秋雲</Name>
 		<Yomi>あきぐも</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -5011,7 +5011,7 @@
 		<Id>133</Id>
 		<Sortno>133</Sortno>
 		<Bookno>133</Bookno>
-		<Name>Yuugumo</Name>
+		<Name>夕雲</Name>
 		<Yomi>ゆうぐも</Yomi>
 		<Stype>2</Stype>
 		<Ctype>38</Ctype>
@@ -5050,7 +5050,7 @@
 		<Id>134</Id>
 		<Sortno>134</Sortno>
 		<Bookno>134</Bookno>
-		<Name>Makigumo</Name>
+		<Name>巻雲</Name>
 		<Yomi>まきぐも</Yomi>
 		<Stype>2</Stype>
 		<Ctype>38</Ctype>
@@ -5089,7 +5089,7 @@
 		<Id>135</Id>
 		<Sortno>135</Sortno>
 		<Bookno>135</Bookno>
-		<Name>Naganami</Name>
+		<Name>長波</Name>
 		<Yomi>ながなみ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>38</Ctype>
@@ -5166,7 +5166,7 @@
 		<Id>137</Id>
 		<Sortno>137</Sortno>
 		<Bookno>137</Bookno>
-		<Name>Agano</Name>
+		<Name>阿賀野</Name>
 		<Yomi>あがの</Yomi>
 		<Stype>3</Stype>
 		<Ctype>41</Ctype>
@@ -5205,7 +5205,7 @@
 		<Id>138</Id>
 		<Sortno>138</Sortno>
 		<Bookno>138</Bookno>
-		<Name>Noshiro</Name>
+		<Name>能代</Name>
 		<Yomi>のしろ</Yomi>
 		<Stype>3</Stype>
 		<Ctype>41</Ctype>
@@ -5244,7 +5244,7 @@
 		<Id>139</Id>
 		<Sortno>139</Sortno>
 		<Bookno>139</Bookno>
-		<Name>Yahagi</Name>
+		<Name>矢矧</Name>
 		<Yomi>やはぎ</Yomi>
 		<Stype>3</Stype>
 		<Ctype>41</Ctype>
@@ -5283,7 +5283,7 @@
 		<Id>140</Id>
 		<Sortno>140</Sortno>
 		<Bookno>140</Bookno>
-		<Name>Sakawa</Name>
+		<Name>酒匂</Name>
 		<Yomi>さかわ</Yomi>
 		<Stype>3</Stype>
 		<Ctype>41</Ctype>
@@ -5398,7 +5398,7 @@
 		<Id>143</Id>
 		<Sortno>143</Sortno>
 		<Bookno>143</Bookno>
-		<Name>Musashi</Name>
+		<Name>武藏</Name>
 		<Yomi>むさし</Yomi>
 		<Stype>9</Stype>
 		<Ctype>37</Ctype>
@@ -5551,7 +5551,7 @@
 		<Id>147</Id>
 		<Sortno>147</Sortno>
 		<Bookno>147</Bookno>
-		<Name>Verniy</Name>
+		<Name>Верный</Name>
 		<Yomi>ひびき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>5</Ctype>
@@ -5779,7 +5779,7 @@
 		<Id>153</Id>
 		<Sortno>153</Sortno>
 		<Bookno>153</Bookno>
-		<Name>Taihou</Name>
+		<Name>大鳳</Name>
 		<Yomi>たいほう</Yomi>
 		<Stype>18</Stype>
 		<Ctype>43</Ctype>
@@ -5818,7 +5818,7 @@
 		<Id>154</Id>
 		<Sortno>154</Sortno>
 		<Bookno>154</Bookno>
-		<Name>Katori</Name>
+		<Name>香取</Name>
 		<Yomi>かとり</Yomi>
 		<Stype>21</Stype>
 		<Ctype>56</Ctype>
@@ -5857,7 +5857,7 @@
 		<Id>155</Id>
 		<Sortno>155</Sortno>
 		<Bookno>155</Bookno>
-		<Name>I-401</Name>
+		<Name>伊401</Name>
 		<Yomi>い401</Yomi>
 		<Stype>14</Stype>
 		<Ctype>44</Ctype>
@@ -6086,7 +6086,7 @@
 		<Id>161</Id>
 		<Sortno>161</Sortno>
 		<Bookno>161</Bookno>
-		<Name>Akitsumaru</Name>
+		<Name>あきつ丸(秋津丸)</Name>
 		<Yomi>あきつまる</Yomi>
 		<Stype>17</Stype>
 		<Ctype>45</Ctype>
@@ -6131,7 +6131,7 @@
 		<Id>163</Id>
 		<Sortno>162</Sortno>
 		<Bookno>162</Bookno>
-		<Name>Maruyu</Name>
+		<Name>まるゆ(丸優)</Name>
 		<Yomi>まるゆ</Yomi>
 		<Stype>13</Stype>
 		<Ctype>46</Ctype>
@@ -6170,7 +6170,7 @@
 		<Id>164</Id>
 		<Sortno>164</Sortno>
 		<Bookno>164</Bookno>
-		<Name>Yayoi</Name>
+		<Name>彌生</Name>
 		<Yomi>やよい</Yomi>
 		<Stype>2</Stype>
 		<Ctype>28</Ctype>
@@ -6209,7 +6209,7 @@
 		<Id>165</Id>
 		<Sortno>165</Sortno>
 		<Bookno>165</Bookno>
-		<Name>Uzuki</Name>
+		<Name>卯月</Name>
 		<Yomi>うづき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>28</Ctype>
@@ -6286,7 +6286,7 @@
 		<Id>167</Id>
 		<Sortno>167</Sortno>
 		<Bookno>167</Bookno>
-		<Name>Isokaze</Name>
+		<Name>磯風</Name>
 		<Yomi>いそかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -6325,7 +6325,7 @@
 		<Id>168</Id>
 		<Sortno>168</Sortno>
 		<Bookno>168</Bookno>
-		<Name>Urakaze</Name>
+		<Name>浦風</Name>
 		<Yomi>うらかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -6364,7 +6364,7 @@
 		<Id>169</Id>
 		<Sortno>169</Sortno>
 		<Bookno>169</Bookno>
-		<Name>Tanikaze</Name>
+		<Name>谷風</Name>
 		<Yomi>たにかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -6403,7 +6403,7 @@
 		<Id>170</Id>
 		<Sortno>170</Sortno>
 		<Bookno>170</Bookno>
-		<Name>Hamakaze</Name>
+		<Name>浜風</Name>
 		<Yomi>はまかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -6828,7 +6828,7 @@
 		<Id>181</Id>
 		<Sortno>181</Sortno>
 		<Bookno>181</Bookno>
-		<Name>Amatsukaze</Name>
+		<Name>天津風</Name>
 		<Yomi>あまつかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -6867,7 +6867,7 @@
 		<Id>182</Id>
 		<Sortno>182</Sortno>
 		<Bookno>182</Bookno>
-		<Name>Akashi</Name>
+		<Name>明石</Name>
 		<Yomi>あかし</Yomi>
 		<Stype>19</Stype>
 		<Ctype>49</Ctype>
@@ -6906,7 +6906,7 @@
 		<Id>183</Id>
 		<Sortno>183</Sortno>
 		<Bookno>183</Bookno>
-		<Name>Ooyodo</Name>
+		<Name>大淀</Name>
 		<Yomi>おおよど</Yomi>
 		<Stype>3</Stype>
 		<Ctype>52</Ctype>
@@ -6945,7 +6945,7 @@
 		<Id>184</Id>
 		<Sortno>184</Sortno>
 		<Bookno>184</Bookno>
-		<Name>Taigei</Name>
+		<Name>大鯨</Name>
 		<Yomi>たいげい・りゅうほう</Yomi>
 		<Stype>20</Stype>
 		<Ctype>50</Ctype>
@@ -6984,7 +6984,7 @@
 		<Id>185</Id>
 		<Sortno>185</Sortno>
 		<Bookno>185</Bookno>
-		<Name>Ryuuhou</Name>
+		<Name>龍鳳</Name>
 		<Yomi>たいげい・りゅうほう</Yomi>
 		<Stype>7</Stype>
 		<Ctype>51</Ctype>
@@ -7023,7 +7023,7 @@
 		<Id>186</Id>
 		<Sortno>186</Sortno>
 		<Bookno>186</Bookno>
-		<Name>Tokitsukaze</Name>
+		<Name>時津風</Name>
 		<Yomi>ときつかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -7176,7 +7176,7 @@
 		<Id>190</Id>
 		<Sortno>118</Sortno>
 		<Bookno>118</Bookno>
-		<Name>Hatsukaze</Name>
+		<Name>初風</Name>
 		<Yomi>はつかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -7215,7 +7215,7 @@
 		<Id>191</Id>
 		<Sortno>123</Sortno>
 		<Bookno>123</Bookno>
-		<Name>I-19</Name>
+		<Name>伊19</Name>
 		<Yomi>い19</Yomi>
 		<Stype>13</Stype>
 		<Ctype>39</Ctype>
@@ -12396,7 +12396,7 @@
 		<Id>331</Id>
 		<Sortno>202</Sortno>
 		<Bookno>202</Bookno>
-		<Name>Amagi</Name>
+		<Name>天城</Name>
 		<Yomi>あまぎ</Yomi>
 		<Stype>11</Stype>
 		<Ctype>53</Ctype>
@@ -12435,7 +12435,7 @@
 		<Id>332</Id>
 		<Sortno>203</Sortno>
 		<Bookno>203</Bookno>
-		<Name>Katsuragi</Name>
+		<Name>葛城</Name>
 		<Yomi>かつらぎ</Yomi>
 		<Stype>11</Stype>
 		<Ctype>53</Ctype>
@@ -13365,7 +13365,7 @@
 		<Id>404</Id>
 		<Sortno>201</Sortno>
 		<Bookno>201</Bookno>
-		<Name>Unryuu</Name>
+		<Name>雲龍</Name>
 		<Yomi>うんりゅう</Yomi>
 		<Stype>11</Stype>
 		<Ctype>53</Ctype>
@@ -13404,7 +13404,7 @@
 		<Id>405</Id>
 		<Sortno>205</Sortno>
 		<Bookno>205</Bookno>
-		<Name>Harusame</Name>
+		<Name>春雨</Name>
 		<Yomi>はるさめ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>23</Ctype>
@@ -13557,7 +13557,7 @@
 		<Id>409</Id>
 		<Sortno>209</Sortno>
 		<Bookno>209</Bookno>
-		<Name>Hayashimo</Name>
+		<Name>早霜</Name>
 		<Yomi>はやしも</Yomi>
 		<Stype>2</Stype>
 		<Ctype>38</Ctype>
@@ -13596,7 +13596,7 @@
 		<Id>410</Id>
 		<Sortno>210</Sortno>
 		<Bookno>210</Bookno>
-		<Name>Kiyoshimo</Name>
+		<Name>清霜</Name>
 		<Yomi>きよしも</Yomi>
 		<Stype>2</Stype>
 		<Ctype>38</Ctype>
@@ -13711,7 +13711,7 @@
 		<Id>413</Id>
 		<Sortno>213</Sortno>
 		<Bookno>213</Bookno>
-		<Name>Asagumo</Name>
+		<Name>朝雲</Name>
 		<Yomi>あさぐも</Yomi>
 		<Stype>2</Stype>
 		<Ctype>18</Ctype>
@@ -13750,7 +13750,7 @@
 		<Id>414</Id>
 		<Sortno>214</Sortno>
 		<Bookno>214</Bookno>
-		<Name>Yamagumo</Name>
+		<Name>山雲</Name>
 		<Yomi>やまぐも</Yomi>
 		<Stype>2</Stype>
 		<Ctype>18</Ctype>
@@ -13789,7 +13789,7 @@
 		<Id>415</Id>
 		<Sortno>215</Sortno>
 		<Bookno>215</Bookno>
-		<Name>Nowaki</Name>
+		<Name>野分</Name>
 		<Yomi>のわき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -13986,7 +13986,7 @@
 		<Id>421</Id>
 		<Sortno>221</Sortno>
 		<Bookno>221</Bookno>
-		<Name>Akizuki</Name>
+		<Name>秋月</Name>
 		<Yomi>あきづき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>54</Ctype>
@@ -14025,7 +14025,7 @@
 		<Id>422</Id>
 		<Sortno>222</Sortno>
 		<Bookno>222</Bookno>
-		<Name>Teruzuki</Name>
+		<Name>照月</Name>
 		<Yomi>てるづき</Yomi>
 		<Stype>2</Stype>
 		<Ctype>54</Ctype>
@@ -14070,7 +14070,7 @@
 		<Id>424</Id>
 		<Sortno>224</Sortno>
 		<Bookno>224</Bookno>
-		<Name>Takanami</Name>
+		<Name>高波</Name>
 		<Yomi>たかなみ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>38</Ctype>
@@ -14109,7 +14109,7 @@
 		<Id>425</Id>
 		<Sortno>225</Sortno>
 		<Bookno>225</Bookno>
-		<Name>Asashimo</Name>
+		<Name>朝霜</Name>
 		<Yomi>あさしも</Yomi>
 		<Stype>2</Stype>
 		<Ctype>38</Ctype>
@@ -14498,7 +14498,7 @@
 		<Id>436</Id>
 		<Sortno>236</Sortno>
 		<Bookno>236</Bookno>
-		<Name>RO-500</Name>
+		<Name>呂500</Name>
 		<Yomi>ゆー511・ろ500</Yomi>
 		<Stype>13</Stype>
 		<Ctype>57</Ctype>
@@ -14715,7 +14715,7 @@
 		<Id>445</Id>
 		<Sortno>235</Sortno>
 		<Bookno>235</Bookno>
-		<Name>Akitsushima</Name>
+		<Name>秋津洲</Name>
 		<Yomi>あきつしま</Yomi>
 		<Stype>16</Stype>
 		<Ctype>59</Ctype>
@@ -14880,7 +14880,7 @@
 		<Id>451</Id>
 		<Sortno>241</Sortno>
 		<Bookno>241</Bookno>
-		<Name>Mizuho</Name>
+		<Name>瑞穗</Name>
 		<Yomi>みずほ</Yomi>
 		<Stype>16</Stype>
 		<Ctype>62</Ctype>
@@ -14925,7 +14925,7 @@
 		<Id>453</Id>
 		<Sortno>223</Sortno>
 		<Bookno>223</Bookno>
-		<Name>Kazagumo</Name>
+		<Name>風雲</Name>
 		<Yomi>かざぐも</Yomi>
 		<Stype>2</Stype>
 		<Ctype>38</Ctype>
@@ -14964,7 +14964,7 @@
 		<Id>454</Id>
 		<Sortno>244</Sortno>
 		<Bookno>244</Bookno>
-		<Name>Arashi</Name>
+		<Name>嵐</Name>
 		<Yomi>あらし</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -15003,7 +15003,7 @@
 		<Id>455</Id>
 		<Sortno>245</Sortno>
 		<Bookno>245</Bookno>
-		<Name>Hagikaze</Name>
+		<Name>萩風</Name>
 		<Yomi>はぎかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>30</Ctype>
@@ -15054,7 +15054,7 @@
 		<Id>458</Id>
 		<Sortno>249</Sortno>
 		<Bookno>249</Bookno>
-		<Name>Umikaze</Name>
+		<Name>海風</Name>
 		<Yomi>うみかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>23</Ctype>
@@ -15093,7 +15093,7 @@
 		<Id>459</Id>
 		<Sortno>250</Sortno>
 		<Bookno>250</Bookno>
-		<Name>Kawakaze</Name>
+		<Name>江風</Name>
 		<Yomi>かわかぜ</Yomi>
 		<Stype>2</Stype>
 		<Ctype>23</Ctype>
@@ -15132,7 +15132,7 @@
 		<Id>460</Id>
 		<Sortno>218</Sortno>
 		<Bookno>218</Bookno>
-		<Name>Hayasui</Name>
+		<Name>速吸</Name>
 		<Yomi>はやすい</Yomi>
 		<Stype>22</Stype>
 		<Ctype>60</Ctype>
@@ -15294,7 +15294,7 @@
 		<Id>465</Id>
 		<Sortno>246</Sortno>
 		<Bookno>246</Bookno>
-		<Name>Kashima</Name>
+		<Name>鹿島</Name>
 		<Yomi>かしま</Yomi>
 		<Stype>21</Stype>
 		<Ctype>56</Ctype>
@@ -15411,7 +15411,7 @@
 		<Id>501</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer I-Class</Name>
+		<Name>駆逐イ級</Name>
 		<Yomi>-</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -15447,7 +15447,7 @@
 		<Id>502</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ro-Class</Name>
+		<Name>駆逐ロ級</Name>
 		<Yomi>-</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -15483,7 +15483,7 @@
 		<Id>503</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ha-Class</Name>
+		<Name>駆逐ハ級</Name>
 		<Yomi>-</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -15519,7 +15519,7 @@
 		<Id>504</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ni-Class</Name>
+		<Name>駆逐ニ級</Name>
 		<Yomi>-</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -15555,7 +15555,7 @@
 		<Id>505</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser Ho-Class</Name>
+		<Name>軽巡ホ級</Name>
 		<Yomi>-</Yomi>
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -15591,7 +15591,7 @@
 		<Id>506</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser He-Class</Name>
+		<Name>軽巡ヘ級</Name>
 		<Yomi>-</Yomi>
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -15627,7 +15627,7 @@
 		<Id>507</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser To-Class</Name>
+		<Name>軽巡ト級</Name>
 		<Yomi>-</Yomi>
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -15663,7 +15663,7 @@
 		<Id>508</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Torpedo Cruiser Chi-Class</Name>
+		<Name>雷巡チ級</Name>
 		<Yomi>-</Yomi>
 		<Stype>4</Stype>
 		<Ctype>1</Ctype>
@@ -15699,7 +15699,7 @@
 		<Id>509</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Heavy Cruiser Ri-Class</Name>
+		<Name>重巡リ級</Name>
 		<Yomi>-</Yomi>
 		<Stype>5</Stype>
 		<Ctype>1</Ctype>
@@ -15735,7 +15735,7 @@
 		<Id>510</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Carrier Nu-Class</Name>
+		<Name>軽母ヌ級</Name>
 		<Yomi>-</Yomi>
 		<Stype>7</Stype>
 		<Ctype>1</Ctype>
@@ -15771,7 +15771,7 @@
 		<Id>511</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Ru-Class</Name>
+		<Name>戦艦ル級</Name>
 		<Yomi>-</Yomi>
 		<Stype>9</Stype>
 		<Ctype>1</Ctype>
@@ -15807,7 +15807,7 @@
 		<Id>512</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Standard Carrier Wo-Class</Name>
+		<Name>空母ヲ級</Name>
 		<Yomi>-</Yomi>
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -15843,7 +15843,7 @@
 		<Id>513</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Transport Ship Wa-Class</Name>
+		<Name>輸送ワ級</Name>
 		<Yomi>-</Yomi>
 		<Stype>15</Stype>
 		<Ctype>1</Ctype>
@@ -15879,7 +15879,7 @@
 		<Id>514</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer I-Class</Name>
+		<Name>駆逐イ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -15915,7 +15915,7 @@
 		<Id>515</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ro-Class</Name>
+		<Name>駆逐ロ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -15951,7 +15951,7 @@
 		<Id>516</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ha-Class</Name>
+		<Name>駆逐ハ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -15987,7 +15987,7 @@
 		<Id>517</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ni-Class</Name>
+		<Name>駆逐ニ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -16023,7 +16023,7 @@
 		<Id>518</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser Ho-Class</Name>
+		<Name>軽巡ホ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -16059,7 +16059,7 @@
 		<Id>519</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser He-Class</Name>
+		<Name>軽巡ヘ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -16095,7 +16095,7 @@
 		<Id>520</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser To-Class</Name>
+		<Name>軽巡ト級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -16131,7 +16131,7 @@
 		<Id>521</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Torpedo Cruiser Chi-Class</Name>
+		<Name>雷巡チ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>4</Stype>
 		<Ctype>1</Ctype>
@@ -16167,7 +16167,7 @@
 		<Id>522</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Heavy Cruiser Ri-Class</Name>
+		<Name>重巡リ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>5</Stype>
 		<Ctype>1</Ctype>
@@ -16203,7 +16203,7 @@
 		<Id>523</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Carrier Nu-Class</Name>
+		<Name>軽母ヌ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>7</Stype>
 		<Ctype>1</Ctype>
@@ -16239,7 +16239,7 @@
 		<Id>524</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Ru-Class</Name>
+		<Name>戦艦ル級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>9</Stype>
 		<Ctype>1</Ctype>
@@ -16275,7 +16275,7 @@
 		<Id>525</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Standard Carrier Wo-Class</Name>
+		<Name>空母ヲ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -16311,7 +16311,7 @@
 		<Id>526</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Transport Ship Wa-Class</Name>
+		<Name>輸送ワ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>15</Stype>
 		<Ctype>1</Ctype>
@@ -16347,7 +16347,7 @@
 		<Id>527</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Heavy Cruiser Ri-Class</Name>
+		<Name>重巡リ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>5</Stype>
 		<Ctype>1</Ctype>
@@ -16383,7 +16383,7 @@
 		<Id>528</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Standard Carrier Wo-Class</Name>
+		<Name>空母ヲ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -16419,7 +16419,7 @@
 		<Id>529</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Ru-Class</Name>
+		<Name>戦艦ル級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>9</Stype>
 		<Ctype>1</Ctype>
@@ -16455,7 +16455,7 @@
 		<Id>530</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine Ka-Class</Name>
+		<Name>潜水カ級</Name>
 		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -16491,7 +16491,7 @@
 		<Id>531</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine Yo-Class</Name>
+		<Name>潜水ヨ級</Name>
 		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -16527,7 +16527,7 @@
 		<Id>532</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine Ka-Class</Name>
+		<Name>潜水カ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -16563,7 +16563,7 @@
 		<Id>533</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine Yo-Class</Name>
+		<Name>潜水ヨ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -16599,7 +16599,7 @@
 		<Id>534</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine Ka-Class</Name>
+		<Name>潜水カ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -16635,7 +16635,7 @@
 		<Id>535</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine Yo-Class</Name>
+		<Name>潜水ヨ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -16671,7 +16671,7 @@
 		<Id>536</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Floating Fortress</Name>
+		<Name>浮遊要塞</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -16707,7 +16707,7 @@
 		<Id>537</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Floating Fortress</Name>
+		<Name>浮遊要塞</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -16743,7 +16743,7 @@
 		<Id>538</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Floating Fortress</Name>
+		<Name>浮遊要塞</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -16779,7 +16779,7 @@
 		<Id>539</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Anchorage Demon</Name>
+		<Name>泊地棲鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -16815,7 +16815,7 @@
 		<Id>540</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Anchorage Princess</Name>
+		<Name>泊地棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -16851,7 +16851,7 @@
 		<Id>541</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Ta-Class</Name>
+		<Name>戦艦タ級</Name>
 		<Yomi />
 		<Stype>8</Stype>
 		<Ctype>1</Ctype>
@@ -16887,7 +16887,7 @@
 		<Id>542</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Ta-Class</Name>
+		<Name>戦艦タ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>8</Stype>
 		<Ctype>1</Ctype>
@@ -16923,7 +16923,7 @@
 		<Id>543</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Ta-Class</Name>
+		<Name>戦艦タ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>8</Stype>
 		<Ctype>1</Ctype>
@@ -16959,7 +16959,7 @@
 		<Id>544</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Armored Carrier Demon</Name>
+		<Name>装甲空母鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -16995,7 +16995,7 @@
 		<Id>545</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Armored Carrier Princess</Name>
+		<Name>装甲空母姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17031,7 +17031,7 @@
 		<Id>546</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Southern Demon</Name>
+		<Name>南方棲鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17067,7 +17067,7 @@
 		<Id>547</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Southern War Demon</Name>
+		<Name>南方棲戦鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17103,7 +17103,7 @@
 		<Id>548</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Southern War Princess</Name>
+		<Name>南方棲戦姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17139,7 +17139,7 @@
 		<Id>549</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Escort Fortress</Name>
+		<Name>護衛要塞</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17175,7 +17175,7 @@
 		<Id>550</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Escort Fortress</Name>
+		<Name>護衛要塞</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17211,7 +17211,7 @@
 		<Id>551</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Escort Fortress</Name>
+		<Name>護衛要塞</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17247,7 +17247,7 @@
 		<Id>552</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ro-Class</Name>
+		<Name>駆逐ロ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -17283,7 +17283,7 @@
 		<Id>553</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ha-Class</Name>
+		<Name>駆逐ハ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -17319,7 +17319,7 @@
 		<Id>554</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser Ho-Class</Name>
+		<Name>軽巡ホ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -17355,7 +17355,7 @@
 		<Id>555</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser He-Class</Name>
+		<Name>軽巡ヘ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -17391,7 +17391,7 @@
 		<Id>556</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Airfield Princess</Name>
+		<Name>飛行場姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17427,7 +17427,7 @@
 		<Id>557</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Princess</Name>
+		<Name>戦艦棲姫</Name>
 		<Yomi />
 		<Stype>9</Stype>
 		<Ctype>1</Ctype>
@@ -17463,7 +17463,7 @@
 		<Id>558</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Transport Ship Wa-Class</Name>
+		<Name>輸送ワ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>15</Stype>
 		<Ctype>1</Ctype>
@@ -17499,7 +17499,7 @@
 		<Id>559</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Torpedo Cruiser Chi-Class</Name>
+		<Name>雷巡チ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>4</Stype>
 		<Ctype>1</Ctype>
@@ -17535,7 +17535,7 @@
 		<Id>560</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Carrier Nu-Class</Name>
+		<Name>軽母ヌ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>7</Stype>
 		<Ctype>1</Ctype>
@@ -17571,7 +17571,7 @@
 		<Id>561</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Re-Class</Name>
+		<Name>戦艦レ級</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17607,7 +17607,7 @@
 		<Id>562</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Re-Class</Name>
+		<Name>戦艦レ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17649,7 +17649,7 @@
 		<Id>564</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer I-Class</Name>
+		<Name>駆逐イ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -17685,7 +17685,7 @@
 		<Id>565</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Standard Carrier Wo-Class Kai</Name>
+		<Name>空母ヲ級改</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -17721,7 +17721,7 @@
 		<Id>566</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Heavy Cruiser Ri-Class Kai</Name>
+		<Name>重巡リ級改</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>5</Stype>
 		<Ctype>1</Ctype>
@@ -17757,7 +17757,7 @@
 		<Id>567</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Ru-Class Kai</Name>
+		<Name>戦艦ル級改</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>9</Stype>
 		<Ctype>1</Ctype>
@@ -17805,7 +17805,7 @@
 		<Id>570</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine So-Class</Name>
+		<Name>潜水ソ級</Name>
 		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -17841,7 +17841,7 @@
 		<Id>571</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine So-Class</Name>
+		<Name>潜水ソ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -17877,7 +17877,7 @@
 		<Id>572</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine So-Class</Name>
+		<Name>潜水ソ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -17913,7 +17913,7 @@
 		<Id>573</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Harbour Princess</Name>
+		<Name>港湾棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17949,7 +17949,7 @@
 		<Id>574</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Isolated Island Demon</Name>
+		<Name>離島棲鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -17985,7 +17985,7 @@
 		<Id>575</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer I-Class Late Model</Name>
+		<Name>駆逐イ級後期型</Name>
 		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -18021,7 +18021,7 @@
 		<Id>576</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ro-Class Late Model</Name>
+		<Name>駆逐ロ級後期型</Name>
 		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -18057,7 +18057,7 @@
 		<Id>577</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ha-Class Late Model</Name>
+		<Name>駆逐ハ級後期型</Name>
 		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -18093,7 +18093,7 @@
 		<Id>578</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ni-Class Late Model</Name>
+		<Name>駆逐ニ級後期型</Name>
 		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -18129,7 +18129,7 @@
 		<Id>579</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Standard Carrier Wo-Class</Name>
+		<Name>空母ヲ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -18171,7 +18171,7 @@
 		<Id>581</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Northern Princess</Name>
+		<Name>北方棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -18207,7 +18207,7 @@
 		<Id>582</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Northern Princess</Name>
+		<Name>北方棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -18243,7 +18243,7 @@
 		<Id>583</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Midway Princess</Name>
+		<Name>中間棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -18279,7 +18279,7 @@
 		<Id>584</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Midway Princess</Name>
+		<Name>中間棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -18315,7 +18315,7 @@
 		<Id>585</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Aircraft Carrier Demon</Name>
+		<Name>空母棲鬼</Name>
 		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -18351,7 +18351,7 @@
 		<Id>586</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Aircraft Carrier Princess</Name>
+		<Name>空母棲姫</Name>
 		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -18387,7 +18387,7 @@
 		<Id>587</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Northern Princess</Name>
+		<Name>北方棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -18423,7 +18423,7 @@
 		<Id>588</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Northern Princess</Name>
+		<Name>北方棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -18459,7 +18459,7 @@
 		<Id>589</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Northern Princess</Name>
+		<Name>北方棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -18495,7 +18495,7 @@
 		<Id>590</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Northern Princess</Name>
+		<Name>北方棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -18531,7 +18531,7 @@
 		<Id>591</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser Tsu-Class</Name>
+		<Name>軽巡ツ級</Name>
 		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -18567,7 +18567,7 @@
 		<Id>592</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser Tsu-Class</Name>
+		<Name>軽巡ツ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -18609,7 +18609,7 @@
 		<Id>594</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Heavy Cruiser Ne-Class</Name>
+		<Name>重巡ネ級</Name>
 		<Yomi />
 		<Stype>5</Stype>
 		<Ctype>1</Ctype>
@@ -18645,7 +18645,7 @@
 		<Id>595</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Heavy Cruiser Ne-Class</Name>
+		<Name>重巡ネ級</Name>
 		<Yomi>elite</Yomi>
 		<Stype>5</Stype>
 		<Ctype>1</Ctype>
@@ -18687,7 +18687,7 @@
 		<Id>597</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Princess</Name>
+		<Name>駆逐棲姫</Name>
 		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -18723,7 +18723,7 @@
 		<Id>598</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Princess</Name>
+		<Name>駆逐棲姫</Name>
 		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -18759,7 +18759,7 @@
 		<Id>599</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Aircraft Carrier Water Demon</Name>
+		<Name>空母水鬼</Name>
 		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -18795,7 +18795,7 @@
 		<Id>600</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Aircraft Carrier Water Demon</Name>
+		<Name>空母水鬼</Name>
 		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -18831,7 +18831,7 @@
 		<Id>601</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser Demon</Name>
+		<Name>軽巡棲鬼</Name>
 		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -18867,7 +18867,7 @@
 		<Id>602</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser Demon</Name>
+		<Name>軽巡棲鬼</Name>
 		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -18903,7 +18903,7 @@
 		<Id>603</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Water Demon</Name>
+		<Name>戦艦水鬼</Name>
 		<Yomi />
 		<Stype>9</Stype>
 		<Ctype>1</Ctype>
@@ -18939,7 +18939,7 @@
 		<Id>604</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Battleship Water Demon</Name>
+		<Name>戦艦水鬼</Name>
 		<Yomi />
 		<Stype>9</Stype>
 		<Ctype>1</Ctype>
@@ -18975,7 +18975,7 @@
 		<Id>605</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Harbour Water Demon</Name>
+		<Name>港湾水鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -19011,7 +19011,7 @@
 		<Id>606</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Harbour Water Demon</Name>
+		<Name>港湾水鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -19047,7 +19047,7 @@
 		<Id>607</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Harbour Water Demon</Name>
+		<Name>港湾水鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -19083,7 +19083,7 @@
 		<Id>608</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Harbour Water Demon</Name>
+		<Name>港湾水鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -19119,7 +19119,7 @@
 		<Id>609</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Anchorage Water Demon</Name>
+		<Name>泊地水鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -19155,7 +19155,7 @@
 		<Id>610</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Anchorage Water Demon</Name>
+		<Name>泊地水鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -19191,7 +19191,7 @@
 		<Id>611</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Anchorage Water Demon</Name>
+		<Name>泊地水鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -19227,7 +19227,7 @@
 		<Id>612</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Anchorage Water Demon</Name>
+		<Name>泊地水鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -19263,7 +19263,7 @@
 		<Id>613</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Harbour Princess</Name>
+		<Name>港湾棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -19299,7 +19299,7 @@
 		<Id>614</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Standard Carrier Wo-Class</Name>
+		<Name>空母ヲ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -19335,7 +19335,7 @@
 		<Id>615</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Standard Carrier Wo-Class</Name>
+		<Name>空母ヲ級</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -19371,7 +19371,7 @@
 		<Id>616</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Standard Carrier Wo-Class Kai</Name>
+		<Name>空母ヲ級改</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -19407,7 +19407,7 @@
 		<Id>617</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Standard Carrier Wo-Class Kai</Name>
+		<Name>空母ヲ級改</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -19443,7 +19443,7 @@
 		<Id>618</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Standard Carrier Wo-Class Kai</Name>
+		<Name>空母ヲ級改</Name>
 		<Yomi>flagship</Yomi>
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -19479,7 +19479,7 @@
 		<Id>619</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Aircraft Carrier Demon</Name>
+		<Name>空母棲鬼</Name>
 		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -19515,7 +19515,7 @@
 		<Id>620</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Aircraft Carrier Princess</Name>
+		<Name>空母棲姫</Name>
 		<Yomi />
 		<Stype>11</Stype>
 		<Ctype>1</Ctype>
@@ -19551,7 +19551,7 @@
 		<Id>621</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer I-Class Late Model</Name>
+		<Name>駆逐イ級後期型</Name>
 		<Yomi>elite</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -19587,7 +19587,7 @@
 		<Id>622</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ro-Class Late Model</Name>
+		<Name>駆逐ロ級後期型</Name>
 		<Yomi>elite</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -19623,7 +19623,7 @@
 		<Id>623</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ha-Class Late Model</Name>
+		<Name>駆逐ハ級後期型</Name>
 		<Yomi>elite</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -19659,7 +19659,7 @@
 		<Id>624</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Destroyer Ni-Class Late Model</Name>
+		<Name>駆逐ニ級後期型</Name>
 		<Yomi>elite</Yomi>
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -19695,7 +19695,7 @@
 		<Id>625</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Seaplane Tender Princess</Name>
+		<Name>水母棲姫</Name>
 		<Yomi />
 		<Stype>16</Stype>
 		<Ctype>1</Ctype>
@@ -19731,7 +19731,7 @@
 		<Id>626</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Seaplane Tender Princess</Name>
+		<Name>水母棲姫</Name>
 		<Yomi />
 		<Stype>16</Stype>
 		<Ctype>1</Ctype>
@@ -19767,7 +19767,7 @@
 		<Id>627</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Seaplane Tender Princess</Name>
+		<Name>水母棲姫</Name>
 		<Yomi />
 		<Stype>16</Stype>
 		<Ctype>1</Ctype>
@@ -19803,7 +19803,7 @@
 		<Id>628</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Air Defense Princess</Name>
+		<Name>防空棲姫</Name>
 		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -19839,7 +19839,7 @@
 		<Id>629</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Air Defense Princess</Name>
+		<Name>防空棲姫</Name>
 		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -19875,7 +19875,7 @@
 		<Id>630</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Air Defense Princess</Name>
+		<Name>防空棲姫</Name>
 		<Yomi />
 		<Stype>2</Stype>
 		<Ctype>1</Ctype>
@@ -19911,7 +19911,7 @@
 		<Id>631</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Airfield Princess</Name>
+		<Name>飛行場姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -19947,7 +19947,7 @@
 		<Id>632</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Airfield Princess</Name>
+		<Name>飛行場姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -19983,7 +19983,7 @@
 		<Id>633</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Airfield Princess</Name>
+		<Name>飛行場姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -20019,7 +20019,7 @@
 		<Id>634</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Isolated Island Demon</Name>
+		<Name>離島棲鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -20055,7 +20055,7 @@
 		<Id>635</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Isolated Island Demon</Name>
+		<Name>離島棲鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -20091,7 +20091,7 @@
 		<Id>636</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Isolated Island Demon</Name>
+		<Name>離島棲鬼</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -20127,7 +20127,7 @@
 		<Id>641</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser Princess</Name>
+		<Name>軽巡棲姫</Name>
 		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -20163,7 +20163,7 @@
 		<Id>642</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser Princess</Name>
+		<Name>軽巡棲姫</Name>
 		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -20199,7 +20199,7 @@
 		<Id>643</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Light Cruiser Princess</Name>
+		<Name>軽巡棲姫</Name>
 		<Yomi />
 		<Stype>3</Stype>
 		<Ctype>1</Ctype>
@@ -20235,7 +20235,7 @@
 		<Id>644</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine Princess</Name>
+		<Name>潜水棲姫</Name>
 		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -20271,7 +20271,7 @@
 		<Id>645</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine Princess</Name>
+		<Name>潜水棲姫</Name>
 		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -20307,7 +20307,7 @@
 		<Id>646</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Submarine Princess</Name>
+		<Name>潜水棲姫</Name>
 		<Yomi />
 		<Stype>13</Stype>
 		<Ctype>1</Ctype>
@@ -20451,7 +20451,7 @@
 		<Id>653</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Central Princess</Name>
+		<Name>中枢棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -20487,7 +20487,7 @@
 		<Id>654</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Central Princess</Name>
+		<Name>中枢棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>
@@ -20523,7 +20523,7 @@
 		<Id>655</Id>
 		<Sortno>0</Sortno>
 		<Bookno>0</Bookno>
-		<Name>Central Princess</Name>
+		<Name>中枢棲姫</Name>
 		<Yomi />
 		<Stype>10</Stype>
 		<Ctype>1</Ctype>

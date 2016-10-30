@@ -2,6 +2,7 @@ import os
 import re
 import json
 import xmltodict
+import codecs
 
 # default dirs
 xml_dir = os.path.join("Xml", "tables", "master")
@@ -28,41 +29,42 @@ def ships(lang='en'): # translate all ship names
 			#print(item['Id'], item['Name'])
 			#continue
 
-		# 544 装甲空母鬼 = Armored Carrier Demon
-		if item['Name'] == "装甲空母鬼":
-			item['Name'] = 'Armored Carrier Demon'
-			print(item['Id'], item['Name'])
-			continue
+		## 544 装甲空母鬼 = Armored Carrier Demon
+		#if item['Name'] == "装甲空母鬼":
+			#item['Name'] = 'Armored Carrier Demon'
+			#print(item['Id'], item['Name'])
+			#continue
 
-		# 545 装甲空母姫 = Armored Carrier Priness
-		if item['Name'] == "装甲空母姫":
-			item['Name'] = 'Armored Carrier Princess'
-			print(item['Id'], item['Name'])
-			continue
+		## 545 装甲空母姫 = Armored Carrier Priness
+		#if item['Name'] == "装甲空母姫":
+			#item['Name'] = 'Armored Carrier Princess'
+			#print(item['Id'], item['Name'])
+			#continue
 
 		# 650 運河棲姫 = Canal Princess, unique to Vita
 		if item['Name'] == "運河棲姫":
-			item['Name'] = 'Canal Princess'
+			item['Name'] = '运河栖姫'
 			print(item['Id'], item['Name'])
 			continue
 		
 		try:
 			# render Kai and Ni to romaji with space separation
 			# also render 甲 (corresponds to https://en.wikipedia.org/wiki/Celestial_stem ) as A... (in the future 乙: B, 丙: C, 丁: D)
-			item['Name'] = item['Name'].replace('改', ' Kai').replace('二', ' Ni').replace('甲', ' A')
+			#item['Name'] = item['Name'].replace('改', ' Kai').replace('二', ' Ni').replace('甲', ' A')
 			
 			# since event specifics only start from ID 901, only start checking if it is greater than this
 			if int(item['Id']) >= 901:
-				events = {"年末": "Year-end", "正月": "New_Year", "梅雨": "Rainy_Season", "夏": "Summer", "秋": "Autumn", "Valentine": "Valentine", "Xmas": "Xmas"} # underscore as scaffolding
-				for event in events.keys():
-					if item['Name'].find(event) != -1:
-						processed = item['Name'].replace(event, event + " ")
-						fullname = processed.split()
-						fullname[0] = events[event].replace("_", " ")
-						translation = shiplist[fullname[1]]
-						fullname[1] = translation
-						item["Name"] = " ".join(fullname)
-						break # name found, no more searching needed
+				test = None
+				#events = {"年末": "Year-end", "正月": "New_Year", "梅雨": "Rainy_Season", "夏": "Summer", "秋": "Autumn", "Valentine": "Valentine", "Xmas": "Xmas"} # underscore as scaffolding
+				#for event in events.keys():
+					#if item['Name'].find(event) != -1:
+						#processed = item['Name'].replace(event, event + " ")
+						#fullname = processed.split()
+						#fullname[0] = events[event].replace("_", " ")
+						#translation = shiplist[fullname[1]]
+						#fullname[1] = translation
+						#item["Name"] = " ".join(fullname)
+						#break # name found, no more searching needed
 			else:
 				# split full name into components
 				fullname = item['Name'].split()
@@ -205,11 +207,11 @@ def quotes(lang='en'):
 
 	# get KC3 JSON, id as key and translation as value
 	list_fname = 'quotes.json'
-	datalist = json.load(open(os.path.join(kc3_trans_dir, lang, list_fname), 'r'))
+	datalist = json.load(codecs.open(os.path.join(kc3_trans_dir, lang, list_fname), 'r', 'utf-8-sig'))
 	
 	# get original ship name to help
 	shipxml_fname = 'mst_ship.xml'
-	shipxml = xmltodict.parse(open(os.path.join(en_xml_dir, shipxml_fname), 'rb'))
+	shipxml = xmltodict.parse(open(os.path.join(jp_xml_dir, shipxml_fname), 'rb'))
 
 	# compile a shiphash table with Id as key by processing shiplist XML
 	shiplist = {}
@@ -223,22 +225,22 @@ def quotes(lang='en'):
 
 	# replace all names with corresponding unicode string
 	for item in xml['mst_shiptext_data']['mst_shiptext']:
-		if (item['Id'] == '147'): # Verniy
-			item['Getmes'] = datalist['147']['1'] # retain original getmessage
-			item['Sinfo'] = datalist['35']['25']
-			continue
-		if (item['Id'] == '177'): # Prinz Eugen (not easily found due to space)
-			item['Getmes'] = datalist['176']['1']
-			item['Sinfo'] = datalist['176']['25']
-			continue
-		if (item['Id'] == '353'): # Graf Zeppelin (not easily found due to space)
-			item['Getmes'] = datalist['432']['1'] # retain original getmessage
-			item['Sinfo'] = datalist['432']['25']
-			continue
-		elif (item['Id'] == '357') or (item['Id'] == '463'): # Iowa
-			item['Getmes'] = datalist['440']['1']
-			item['Sinfo'] = datalist['440']['25']
-			continue
+		#if (item['Id'] == '147'): # Verniy
+			#item['Getmes'] = datalist['147']['1'] # retain original getmessage
+			#item['Sinfo'] = datalist['35']['25']
+			#continue
+		#if (item['Id'] == '177'): # Prinz Eugen (not easily found due to space)
+			#item['Getmes'] = datalist['176']['1']
+			#item['Sinfo'] = datalist['176']['25']
+			#continue
+		#if (item['Id'] == '353'): # Graf Zeppelin (not easily found due to space)
+			#item['Getmes'] = datalist['432']['1'] # retain original getmessage
+			#item['Sinfo'] = datalist['432']['25']
+			#continue
+		#elif (item['Id'] == '357') or (item['Id'] == '463'): # Iowa
+			#item['Getmes'] = datalist['440']['1']
+			#item['Sinfo'] = datalist['440']['25']
+			#continue
 		
 		# Skip null shiptext IDs
 		if (item['Getmes'] == None) and (item['Sinfo'] == None):
@@ -246,6 +248,7 @@ def quotes(lang='en'):
 		
 		try:
 			item['Getmes'] = datalist[item['Id']]['1'].replace(r'<br/>', r'\n').replace(r'<br />', r'\n')
+			print(item['Getmes'])
 		except KeyError: # if get message not found, check if kai
 			pass
 		
@@ -259,6 +262,8 @@ def quotes(lang='en'):
 				base_id = shipnames[fullname[0]] # find basename ID
 				item['Getmes'] = datalist[base_id]['1'].replace(r'<br/>', r'\n')
 				item['Sinfo'] = datalist[base_id]['25'].replace('<br/>', r'\n')
+				print(item['Getmes'])
+				print(item['Sinfo'])
 			except KeyError:
 				pass
 
@@ -277,10 +282,11 @@ def quotes(lang='en'):
 	with open(os.path.join(lang, xml_dir, xml_fname), 'w') as f:
 		f.write(filedata)
 
-#ships()
-#slot_items()
+ships('scn')
+slot_items('scn')
 #quests()
 #quest_hash()
-#stype()
-quotes('tcn')
-print("Changes compiled. To start over, replace the `Xml/` folder in `en/` with the one from `jp/`.")
+stype('scn')
+#quotes('scn') # needs to use non english ship name hashing system
+print("Changes compiled. To start over, replace the `Xml/` folder in `tcn/` with the one from `jp/`.")
+print("Also, there were issues with item.json when we tried it, so copy the mst_slotitem.xml  from `jp/` (no need to translate that anyway).")

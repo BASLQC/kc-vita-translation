@@ -1,8 +1,15 @@
+Kantai Collection Vita Translation
+========================
+
+This is a work in progress project to produce a Kantai Collection Vita multilingual translation.
+
+See the wiki for more information: https://github.com/BASLQC/kc-vita-translation/wiki
+
 Some items, by necessity of having an English variable name, are already in english. Other items are just pure data.
 
 ## Processing
 
-Python with `xmltodict` will be used to parse and unparse the XML data. It requires no XML schemas, and turns it straight into a Python Dict as if it was a JSON file: and back. Which helps because the KC3 translations are also in JSON.
+Python with `xmltodict` will be used to parste and unparse the XML data. It requires no XML schemas, and turns it straight into a Python Dict as if it was a JSON file: and back. Which helps because the KC3 translations are also in JSON.
 
 Installation:
 
