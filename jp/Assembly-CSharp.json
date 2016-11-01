@@ -16,7 +16,7 @@
     "上で設定して使用したい": ""
   },
   "KCV/Strategy/StrategyRepairConfirm.cs": {
-    "使用しない": ""
+    "Do not use": ""
   },
   "KCV/Battle/Production/ProdBattleCommandBuffer.cs": {
     "コマンドプレハブ読み込み": ""
@@ -247,7 +247,7 @@
     "・": "",
     "ロ": "",
     "ッ": "",
-    "艦隊名を入力してください": ""
+    "Please enter the fleet's name": ""
   },
   "local/managers/RecordManager.cs": {
     "入渠ドック数": "",
@@ -444,9 +444,9 @@
     "解除開始": ""
   },
   "KCV/Organize/UIHowToOrganize.cs": {
-    "ロック": "",
+    "Lock": "",
     "一括解除": "",
-    "戻る": "",
+    "Return": "",
     "はずす": ""
   },
   "KCV/Scene/Practice/UIPracticeMenu.cs": {
@@ -838,7 +838,7 @@
     "作った要素を入れる場所": ""
   },
   "KCV/Scene/Duty/UIHowToItem.cs": {
-    "戻る": ""
+    "Return": ""
   },
   "KCV/Port/Repair/high_repair.cs": {
     "押された番号": "",
@@ -895,7 +895,7 @@
     "選択": "",
     "外す": "",
     "決定": "",
-    "戻る": ""
+    "Return": ""
   },
   "local/utils/Logging.cs": {
     "使用可能": "",
@@ -906,7 +906,7 @@
     "入渠中": "",
     "護衛艦隊": "",
     "行動終了済": "",
-    "ロック": "",
+    "Lock": "",
     "疲労度": "",
     "艦隊": "",
     "回航中": ""
@@ -939,15 +939,15 @@
   },
   "KCV/Battle/Utils/BattleDefines.cs": {
     "大破しました": "",
-    "完全勝利": "",
+    "Total Victory": "",
     "旗艦": "",
     "進撃は困難です": "",
-    "戦術的勝利": "",
-    "勝利": "",
+    "Tactical Victory": "",
+    "Victory": "",
     "帰投します": "",
-    "敗北": "",
+    "Defeat": "",
     "艦隊": "",
-    "戦術的敗北": "",
+    "Tactical Defeat": "",
     "が": ""
   },
   "local/managers/AlbumManager.cs": {
@@ -1314,18 +1314,18 @@
   },
   "KCV/App.cs": {
     "長": "",
-    "輪形陣": "",
-    "単縦陣": "",
-    "単横陣": "",
+    "Diamond": "",
+    "Line Ahead": "",
+    "Line Abreast": "",
     "無": "",
     "横須賀提督": "",
-    "提督コマンド": "",
+    "Admiral Command": "",
     "中": "",
     "短": "",
     "超長": "",
-    "複縦陣": "",
-    "梯形陣": "",
-    "戻る": ""
+    "Double Line": "",
+    "Echelon": "",
+    "Return": ""
   },
   "UIShipAlbumDetailForMarriaged.cs": {
     "上で設定して使用します": ""
@@ -1335,11 +1335,11 @@
   },
   "KCV/Arsenal/UIHowToArsenal.cs": {
     "戦略へ": "",
-    "戻る": "",
+    "Return": "",
     "高速建造材": "",
-    "ソート": "",
+    "Sort": "",
     "決定": "",
-    "提督コマンド": ""
+    "Admiral Command": ""
   },
   "local/models/Reward_DutyExtend.cs": {
     "任務拡張報酬": "",
@@ -1443,10 +1443,10 @@
     "最大装備数": ""
   },
   "KCV/Port/Supply/UIHowToSupply.cs": {
-    "ソート": "",
+    "Sort": "",
     "まとめて選択": "",
-    "提督コマンド": "",
-    "戻る": ""
+    "Admiral Command": "",
+    "Return": ""
   },
   "local/models/ShipModel_BattleResult.cs": {
     "を使用してください": ""
@@ -1668,7 +1668,7 @@
     "報酬アイテム": ""
   },
   "KCV/Startup/CtrlAdmiralNameInput.cs": {
-    "提督名を入力してください": "",
+    "Please enter the Admiral's name": "",
     "文字まで": ""
   },
   "KCV/Scene/Port/UserInterfacePortManager.cs": {
@@ -1851,9 +1851,9 @@
     "回復アニメーション": ""
   },
   "KCV/Remodel/UIHowToRemodel.cs": {
-    "ソート": "",
+    "Sort": "",
     "装備ロック": "",
-    "全てはずす": ""
+    "Remove All": ""
   },
   "KCV/InteriorStore/InteriorStoreTabManager.cs": {
     "家具選択が不正": "",
@@ -2000,7 +2000,7 @@
     "不可": ""
   },
   "KCV/Startup/UIStartupNavigation.cs": {
-    "戻る": "",
+    "Return": "",
     "タイトルに戻る": "",
     "決定": "",
     "選択": ""
@@ -2069,7 +2069,7 @@
     "上で設定して使用します": ""
   },
   "KCV/Scene/Duty/UIHowToDuty.cs": {
-    "戻る": ""
+    "Return": ""
   },
   "KCV/Arsenal/Arsenal_SPoint.cs": {
     "戦略ポイントのインデックスが不正です": ""
@@ -2159,7 +2159,7 @@
   },
   "KCV/Strategy/Rebellion/UIRebellionNavigation.cs": {
     "詳細をみる": "",
-    "戻る": "",
+    "Return": "",
     "反抗編成ナビ設定": "",
     "出撃中止": "",
     "決定": "",
@@ -2358,7 +2358,7 @@
     "指揮コマンド選択": "",
     "一括解除": "",
     "次へ": "",
-    "戻る": "",
+    "Return": "",
     "戦況確認": "",
     "外す": "",
     "指揮ボックス選択": "",
@@ -2375,8 +2375,8 @@
     "使用アイテム": ""
   },
   "KCV/Port/Repair/UIHowToRepair.cs": {
-    "提督コマンド": "",
-    "戻る": ""
+    "Admiral Command": "",
+    "Return": ""
   },
   "KCV/BattleCut/UICommandSurfaceList.cs": {
     "索敵結果": "",
@@ -2534,7 +2534,7 @@
   "KCV/Scene/Duty/UserInterfaceDutyManager.cs": {
     "装備が保有上限に達しています": "",
     "艦が保有上限に達しています": "",
-    "任務完了": "",
+    "Mission Complete": "",
     "該当装備がロックされています": "",
     "達成": ""
   }
