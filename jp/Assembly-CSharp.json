@@ -1,46 +1,46 @@
 {
   "local/managers/RepairManager.cs": {
-    "所持している開放キー": ""
+    "Open using key": ""
   },
   "KCV/Organize/OrganizeScrollListChild.cs": {
-    "高速": "",
-    "低速": ""
+    "Fast": "",
+    "Slow": ""
   },
   "KCV/Arsenal/TaskArsenalListManager.cs": {
-    "上で設定して使用します": "",
-    "解体は": "",
-    "ボタンで行います": "",
-    "艦がロックされています": "",
-    "廃棄は": "",
-    "ロックされている装備があります": "",
+    "The setting has been used": "",
+    "Dismantling": "",
+    "Button to go": "",
+    "The fleet has been locked": "",
+    "Scrapping": "",
+    "The equipment has been locked": "",
     "上で設定して使用したい": ""
   },
   "KCV/Strategy/StrategyRepairConfirm.cs": {
     "Do not use": ""
   },
   "KCV/Battle/Production/ProdBattleCommandBuffer.cs": {
-    "コマンドプレハブ読み込み": ""
+    "Command Prehab": ""
   },
   "KCV/Port/Repair/board2_top_mask.cs": {
     "に触られた": ""
   },
   "KCV/Organize/OrganizeShipListChild.cs": {
-    "高速": "",
-    "低速": ""
+    "Fast": "",
+    "Slow": ""
   },
   "local/managers/FurnitureStoreManager.cs": {
-    "家具コイン": "",
-    "家具職人": "",
-    "所有数": ""
+    "Furniture Coin": "",
+    "Furniture Craftsman": "",
+    "Furniture Fairy": ""
   },
   "Server_Models/Mem_deck.cs": {
-    "第": "",
-    "艦隊": ""
+    "First": "",
+    "Fleet": ""
   },
   "Server_Controllers/QuestLogic/QuestKousyou.cs": {
-    "しょうかく": "",
-    "あかぎ": "",
-    "ほうしょう": ""
+    "Shoukaku": "",
+    "Akagi": "",
+    "Houshou": ""
   },
   "KCV/SortieMap/UIAreaMapFrame.cs": {
     "稼働偵察機がないため": "",
@@ -63,12 +63,12 @@
     "未配備": "",
     "残り": "",
     "航路護衛隊": "",
-    "ターン": "",
+    "Turn": "",
     "海域": "",
     "移動中": ""
   },
   "KCV/SortieMap/UISortieMapRoot.cs": {
-    "設定": ""
+    "Setting": ""
   },
   "KCV/Battle/Utils/AircraftOffsetInfo.cs": {
     "反転": "",
@@ -87,9 +87,9 @@
     "旗艦": ""
   },
   "Server_Controllers/BattleLogic/Exec_Hougeki.cs": {
-    "ビスマルク": "",
-    "リットリオ・イタリア": "",
-    "ローマ": ""
+    "Bismarck": "",
+    "Littorio Italia": "",
+    "Roma": ""
   },
   "UIGoSortieConfirm.cs": {
     "被弾により喪失の危険があります": "",
@@ -105,11 +105,11 @@
     "十分な補給を受けていない艦娘がいます": ""
   },
   "local/models/RaderGraphModel.cs": {
-    "対空": "",
+    "Anti-Air": "",
     "耐久": "",
-    "回避": "",
-    "火力": "",
-    "雷装": ""
+    "Evasion": "",
+    "Firepower": "",
+    "Torpedoes": ""
   },
   "UIAlbumSelectGate.cs": {
     "上で設定して使用します": ""
@@ -320,12 +320,12 @@
   },
   "local/managers/EndingManager.cs": {
     "隻の艦終わり": "",
-    "甲": "",
-    "史": "",
-    "個": "",
+    "Very Hard": "",
+    "Nightmare": "",
+    "Number": "",
     "難易度": "",
     "が開放しました": "",
-    "日": "",
+    "Day": "",
     "隻": "",
     "作戦": "",
     "勝利": "",
@@ -341,14 +341,14 @@
     "装備": "",
     "隻の艦": "",
     "作戦日数": "",
-    "年表": "",
+    "Chronology": "",
     "敗戦": "",
-    "丁": "",
-    "丙": ""
+    "Easy": "",
+    "Normal": ""
   },
   "KCV/Production/ProdBattleRewardItem.cs": {
     "を": "",
-    "入手しました": "",
+    "Obtained": "",
     "を入手しました": ""
   },
   "local/models/Reward_DeckPracitce.cs": {
@@ -595,7 +595,7 @@
     "艦載機": ""
   },
   "KCV/Strategy/TaskStrategyDebug.cs": {
-    "ゲームクリア": "",
+    "Game Clear!": "",
     "マップが存在しません": "",
     "クリア済み": "",
     "なし": "",
@@ -613,7 +613,7 @@
     "デバッグ用": "",
     "表示の確認等の為に一時的にモデルを生成したい場合に使用してください": "",
     "討伐系ボス": "",
-    "ボス": "",
+    "Boss": "",
     "通常ボス": "",
     "イベント系ボス": ""
   },
@@ -883,7 +883,7 @@
     "上で使用": ""
   },
   "AssetBundleData.cs": {
-    "ダウンロードにエラーがありました": ""
+    "There was a download error": ""
   },
   "KCV/Battle/Utils/ShipUtils.cs": {
     "グラーフ・ツェッペリン": "",
@@ -995,25 +995,25 @@
     "保有上限を超えています": ""
   },
   "KCV/Checker/BattleDrawCheck.cs": {
-    "敵切り替え": "",
-    "艦": "",
+    "Switching": "",
+    "Fleet": "",
     "特殊注視点注視点": "",
     "足元位置": "",
-    "フォーカス": "",
-    "ダメージ状態": "",
+    "Focus": "",
+    "Damaged Condition": "",
     "足元座標": "",
-    "ダメージ状態変更": "",
-    "ビュワー": "",
+    "Damaged State": "",
+    "Viewer": "",
     "味方艦": "",
     "座標コピー": "",
     "注視点状態": "",
-    "ダメージ": "",
-    "大破": "",
+    "Damage": "",
+    "Taiha": "",
     "注視点変更": "",
     "編集": "",
-    "モード": "",
-    "味方": "",
-    "モード変更": "",
+    "Mode": "",
+    "Support": "",
+    "Mode Change": "",
     "注視点": "",
     "格子表示切り替え": "",
     "特殊注視点": "",
@@ -1281,9 +1281,9 @@
     "燃": "",
     "隻": "",
     "の護衛艦隊": "",
-    "週頭ボーナス": "",
+    "Weekly Bonus": "",
     "ボ": "",
-    "月頭ボーナス": "",
+    "Monthly Bonus": "",
     "弾": "",
     "高速修復": "",
     "改修資材": ""
@@ -1499,14 +1499,14 @@
     "超長": ""
   },
   "local/managers/TurnManager.cs": {
-    "改修工廠": "",
-    "累計データ": "",
-    "日": "",
-    "勝利": "",
-    "出撃": "",
-    "日時": "",
+    "Refurbishment Arsenal": "",
+    "Total Data": "",
+    "Day": "",
+    "Victory": "",
+    "Sortie": "",
+    "Date": "",
     "総ターン数": "",
-    "年": "",
+    "Year": "",
     "応急修理": ""
   },
   "KCV/Startup/TaskStartupAdmiralInfo.cs": {
